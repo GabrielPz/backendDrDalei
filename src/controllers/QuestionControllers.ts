@@ -36,8 +36,16 @@ export const questionController = {
   },
 
   async getAllQuestions(request: FastifyRequest, reply: FastifyReply) {
-    const movies = await questionService.getAllQuestions();
-    return reply.status(200).send(movies);
+    const { quantity, categoryId } = request.query as {
+      quantity?: number;
+      categoryId?: string;
+    };
+
+    const questions = await questionService.getAllQuestions(
+      quantity,
+      categoryId
+    );
+    return reply.status(200).send(questions);
   },
 
   async updateQuestion(request: FastifyRequest, reply: FastifyReply) {

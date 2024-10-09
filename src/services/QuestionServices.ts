@@ -21,12 +21,31 @@ export const questionService = {
     });
   },
 
-  async getAllQuestions(): Promise<Questions[]> {
-    return prisma.questions.findMany({
+  async getAllQuestions(
+    quantity?: number,
+    categoryId?: string
+  ): Promise<Questions[]> {
+    const whereClause = categoryId ? { categoryId } : {};
+
+    const questions = await prisma.questions.findMany({
+      where: whereClause,
       orderBy: {
         createdAt: "desc",
       },
     });
+
+    if (quantity) {
+      // Shuffle the questions array
+      for (let i = questions.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [questions[i], questions[j]] = [questions[j], questions[i]];
+      }
+
+      // Return the specified quantity of questions
+      return questions.slice(0, quantity);
+    }
+
+    return questions;
   },
 
   async updateQuestion(

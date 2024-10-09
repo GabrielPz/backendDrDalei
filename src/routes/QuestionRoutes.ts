@@ -51,6 +51,10 @@ export async function movieRoutes(app: FastifyInstance) {
       schema: {
         summary: "Get All questions",
         tags: ["Questions"],
+        querystring: z.object({
+          quantity: z.string().optional(),
+          categoryId: z.string().uuid().optional(),
+        }),
         response: {
           200: z.array(
             questionSchema.extend({
