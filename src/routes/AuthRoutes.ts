@@ -1,7 +1,11 @@
 import { FastifyInstance } from "fastify";
 import { ZodTypeProvider } from "fastify-type-provider-zod";
 import { authController } from "../controllers/AuthControllers";
-import { loginSchema, tokenSchema } from "../schemas/AuthSchemas";
+import {
+  currentSchema,
+  loginSchema,
+  tokenSchema,
+} from "../schemas/AuthSchemas";
 import { z } from "zod";
 
 export async function authRoutes(app: FastifyInstance) {
@@ -29,7 +33,7 @@ export async function authRoutes(app: FastifyInstance) {
         summary: "Get Current User",
         tags: ["Auth"],
         response: {
-          200: tokenSchema,
+          200: currentSchema,
           400: z.object({ message: z.string() }),
         },
       },

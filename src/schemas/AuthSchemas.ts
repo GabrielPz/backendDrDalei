@@ -15,6 +15,12 @@ export const tokenSchema = z.object({
   role: z.enum(["USER", "ADMIN"]),
   email: z.string().email(),
 });
+export const currentSchema = z.object({
+  id: z.string().uuid(),
+  name: z.string(),
+  role: z.enum(["USER", "ADMIN"]),
+  email: z.string().email(),
+});
 
 export type LoginDTO = z.infer<typeof loginSchema>;
 export type TokenDTO = z.infer<typeof tokenSchema>;
