@@ -1,13 +1,25 @@
 import { FastifyReply, FastifyRequest } from "fastify";
 import { questionService } from "../services/QuestionServices";
 import { questionSchema } from "../schemas/QuestionSchemas";
+import { categoryService } from "../services/CategoryServices";
 
 export const questionController = {
   async createQuestion(request: FastifyRequest, reply: FastifyReply) {
-    const movieData = questionSchema.parse(request.body);
+    const questionData = questionSchema.parse(request.body);
+
+    const category = await categoryService.getCategoryById(
+      questionData.categoryId
+    );
+    if (!category) {
+      return reply.status(404).send({ message: "Categoria não encontrada" });
+    }
+
     try {
-      const movie = await questionService.createQuestion(movieData);
-      return reply.status(201).send(movie);
+      const question = await questionService.createQuestion(
+        questionData,
+        category
+      );
+      return reply.status(201).send(question);
     } catch (error: any) {
       return reply.status(400).send({ message: error.message });
     }

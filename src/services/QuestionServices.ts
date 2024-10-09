@@ -1,10 +1,18 @@
 import { prisma } from "../lib/prisma";
-import { Questions } from "@prisma/client";
+import { Category, Questions } from "@prisma/client";
 import { QuestionDTO } from "../schemas/QuestionSchemas";
 
 export const questionService = {
-  async createQuestion(data: QuestionDTO): Promise<Questions> {
-    return prisma.questions.create({ data });
+  async createQuestion(
+    data: QuestionDTO,
+    category: Category
+  ): Promise<Questions> {
+    return prisma.questions.create({
+      data: {
+        ...data,
+        categoryId: category.id,
+      },
+    });
   },
 
   async getQuestionById(id: string): Promise<Questions | null> {

@@ -9,9 +9,9 @@ import fastifySwagger from "@fastify/swagger";
 import fastifySwaggerUI from "@fastify/swagger-ui";
 import fastifyCors from "@fastify/cors";
 import { authRoutes } from "./routes/AuthRoutes";
-import { movieRoutes } from "./routes/MovieRoutes";
+import { movieRoutes } from "./routes/QuestionRoutes";
 import { userRoutes } from "./routes/UserRoutes";
-import { rentedMovieRoutes } from "./routes/RentedMovieRoutes";
+import { rentedMovieRoutes } from "./routes/CategoryRoutes";
 
 import fastifyRawBody from "fastify-raw-body";
 import { errorHandler } from "./middlewares/ErrorMiddleware";

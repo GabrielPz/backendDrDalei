@@ -58,9 +58,12 @@ model Questions {
 }
 
 model Category {
-  id        String      @id @default(cuid())
-  name      String
+  id        String      @id @default(uuid())
+  name      String      @unique
   Questions Questions[] @ignore
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
 
   @@map("categories")
 }

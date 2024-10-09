@@ -47,6 +47,7 @@ export async function movieRoutes(app: FastifyInstance) {
   app.withTypeProvider<ZodTypeProvider>().get(
     "/questions",
     {
+      preHandler: [autenticarToken],
       schema: {
         summary: "Get All questions",
         tags: ["Questions"],
@@ -88,7 +89,7 @@ export async function movieRoutes(app: FastifyInstance) {
       preHandler: [autenticarToken, checkRole(["ADMIN"])],
       schema: {
         summary: "Delete questions by ID",
-        tags: ["Quesitons"],
+        tags: ["Questions"],
         params: z.object({ id: z.string().uuid() }),
         response: {
           204: z.null(),
