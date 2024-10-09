@@ -30,7 +30,7 @@ app.register(fastifySwagger, {
   swagger: {
     consumes: ["application/json", "multipart/form-data"],
     produces: ["application/json"],
-    basePath: "http://localhost:3000/api/v1",
+    basePath: "http://localhost:8000",
     info: {
       title: "DrDalei API",
 
