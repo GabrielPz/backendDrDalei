@@ -28,18 +28,31 @@ enum Type {
 }
 
 model User {
-  id       String @id @default(uuid())
-  name     String
-  email    String @unique
-  password String
-  job      Job    @default(ADVOGADO)
-  role     Role   @default(USER)
+  id         String    @id @default(uuid())
+  name       String
+  email      String    @unique
+  password   String
+  job        Job       @default(ADVOGADO)
+  role       Role      @default(USER)
+  paid       Boolean   @default(false)
+  accessTill DateTime?
 
   createdAt      DateTime         @default(now()) @map("created_at")
   updatedAt      DateTime         @updatedAt @map("updated_at")
   forgotPassword forgotPassword[]
 
   @@map("users")
+}
+
+model Payments {
+  id        String   @id @default(uuid())
+  userId    String
+  amount    Float
+  status    String   @default("pending")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("payments")
 }
 
 model Questions {

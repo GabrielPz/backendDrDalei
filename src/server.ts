@@ -12,6 +12,7 @@ import { authRoutes } from "./routes/AuthRoutes";
 import { movieRoutes } from "./routes/QuestionRoutes";
 import { userRoutes } from "./routes/UserRoutes";
 import { rentedMovieRoutes } from "./routes/CategoryRoutes";
+import { paymentRoutes } from "./routes/PaymentRoutes";
 
 import fastifyRawBody from "fastify-raw-body";
 import { errorHandler } from "./middlewares/ErrorMiddleware";
@@ -64,6 +65,7 @@ async function checkAndSeed() {
 app.setErrorHandler(errorHandler);
 app.register(movieRoutes, { prefix: "/api/v1" });
 app.register(userRoutes, { prefix: "/api/v1" });
+app.register(paymentRoutes, { prefix: "/api/v1" });
 app.register(authRoutes, { prefix: "/api/v1" });
 app.register(rentedMovieRoutes, { prefix: "/api/v1" });
 

@@ -20,6 +20,12 @@ export const userService = {
     });
   },
 
+  async getUserByEmail(email: string): Promise<User | null> {
+    return prisma.user.findUnique({
+      where: { email },
+    });
+  },
+
   async getAllUsers(): Promise<User[]> {
     return prisma.user.findMany({
       orderBy: {
