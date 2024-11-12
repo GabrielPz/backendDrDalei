@@ -3,7 +3,7 @@ import { Payments, User } from "@prisma/client";
 import { UserDTO } from "../schemas/UserSchemas";
 import bcrypt from "bcrypt";
 import { Payment as MercadoPagoPayment, MercadoPagoConfig } from "mercadopago";
-import { PaymentDTO } from "../schemas/PaymentSchema";
+import { PaymentDTO, PaymentResponseDTO } from "../schemas/PaymentSchema";
 import { userService } from "./UserServices";
 
 const client = new MercadoPagoConfig({
@@ -12,7 +12,7 @@ const client = new MercadoPagoConfig({
 const payments = new MercadoPagoPayment(client);
 
 export const paymentService = {
-  async createPayment(data: PaymentDTO): Promise<any> {
+  async createPayment(data: PaymentDTO): Promise<PaymentResponseDTO> {
     const user = await userService.getUserByEmail(data.payer?.email || "");
     if (!user) {
       throw new Error(
@@ -30,11 +30,15 @@ export const paymentService = {
     };
     try {
       const response = await payments.create(paymentInfo);
-      return response;
+      return {
+        qr_code: response.point_of_interaction?.transaction_data?.qr_code,
+        ticket_url: response.point_of_interaction?.transaction_data?.ticket_url,
+      };
     } catch (error: any) {
       throw new Error("Erro ao criar pagamento:" + error.message);
     }
   },
+
   async getAllPayments(): Promise<Payments[]> {
     return prisma.payments.findMany({
       orderBy: {

@@ -1,47 +1,45 @@
 import { PrismaClient } from "@prisma/client";
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
 import bcrypt from "bcrypt";
-import { prisma } from "./lib/prisma";
-import { randomUUID } from "crypto";
+
+// Obter o diretório atual
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const prisma = new PrismaClient();
 
 async function main() {
-  const categories = [
-    {
-      id: randomUUID(),
-      name: "DIREITO ADMINISTRATIVO",
-    },
-    {
-      id: randomUUID(),
-      name: "DIREITO CONSTITUCIONAL",
-    },
-    {
-      id: randomUUID(),
-      name: "DIREITO CIVIL/PROCESSO CIVIL",
-    },
-    {
-      id: randomUUID(),
-      name: "DIREITO PENAL/PROCESSO PENAL",
-    },
-    {
-      id: randomUUID(),
-      name: "DIREITO DO TRABALHO/PROCESSO DO TRABALHO",
-    },
-    {
-      id: randomUUID(),
-      name: "DIREITO TRIBUTÁRIO",
-    },
-  ];
+  // Caminhos para os arquivos JSON de backup
+  const categoriesPath = path.join(__dirname, "categories.json");
+  const questionsPath = path.join(__dirname, "questions.json");
 
-  for (const category of categories) {
+  // Leitura dos arquivos JSON
+  const categoriesData = JSON.parse(fs.readFileSync(categoriesPath, "utf-8"));
+  const questionsData = JSON.parse(fs.readFileSync(questionsPath, "utf-8"));
+
+  // Inserção das categorias
+  for (const category of categoriesData) {
     await prisma.category.upsert({
-      where: { name: category.name },
+      where: { id: category.id },
       update: {},
       create: category,
     });
   }
 
+  // Inserção das questões
+  for (const question of questionsData) {
+    await prisma.questions.upsert({
+      where: { id: question.id },
+      update: {},
+      create: question,
+    });
+  }
+
+  // Criação do usuário admin
   const adminEmail = "admin@drdalei.com";
   const adminPassword = "Admin123";
-
   const hashedPassword = await bcrypt.hash(adminPassword, 10);
 
   await prisma.user.upsert({

@@ -4,7 +4,7 @@ import { userController } from "../controllers/UserControllers";
 import { z } from "zod";
 import { userSchema } from "../schemas/UserSchemas";
 import { authController } from "../controllers/AuthControllers";
-import { paymentSchema } from "../schemas/PaymentSchema";
+import { paymentSchema, paymentSchemaResponse } from "../schemas/PaymentSchema";
 import { paymentController } from "../controllers/PaymentControllers";
 const { autenticarToken, checkRole } = authController;
 
@@ -17,7 +17,7 @@ export async function paymentRoutes(app: FastifyInstance) {
         tags: ["Payments"],
         body: paymentSchema,
         response: {
-          201: z.any(),
+          201: paymentSchemaResponse,
           400: z.object({ message: z.string() }),
         },
       },

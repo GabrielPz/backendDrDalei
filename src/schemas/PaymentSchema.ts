@@ -1,9 +1,8 @@
 import { z } from "zod";
 
 export const paymentSchema = z.object({
-  transaction_amount: z
-    .number()
-    .min(1, { message: "O valor da transação é obrigatório." }),
+  transaction_amount: z.number(),
+  // .min(1, { message: "O valor da transação é obrigatório." }),
   description: z.string().min(1, { message: "A descrição é obrigatória." }),
   payment_method_id: z
     .string()
@@ -29,4 +28,10 @@ export const paymentSchema = z.object({
   token: z.string().optional(),
 });
 
+export const paymentSchemaResponse = z.object({
+  qr_code: z.string().optional(),
+  ticket_url: z.string().optional(),
+});
+
 export type PaymentDTO = z.infer<typeof paymentSchema>;
+export type PaymentResponseDTO = z.infer<typeof paymentSchemaResponse>;
