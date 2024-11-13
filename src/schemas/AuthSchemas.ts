@@ -20,6 +20,7 @@ export const currentSchema = z.object({
   name: z.string(),
   role: z.enum(["USER", "ADMIN"]),
   email: z.string().email(),
+  paid: z.boolean(),
 });
 
 export type LoginDTO = z.infer<typeof loginSchema>;

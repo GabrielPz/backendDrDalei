@@ -50,6 +50,7 @@ export const authService = {
         name: true,
         email: true,
         role: true,
+        paid: true,
       },
     });
 
