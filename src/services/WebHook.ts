@@ -9,9 +9,9 @@ export async function Webhook(app: FastifyInstance) {
     .withTypeProvider<ZodTypeProvider>()
     .post("/webhook", { config: { rawBody: true } }, async (request, reply) => {
       try {
-        const { data } = request.body as any;
-        const { id } = data;
-        const type = (request.body as any).type;
+        const  data = request.body as any;
+        const id  = data.id;
+        console.log("ID: ", id);
         console.log("Data: ", data);
 
         const response = await axios.get(
@@ -26,12 +26,12 @@ export async function Webhook(app: FastifyInstance) {
         const externalReference = response.data.external_reference;
         const status = response.data.status;
 
-        const searchPayment = await prisma.user.update({
+        const searchUser = await prisma.user.update({
           where: {
             id: externalReference,
           },
           data: {
-            paid: status === "paid",
+            paid: status === "paid" || status === "approved",
           },
         });
 
