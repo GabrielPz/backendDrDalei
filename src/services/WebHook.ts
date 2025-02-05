@@ -12,6 +12,7 @@ export async function Webhook(app: FastifyInstance) {
         const { data } = request.body as any;
         const { id } = data;
         const type = (request.body as any).type;
+        console.log("Data: ", data);
 
         const response = await axios.get(
           `https://api.mercadopago.com/v1/payments/${id}`,
@@ -25,7 +26,7 @@ export async function Webhook(app: FastifyInstance) {
         const externalReference = response.data.external_reference;
         const status = response.data.status;
 
-        const searchUser = await prisma.user.update({
+        const searchPayment = await prisma.user.update({
           where: {
             id: externalReference,
           },
@@ -36,6 +37,7 @@ export async function Webhook(app: FastifyInstance) {
 
         return reply.status(400).send({ message: "Usuário não encontrado" });
       } catch (error: any) {
+        console.log("Error: ", error);
         return reply.status(400).send({ message: error.message });
       }
     });

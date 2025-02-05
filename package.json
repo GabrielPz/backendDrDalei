@@ -6,6 +6,7 @@
   "scripts": {
     "start": "tsx watch src/server.ts",
     "dev": "tsx watch --env-file .env src/server.ts",
+    "production": "node src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
     "migrate": "prisma migrate deploy && ts-node seed.ts"
   },
@@ -51,6 +52,9 @@
     "uuid": "^10.0.0",
     "zod": "^3.23.8",
     "zod-to-json-schema": "^3.23.2"
+  },
+  "engines": {
+    "node": "20.x"
   },
   "author": "gabrielhenriquedps@gmail.com",
   "license": "ISC"
