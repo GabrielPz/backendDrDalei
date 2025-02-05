@@ -9,8 +9,8 @@ export async function Webhook(app: FastifyInstance) {
     .withTypeProvider<ZodTypeProvider>()
     .post("/webhook", { config: { rawBody: true } }, async (request, reply) => {
       try {
-        const  data = request.body as any;
-        const id  = data.id;
+        const data = request.body as any;
+        const id = data.data?.id;
         console.log("ID: ", id);
         console.log("Data: ", data);
 
