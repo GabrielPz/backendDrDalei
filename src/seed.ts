@@ -33,7 +33,13 @@ async function main() {
     await prisma.questions.upsert({
       where: { id: question.id },
       update: {},
-      create: question,
+      create: {
+        correctAwser: question.correctAwser,
+        question: question.question,
+        categoryId: question.categoryId,
+        choices: question.choices,
+        type: question.type,
+      },
     });
   }
 
