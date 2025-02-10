@@ -11,8 +11,6 @@ export async function Webhook(app: FastifyInstance) {
       try {
         const data = request.body as any;
         const id = data.data?.id;
-        console.log("ID: ", id);
-        console.log("Data: ", data);
 
         const response = await axios.get(
           `https://api.mercadopago.com/v1/payments/${id}`,
@@ -37,7 +35,6 @@ export async function Webhook(app: FastifyInstance) {
 
         return reply.status(400).send({ message: "Usuário não encontrado" });
       } catch (error: any) {
-        console.log("Error: ", error);
         return reply.status(400).send({ message: error.message });
       }
     });
