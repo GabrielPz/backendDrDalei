@@ -6,7 +6,7 @@
   "scripts": {
     "start": "tsx watch src/server.ts",
     "dev": "tsx watch --env-file .env src/server.ts",
-    "build": "tsc", 
+    "build": "tsc",
     "production": "yarn build && node dist/server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "migrate": "prisma migrate deploy && ts-node seed.ts"
@@ -33,6 +33,7 @@
     "@fastify/swagger-ui": "^3.0.0",
     "@prisma/client": "^5.19.0",
     "@types/firebase": "^3.2.1",
+    "@types/nodemailer": "^6.4.17",
     "axios": "^1.7.6",
     "bcrypt": "^5.1.1",
     "fastify": "^4.28.1",
