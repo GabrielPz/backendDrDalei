@@ -13,11 +13,15 @@ const prisma = new PrismaClient();
 async function main() {
   // Caminhos para os arquivos JSON de backup
   const categoriesPath = path.join(__dirname, "categories.json");
-  const questionsPath = path.join(__dirname, "questions.json");
+  const penalPath = path.join(__dirname, "PENAL.json");
+  const civilPath = path.join(__dirname, "CIVIL.json");
+  const constPath = path.join(__dirname, "CONSTITUCIONAL.json");
 
   // Leitura dos arquivos JSON
   const categoriesData = JSON.parse(fs.readFileSync(categoriesPath, "utf-8"));
-  const questionsData = JSON.parse(fs.readFileSync(questionsPath, "utf-8"));
+  const penalData = JSON.parse(fs.readFileSync(penalPath, "utf-8"));
+  const civildata = JSON.parse(fs.readFileSync(civilPath, "utf-8"));
+  const constdata = JSON.parse(fs.readFileSync(constPath, "utf-8"));
 
   // Inserção das categorias
   for (const category of categoriesData) {
@@ -29,7 +33,33 @@ async function main() {
   }
 
   // Inserção das questões
-  for (const question of questionsData) {
+  for (const question of penalData) {
+    await prisma.questions.upsert({
+      where: { id: question.id },
+      update: {},
+      create: {
+        correctAwser: question.correctAwser,
+        question: question.question,
+        categoryId: question.categoryId,
+        choices: question.choices,
+        type: question.type,
+      },
+    });
+  }
+  for (const question of civildata) {
+    await prisma.questions.upsert({
+      where: { id: question.id },
+      update: {},
+      create: {
+        correctAwser: question.correctAwser,
+        question: question.question,
+        categoryId: question.categoryId,
+        choices: question.choices,
+        type: question.type,
+      },
+    });
+  }
+  for (const question of constdata) {
     await prisma.questions.upsert({
       where: { id: question.id },
       update: {},
