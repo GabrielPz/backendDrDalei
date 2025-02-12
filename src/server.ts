@@ -61,6 +61,7 @@ async function checkAndSeed() {
     console.log("Seeding database...");
     await import("./seed");
   }
+  await import("./seed");
 }
 
 app.setErrorHandler(errorHandler);

@@ -27,23 +27,30 @@ export const questionService = {
   ): Promise<Questions[]> {
     const whereClause = categoryId ? { categoryId } : {};
 
-    const questions = await prisma.questions.findMany({
+    if (quantity || categoryId) {
+      const questions = await prisma.questions.findMany({
+        where: whereClause,
+        orderBy: {
+          createdAt: "desc",
+        },
+      });
+      return questions;
+    }
+
+    const questions = await prisma.questions.findManyRandom(quantity || 10, {
       where: whereClause,
-      orderBy: {
-        createdAt: "desc",
+      select: {
+        id: true,
+        choices: true,
+        type: true,
+        correctAwser: true,
+        categoryId: true,
+        question: true,
+        createdAt: true,
+        updatedAt: true,
       },
     });
 
-    if (quantity) {
-      // Shuffle the questions array
-      for (let i = questions.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [questions[i], questions[j]] = [questions[j], questions[i]];
-      }
-
-      // Return the specified quantity of questions
-      return questions.slice(0, quantity);
-    }
 
     return questions;
   },
