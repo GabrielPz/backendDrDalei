@@ -37,12 +37,12 @@ export const questionController = {
 
   async getAllQuestions(request: FastifyRequest, reply: FastifyReply) {
     const { quantity, categoryId } = request.query as {
-      quantity?: number;
+      quantity?: string;
       categoryId?: string;
     };
-
+    
     const questions = await questionService.getAllQuestions(
-      quantity,
+      Number(quantity),
       categoryId
     );
     return reply.status(200).send(questions);

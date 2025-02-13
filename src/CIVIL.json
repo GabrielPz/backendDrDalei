@@ -560,12 +560,7 @@
             "A) Verificar a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo.",
             "B) Reconhecer a existência de perempção, de litispendência ou de coisa julgada.",
             "C) Em caso de morte da parte, a ação for considerada intransmissível por disposição legal.",
-            "D) Acolher ou rejeitar o pedido formulado na ação ou na reconvenção.",
-            "A) extinção do processo com resolução do mérito ocorre quando",
-            "A) arguição de impedimento ou de suspeição.",
-            "B) admissão de incidente de resolução de demandas repetitivas.",
-            "C) parto da advogada responsável pelo processo, única patrona da causa.",
-            "D) homologação do reconhecimento da procedência do pedido formulado na ação ou na reconvenção."
+            "D) Acolher ou rejeitar o pedido formulado na ação ou na reconvenção."
         ],
         "correctAwser": "D",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -1544,16 +1539,10 @@
     },
     {
         "question": "É competente para homologar o plano de recuperação extrajudicial, deferir a recuperação judicial ou decretar a falência o juízo do local do principal estabelecimento do devedor ou, caso o devedor tenha sede fora do Brasil, o local da filial brasileira.",
-        "choices": [
-            "A) sistemática do instituto da responsabilidade civil no ordenamento jurídico pátrio é dividida, com base na culpabilidade do sujeito, em subjetiva e objetiva. Aos contratos de transporte de passageiros, de forma paga, ao entendimento do Supremo Tribunal Federal e da sistemática privada,",
-            "A) cabe ação regressiva e não é elidida por culpa de terceiro.",
-            "B) é elidida por culpa de terceiro e não cabe a ação regressiva.",
-            "C) cabe a denunciação da lide é não é elidida por culpa de terceiro.",
-            "D) é elidida por culpa de terceiro e não cabe às bagagens de passageiros."
-        ],
-        "correctAwser": "A",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
-        "type": "MULTIPLE_CHOICE",
+        "type": "TRUE_FALSE",
         "id": ""
     },
     {
@@ -2089,9 +2078,8 @@
         "id": ""
     },
     {
-        "question": "O processo destinado a propiciar às pessoas com deficiência a aquisição de conhecimentos, habilidades e aptidões para o ingresso no campo de trabalho é:",
+        "question": "lei que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida conceitua componentes de obras de urbanização — como os referentes a pavimentação, saneamento, encanamento para esgotos etc. — como",
         "choices": [
-            "A) lei que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida conceitua componentes de obras de urbanização — como os referentes a pavimentação, saneamento, encanamento para esgotos etc. — como",
             "A) mobiliário urbano.",
             "B) tecnologia assistiva.",
             "C) elemento de urbanização.",
@@ -2121,14 +2109,22 @@
             "A) uma presunção relativa de veracidade a favor de um litigante quando este fizer prova contra o empresário.",
             "B) uma presunção absoluta de veracidade a favor de um litigante, desde que estejam presentes os requisitos intrínsecos e extrínsecos dos documentos.",
             "C) uma presunção absoluta de veracidade a favor do empresário, desde que estejam presentes os requisitos intrínsecos e extrínsecos dos documentos.",
-            "D) uma presunção relativa de veracidade a favor do empresário, independentemente da presença dos requisitos intrínsecos e extrínsecos dos documentos.",
-            "A) resolução de uma sociedade simples pode ocorrer por",
-            "A) decurso do prazo de duração ou por decisão majoritária dos sócios, quando a sociedade tiver prazo indeterminado.",
-            "B) decisão unânime dos sócios e por perda da autorização legal para o funcionamento da sociedade.",
-            "C) morte do sócio, se não houver disposição diferente no contrato social, ou por exclusão judicial do sócio devido a falta grave no cumprimento de obrigações societárias.",
-            "D) falta de pluralidade de sócios por mais de cento e oitenta dias e por perda da autorização legal para o funcionamento da sociedade."
+            "D) uma presunção relativa de veracidade a favor do empresário, independentemente da presença dos requisitos intrínsecos e extrínsecos dos documentos."
         ],
         "correctAwser": "C",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "Em relação à eficácia probatória ou força probante dos livros mercantis obrigatórios de um empresário, é correto afirmar que os dados constantes da escrituração mercantil criam",
+        "choices": [
+            "A) uma presunção relativa de veracidade a favor de um litigante quando este fizer prova contra o empresário.",
+            "B) uma presunção absoluta de veracidade a favor de um litigante, desde que estejam presentes os requisitos intrínsecos e extrínsecos dos documentos. ",
+            "C) uma presunção absoluta de veracidade a favor do empresário, desde que estejam presentes os requisitos intrínsecos e extrínsecos dos documentos. ",
+            "D) uma presunção relativa de veracidade a favor do empresário, independentemente da presença dos requisitos intrínsecos e extrínsecos dos documentos. "
+        ],
+        "correctAwser": "A",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "MULTIPLE_CHOICE",
         "id": ""
@@ -2531,8 +2527,15 @@
     },
     {
         "question": "Para trocarem o seu nome no registro civil, o transgênero, precisa apenas declarar sua vontade diretamente no registro civil das pessoas naturais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A conduta segundo a qual uma pessoa, sem autorização do interessado, intervém na administração de negócio alheio, dirigindo-o segundo o interesse e a vontade presumível de seu dono, tem natureza jurídica de",
         "choices": [
-            "A) conduta segundo a qual uma pessoa, sem autorização do interessado, intervém na administração de negócio alheio, dirigindo-o segundo o interesse e a vontade presumível de seu dono, tem natureza jurídica de",
             "A) ato-fato jurídico.",
             "B) negócio jurídico.",
             "C) fato jurídico em sentido estrito.",
@@ -5259,8 +5262,16 @@
             "A) direitos e deveres na ordem civil;",
             "B) direitos e obrigações na ordem civil;",
             "C) obrigações e deveres na ordem civil;",
-            "D) exercer seus direitos na ordem civil.",
-            "A) personalidade civil da pessoa começa do nascimento com vida, mas a lei põe a salvo desde:",
+            "D) exercer seus direitos na ordem civil."
+        ],
+        "correctAwser": "A",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A personalidade civil da pessoa começa do nascimento com vida, mas a lei põe a salvo desde:",
+        "choices": [
             "A) a concepção – os direitos do nascituro;",
             "B) a descoberta – os direitos da mãe;",
             "C) a concepção – os direitos da mãe;",
@@ -5277,8 +5288,16 @@
             "A) os presos e os índios;",
             "B) apenas os presos;",
             "C) apenas os índios;",
-            "D) nenhuma das alternativas acima.",
-            "A) capacidade dos indígenas será:",
+            "D) nenhuma das alternativas acima."
+        ],
+        "correctAwser": "D",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A capacidade dos indígenas será:",
+        "choices": [
             "A) regulada por legislação municipal;",
             "B) regulada por legislação estadual;",
             "C) regulasa por legislação federal;",

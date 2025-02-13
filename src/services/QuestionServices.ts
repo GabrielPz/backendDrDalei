@@ -27,7 +27,7 @@ export const questionService = {
   ): Promise<Questions[]> {
     const whereClause = categoryId ? { categoryId } : {};
 
-    if (quantity || categoryId) {
+    if (!quantity) {
       const questions = await prisma.questions.findMany({
         where: whereClause,
         orderBy: {
@@ -37,7 +37,8 @@ export const questionService = {
       return questions;
     }
 
-    const questions = await prisma.questions.findManyRandom(quantity || 10, {
+
+    const questions = await prisma.questions.findManyRandom(quantity, {
       where: whereClause,
       select: {
         id: true,
