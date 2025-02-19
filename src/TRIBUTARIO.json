@@ -1,5 +1,18 @@
 [
     {
+        "question": "A criação de determinada categoria de tributo só é possível mediante a disponibilização de serviços públicos que se caracterizem pela divisibilidade e especificidade. Qual alternativa, traz a espécie de tributo referida",
+        "choices": [
+            "A) Imposto.",
+            "B) Contribuição de melhoria.",
+            "C) Taxa.",
+            "D) Empréstimo compulsório."
+        ],
+        "correctAwser": "A",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
         "question": "“É a subtração da responsabilidade penal, civil, disciplinar ou política do parlamentar, por suas opiniões, palavras e votos”. Trata-se de cláusula de irresponsabilidade geral de Direito Constitucional material e garante que o congressista exerça a sua atividade com a mais ampla liberdade de manifestação. A isenção de responsabilidade é total, não podendo o parlamentar responder por qualquer dos chamados delitos de opinião (calúnia, injúria, difamação, desacato...).  O enunciado se refere a:",
         "choices": [
             "A) Imunidade formal",
@@ -190,6 +203,14 @@
         "id": ""
     },
     {
+        "question": "A renúncia da prescrição pode ser expressa ou tácita, e só valerá, sendo feita, sem prejuízo de terceiro, depois que a prescrição se consumar.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que tange ao instituto da prescrição, é correto afirmar, que a interrupção da prescrição somente poderá ocorrer uma vez.",
         "choices": [],
         "correctAwser": "false",
@@ -206,7 +227,31 @@
         "id": ""
     },
     {
+        "question": "A interrupção produzida contra o principal devedor não prejudica o fiador.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca de operações de renúncia de receita, esta deverá estar acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes, atender ao disposto na LDO, ter sido considerada na estimativa de receita da lei orçamentária, não afetando as metas de resultados fiscais do anexo da LDO e estar acompanhada, necessariamente, de medidas de compensação.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A renúncia de receita, deverá estar acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes, atender ao disposto na LDO e, alternativamente, ter sido considerada na estimativa de receita da lei orçamentária, não afetando as metas de resultados fiscais do anexo da LDO ou estar acompanhada de medidas de compensação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A renúncia de receita, sempre, deverá estar acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes, com vigência apenas no exercício ao da publicação da medida.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -246,7 +291,7 @@
         "id": ""
     },
     {
-        "question": "De acordo com a “Lei de Execução Fiscal” – Lei n.º 6.830/1980 – Considere a seguinte situação: Roberto é proprietário de um imóvel situado na zona urbana do Município de Itu (SP), e por dificuldades financeiras, nos últimos quatro anos não conseguiu mais pagar o IPTU do seu imóvel, perfazendo uma dívida total de R$ 10.000,00 (dez mil reais). A você, como ProcuradorA) do citado Município, e amparado na citada Lei, cabe:",
+        "question": "De acordo com a “Lei de Execução Fiscal” – Lei n.º 6.830/1980 – Considere a seguinte situação: Roberto é proprietário de um imóvel situado na zona urbana do Município de Itu (SP), e por dificuldades financeiras, nos últimos quatro anos não conseguiu mais pagar o IPTU do seu imóvel, perfazendo uma dívida total de R$ 10.000,00 (dez mil reais). A você, como Procurador do citado Município, e amparado na citada Lei, cabe:",
         "choices": [
             "A) Promover o leilão do imóvel, pois depois de um ano sem o devido pagamento de IPTU, a propriedade deste, passa, imediatamente, para o Município;",
             "B) Ajuizar a ação de Execução Fiscal contra Pedro, desde que o débito esteja inscrito em Dívida Ativa.",
@@ -401,6 +446,14 @@
         "id": ""
     },
     {
+        "question": "A incidência do Imposto Predial e Territorial Urbano (IPTU) sobre imóvel situado em área considerada pela lei local como urbanizável ou de expansão urbana está condicionada à existência dos melhoramentos elencados no Código Tributário Nacional.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Nos termos da Lei n.º 4.320/64 (Normas Gerais de Direito Financeiro), as dotações para despesas as quais não correspondam contraprestação direta em bens ou serviços, inclusive para contribuições e subvenções destinadas a atender à manutenção de outras entidades de direito público ou privado, são classificadas como",
         "choices": [
             "A) Despesas de Custeio.",
@@ -415,8 +468,23 @@
     },
     {
         "question": "O Código Tributário de determinado Município, poderá prevê a isenção do Imposto Predial e Territorial Urbano (IPTU) para terreno com área de até 60 m², desde que constitua o único imóvel de propriedade, domínio útil ou posse a qualquer título do contribuinte e se destine à construção de sua própria residência. Conforme estabelecido em lei, essa isenção só se aplica até o terceiro ano da vigência do Código Tributário Municipal ou da aquisição da propriedade, do domínio útil ou da posse a qualquer título, se posterior.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A isenção prevista no CT de determinado Município, quanto ao imposto Predial e Territorial Urbano (IPTU), para terrenos com área de até 100m2, desde que seja o único imóvel daquele proprietário ou se destine à construção de sua própria residência, só se aplica até o sexto ano da vigência do Código Tributário Municipal ou da aquisição da propriedade, do domínio útil ou da posse a qualquer título, se posterior.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Natureza Jurídica Específica do Tributo é determinada pelo A):",
         "choices": [
-            "A) Natureza Jurídica Específica do Tributo é determinada pelo A):",
             "A) Fato Gerador",
             "B) Tributo",
             "C) Prestação",
@@ -449,6 +517,14 @@
         "id": ""
     },
     {
+        "question": "A empresa “Paradise”, realizou negócio com a finalidade de dissimular a ocorrência de fato gerador de obrigação. A autoridade competente, desconsiderou de ofício o negócio realizado pela empresa com base em L.C. Federal. Sobre os fatos descritos, o referido dispositivo foi considerado inconstitucional pelo Supremo Tribunal Federal (STF), pois introduz a interpretação econômica no Direito Tributário brasileiro, ensejando tributação por analogia.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Determinada empresa praticou negócio jurídico, com a finalidade de dissimular a ocorrência do fato gerador. A autoridade administrativa federal, com base em dispositivo de lei complementar federal, desconsiderou, de ofício, o referido negócio jurídico, lavrando auto de infração. Sobre a hipótese descrita, considerando a legislação em referência e jurisprudência sobre o assunto, o dispositivo de lei complementar não é autoaplicável, dependendo de lei ordinária nas esferas federal, estadual e municipal.",
         "choices": [],
         "correctAwser": "true",
@@ -458,6 +534,22 @@
     },
     {
         "question": "Carlos, no ato da transferência de um imóvel, apresentou, como base de cálculo do Imposto sobre Transmissão de Bens Imóveis (ITBI), o valor condizente com o valor de mercado. No entanto, a autoridade municipal, ao examinar as informações prestadas, realizou o arbitramento do valor da base de cálculo do ITBI, com base em tabela previamente estabelecida e divulgada pelo Município competente. Sobre o descrito acima, o valor da transação declarado pelo contribuinte goza da presunção de que é condizente com o valor de mercado, que somente pode ser afastada pelo Fisco mediante a regular instauração de processo administrativo próprio.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Fazenda Municipal ajuizou execução fiscal em face do contribuinte Joãozinho Assistência Técnica Ltda. pelo não pagamento do Imposto Sobre Serviços (ISS) devido. Ao tentar citar o contribuinte, o oficial de justiça verificou que a empresa não estava mais localizada no seu domicílio fiscal. O Município solicitou a inclusão de João, sócio e administrador da Joãozinho Assistência Técnica Ltda., no polo passivo da execução fiscal, o que foi deferido pelo juízo. Sobre a hipótese, está correto o redirecionamento da execução, pois, em caso de dissolução irregular, João é pessoalmente responsável pelos créditos tributários.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Fazenda Municipal ajuizou execução fiscal em face do contribuinte Joãozinho Assistência Técnica Ltda. pelo não pagamento do Imposto Sobre Serviços (ISS) devido. Ao tentar citar o contribuinte, o oficial de justiça verificou que a empresa não estava mais localizada no seu domicílio fiscal. O Município solicitou a inclusão de João, sócio e administrador da Joãozinho Assistência Técnica Ltda., no polo passivo da execução fiscal, o que foi deferido pelo juízo. Sobre a hipótese, o redirecionamento é ilegal, pois cabe ao fisco demonstrar que João agiu com excesso de poderes ou infração à lei, ao contrato social ou ao estatuto da empresa.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -514,6 +606,22 @@
     },
     {
         "question": "O valor de ICMS cobrado pelo vendedor do consumidor final é de propriedade do Estado, e não do comerciante, mesmo antes de seu repasse aos cofres públicos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A tarifa não é cobrada do sujeito que não utilizar, de forma individualizada e efetiva, o serviço cujo custo deve ser suportado por este valor.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A denúncia espontânea (art. 138 do CTN) não necessariamente exclui a punibilidade do delito subjacente à evasão.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -576,6 +684,14 @@
     {
         "question": "Os créditos especiais são destinados às despesas para as quais não haja dotação orçamentária específica.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A abertura dos créditos suplementares e especiais independe da existência de recursos disponíveis para ocorrer a despesa, devendo ser precedida de exposição justificativa.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -599,14 +715,35 @@
     },
     {
         "question": "Tendo como base o conceito de tributo dado pelo Código Tributário Nacional, assinale a afirmativa correta.",
-        "choices": [],
+        "choices": [
+            "A) É legítimo o aumento de alíquotas de IPTU como penalidade pela falta de muros e passeios.",
+            "B) É ilegal a concessão de descontos ao contribuinte de IPVA que não tenha cometido infrações.",
+            "C) A compensação financeira pela exploração de recursos minerais se insere no conceito de tributo.",
+            "D) A natureza jurídica da remuneração dos serviços de água e esgoto, prestados por concessionária de serviço público, é de tarifa ou preço público."
+        ],
         "correctAwser": "D",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A notificação do contribuinte para o recolhimento do IPVA perfectibiliza a constituição definitiva do crédito tributário, iniciando-se o prazo prescricional para a execução fiscal no dia seguinte à data estipulada para o vencimento da exação.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
     },
     {
         "question": "No Imposto de Transmissão Causa Mortis e Doação - ITCDM, referente à doação não oportunamente declarada pelo contribuinte ao Fisco estadual, a contagem do prazo decadencial tem início no primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, observado o fato gerador.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prescrição, causa extintiva do crédito tributário, não é passível de ser veiculada em exceção de pré-executividade, pois demanda dilação probatória.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -679,6 +816,14 @@
     },
     {
         "question": "Para estimular o financiamento aos agentes econômicos que atuam no segmento imobiliário, que tem grande impacto na geração de emprego e renda, bem como no suprimento de novas unidades habitacionais para a população, foram criados, em 2004, dois novos títulos de crédito. 1) Cédula de Crédito Imobiliário (CCI); e 2) Letra de Crédito Imobiliário (LCI). Acerca desses títulos é correto afirmar, a emissão da LCI é privativa das instituições financeiras autorizadas por lei ou pelo Banco Central do Brasil; a CCI pode ser emitida por credor de crédito imobiliário, ainda que não seja instituição financeira.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A instituição de assistência social ZZ, sem fins lucrativos, adquiriu, junto à sociedade empresária XX, diversos equipamentos que seriam integrados ao seu ativo permanente, visando ao pleno desenvolvimento de suas atividades regulares. Para surpresa dos seus diretores, constatou-se que, na nota fiscal emitida por XX, constava o imposto sobre circulação de mercadorias e sobre prestação de serviços de transporte interestadual e intermunicipal e comunicação (ICMS) devido pela operação de venda, na qual ZZ figurava como adquirente. Nas circunstâncias indicadas, a incidência do ICMS é: incorreta, pois a imunidade tributária subjetiva de ZZ incide nas hipóteses em que figure como contribuinte de direito e de fato.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -877,7 +1022,23 @@
         "id": ""
     },
     {
+        "question": "A Companhia Estadual de Águas e Esgotos, sociedade de economia mista prestadora de serviços públicos de saneamento em caráter não concorrencial, é submetida ao regime de precatórios.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O ingresso de uma caução recebida pelo poder público como garantia a uma obrigação contratual deve ser contabilizado como receita orçamentária.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A dívida pública consolidada ou fundada inclui as operações em que o Estado contraia um empréstimo para a construção de uma obra e contrate um particular para a execução dessa mesma obra, desde que ambas as operações tenham amortização em prazo superior a doze meses.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -895,7 +1056,23 @@
     {
         "question": "Em razão do princípio da autonomia, as universidades públicas não estão submetidas às normas orçamentárias previstas na Constituição Federal de 1988.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei de diretrizes orçamentárias deve dispor sobre o equilíbrio entre receitas e despesas.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei n.º 4.320/1964, que estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços do poder público em geral, foi recepcionada com status de lei complementar pela Constituição Federal de 1988.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -965,6 +1142,14 @@
         "id": ""
     },
     {
+        "question": "A Constituição Federal de 1988 admite expressamente a progressividade das alíquotas da contribuição previdenciária do regime próprio de seguridade social dos servidores públicos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "É compatível com a Constituição Federal de 1988 a cobrança de taxa municipal em virtude do serviço de combate a incêndios prestado pelo Corpo de Bombeiros Militar.",
         "choices": [],
         "correctAwser": "false",
@@ -989,7 +1174,15 @@
         "id": ""
     },
     {
-        "question": "João comprou um veículo de Maria. A transferência não foi comunicada ao órgão de trânsito competente. Por conta disso, o Estado competente incluiu Maria como responsável pelo pagamento do Imposto sobre a Propriedade de Veículos Automotores (IPVA) incidentes sobre o veículo após alienação. Sobre a hipótese acima, é correto afirmar que a responsabilidade solidária tributária de Maria é condicionada à previsão específica em lei estadual.",
+        "question": "João comprou um veículo de Maria. A transferência não foi comunicada ao órgão de trânsito competente. Por conta disso, o Estado competente incluiu Maria como responsável pelo pagamento do Imposto sobre a Propriedade de Veículos Automotores IPVA incidentes sobre o veículo após alienação. Sobre a hipótese acima, é correto afirmar que a responsabilidade solidária tributária de Maria é condicionada à previsão específica em lei estadual.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A pessoa jurídica X importou bens do exterior por meio de operação de arrendamento mercantil. No caso narrado, o ICMS A) não é devido, pois o imposto não incide sobre operações de arrendamento mercantil, conforme previsto na Lei Kandir, é devido na entrada da mercadoria no território nacional, por ocasião do desembaraço aduaneiro.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -1014,6 +1207,14 @@
     },
     {
         "question": "Caio recebeu de Tício diversas obras de arte, com vultosos valores de mercado. No entanto, a doação não foi oportunamente declarada pelo contribuinte ao fisco estadual. De acordo com a jurisprudência e legislação sobre o Imposto de Transmissão Causa Mortis e Doação (ITCDM), não incide ITCMD sobre bens móveis, não sendo hipótese de incidência do imposto a doação de obras de arte.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A contagem do prazo decadencial de cinco anos tem início no momento em que o fisco teve conhecimento da ocorrência do fato gerador.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -1191,6 +1392,14 @@
     {
         "question": "De acordo com o Código Tributário Nacional, o fato gerador da obrigação tributária principal é a situação definida em lei como necessária e suficiente à sua ocorrência.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A legislação tributária brasileira, especificamente o Código Tributário Nacional, prevê que as contribuições de melhoria são tributos destinados a financiar os gastos gerais do governo, sem a obrigatoriedade de estarem vinculadas a qualquer obra pública que gere valorização imobiliária direta.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -1214,8 +1423,23 @@
     },
     {
         "question": "O Tribunal de Contas da União (TCU) é responsável pelo controle externo das contas do Poder Executivo Federal, atuando de maneira exclusiva nessa função. Sua competência abrange também a fiscalização das contas dos demais poderes e órgãos autônomos.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei n° 673, de 23 de dezembro de 2005, é o Código Tributário Municipal, que regula os tributos no âmbito municipal, estabelecendo normas sobre impostos, taxas e contribuições de melhoria.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei 4.320/64 é um marco na administração financeira e no controle dos orçamentos públicos no Brasil. Nesse contexto, é CORRETO afirmar ser princípio dessa lei que proíbe vincular receita de impostos a despesa específica, exceto proteção ao meio ambiente e educação.",
         "choices": [
-            "A) Lei 4.320/64 é um marco na administração financeira e no controle dos orçamentos públicos no Brasil. Nesse contexto, é CORRETO afirmar ser princípio dessa lei que proíbe vincular receita de impostos a despesa específica, exceto proteção ao meio ambiente e educação.",
             "A) Legalidade orçamentária.",
             "B) Não vinculação de receitas.",
             "C) Equilíbrio fiscal.",
@@ -1232,13 +1456,29 @@
             "A) Rigidez nas alíquotas.",
             "B) Arrecadação máxima.",
             "C) Capacidade contributiva.",
-            "D) Simplicidade administrativa.",
-            "A) Constituição Federal estabelece limites ao poder de tributar para proteger o cidadão. Assim, é CORRETO afirmar ser limitação que busca prevenir a utilização do tributo como instrumento de confisco.",
+            "D) Simplicidade administrativa."
+        ],
+        "correctAwser": "C",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Constituição Federal estabelece limites ao poder de tributar para proteger o cidadão. Assim, é CORRETO afirmar ser limitação que busca prevenir a utilização do tributo como instrumento de confisco.",
+        "choices": [
             "A) Não retroagir leis fiscais.",
             "B) Uniformidade geográfica.",
             "C) Isonomia tributária.",
-            "D) Proibição do confisco.",
-            "A) cobrança judicial da dívida ativa é um mecanismo para o Estado recuperar créditos. Nesse contexto, podemos afirmar ser a importância desse processo para as finanças públicas.",
+            "D) Proibição do confisco."
+        ],
+        "correctAwser": "D",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A cobrança judicial da dívida ativa é um mecanismo para o Estado recuperar créditos. Nesse contexto, podemos afirmar ser a importância desse processo para as finanças públicas.",
+        "choices": [
             "A) Recuperar créditos fiscais.",
             "B) Acelerar processos tributários.",
             "C) Garantir a justiça fiscal.",
@@ -1306,6 +1546,14 @@
         "id": ""
     },
     {
+        "question": "A Lei Federal nº 6.830/1980, conhecida como Lei de Execuções Fiscais, estabelece procedimentos para a cobrança judicial da Dívida Ativa da Fazenda Pública. Nesse tema, a certeza de liquides é a característica mais marcante da dívida ativa tributária segundo essa legislação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O artigo 48 § 2º da Lei Complementar nº 101/2000 dispõe que a União, os Estados, o Distrito Federal e os Municípios disponibilizarão suas informações e dados contábeis, orçamentários e fiscais conforme periodicidade, formato e sistema estabelecidos pelo órgão central de contabilidade da União, os quais deverão ser divulgados, em meio eletrônico de amplo acesso público.",
         "choices": [],
         "correctAwser": "true",
@@ -1348,6 +1596,14 @@
     {
         "question": "O artigo 14 da Lei Federal n° 12.527/2011 (Lei de Acesso à Informação) prevê que é direito do requerente obter o inteiro teor de decisão de negativa de acesso, por certidão ou cópia.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei de acesso à informação, prevê que é direito do requerente obter o inteiro teor de decisão que nega o acesso, por meio digital ou por cópia.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -1370,7 +1626,31 @@
         "id": ""
     },
     {
-        "question": "O que NÃO costuma ser contemplado no Art. 7° da Lei de Orçamento?",
+        "question": "A confiabilidade das informações contábeis é um elemento essencial na Contabilidade Aplicada ao Setor Público - CASP.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A CASP – Contabilidade Aplicada ao Setor Público, contribui para uma gestão eficiente por meio da prestação de contas à sociedade.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "O que NÃO costuma ser contemplado no Art. 7° da Lei de Orçamento? \nA autorização ao Executivo para realizar operações de crédito, costuma ser contemplada no art. 7º da Lei de Orçamento.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autorização ao Executivo para realizar despesas, costuma ser contemplada no art. 7º da Lei de Orçamento.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -1381,6 +1661,14 @@
         "question": "O estabelecimento de metas fiscais para o ano subsequente, costuma ser contemplado no art. 7º da Lei de Orçamento.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autorização ao Executivo para abrir créditos suplementares, quase sempre é contemplado no art. 7º da Lei de Orçamento.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -1412,6 +1700,14 @@
     {
         "question": "Créditos incobráveis e estoques de medicamentos vencidos não representam ativos.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A existência de uma obrigação futura é requisito essencial para a contabilização de um passivo. Acerca das variações decorrentes dos fatos administrativos, a compra de veículos à vista é um fato modificativo aumentativo que deve ser registrado em lançamento de primeira fórmula.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -1427,6 +1723,14 @@
     },
     {
         "question": "Acerca do plano de contas e a funções e estrutura das contas, a conta juros ativos é uma conta de resultado, analítica, de natureza credora, unilateral e dinâmica.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A conta passivo circulante é denominada conta sintética, sendo o seu saldo obtido pelo somatório do saldo de contas analíticas. ativo passivo 2012 2011 2012 2011 ativo circulante 70 50 passivo circulante 35 25 disponível 30 30 fornecedores 30 15 estoque 40 20 impostos a pagar 5 10 ativo não circulante 60 50 passivo não circulante 35 25 investimentos 30 20 empréstimos a longo prazo 35 25 imobilizado 30 30 patrimônio líquido 60 50 capital social 60 50 total 130 100 total 130 100 Considerando os dados apresentados na tabela acima, referentes ao balanço patrimonial de uma organização hipotética, em 2012, o índice de liquidez seca foi menor que 1.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -1514,6 +1818,22 @@
         "id": ""
     },
     {
+        "question": "A Prefeitura Municipal de Refé pretende realizar um serviço de pavimentação nas avenidas principais da cidade, ciente que essa obra vai promover valorização imobiliária. Tendo sido instituída contribuição de melhoria, à luz do Código Tributário Nacional, por ocasião do respectivo lançamento, cada contribuinte deverá ser notificado do montante da contribuição, da forma e dos prazos de seu pagamento e dos elementos que integraram o respectivo cálculo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A estrutura conceitual para trabalhos de asseguração tem o intuito de facilitar o entendimento dos elementos e objetivos dos trabalhos de asseguração e dos trabalhos aos quais as NBCs TA, NBCs TR e NBCs TO se aplicam. A respeito das características dos critérios requeridos para mensuração ou avaliação razoável consistente com o objeto dentro do contexto do julgamento profissional, é correto afirmar que critérios plenos incluem, quando relevantes, referência para apresentação e divulgação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "À luz da Norma Brasileira de Contabilidade NBC TG 07 (R2) – subvenção e assistência governamentais, subvenção governamental é uma assistência governamental geralmente na forma de contribuição pecuniária, mas não só restrita a ela, concedida a uma entidade normalmente em troca do cumprimento passado ou futuro de certas condições relacionadas às atividades operacionais da entidade.",
         "choices": [],
         "correctAwser": "true",
@@ -1523,6 +1843,14 @@
     },
     {
         "question": "Conforme o Pronunciamento Técnico CPC 00(R2) Estrutura Conceitual para Relatório Financeiro, “as características qualitativas de informações financeiras úteis se aplicam a informações financeiras fornecidas nas demonstrações contábeis, bem como a informações financeiras fornecidas de outras formas”.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito das características qualitativas fundamentais, para ser representação perfeitamente fidedigna, a representação tem três características. Ela é completa, neutra e isenta de erros. Obviamente, a perfeição nunca ou raramente é atingida. O objetivo é maximizar essas qualidades tanto quanto possível.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -1571,6 +1899,14 @@
     },
     {
         "question": "Sobre a temática empresário e sociedade empresária, pessoa com deficiência mental que tenha o discernimento reduzido pode exercer a atividade de empresário desde que não esteja legalmente impedido.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade dos sócios de uma sociedade em nome coletivo é ilimitada, exceto quanto às pessoas jurídicas, que respondem no limite de sua participação no capital social.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -1698,7 +2034,23 @@
         "id": ""
     },
     {
+        "question": "A obrigação principal surge com a ocorrência do fato gerador tem por objeto o pagamento de tributo ou penalidade pecuniária e extingue-se juntamente com o crédito dela decorrente. A obrigação acessória decorre da legislação tributária e tem por objeto as prestações, positivas ou negativas, nela previstas no interesse da arrecadação ou da fiscalização dos tributos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Administração Pública em sentido subjetivo/formal: Tendo como referência as normas internacionais de auditoria, as auditorias realizadas pelos tribunais de contas no Brasil são basicamente de dois tipos: auditoria de conformidade ou regularidade e auditoria operacional.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A auditoria de regularidade é uma espécie de auditoria governamental, utilizada pelo tribunal de contas para examinar a legalidade e a legitimidade dos atos de gestão dos responsáveis sujeitos a sua jurisdição, quanto aos aspectos contábil, financeiro, orçamentário e patrimonial. Compõem as auditorias de regularidade as auditorias de conformidade e as auditorias contábeis ou financeiras.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -1709,6 +2061,30 @@
         "question": "Caso o Tribunal de Contas pretenda realizar uma auditoria na folha de pagamento de órgão público, com o objetivo de verificar a regularidade dos pagamentos ou uma auditoria nos processos de aquisição de bens e serviços do órgão, avaliando a legalidade dos processos licitatórios e contratuais, realizará uma auditoria operacional.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A auditoria operacional tem por objetivo examinar a economicidade, eficiência, eficácia e efetividade de organizações, programas e atividades governamentais, com a finalidade de promover o aperfeiçoamento da gestão pública.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A gestão de riscos compreende todas as atividades coordenadas para dirigir e controlar uma organização no que se refere ao risco. Não é uma atividade autônoma, separada das demais, mas sim parte de todos os processos organizacionais, incluindo o planejamento estratégico, os projetos e processos de gestão em todos os níveis da organização.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A gestão de riscos, é parte integrante e indissociável das responsabilidades administrativas e inclui o ambiente apropriado, incluindo a estrutura para gerenciar riscos, definir, articular e comunicar os objetivos e o apetite a risco e identificar potenciais ameaças ou oportunidades ao cumprimento dos objetivos.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -1820,6 +2196,14 @@
     {
         "question": "Com base no disposto na CF/88, no CTN – Código Tributário Nacional e nas Leis que regulam a matéria, são isentas de impostos as operações de transferência de imóveis desapropriados para fins de reforma agrária.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A majoração de qualquer tributo por medida provisória somente produzirá efeitos no exercício financeiro seguinte se for convertida em lei até o último dia do exercício em que tiver sido editada.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -1836,7 +2220,23 @@
     {
         "question": "Considerando as regras do CTN acerca da vigência da legislação tributária e das limitações constitucionais ao poder de tributar, não havendo disposição em contrário, os efeitos normativos das decisões dos órgãos coletivos de jurisdição administrativa a que a lei atribua eficácia normativa entram em vigor trinta dias após a data da publicação da decisão.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A imunidade tributária recíproca dos entes federativos não é extensível às respectivas autarquias e fundações públicas.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A atribuição de responsabilidade tributária solidária ao administrador da massa falida pelas penalidades tributárias por ela devidas se restringe às de caráter moratório.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -1851,6 +2251,14 @@
     },
     {
         "question": "É incompatível com o Código Tributário Nacional lei distrital que admita a indicação do sujeito passivo do imposto sobre transmissão de bens imóveis (ITBI) pelas partes no contrato de compra e venda de imóvel, pois as convenções particulares não são oponíveis à fazenda pública.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade empresária que tenha sócio remanescente de sociedade extinta e que explore a mesma atividade não responde pelos débitos tributários desta.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -1962,7 +2370,31 @@
         "id": ""
     },
     {
+        "question": "A pessoa jurídica tomadora de serviços de engenharia de obras de construção civil executadas por subempreitada não é responsável pelo ISS devido na operação se não for contribuinte do tributo.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A incidência do IPTU depende do registro do respectivo imóvel residencial em cartório de registro de imóveis.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Posseiro possui responsabilidade tributária pelo pagamento do IPTU do imóvel que ocupa.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A base de cálculo do IPTU imposto é o valor venal do imóvel, desconsiderando-se, na avaliação desse valor, a área não edificada.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -2045,6 +2477,14 @@
         "question": "Aos tributos vencidos aplicam-se, além do Índice Nacional de Preços ao Consumidor, a multa e os juros de mora.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei que institui esse estatuto destina-se a dar tratamento diferenciado às micro e pequenas empresas no que se refere tanto às obrigações principais quanto às acessórias.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2282,6 +2722,14 @@
         "id": ""
     },
     {
+        "question": "A taxa é um tributo vinculado, ou seja, está atrelada a uma atividade estatal específica em contraprestação ao contribuinte. Sua instituição também depende de lei, mas, ao contrário do imposto, a taxa tem uma finalidade específica e a contraprestação direta e individualizada deve ser oferecida pelo Estado ao contribuinte.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Contribuição de Melhoria: A contribuição de melhoria é um tributo vinculado, cuja finalidade é custear obras públicas que valorizem imóveis situados nas proximidades dessas melhorias. A sua instituição está condicionada à valorização imobiliária resultante da obra pública.",
         "choices": [],
         "correctAwser": "true",
@@ -2291,6 +2739,14 @@
     },
     {
         "question": "Empréstimo Compulsório: O empréstimo compulsório é uma modalidade de tributo que tem caráter extraordinário e visa atender a despesas urgentes e de relevância pública, como guerras ou calamidades. Sua instituição é excepcional e temporária, devendo ser devolvido ao contribuinte após o período estipulado em lei.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Administração Tributária constitui-se em um conjunto de ações, integradas e complementares entre si, que visam garantir o cumprimento pela sociedade da legislação tributária e que se materializam numa presença fiscal ampla e atuante, quer seja no âmbito da facilitação do cumprimento das obrigações tributárias, quer seja na arrecadação dos tributos. A Administração Tributária atuará em obediência aos princípios da legalidade, impessoalidade, moralidade, publicidade, razoabilidade, finalidade, interesse público, eficiência e motivação dos atos administrativos. Sob a perspectiva das responsabilidades de uma Prefeitura na construção da administração tributária municipal, é possível, implantar um serviço gratuito e permanente de orientação e informação ao contribuinte.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -2372,6 +2828,14 @@
     {
         "question": "No que concerne às definições estabelecidas no Código Tributário Nacional, a taxa não pode ter base de cálculo ou fato gerador idênticos aos que correspondam a imposto, nem ser calculada em função do capital das empresas.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A contribuição de melhoria é um tributo de competência exclusiva dos Municípios, ou seja, somente estes podem cobrar o referido tributo, tudo conforme as definições estabelecidas no Código Tributário Nacional – CTN.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -2387,6 +2851,14 @@
     },
     {
         "question": "No que concerne ao lançamento tributário, considere, que: o fato gerador de uma operação tributável ocorreu no mês de maio/2023 e a alíquota deste tributo tenha sido elevada no mês de junho/2023. Supondo que o lançamento ocorreu no mês de novembro/2023, a alíquota que deve ser utilizada é aquela vigente na data da ocorrência do fato gerador.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A modalidade de lançamento em que o Contribuinte antecipa o pagamento do tributo, sem análise prévia da autoridade, é denominada por homologação.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -2463,6 +2935,14 @@
         "id": ""
     },
     {
+        "question": "A obrigação tributária nasce com a ocorrência do fato gerador e dela decorre o início da relação entre sujeito ativo e passivo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Analise as afirmativas abaixo que tratam dos dispositivos legais da obrigação tributária. Contribuinte solicitou mudança de seu domicílio tributário para outro endereço no Município, argumentando que realiza suas atividades fora do estabelecimento e neste novo local possui pessoas que podem receber eventuais comunicações do Ente Público.",
         "choices": [],
         "correctAwser": "true",
@@ -2520,6 +3000,14 @@
     },
     {
         "question": "Contribuinte cometeu uma infração tributária no mês de outubro de 2022 devendo promover o recolhimento do tributo e encargos de mora, estando sujeito a aplicação de multa pela falta cometida. No início do mês de novembro de 2022 procurou a Administração Tributária do Município para realizar a Denúncia Espontânea. Nesse contexto, contribuinte pode realizar a denúncia espontânea antes do recebimento da Notificação Preliminar da Fiscalização Tributária acerca da infração cometida, devendo recolher o valor do tributo, com encargos de mora, excluindo a aplicação da penalidade.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Contabilidade é um dos instrumentos de verificação por parte do Auditor Fiscal do Município. A análise dos registros contábeis exige conhecimento e técnicas, permitindo que seja verificadas as movimentações do Contribuinte. Suponha que um Contribuinte tenha prestado serviço com incidência do Imposto Sobre Serviços – ISS. O valor total dos serviços foi de R$ 20.000,00 e o valor do ISS é de R$ 400,00. Prestado o serviço e emitido o documento fiscal, tanto o tomador do serviço como o prestador devem realizar os registros contábeis, considerando que o tomador dos serviços deve reter o valor do imposto. Com base nestas informações, I - O valor do aumento do passivo do tomador dos serviços, antes do pagamento ao prestador e do recolhimento do tributo retido, será de R$ 20.000,00. II - O valor da despesa registrada pelo tomador dos serviços será de R$ 20.000,00. III - O prestador do serviço deve registrar o valor retido como um direito (ativo), podendo utilizar este valor para compensar com os tributos devidos.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -2607,6 +3095,14 @@
         "id": ""
     },
     {
+        "question": "A maior parte do trabalho do auditor para formar sua opinião consiste na obtenção e avaliação da evidência de auditoria. Os procedimentos de auditoria para obter evidência de auditoria podem incluir a inspeção, a observação, a confirmação externa, o recálculo, a reexecução e os procedimentos analíticos, muitas vezes em combinação, além da indagação. A respeito dos conhecimentos sobre procedimentos de auditoria, é correto afirmar que a inspeção envolve o exame de registros ou documentos, internos ou externos, em papel, em forma eletrônica ou em outras mídias, ou o exame físico de ativo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Considere a seguinte situação hipotética: durante uma verificação na Companhia Arouca, prestadora de serviços de limpeza, um auditor fiscal constatou que foi realizado o seguinte registro contábil: Lançamento Conta contábil Valor Débito: Bancos R$ 2.000 Débito: Clientes R$ 2.000 Crédito: Receita de prestação de serviços R$ 4.000 Então, o auditor fiscal conclui que o registro contábil é referente à prestação de serviços com parte do recebimento à vista e parte a prazo.",
         "choices": [],
         "correctAwser": "true",
@@ -2664,6 +3160,14 @@
     {
         "question": "O prefeito de Jandáia – GO, no intento de criar um novo imposto, que tem como fato gerador a propriedade de cães, resolve enviar proposta com cobrança de valor fixo anual. Nesse contexto, a proposta, não pode ser aprovada, pois cabe somente à União a competência residual para a instituição de impostos não previstos na Constituição Federal.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos conhecimentos sobre a exclusão e a extinção do crédito tributário, a anistia abrange exclusivamente as infrações cometidas posteriormente à vigência da lei que a concede.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -2671,6 +3175,30 @@
     },
     {
         "question": "Acerca da exclusão e da extinção do crédito tributário, a isenção pode ser restrita a determinada região do território da entidade tributante, em função de condições a ela peculiares.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A exclusão do crédito tributário dispensa o cumprimento das obrigações acessórias dependentes da obrigação principal cujo crédito seja excluído, ou dela consequente.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prescrição e a decadência são causas de exclusão do crédito tributário e seus prazos são estabelecidos em lei por cada ente da federação.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A remissão é uma das causas de exclusão do crédito tributário e não é extensiva às taxas e às contribuições de melhoria.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -2710,14 +3238,6 @@
         "id": ""
     },
     {
-        "question": "Acerca do Imposto Sobre Serviço de Qualquer Natureza (ISS), é correto afirmar, que a alíquota mínima do ISS é de 2%.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
         "question": "É correto afirmar, que é contribuinte do ISS o tomador do serviço.",
         "choices": [],
         "correctAwser": "false",
@@ -2742,7 +3262,23 @@
         "id": ""
     },
     {
+        "question": "A Lei nº 4.320/1964 determina, nos artigos 42 e 43, que os créditos suplementares e especiais serão abertos por decreto do poder executivo, dependendo de prévia autorização legislativa, necessitando da existência de recursos disponíveis e precedida de exposição justificada. Na União, para os casos em que haja necessidade de autorização legislativa para os créditos adicionais, estes são considerados autorizados e abertos com a sanção e a publicação da respectiva lei. Consideram-se recursos disponíveis para fins de abertura de créditos suplementares e especiais, o superávit financeiro apurado em balanço patrimonial do exercício anterior, e os provenientes de excesso de arrecadação, entre outros.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "São recursos disponíveis para fins de abertura de créditos suplementares e especiais, entre outros: Os resultantes de anulação parcial ou total de dotações orçamentárias ou de créditos adicionais, autorizados em lei, e o produto de operações de crédito autorizadas, em forma que juridicamente possibilite ao poder executivo realiza-las.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A liquidação é o segundo estágio da despesa orçamentária. A liquidação da despesa é, normalmente, processada pelas Unidades Executoras ao receberem o objeto do empenho (o material, serviço, bem ou obra). Conforme previsto no art. 63 da Lei nº 4.320/1964, a liquidação consiste na verificação do direito adquirido pelo credor tendo por base os títulos e documentos comprobatórios do respectivo crédito. Assim, a liquidação, no contexto da execução da despesa orçamentária, consiste na verificação do direito adquirido pelo credor tendo por base os títulos e documentos comprobatórios do respectivo crédito. Referida verificação tem como objetivo apurar: a origem e o objeto do que se deve pagar, a importância exata a pagar, contudo sem levar em consideração a quem se deve pagar a importância para extinguir a obrigação.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -2790,6 +3326,14 @@
         "id": ""
     },
     {
+        "question": "A carga tributária no Brasil é elevada e atrasa muito o desenvolvimento do país, segundo muitos especialistas na área. A Lei nº 8.137, de 27 de dezembro de 1990, é a que define os crimes contra a ordem tributária, econômica e contra as relações de consumo. Um crime tributário é, em linhas gerais, uma fraude no acerto de contas relativas aos tributos devidos ao Estado. Pode ser incluído na perspectiva dos crimes praticados por funcionários públicos, extraviar livro oficial, processo fiscal ou qualquer documento, de que tenha a guarda em razão da função; sonegá-lo, ou inutilizá-lo, total ou parcialmente, acarretando pagamento indevido ou inexato de tributo ou contribuição social.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Exigir, solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de iniciar seu exercício, mas em razão dela, vantagem indevida; ou aceitar promessa de tal vantagem, para deixar de lançar ou cobrar tributo ou contribuição social, ou cobrá-los parcialmente. Tal conduta, está na perspectiva dos crimes praticados por funcionários públicos (Lei nº 8.137/1990).",
         "choices": [],
         "correctAwser": "true",
@@ -2825,6 +3369,14 @@
         "question": "É dispensável a publicação da demonstração dos resultados abrangentes em relatório próprio quando ela é apresentada dentro da demonstração de mutações do patrimônio líquido.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A demonstração de lucros e prejuízos acumulados é facultativa, pois não compõe o rol de demonstrações contábeis obrigatórias.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2886,6 +3438,14 @@
         "id": ""
     },
     {
+        "question": "A fase de empenho, é aquela, na qual, o gestor público efetua o pagamento pelos bens ou serviços adquiridos.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Considerando as determinações da Lei de Responsabilidade Fiscal acerca da intervenção governamental em atividades de política pública, especialmente em momentos de crise, o governo tem permissão legal para socorrer instituições financeiras mediante o uso de recursos do orçamento público.",
         "choices": [],
         "correctAwser": "false",
@@ -2895,6 +3455,14 @@
     },
     {
         "question": "É vedada ao Banco Central do Brasil a faculdade de emitir títulos para a execução da política monetária.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A União é autorizada a usar a receita proveniente da alienação de bens para o custeio de atividades relacionadas à saúde pública.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -2926,6 +3494,14 @@
         "id": ""
     },
     {
+        "question": "A demanda agregada não é igual à soma das demandas individuais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Em direito tributário, um fato gerador pode ser continuado, instantâneo ou de período.",
         "choices": [],
         "correctAwser": "true",
@@ -2942,7 +3518,7 @@
         "id": ""
     },
     {
-        "question": "É correto afirmar, serem exemplos de tributos com fato gerador continuado, o imposto predial e territorial urbano (IPTU), quanto à propriedade de imóvel, e o imposto sobre a propriedade de veículos automotores (IPVA), quanto à propriedade de veículo.",
+        "question": "É correto afirmar, serem exemplos de tributos com fato gerador continuado, o imposto predial e territorial urbano (IPTU), quanto à propriedade de imóvel, e o imposto sobre a propriedade de veículos automotores IPVA, quanto à propriedade de veículo.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -2959,6 +3535,14 @@
     },
     {
         "question": "De acordo com o Código Tributário de determinado município, para o cálculo do imposto predial e territorial urbano (IPTU), o valor venal do imóvel construído será apurado pela soma do valor do terreno com o valor da construção, não devendo ser considerado, entre outros, o valor dos bens móveis destinados a aformoseamento ou comodidade.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos conhecimentos sobre o auto de infração a assinatura constitui formalidade essencial à validade do auto, que implica em confissão, e a sua recusa pode agravar a pena.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -3007,6 +3591,14 @@
     },
     {
         "question": "Considere a seguinte situação hipotética: No município de Zapata, o prazo fixado em lei para o pagamento do Imposto Predial e Territorial Urbano (IPTU) é até o dia 10/03 de cada ano. Em 02/03/2022, o município foi atingido por uma forte enxurrada, que deixou moradores desabrigados, destruiu ruas e prejudicou a economia local. Para amenizar os impactos aos contribuintes, o prefeito enviou ao legislativo municipal um projeto de lei, que foi aprovado em 07/03/2022, postergando o prazo para o pagamento do IPTU do exercício de 2022 para o dia 10/06/2022. Nesse caso, de acordo com a Lei nº 5172/1966, o cré dito tributário relativo ao IPTU do exercício de 2022 foi, suspenso, em razão da moratória.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos conhecimentos sobre as garantias e os privilégios do crédito tributário previstos na Lei nº 5172/1966, é correto afirmar que o crédito tributário prefere a qualquer outro, seja qual for sua natureza ou o tempo de sua constituição, ressalvados os créditos decorrentes da legislação trabalhista, do acidente de trabalho ou da previdência social.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -3078,6 +3670,22 @@
         "id": ""
     },
     {
+        "question": "A critério da autoridade administrativa, o imposto sobre serviços de qualquer natureza poderá ser calculado e recolhido por estimativa da base de cálculo quando se tratar de estabelecimento de rudimentar organização ou  constituído sob a forma de sociedade simples.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A base de cálculo do imposto sobre serviços de qualquer natureza é o preço do serviço.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O lançamento do imposto sobre serviços de qualquer natureza será efetuado de ofício pela autoridade administrativa quando a atividade do contribuinte estiver relacionada com a prestação de serviços de administração de cartão de crédito ou débito e congêneres.",
         "choices": [],
         "correctAwser": "false",
@@ -3087,6 +3695,14 @@
     },
     {
         "question": "São responsáveis, por substituição tributária, pelo pagamento do Imposto Sobre Serviços de Qualquer Natureza (ISSQN) devido e acréscimos legais as empresas públicas e sociedades de economia mista, quando contratarem a prestação de serviços sujeitos à incidência do ISSQN.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A incidência do ISSQN, depende do cumprimento de exigências legais, regulamentares ou administrativas, relativas ao prestador dos serviços.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -3184,14 +3800,6 @@
         "id": ""
     },
     {
-        "question": "Com relação ao ISS, em vista da jurisprudência dos Tribunais Superiores, o preço das subempreitadas e dos materiais empregados na obra, na atividade de construção civil, não integra a base de cálculo do ISS.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
         "question": "Os serviços prestados sob a forma de trabalho pessoal do próprio contribuinte sujeitam-se ao ISS calculado mediante alíquota ad valorem.",
         "choices": [],
         "correctAwser": "false",
@@ -3201,6 +3809,14 @@
     },
     {
         "question": "No que se refere à suspensão da exigibilidade do crédito tributário, é possível a concessão de medida liminar em mandado de segurança preventivo nos casos em que não haja lançamento tributário e que se enquadrem no artigo 151 do Código Tributário Nacional.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A moratória tributária e o parcelamento tributário têm previsões distintas no Código Tributário Nacional pelo fato de possuírem natureza jurídica e regime jurídico distintos.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -3336,6 +3952,22 @@
         "id": ""
     },
     {
+        "question": "A pessoa jurídica Renove Concessionária de Veículos vendeu automóveis durante todo o ano de 2011, mas, de forma fraudulenta, declarou e recolheu à administração fazendária do DF as vendas ocorridas de janeiro a junho do referido ano, quando estava vigente a Lei A, que previa alíquota de ICMS de 17,5% sobre as vendas, multa pela omissão na declaração e no recolhimento do tributo de 75% do valor principal, e proibição ao fisco quanto ao acesso aos dados fiscais do contribuinte, para fins de acertamento do tributo, sem prévia autorização judicial. Em junho de 2013, foi publicada a Lei Z, por meio da qual foram estabelecidas alíquota de ICMS de 15% sobre as operações mercantis de venda de veículos e multa pela omissão na declaração e no recolhimento do tributo de 50% do valor principal. Foi, ainda, instituída a possibilidade de acesso direto aos dados do sigilo fiscal do contribuinte sem necessidade de autorização judicial. Quase um ano depois, em maio de 2014, a administração fazendária do DF aplicou essa nova lei ao caso da Renove e promoveu o lançamento do ICMS às vendas ocorridas entre janeiro e junho de 2011. Nessa situação hipotética, para realizar o lançamento tributário, a administração fazendária do DF, no caso das mencionadas vendas feitas pela Renove, deve aplicar a alíquota de 17,5% e multa de 50% do valor principal dessas vendas, podendo, ainda, requisitar os dados do sigilo fiscal da empresa sem ter de recorrer ao Poder Judiciário.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A administração tributária do DF procedeu à análise dos livros fiscais e registros contábeis da sociedade empresária WYZ Ltda., em diligência de fiscalização realizada entre os dias 1.º/5/2014 e 10/5/2014, com notificação à contribuinte, em 1.º/5/2014, acerca do início da ação fiscal, tendo verificado o que se segue. Durante os meses de janeiro a junho de 2010, a contribuinte declarou em guia específica as operações de circulação de mercadoria, mas não recolhera ao DF qualquer valor referente ao ICMS. Durante os meses de julho a dezembro de 2010, a contribuinte declarou, em guia específica, as operações de circulação de mercadoria, mas recolhera parcialmente o montante devido de ICMS ao DF. Durante os meses de janeiro a dezembro de 2011, a contribuinte não declarou nem recolheu o ICMS devido pela realização das operações de circulação de mercadorias. Durante o período de fiscalização que se iniciou em 1.º/5/2014, a administração tributária do DF verificou que não fora declarada nem recolhida nenhuma obrigação tributária de ICMS no ano de 2014, razão por que notificou a contribuinte, solicitando esclarecimentos adicionais. Considerando os dados acima apresentados, assinale a opção correta com base no CTN e na jurisprudência do STJ, com às obrigações tributárias referentes aos meses de julho a dezembro de 2010, o lançamento tributário de ofício é prescindível porque o crédito já foi constituído pelo contribuinte.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca do ICMS e do CONFAZ, com base na legislação de regência e na jurisprudência dos tribunais superiores, incide ICMS nas operações de circulação de mercadorias derivadas de arrendamento mercantil celebrado entre arrendadora sediada no exterior e empresário sediado no Brasil em caso de bem comprovadamente destinado ao ativo fixo da sociedade empresária.",
         "choices": [],
         "correctAwser": "true",
@@ -3369,8 +4001,15 @@
     },
     {
         "question": "Caso o estado de Goiás e o DF pretendam adotar o regime de substituição tributária em operações interestaduais realizadas entre contribuintes sediados em seus territórios, o CONFAZ poderá, por unanimidade, autorizar tal ajuste.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A contabilidade é a ciência que estuda e registra os atos e fatos administrativos, objetivando representar graficamente o patrimônio e evidenciar as variações e mutações nele introduzidas, estabelecendo normas para sua interpretação, análise e auditagem (SILVA, 1988) Assim, o processo de escrituração começa pelo livro:",
         "choices": [
-            "A) contabilidade é a ciência que estuda e registra os atos e fatos administrativos, objetivando representar graficamente o patrimônio e evidenciar as variações e mutações nele introduzidas, estabelecendo normas para sua interpretação, análise e auditagem (SILVA, 1988) Assim, o processo de escrituração começa pelo livro:",
             "A) Caixa.",
             "B) Contabilidade.",
             "C) Diário.",
@@ -3391,6 +4030,14 @@
     },
     {
         "question": "Segundo o Código Tributário Nacionala autoridade administrativa não pode recusar o domicílio eleito pelo contribuinte, mesmo quando impossibilite ou dificulte a arrecadação ou a fiscalização do tributo.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A capacidade tributária passiva depende de estar a pessoa jurídica regularmente constituída, bastando que configure uma unidade econômica ou profissional.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -3430,6 +4077,14 @@
         "id": ""
     },
     {
+        "question": "A definição legal do fato gerador é interpretada abstraindo-se da validade jurídica dos atos efetivamente praticados pelos contribuintes, responsáveis, ou terceiros, bem como da natureza do seu objeto ou dos seus efeitos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Nos estritos termos do Código Tributário Nacional, a responsabilidade por infrações da legislação tributária sempre depende da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato.",
         "choices": [],
         "correctAwser": "false",
@@ -3439,6 +4094,14 @@
     },
     {
         "question": "São pessoalmente responsáveis o sucessor a qualquer título e o cônjuge meeiro, pelos tributos devidos pelo de cujus até a data da partilha ou adjudicação, limitada esta responsabilidade ao montante do quinhão do legado ou da meação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade é excluída pela denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido e dos juros de mora, ou do depósito da importância arbitrada pela autoridade administrativa, quando o montante do tributo não dependa de apuração.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -3464,6 +4127,14 @@
     {
         "question": "Em vista das disposições do Código Tributário Nacional, são normas complementares das leis, dos tratados e das convenções internacionais e dos decretos as decisões dos órgãos singulares ou coletivos de jurisdição administrativa, a que a lei atribua eficácia normativa.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A observância das normas complementares das leis, dos tratados e das convenções internacionais, como previstas no Código Tributário Nacional, não exclui a imposição de penalidades, a cobrança de juros de mora e a atualização do valor monetário da base de cálculo do tributo.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -3487,6 +4158,14 @@
     },
     {
         "question": "Somente a isenção e a anistia excluem o crédito tributário, nos termos do que dispõe o Código Tributário Nacional.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A exclusão do crédito tributário ocorre sempre que houver caso de suspensão da exigibilidade do crédito legalmente constituído.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -3698,6 +4377,14 @@
         "id": ""
     },
     {
+        "question": "A quantia devida e a maneira de calcular os juros de mora acrescidos, obrigatoriamente, serão indicados no termo de inscrição da dívida ativa, autenticado pela autoridade competente.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O termo de inscrição da dívida ativa, a ser autenticado pela autoridade competente, trará, obrigatoriamente, a origem e natureza do crédito, mencionada especificamente a disposição da lei em que seja fundado.",
         "choices": [],
         "correctAwser": "true",
@@ -3715,6 +4402,14 @@
     },
     {
         "question": "Nos termos daquilo que dispões o Código Tributário Nacional (CTN), o termo de inscrição da dívida ativa, trará, obrigatoriamente, a data em que foi inscrita.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Mundo Paraíso, empresa pública de coleta seletiva de lixo de determinado Município, vendeu um imóvel de sua titularidade a um morador da Cidade. Nessa hipótese, considerando as normas constitucionais a respeito da imunidade e isenção tributária, o novo proprietário será obrigado a pagar todos os tributos que recaiam sobre o bem, devido à ausência de imunidade tributária.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -3743,9 +4438,41 @@
         "id": ""
     },
     {
+        "question": "A Dívida Ativa da Fazenda Pública, seja de natureza tributária ou não tributária, abrange atualização monetária, juros e multa de mora e demais encargos previstos em lei ou contrato.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Dívida Ativa regularmente inscrita goza da presunção de certeza e liquidez.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que tange à cobrança da dívida ativa mediante execuções fiscais, é correto afirmar que execução fiscal não poderá ser promovida contra o espólio.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A inscrição do crédito na Dívida Ativa suspende a prescrição, para todos os efeitos de direito, por 180 dias, ou até a distribuição da execução fiscal, se esta ocorrer antes de findo aquele prazo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A petição inicial da Ação de Execução Fiscal será instruída com a Certidão da Dívida Ativa, que dela fará parte integrante, como se estivesse transcrita.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3800,6 +4527,14 @@
     },
     {
         "question": "As previsões de receita observarão as normas técnicas e legais, considerarão os efeitos das alterações na legislação, da variação do índice de preços, do crescimento econômico ou de qualquer outro fator relevante e serão acompanhadas de demonstrativo de sua evolução nos últimos três anos, da projeção para os dois seguintes àquele a que se referirem, e da metodologia de cálculo e premissas utilizadas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A reestimativa de receita por parte do Poder Legislativo só será admitida se comprovado erro ou omissão de ordem técnica ou legal.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -3938,7 +4673,23 @@
     {
         "question": "Sobre Impostos, a União tem o poder de criar, por meio de lei complementar, impostos adicionais, contanto que sejam não cumulativos e não possuam fato gerador ou base de cálculo próprios daqueles especificados na Constituição Federal.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A instituição de novos impostos, pela União, pode ser realizada por meio de Lei Complementar, medida provisória, ou Decreto.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A União possui a competência de estabelecer, em situações de iminência ou durante guerra externa, impostos extraordinários, independentemente de estarem ou não incluídos em sua competência tributária.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3978,8 +4729,16 @@
             "A) Instituição ou extinção de tributos.",
             "B) Extinção de créditos tributários.",
             "C) Majoração de tributos.",
-            "D) Atualização do valor monetário da base de cálculo do tributo.",
-            "A) Constituição Federal estabelece que: “Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios: (...) II - instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos;”. Trata-se do:",
+            "D) Atualização do valor monetário da base de cálculo do tributo."
+        ],
+        "correctAwser": "D",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Constituição Federal estabelece que: “Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios: (...) II - instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos;”. Trata-se do:",
+        "choices": [
             "A) Princípio da isonomia",
             "B) Princípio da legalidade",
             "C) Princípio da não surpresa",
@@ -3992,8 +4751,21 @@
     },
     {
         "question": "É vedado aos entes tributantes, exceto:",
-        "choices": [],
+        "choices": [
+            "A) Utilizar tributo com efeito de confisco.",
+            "B) Exigir ou aumentar tributo sem lei que o estabeleça.",
+            "C) Instituir impostos sobre templos de qualquer culto.",
+            "D) Cobrar quaisquer tributos no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou."
+        ],
         "correctAwser": "D",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Constituição Federal estabelece que é vedado à União, aos Estados, ao Distrito Federal e aos Município instituir impostos sobre o patrimônio, a renda ou os serviços, uns dos outros. Sobre tal vedação, é correto afirmar, que é extensiva às autarquias e às fundações instituídas e mantidas pelo Poder Público, no que se refere ao patrimônio, à renda e aos serviços, vinculados a suas finalidades essenciais ou às delas decorrentes.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4121,8 +4893,16 @@
             "A) 8% destina-se aos Municípios das Capitais dos Estados e 92% aos demais Municípios do país.",
             "B) 10% destina-se aos Municípios das Capitais dos Estados e 90% aos demais Municípios do país.",
             "C) 20% destina-se aos Municípios das Capitais dos Estados e 80% aos demais Municípios do país.",
-            "D) 90% destina-se aos Municípios das Capitais dos Estados e 10% aos demais Municípios do país.",
-            "A) obrigação tributária pode ser descrita como principal e acessória. A esse respeito, sabe-se que",
+            "D) 90% destina-se aos Municípios das Capitais dos Estados e 10% aos demais Municípios do país."
+        ],
+        "correctAwser": "B",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A obrigação tributária pode ser descrita como principal e acessória. A esse respeito, sabe-se que",
+        "choices": [
             "A) a obrigação acessória, pelo simples fato da sua inobservância, não se converte em obrigação principal, no que diz respeito a penalidade pecuniária.",
             "B) a obrigação principal surge com a ocorrência do fato gerador e tem por objeto o pagamento de tributo ou penalidade pecuniária.",
             "C) o fato gerador da obrigação acessória tem por objetivo o pagamento do tributo.",
@@ -4152,8 +4932,16 @@
             "A) 20%, quando a liquidação ocorra em até 6 parcelas.",
             "B) 30%, quando a liquidação ocorra em até 6 parcelas.",
             "C) 50%, quando a liquidação ocorra de uma só vez.",
-            "D) 60%, quando a liquidação ocorra de uma só vez.",
-            "A) obrigação tributária pode ser entendida como principal e acessória. De acordo com o Código Tributário de São José de Mipibu, o sujeito passivo da obrigação principal é",
+            "D) 60%, quando a liquidação ocorra de uma só vez."
+        ],
+        "correctAwser": "C",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A obrigação tributária pode ser entendida como principal e acessória. De acordo com o Código Tributário de São José de Mipibu, o sujeito passivo da obrigação principal é",
+        "choices": [
             "A) a pessoa física ou jurídica obrigada, nos termos desse Código, a entregar junto à unidade tributária informações acessórias.",
             "B) a pessoa física ou jurídica obrigada, nos termos desse Código, ao pagamento dos tributos e penalidades pecuniárias.",
             "C) a pessoa jurídica de direito público, titular da competência privativa, a decretar e arrecadar os tributos.",
@@ -4245,6 +5033,14 @@
         "id": ""
     },
     {
+        "question": "A moratória concedida em caráter geral pela pessoa jurídica de direito público competente para instituir o tributo a que se refira, suspende a exigibilidade do crédito tributário, nos termos do CTN.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que concerne ao Imposto sobre a Propriedade Predial e Territorial Urbana, de acordo com o Código Tributário Nacional, o sujeito ativo do imposto é o Estado em que situado o bem cuja propriedade é objeto do tributo.",
         "choices": [],
         "correctAwser": "false",
@@ -4261,6 +5057,14 @@
         "id": ""
     },
     {
+        "question": "A base do cálculo do imposto sobre propriedade predial e territorial urbana, é o valor venal do imóvel e na determinação da base de cálculo se considera o valor dos bens móveis mantidos, em caráter permanente ou temporário, no imóvel, para efeito de sua utilização, exploração, aformoseamento ou comodidade.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca do IPTU, de acordo com o Código Tributário Nacional, a lei municipal pode considerar urbanas as áreas urbanizáveis, ou de expansão urbana, constantes de loteamentos aprovados pelos órgãos competentes, destinados à habitação, à indústria ou ao comércio.",
         "choices": [],
         "correctAwser": "true",
@@ -4270,6 +5074,14 @@
     },
     {
         "question": "Acerca da revogação do ato administrativo, esta não é propriamente uma invalidação, pois apenas se retira do mundo jurídico. Nela há a invalidação de um ato administrativo por razões de conveniência e oportunidade.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A revogação do ato administrativo, poderá ser expressa ou tácita. Ocorrendo a tácita quando a administração pratica um ato incompatível com o ato anteriormente praticado.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -4353,7 +5165,7 @@
     {
         "question": "Requisição administrativa é um ato administrativo unilateral, o qual é autoexecutório, consistindo na utilização de bens e serviços particulares pela administração, por conta de perigo público iminente ou guerra, sendo posteriormente cabível indenização, se houver dano.",
         "choices": [],
-        "correctAwser": "true",
+        "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4417,6 +5229,14 @@
         "id": ""
     },
     {
+        "question": "A atividade administrativa de lançamento é vinculada e obrigatória, sob pena de responsabilidade funcional.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "De acordo com o artigo 2° da Lei n. 4.320/1964, integrarão a Lei de Orçamento: I - Quadro das dotações por órgãos do Governo e da Administração. II – Sumário geral da receita por fontes e da despesa por funções do Governo. III – Quadro discriminativo da receita por fontes e respectiva legislação.",
         "choices": [],
         "correctAwser": "true",
@@ -4441,6 +5261,30 @@
         "id": ""
     },
     {
+        "question": "A obrigação tributária acessória, relativamente a um determinado evento que constitua, em tese, fato gerador de um imposto, não é exigível no caso de não incidência tributária, por inexistir interesse da arrecadação ou fiscalização tributária a justificar a imposição acessória.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A obrigação tributária acessória, relativamente a um determinado evento que constitua, em tese, fato gerador de um imposto, poderá ser exigida de quem é isento do imposto.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A obrigação tributária acessória, relativamente a um determinado evento que constitua, em tese, fato gerador de um imposto, poderá ser exigida de quaisquer pessoas designadas pela lei tributária que disponham de informação sobre os bens, serviços, rendas ou patrimônio de terceiros, independentemente de cargo, ofício, função, ministério, atividade ou profissão por aqueles exercidas.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que se refere à legislação tributária, os tratados e convenções internacionais podem revogar ou modificar a legislação tributária interna.",
         "choices": [],
         "correctAwser": "true",
@@ -4450,6 +5294,14 @@
     },
     {
         "question": "Considerando o disposto na legislação tributária, é correto afirmar, que somente a lei pode estabelecer a cominação de penalidades para ações e omissões contrárias a seus dispositivos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei tributária não se aplica a ato ou fato pretérito, ainda que seja expressamente interpretativa, sob pena de violação do princípio da irretroatividade.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -4468,6 +5320,14 @@
         "question": "Exige-se a notificação do sujeito passivo da lavratura da notificação do débito, da inscrição em dívida ativa e da extração da respectiva certidão, sob pena de nulidade.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A inscrição em divida ativa tributária, trata-se do único ato de controle de legalidade efetuado sobre o crédito tributário já constituído, que se realiza pela apreciação crítica dos profissionais legalmente competentes.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4694,6 +5554,14 @@
         "id": ""
     },
     {
+        "question": "A existência legal das pessoas jurídicas de direito privado inicia com a inscrição do ato constitutivo no respectivo registro, precedida, quando necessário, de autorização ou aprovação do Poder Executivo, averbando-se no registro todas as alterações por que passar o ato constitutivo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O direito de anular a constituição das pessoas jurídicas de direito privado decai em 4 (quatro) anos, por defeito do ato respectivo, contado o prazo da publicação de sua inscrição no registro.",
         "choices": [],
         "correctAwser": "false",
@@ -4775,8 +5643,16 @@
             "A) 23/2/2015, aplicando-se os princípios da anterioridade anual e da anterioridade nonagesimal.",
             "B) 9/1/2015, aplicando-se o princípio da anterioridade anual e desconsiderando-se o princípio da anterioridade nonagesimal.",
             "C) 1.º/1/2016, aplicando-se o princípio da anterioridade anual a partir do início da vigência da norma.",
-            "D) 1.º/1/2015, aplicando-se o princípio da anterioridade anual e sem se considerar o princípio da anterioridade nonagesimal.",
-            "A) União celebrou negócio jurídico com uma sociedade empresarial. Tal operação configurou-se como um fato gerador, uma vez que era uma situação descrita, na norma tributária, como hipótese de incidência de um tributo. No entanto, identificou-se, posteriormente, a irregularidade da constituição da sociedade empresarial, de modo que o negócio jurídico celebrado com a União foi declarado nulo, não tendo sido, portanto, adimplida a obrigação tributária, cujo termo ainda não havia transcorrido. Nessa situação hipotética,",
+            "D) 1.º/1/2015, aplicando-se o princípio da anterioridade anual e sem se considerar o princípio da anterioridade nonagesimal."
+        ],
+        "correctAwser": "D",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A União celebrou negócio jurídico com uma sociedade empresarial. Tal operação configurou-se como um fato gerador, uma vez que era uma situação descrita, na norma tributária, como hipótese de incidência de um tributo. No entanto, identificou-se, posteriormente, a irregularidade da constituição da sociedade empresarial, de modo que o negócio jurídico celebrado com a União foi declarado nulo, não tendo sido, portanto, adimplida a obrigação tributária, cujo termo ainda não havia transcorrido. Nessa situação hipotética,",
+        "choices": [
             "A) o negócio jurídico configurou fato gerador do tributo, dado o princípio da interpretação objetiva do fato gerador.",
             "B) a celebração do negócio jurídico não configurou fato gerador do tributo, por ser esse negócio inepto à produção de efeitos tributários.",
             "C) a obrigação tributária foi extinta porque a declaração de nulidade do negócio jurídico ocorreu antes do fim do prazo para o pagamento.",
@@ -4798,6 +5674,14 @@
     {
         "question": "No que concerne às regras fiscais de fiscalização e sigilo, o STJ admite a retroatividade de mecanismos de fiscalização instituídos por lei, podendo estes atingir fatos geradores ocorridos anteriormente à sua publicação, mesmo que isso implique novo lançamento tributário.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A apreensão de mercadorias até o pagamento do tributo devido inclui-se entre os poderes de fiscalização tributária do fisco.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -4813,8 +5697,15 @@
     },
     {
         "question": "Conforme jurisprudência do STJ, a guarda e a conservação dos livros de escrituração comercial e fiscal podem ser feitas por microfilmagem dos documentos originais, os quais, após tal procedimento, poderão ser descartados.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A União instituiu taxa com a finalidade de remunerar a efetiva atividade desenvolvida pela Força Nacional de Segurança Pública. Os cidadãos residentes nas localidades de atuação da Força Nacional deverão pagar a taxa referente apenas ao período em que essa atuação persistir. Nessa situação hipotética, a taxa a ser cobrada",
         "choices": [
-            "A) União instituiu taxa com a finalidade de remunerar a efetiva atividade desenvolvida pela Força Nacional de Segurança Pública. Os cidadãos residentes nas localidades de atuação da Força Nacional deverão pagar a taxa referente apenas ao período em que essa atuação persistir. Nessa situação hipotética, a taxa a ser cobrada",
             "A) é constitucional, por fundamentar-se na utilização efetiva ou potencial, pelos contribuintes, de serviço público de segurança.",
             "B) é inconstitucional, visto que serviços de segurança pública devem ser remunerados por tarifa.",
             "C) é inconstitucional, uma vez que os serviços de segurança pública não podem ser usufruídos individualmente, mas atendem a um número indeterminado de pessoas.",
@@ -4840,8 +5731,53 @@
     },
     {
         "question": "Considerando que o DETRAN, ao aplicar multa de trânsito ao condutor de veículo automotor, concede ao Estado o direito de receber tal receita, assinale a opção correta a respeito da natureza e classificação dessa receita e da relação dela com a dívida ativa.",
+        "choices": [
+            "A) A multa é uma receita pública, visto que qualquer ingresso de numerário caracteriza uma receita pública.",
+            "B) No momento em que não for paga e for inscrita em dívida ativa, a multa passará a ter a natureza de dívida ativa tributária.",
+            "C) A multa paga pelo condutor do veículo automotor é considerada ingresso de numerário de natureza permanente, sendo, por isso, classificada como receita originária.",
+            "D) A multa paga pelo condutor é considerada receita derivada, pois não é originada na utilização ou exploração do patrimônio público."
+        ],
+        "correctAwser": "D",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade tributária derivada é aquela que é transferida a terceiro que tenha ligação direta e pessoal com o fato gerador da obrigação, sem que decorra de expressa previsão legal.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade tributária originária é aquela que ocorre com o inadimplemento da obrigação tributária por parte do contribuinte.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade tributária por infração a lei tributária praticada por pessoa na gestão de sociedade limitada ficará adstrita ao capital social devidamente integralizado.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade tributária por infração implica solidariedade da sociedade com o gestor que cometer infração no pagamento dos tributos.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sujeição passiva indireta pode ser fruto de uma responsabilidade por sucessão, o que caracteriza uma das modalidades de responsabilidade por transferência.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4865,13 +5801,29 @@
             "A) Tratado internacional na área tributária, desde sua assinatura, pode ser invocado por particulares para a defesa de seus direitos na esfera tributária.",
             "B) Ao estabelecer como princípio regente nas relações internacionais a integração econômica com os países latino americanos, a CF alterou o modo como o Brasil deve interpretar e integrar os tratados e convenções internacionais às normas nacionais.",
             "C) O acordo em questão é inconstitucional em virtude de ferir a vedação constitucional da instituição de isenção heterônoma pela União.",
-            "D) O Estado Federal brasileiro, por ser representado pela União, não ultrapassou os limites do seu poder tributário ao instituir a referida isenção de tributos de competência de estados e municípios.",
-            "A) Cia. Galáctica é uma empresa do ramo industrial. Em 31/12/2023, seu patrimônio líquido era de R$ 250.000,00 e seu Ativo equivalia a R$ 1.420.000,00, dos quais 30% eram realizáveis no decorrer do exercício de 2024. À luz dos dados fornecidos, é possível concluir que o valor do Ativo Não Circulante em 31/12/2023 era de:",
+            "D) O Estado Federal brasileiro, por ser representado pela União, não ultrapassou os limites do seu poder tributário ao instituir a referida isenção de tributos de competência de estados e municípios."
+        ],
+        "correctAwser": "D",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Cia. Galáctica é uma empresa do ramo industrial. Em 31/12/2023, seu patrimônio líquido era de R$ 250.000,00 e seu Ativo equivalia a R$ 1.420.000,00, dos quais 30% eram realizáveis no decorrer do exercício de 2024. À luz dos dados fornecidos, é possível concluir que o valor do Ativo Não Circulante em 31/12/2023 era de:",
+        "choices": [
             "A) R$ 426.000,00.",
             "B) R$ 874.000,00.",
             "C) R$ 994.000,00.",
-            "D) R$ 1.006.000,00.",
-            "A) Cia. Interplanetária é uma empresa do ramo industrial. Em 31/12/2023, seu patrimônio líquido era de R$ 250.000,00 e seu Ativo equivalia a R$ 1.420.000,00, dos quais 30% eram realizáveis no decorrer do exercício de 2024. Com base nos dados informados, é correto afirmar que os Capitais de Terceiros que financiavam as atividades da Cia. Interplanetária em 31/12/2023 somavam:",
+            "D) R$ 1.006.000,00."
+        ],
+        "correctAwser": "C",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Cia. Interplanetária é uma empresa do ramo industrial. Em 31/12/2023, seu patrimônio líquido era de R$ 250.000,00 e seu Ativo equivalia a R$ 1.420.000,00, dos quais 30% eram realizáveis no decorrer do exercício de 2024. Com base nos dados informados, é correto afirmar que os Capitais de Terceiros que financiavam as atividades da Cia. Interplanetária em 31/12/2023 somavam:",
+        "choices": [
             "A) R$ 670.000,00.",
             "B) R$ 1.050.000,00.",
             "C) R$ 1.170.000,00.",
@@ -5060,6 +6012,14 @@
         "id": ""
     },
     {
+        "question": "A cobrança da contribuição de melhoria, resultante de obras executadas pela União, situadas em áreas urbanas de um único Município, poderá ser efetuada pelo órgão arrecadador municipal, em convênio com o órgão federal que houver realizado as referidas obras.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "As prestações da contribuição de melhoria serão corrigidas monetariamente pelos índices aplicáveis a débitos fiscais, mas é admitida a concessão de descontos, por ato da autoridade que determinar o lançamento, em caso de pagamento à vista ou em prazos menores que o lançado.",
         "choices": [],
         "correctAwser": "true",
@@ -5078,6 +6038,22 @@
     {
         "question": "O executado será citado para, no prazo de 5 (cinco) dias, pagar a dívida acrescida dos juros, multa de mora e encargos indicados na Certidão de Dívida Ativa, ou garantir a execução, o que pode se dar mediante a indicação de bens, inclusive de terceiros, desde que aceitos pela Fazenda Pública.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A presunção de certeza e liquidez da dívida ativa regularmente inscrita é relativa e pode ser ilidida por prova inequívoca, a cargo do executado ou de terceiro, a quem aproveite.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A cobrança judicial da dívida ativa da Fazenda Pública é sujeita a concurso de preferência entre pessoas jurídicas de direito público, ou seja, o crédito da União detém preferência em relação aos créditos de Estados e Municípios, nesta ordem. Assinale a sequência correta.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -5089,8 +6065,16 @@
             "A) Pode haver cobrança de tributos antes de decorridos noventa dias da data em que tenha sido publicada a lei que os instituiu ou aumentou.",
             "B) Não pode haver cobrança de tributos antes de decorridos noventa dias da data em que tenha sido publicada a lei que os instituiu ou aumentou.",
             "C) Somente pode haver cobrança de tributos se a lei que os instituiu ou aumentou tiver sido publicada no ano anterior ao exercício fiscal.",
-            "D) Pode haver cobrança de tributos antes de decorridos noventa dias da data em que tenha sido publicada a lei que os instituiu ou aumentou, caso trate-se de taxas e impostos",
-            "A) criação de determinada categoria de tributo só é possível mediante a disponibilização de serviços públicos que se caracterizem pela divisibilidade e especificidade. Segundo o Código Tributário Nacional, os serviços são específicos quando podem ser destacados em unidades autônomas de intervenção, de utilidade ou de necessidade públicas; são divisíveis quando suscetíveis de utilização, separadamente, por parte de cada um dos seus usuários. Considerando o enunciado acima, assinale a alternativa que traz a espécie de tributo referida.",
+            "D) Pode haver cobrança de tributos antes de decorridos noventa dias da data em que tenha sido publicada a lei que os instituiu ou aumentou, caso trate-se de taxas e impostos"
+        ],
+        "correctAwser": "B",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A criação de determinada categoria de tributo só é possível mediante a disponibilização de serviços públicos que se caracterizem pela divisibilidade e especificidade. Segundo o Código Tributário Nacional, os serviços são específicos quando podem ser destacados em unidades autônomas de intervenção, de utilidade ou de necessidade públicas; são divisíveis quando suscetíveis de utilização, separadamente, por parte de cada um dos seus usuários. Considerando o enunciado acima, assinale a alternativa que traz a espécie de tributo referida.",
+        "choices": [
             "A) Imposto.",
             "B) Contribuição de melhoria.",
             "C) Taxa.",
@@ -5142,6 +6126,30 @@
     },
     {
         "question": "Conforme o Supremo Tribunal Federal e a doutrina majoritária, há, no ordenamento jurídico brasileiro, cinco espécies de tributos (impostos, taxas, contribuição de melhoria, empréstimos compulsórios e contribuições especiais).",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A taxa é paga pelo contribuinte em razão de um serviço prestado pelo Poder Púbico ou em razão do exercício de poder de polícia.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A mera existência de órgão competente e estrutura para o exercício do poder de polícia não é suficiente para que seja cobrada taxa municipal de renovação de licença de funcionamento.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A instituição de taxa de fiscalização do funcionamento de torres e antenas de transmissão e recepção de dados e voz pode ser feita pelos Municípios, uma vez que compete aos Municípios legislar sobre assuntos locais e promover, no que couber, adequado ordenamento territorial.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -5203,8 +6211,21 @@
     },
     {
         "question": "Considere as seguintes situações, enumeradas de I a III, e diga em quais dessas situações há obrigação de pagar tributo? I. Uma pessoa exerce atividade ilícita de tráfico de drogas, auferindo dela renda; II. Um grupo de pessoas resolve abrir uma lanchonete sem o devido registro na Junta Comercial, comprando alimentos e bebidas e revendendo-os aos clientes; e III. Um jovem menor de 18 anos, não emancipado, adquire sem a assistência dos pais um imóvel em seu nome.",
-        "choices": [],
+        "choices": [
+            "A) Apenas nas situações I e III, vez que um grupo de pessoas, ao abrir qualquer empreendimento sem o registro na Junta Comercial implica numa sociedade de fato, o que não gera efeitos tributários.",
+            "B) Apenas nas situações II e III, pois, na situação I, o traficante de drogas não pode pagar tributos.",
+            "C) Em todas as três situações, vez que o princípio da isonomia tributária, nos casos acima, não faz distinção de contribuintes.",
+            "D) Em nenhuma das situações, vez que todas elas são ilegais."
+        ],
         "correctAwser": "C",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A capacidade tributária passiva com previsão expressa no CTN, independe: I - da capacidade civil das pessoas naturais; II - de achar-se a pessoa natural sujeita a medidas que importem privação ou limitação do exercício de atividades civis, comerciais ou profissionais, ou da administração direta de seus bens ou negócios; III - de estar a pessoa jurídica regularmente constituída, bastando que configure uma unidade econômica ou profissional.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5232,8 +6253,29 @@
     },
     {
         "question": "Suponha que um contribuinte tenha recebido notificação da Receita Estadual para pagamento de tributo que ele (o contribuinte) julga não ser devedor. O valor do débito é de R$ 4.500,00. Em tais circunstâncias, assinale a alternativa que indica a Ação cabível.",
-        "choices": [],
+        "choices": [
+            "A) Ação Declaratória.",
+            "B) Ação Anulatória.",
+            "C) Execução Fiscal.",
+            "D) Repetição de Indébito."
+        ],
         "correctAwser": "B",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Ação Declaratória de existência ou inexistência de relação jurídico-tributária é incabível quando se está diante de tributo já lançado, com valor exato.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Ação Declaratória destina-se à declaração, pelo juízo competente, da existência ou não de determinado direito que o contribuinte julga ter antes do lançamento tributário.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5247,9 +6289,30 @@
         "id": ""
     },
     {
-        "question": "O Município Ômega instituiu, por meio de lei municipal, uma taxa de coleta de resíduos sólidos, cujo fato gerador é, exclusivamente, o serviço público de coleta, remoção e tratamento de lixo domiciliar de imóveis do município. Diante desse quadro fático, é CORRETO afirmar que:",
+        "question": "A Ação de Execução Fiscal (Lei n.º 6.830/1980), é de legitimidade exclusiva da União, Estados, Municípios e Distrito Federal, além de autarquias e fundações.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "O Município Ômega instituiu, por meio de lei municipal, uma taxa de coleta de resíduos sólidos, cujo fato gerador é, exclusivamente, o serviço público de coleta, remoção e tratamento de lixo domiciliar de imóveis do município. Diante desse quadro fático, é CORRETO afirmar que:",
+        "choices": [
+            "A) A taxa instituída pelo Município Ômega tem natureza jurídica de imposto e, por isso, não poderia ser cobrada.",
+            "B) Se um morador do Município não necessita do serviço que o Município Ômega instituiu, estará isento da cobrança da taxa em questão.",
+            "C) Os municípios não possuem competência para a instituição de taxas, até porque o serviço de coleta, remoção e tratamento do lixo domiciliar tem, necessariamente, natureza jurídica de tarifa (preço público).",
+            "D) É válida a cobrança da referida taxa, vez que se trata de serviço público específico e divisível, colocado à disposição, ou efetivamente prestado pelo Município a seus moradores."
+        ],
         "correctAwser": "D",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A assertiva: “Os impostos possuem como fato gerador um agir do contribuinte, independentemente de qualquer ação estatal a ele referível”. É:",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5272,6 +6335,14 @@
     },
     {
         "question": "As taxas são de competência comum dos Municípios, Estados, Distrito Federal e União.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A natureza jurídica do serviço de coleta, remoção e tratamento do lixo domiciliar pode ser de taxa (tributo), ou de preço público (tarifa), não exclusivamente como tarifa.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -5333,8 +6404,15 @@
     },
     {
         "question": "No que tange à jurisprudência dos Tribunais Superiores, não incide ISS no licenciamento ou na cessão de direito de uso de programas de computação desenvolvidos de forma personalizada, por encomenda, ou padronizados.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da disciplina constitucional dos precatórios e entendimento do Supremo Tribunal Federal sobre a matéria, assinale a alternativa correta.",
         "choices": [
-            "A) respeito da disciplina constitucional dos precatórios e entendimento do Supremo Tribunal Federal sobre a matéria, assinale a alternativa correta.",
             "A) A execução de créditos individuais e divisíveis decorrentes de título judicial coletivo, promovida por substituto processual, caracteriza o fracionamento de precatório vedado pelo §8º do art. 100 da Constituição.",
             "B) É constitucional o regime excepcional de parcelamento de precatórios previsto no art. 78 do ADCT, instituído pela EC nº 30/2000.",
             "C) É inconstitucional lei estadual que prevê o uso de depósitos judiciais ou administrativos relativos a processos em que pessoas jurídicas de direito privado da Administração Pública indireta sejam partes.",
@@ -5402,6 +6480,27 @@
     },
     {
         "question": "Os créditos adicionais classificam-se em consonância com os itens corretamente citados na alternativa:",
+        "choices": [
+            "A) Superávit, especiais e extraordinários.",
+            "B) Excesso de arrecadação, suplementares e especiais.",
+            "C) Suplementares, especiais e extraordinários.",
+            "D) Superávit, excesso de arrecadação e extraordinários."
+        ],
+        "correctAwser": "C",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A concessão de tutela antecipada suspende a exigibilidade do crédito tributário.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A propositura da ação anulatória suspende a exigibilidade do crédito tributário.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -5422,8 +6521,16 @@
             "A) Denegado o mandado de segurança fica sem efeito a liminar concedida, retroagindo os efeitos da decisão contrária.",
             "B) O mandado de segurança não produz efeitos patrimoniais pretéritos, os quais devem ser reclamados administrativamente ou pela via judicial própria.",
             "C) É vedada a compensação mediante o aproveitamento de tributo, objeto de contestação judicial pelo sujeito passivo, antes do trânsito em julgado da respectiva decisão judicial.",
-            "D) O mandado de segurança não constitui ação adequada para a declaração do direito à compensação tributária.",
-            "A) empresa “ABC”, estabelecida em Campina Grande-PB, resolveu pavimentar o estacionamento de clientes com piso de concreto intertravado. Para tanto, contratou a empresa “WYZ”, estabelecida em João Pessoa-PB, para realizar a obra em regime de empreitada global. Por sua vez, a empresa ‘WYZ” contratou com empresa “X”, estabelecida em Patos-PB, a fabricação das peças de concreto e a entrega das mesmas diretamente no local da obra. Em relação e este caso hipotético, o fornecimento das peças de concreto pela empresa “X” constitui:",
+            "D) O mandado de segurança não constitui ação adequada para a declaração do direito à compensação tributária."
+        ],
+        "correctAwser": "D",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A empresa “ABC”, estabelecida em Campina Grande-PB, resolveu pavimentar o estacionamento de clientes com piso de concreto intertravado. Para tanto, contratou a empresa “WYZ”, estabelecida em João Pessoa-PB, para realizar a obra em regime de empreitada global. Por sua vez, a empresa ‘WYZ” contratou com empresa “X”, estabelecida em Patos-PB, a fabricação das peças de concreto e a entrega das mesmas diretamente no local da obra. Em relação e este caso hipotético, o fornecimento das peças de concreto pela empresa “X” constitui:",
+        "choices": [
             "A) Fato gerador de ISSQN, sendo sujeito ativo o município de Campina Grande-PB.",
             "B) Fato gerador de ISSQN, sendo sujeito ativo o município de João Pessoa-PB.",
             "C) Fato gerador de ISSQN, sendo sujeito ativo o município de Patos-PB.",
@@ -5487,6 +6594,14 @@
     {
         "question": "Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A desistência da execução fiscal, após o oferecimento dos embargos, exime o exequente dos encargos da sucumbência.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -5546,9 +6661,25 @@
         "id": ""
     },
     {
+        "question": "A Companhia Estadual de Águas e Esgotos do Rio de Janeiro (CEDAE), sociedade de economia mista prestadora de serviços públicos de saneamento em caráter não concorrencial no estado do Rio de Janeiro, é submetida ao regime de precatórios.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O ingresso de uma caução recebida pelo poder público como garantia a uma obrigação contratual deve ser contabilizado como receita orçamentária.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A dívida pública consolidada ou fundada inclui as operações em que o Estado contraia um empréstimo para a construção de uma obra e contrate um particular para a execução dessa mesma obra, desde que ambas as operações tenham amortização em prazo superior a doze meses.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5565,6 +6696,22 @@
         "question": "Em razão do princípio da autonomia, as universidades públicas não estão submetidas às normas orçamentárias previstas na Constituição Federal de 1988.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei de diretrizes orçamentárias deve dispor sobre o equilíbrio entre receitas e despesas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei n.º 4.320/1964, que estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços do poder público em geral, foi recepcionada com status de lei complementar pela Constituição Federal de 1988.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5595,6 +6742,14 @@
     },
     {
         "question": "Proprietário de veículo, pagou IPVA, não quitado à vista nem à prazo, no prazo legal, acrescido de juros e multa. Caso realize pedido administrativo de restituição do IPVA pago, não será interrompido o prazo prescricional para eventual ação judicial com a mesma finalidade.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A contribuição financeira devida pela exploração de recursos minerais é receita pública originária dos entes públicos e não está submetida ao regime jurídico tributário.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -5635,6 +6790,30 @@
     },
     {
         "question": "Os serviços de registros públicos, cartorários e notariais, por consistirem em serviços delegados do poder público, não ensejam a incidência do imposto sobre serviços de qualquer natureza (ISS).",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A obrigação principal surge com a ocorrência do fato gerador, tem por objeto o pagamento de tributo ou penalidade pecuniária e extingue-se juntamente com o crédito dela decorrente.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A obrigação acessória decorre da legislação tributária e tem por objeto as prestações, desde que positivas, nela previstas, no interesse da arrecadação ou da fiscalização dos tributos.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A obrigação acessória, pelo simples fato da sua inobservância, não se converte em obrigação principal, relativamente à penalidade pecuniária.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -5683,6 +6862,14 @@
     },
     {
         "question": "Nas obrigações tributárias solidárias, a interrupção da prescrição, em favor ou contra um dos obrigados, não favorece ou prejudica os demais.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A capacidade tributária passiva é dependente da capacidade civil das pessoas naturais.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -5749,6 +6936,14 @@
     },
     {
         "question": "São Fontes Normativas do ICMS a Constituição Federal; a Lei Complementar 87/96; Resoluções do Senado, especialmente a 95/96 e a 22/89, além dos convênios entre os Estados.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A concessão de qualquer isenção ou benefício fiscal de ICMS por determinado Estado da Federação, depende de convênio com os demais Estados, com o fim de evitar “guerra fiscal”.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -5853,8 +7048,21 @@
     },
     {
         "question": "Eduardo e Mônica, casal abastado da sociedade de determinada cidade do Estado “X”, em comemoração ao aniversário de noivado foi ao Bacanas Restaurante, tendo ali permanecido por quatro horas seguidas. Ao final, a fatura, somados o fornecimento de mercadorias e serviços somou R$ 1.200,00 (Um Mil e Duzentos Reais). Considerando o fato gerador dos impostos e a jurisprudência do Superior Tribunal de Justiça, assinale a alternativa correta.",
-        "choices": [],
+        "choices": [
+            "A) Incidirá ICMS sobre a Mercadoria e ISS sobre o Serviço;",
+            "B) Incidirá ICMS sobre o valor total da Nota Fiscal;",
+            "C) Incidirá apenas ICMS sobre o valor das mercadorias consumidas;",
+            "D) Incidirá apenas ISS sobre o valor dos Serviços."
+        ],
         "correctAwser": "B",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A prestação de serviço de composição gráfica, personalizada e sob encomenda, ainda que envolva fornecimento de mercadorias, está sujeita, apenas, ao ISS.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5877,6 +7085,14 @@
     },
     {
         "question": "O ICMS não incide sobre o serviço de inserção de publicidade e veiculação de propaganda e, sites da internet.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A TV a cabo, está ficando superada, muito embora, muita gente ainda utilize. Nesse contexto, é correto afirmar, que incide ICMS sobre a atividade de prestação de serviços de comunicação na modalidade de TV a cabo.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -5934,6 +7150,14 @@
     {
         "question": "No que concerne aos empréstimos compulsórios em caso de investimento público de caráter urgente e de relevante interesse nacional, com previsão expressa na Constituição da República, haverá obediência aos princípios da anterioridade e da noventena.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A história tem o poder de relembrar decisões absurdas, abmudas e de consequências desastrosas. Nesse contexto, considerando a promulgação da CF/88 e aquilo que nela disposto quanto aos empréstimos compulsórios, é correto afirmar que a tomada de decisão durante o governo Collor de Mello de apreensão dos ativos financeiros da poupança sob o pretexto de absorver o poder aquisitivo da população para em face da teoria econômica, da oferta e da procura, haver estabilidade dos preços, tratou-se de confisco.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -5965,6 +7189,14 @@
     },
     {
         "question": "Considerando o texto constitucional ipsis litteris, é correto afirmar que não há nenhum dispositivo constitucional excetuando empréstimo compulsório do princípio da noventena.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A doutrina e a jurisprudência falam de conceito constitucional de renda, portanto, é correto afirmar que é constitucional artigo de lei que proíbe dedução do valor da CSLL para fins de apuração do lucro real, base de cálculo do IRPJ.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -6023,6 +7255,22 @@
         "question": "Empresa Pública e Sociedade de Economia Mista que explore atividade econômica com fins lucrativos, pode ser beneficiária da imunidade tributária recíproca.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A imunidade recíproca, prevista na CF/88 não se estende a empresa privada arrendatária de imóvel público, quando seja ela exploradora de atividade econômica com fins lucrativos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A imunidade tributária recíproca não se aplica às taxas, sendo aplicável aos impostos.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -6127,18 +7375,36 @@
     },
     {
         "question": "Eleonora desejava adquirir um apartamento de Valdenice, tendo sido pactuado o preço em R$ 400.000,00, pois, o imóvel necessitava de ampla reforma, ainda que um imóvel naquela região custasse em torno de R$ 500.000,00. Para poder registrar o negócio jurídico, Eleonora foi informada pelo registrador de que deveria recolher o Imposto de Transmissão Inter Vivos (ITBI). Eleonora declarou ao fisco municipal o mesmo valor que constaria da escritura pública (R$ 400.000,00), mas o fisco não aceitou tal valor, arbitrando unilateralmente em R$ 500.000,00. À luz do CTN e do entendimento dominante dos Tribunais Superiores, é correto afirmar que:",
-        "choices": [],
+        "choices": [
+            "A) o registrador não poderia ser responsabilizado tributariamente pelo não recolhimento do ITBI;",
+            "B) o valor de R$ 400.000,00 declarado por Eleonora goza de presunção de ser condizente com o valor de mercado;",
+            "C) A apuração do valor venal do imóvel ocorre da mesma forma no ITBI e no IPTU;",
+            "D) o Fisco está correto em arbitrar unilateralmente o valor do imóvel em R$ 500.000,00, por ser este efetivamente o valor médio de mercado de um imóvel similar naquela região."
+        ],
         "correctAwser": "B",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A instituição de assistência social Casa dos Necessitados, sem fins lucrativos, adquiriu, junto à sociedade empresária ABC, diversos equipamentos que seriam integrados ao seu ativo permanente, visando ao pleno desenvolvimento de suas atividades regulares. Para surpresa dos seus diretores, constatou-se que, na nota fiscal emitida por ABC constava o imposto sobre circulação de mercadorias e sobre prestação de serviços de transporte interestadual e intermunicipal e comunicação (ICMS) devido pela operação de venda, na qual a Casa dos Necessitados figurava como adquirente. Nesse sentido, a incidência do ICMS é correta, pois, a imunidade subjetiva da Casa dos Necessitados somente incide quando figure como contribuinte de direito, não de fato.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
     },
     {
         "question": "Lei ordinária do Estado “A”, proibiu cobrança de ICMS nas contas de energia elétrica fornecida a templos de qualquer culto, desde que o imóvel esteja comprovadamente na propriedade ou posse da entidade religiosa e seja usado para a prática religiosa. Diante disso, à luz do entendimento do STF, é correto afirmar que:",
-        "choices": [],
+        "choices": [
+            "A) tal benefício quanto ao ICMS necessita de autorização por convênio do Conselho Nacional de Política Fazendária – CONFAZ;",
+            "B) tal benefício configura aplicação da imunidade tributária dos templos de qualquer culto;",
+            "C) a concessão de tal benefício não enseja guerra fiscal nem indevida competição entre os Estados;",
+            "D) os templos de qualquer culto são contribuintes de direito quanto ao ICMS cobrado nas faturas de energia elétrica."
+        ],
         "correctAwser": "C",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
+        "type": "MULTIPLE_CHOICE",
         "id": ""
     },
     {
@@ -6156,82 +7422,15 @@
     },
     {
         "question": "Suponha que determinada lei estadual, aprovada pela Assembleia Legislativa do Estado e publicada em julho de 2022, tenha criado uma taxa em razão do exercício do poder de polícia estatal. A referida taxa será considerada válida se:",
-        "choices": [],
-        "correctAwser": "false",
+        "choices": [
+            "A) até 31 de dezembro de 2023, 30% (trinta por cento) de sua receita for desvinculada do órgão estatal que fundamentou sua cobrança.",
+            "B) no cálculo do seu valor, for adotado elemento idêntico da base de cálculo própria de imposto.",
+            "C) o órgão competente para o exercício do poder de polícia ainda não tenha sido criado.",
+            "D) sua cobrança se iniciar imediatamente no exercício de 2022."
+        ],
+        "correctAwser": "A",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel pertencente às instituições de educação e de assistência social, sem fins lucrativos, desde que o valor dos aluguéis seja aplicado nas atividades para as quais tais entidades foram constituídas.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) incide sobre templos de qualquer culto, se as respectivas entidades religiosas figurarem como meras locatárias do bem imóvel.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Sobre as normas gerais de Direito Tributário, previstas no Código Tributário Nacional, é INCORRETO afirmar que a capacidade tributária passiva independe da capacidade civil.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Acerca das normas gerais de Direito Tributário com previsão no CTN, é incorreto afirmar que a responsabilidade por infrações da legislação tributária depende da intenção do agente ou do responsável.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "É INCORRETO afirmar que o lançamento reporta-se à data da ocorrência do fato gerador da obrigação e rege-se pela lei então vigente, ainda que posteriormente modificada ou revogada.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "No que concerne às normas gerais de Direito Tributário, previstas no Código Tributário Nacional, são solidariamente obrigadas as pessoas que tenham interesse comum na situação que constitua o fato gerador da obrigação principal.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Não será admitida, no período de cento e oitenta dias que antecedem o término da legislatura, a apresentação de projeto de lei que tenha por objeto a instituição ou a majoração de tributo estadual.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Acerca do processo legislativo em matéria tributária, é correto afirmar que deputado estadual pode propor uma lei concedendo isenção do Imposto sobre Transmissão Causa Mortis e Doação (ITCMD), ainda que implique redução de receita.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Os convênios autorizativos para a concessão de isenções do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) devem ser aprovados por dois terços dos representantes dos Estados presentes no Conselho Nacional de Política Fazendária.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
+        "type": "MULTIPLE_CHOICE",
         "id": ""
     },
     {
@@ -6258,14 +7457,6 @@
         "correctAwser": "C",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "MULTIPLE_CHOICE",
-        "id": ""
-    },
-    {
-        "question": "O protesto das Certidões de Dívida Ativa é considerado mecanismo inconstitucional e ilegítimo.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
         "id": ""
     },
     {
@@ -6465,14 +7656,6 @@
         "id": ""
     },
     {
-        "question": "É correto afirmar que a praticidade é um meio, nunca um fim em si mesmo, posto que, o princípio da praticidade tributária não prepondera na hipótese de violação de direitos e garantias dos contribuintes.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
         "question": "Questão 22 Decreto do Estado X foi editado contendo benefícios fiscais de ICMS em relação a laticínios, com a condição que os produtos beneficiados sejam produzidos no Estado. De acordo com o ordenamento jurídico brasileiro, a previsão contida na norma estadual é:",
         "choices": [
             "A) Inconstitucional, pois é vedado ao Estado estabelecer diferença tributária entre bens e serviços, de qualquer natureza em razão de sua procedência ou destino.",
@@ -6508,8 +7691,21 @@
     },
     {
         "question": "Questão 24 Os Municípios e o Distrito Federal poderão instituir contribuição para o custeio do serviço de iluminação pública. Há autorização para a cobrança da COSIP para:",
-        "choices": [],
+        "choices": [
+            "A) Financiar a iluminação dos semáforos, radares e câmeras de monitoramento de trânsito.",
+            "B) Obter dos usuários de um serviço uti singuli os meios de subvenção da rede de fornecimento de energia.",
+            "C) Custear o fornecimento de energia elétrica que tenha por objetivo a iluminação das vias internas de condomínios particulares.",
+            "D) Realizar-se a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos."
+        ],
         "correctAwser": "D",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A ocorrência do fato gerador dá nascimento a uma obrigação, que, no direito tributário, pode ter caráter principal ou acessório.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -6529,8 +7725,21 @@
     },
     {
         "question": "Questão 26 A cobrança judicial da dívida ativa é regida por lei própria e tem a aplicação subsidiária do Código de Processo Civil. A ação de execução fiscal:",
-        "choices": [],
+        "choices": [
+            "A) Será proposta no foro de domicílio do réu, no de sua residência ou no do lugar onde for encontrado.",
+            "B) Trará a indicação na petição inicial do Juiz a quem é dirigida, do pedido, do requerimento para a citação e do demonstrativo de cálculo do débito.",
+            "C) Quando proposta por conselhos de fiscalização profissional tem o piso mínimo para ajuizamento vinculado ao valor estabelecido como anuidade.",
+            "D) Apresenta competência de foro para julgamento que exclui a de qualquer outro juízo, exceto o da falência, da concordata, da liquidação, da insolvência ou do inventário."
+        ],
         "correctAwser": "A",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A constituição do crédito tributário tem como principal efeito tornar líquida, certa e exigível a obrigação já existente.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -6578,6 +7787,22 @@
         "id": ""
     },
     {
+        "question": "A possibilidade de cessão de precatórios decorrentes de ações previdenciárias não impede o juiz de controlar ex officio a validade de sua transmissão, negando a produção de efeitos a negócios jurídicos eivados de nulidade, independentemente de ajuizamento de ação própria",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A exceção prevista no Art. 100, caput, da Constituição, em favor dos créditos de natureza alimentícia, não dispensa a expedição de precatório, limitando-se a isentá-los da observância da ordem cronológica dos precatórios decorrentes de condenações de outra natureza.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O pagamento parcelado dos créditos não alimentares, na forma do Art. 78 do ADCT, não caracteriza preterição indevida de precatórios alimentares, desde que os primeiros tenham sido inscritos em exercício anterior ao da apresentação dos segundos, uma vez que, ressalvados os créditos de que trata o Art. 100, § 2º, da Constituição.",
         "choices": [],
         "correctAwser": "true",
@@ -6610,7 +7835,23 @@
         "id": ""
     },
     {
+        "question": "A Lei De Diretrizes Orçamentárias atenderá o disposto no § 2º do Art. 165 da Constituição e às normas relativas ao controle de custos e à avaliação dos resultados dos programas financiados com recursos dos orçamentos, bem como demais condições e exigências para transferências de recursos a entidades públicas e privadas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O STJ fixou tese preconizando que é ilegal o ato de não concessão de progressão funcional de servidor público, quando atendidos todos os requisitos legais, a despeito de superados os limites orçamentários previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de ente público, tendo em vista que a progressão é direito subjetivo do servidor, decorrente de determinação legal, estando compreendida na exceção prevista no inciso I do parágrafo único do Art. 22 da Lei Complementar nº 101/2000.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei de Responsabilidade Fiscal tem por escopo prevenir riscos ao equilíbrio econômico-orçamentário dos entes federativos. Por conseguinte, as condições legalmente fixadas para o desembolso de recursos públicos devem ser preenchidas ainda durante a fase de planejamento da ação estatal e não apenas na iminência da concretização do gasto, quando ausente tempo hábil para a correção de eventuais desvios.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -6915,6 +8156,14 @@
         "id": ""
     },
     {
+        "question": "A legalidade geral estabelece que ninguém será obrigado a fazer ou deixar de fazer algo senão por força de lei. Já a legalidade tributária agrega à garantia geral da legalidade um conteúdo extra, qualificando-a em matéria de instituição e de majoração de tributos, de forma que União, Estados, Distrito Federal e Municípios não podem exigir ou aumentar tributo sem lei que o estabeleça. Dessa forma, a legalidade tributária exige que os tributos sejam instituídos com base em lei ou por autorização legal, por meio, por exemplo, de Medidas Provisórias ou Decretos.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que concerne às limitações constitucionais ao poder de tributar, as garantias da isonomia e da vedação do confisco materializam critérios mínimos de justiça tributária, ao passo que as imunidades dos templos e dos livros, jornais e periódicos concretizam a liberdade de crença e da liberdade de expressão.",
         "choices": [],
         "correctAwser": "true",
@@ -6947,6 +8196,22 @@
         "question": "Suspendem a exigibilidade do crédito tributário a moratória, o depósito do seu montante integral, a transação e a concessão de medida liminar em mandado de segurança.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, mas não dispensa outras providências administrativas por parte do Fisco, que precisa promover o lançamento mediante notificação do contribuinte. Isso porque compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A obrigação acessória, pelo simples fato da sua inobservância, converte-se em obrigação principal relativamente à penalidade pecuniária.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -7020,6 +8285,14 @@
     {
         "question": "União, Estados, Distrito Federal e Municípios não podem instituir impostos sobre patrimônio, renda ou serviços, uns dos outros. Essa imunidade alcança todo imposto que possa comprometer o patrimônio, a renda e os serviços do ente imune, abrangendo, assim, todo e qualquer imposto presente ou futuro.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A imunidade incidente sobre livros, jornais e periódicos abrange também o papel eventualmente destinado à sua impressão, se for o caso. Trata-se de imunidade e não de isenção, que é um benefício fiscal que pressupõe a existência da competência tributária e o seu efetivo exercício, de modo que, tendo sido instituído determinado tributo, a isenção surge como um modo de desonerar determinado contribuinte ou operação. Assim, a imunidade exime o contribuinte dos deveres de colaboração para com o Fisco, isentando-o de figurar como substituto ou mesmo como responsável tributário.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
@@ -7027,8 +8300,21 @@
     },
     {
         "question": "O ato unilateral e precário da municipalidade em favor do administrado que pratica comércio ambulante em via pública é espécie de",
-        "choices": [],
+        "choices": [
+            "A) autorização de uso.",
+            "B) permissão de uso.",
+            "C) concessão de uso.",
+            "D) concessão de direito real de uso."
+        ],
         "correctAwser": "A",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A lei tributária aplica-se a ato ou fato pretérito, quando for expressamente interpretativa, excluída a aplicação de penalidade à infração dos dispositivos interpretados.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -7103,6 +8389,22 @@
         "id": ""
     },
     {
+        "question": "A planta genérica de valores consiste na atualização permanente e constante do cadastro imobiliário do município de determinados municípios, por meio do levantamento dos imóveis prediais e territoriais localizados na zona urbana do município.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A planta genérica de valores determinará o valor venal dos imóveis, o qual será utilizado exclusivamente como base de cálculo do Imposto sobre Propriedade Predial e Territorial Urbana (IPTU) e Imposto sobre Transmissão “inter vivos” de bens imóveis e direitos reais a eles relativos (ITBI).",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Para efeito de lançamento do Imposto sobre Propriedade Predial e Territorial Urbana (IPTU), servirá de base de cálculo o valor venal do imóvel constante do cadastro imobiliário, à época do lançamento.",
         "choices": [],
         "correctAwser": "false",
@@ -7132,7 +8434,7 @@
         "id": ""
     },
     {
-        "question": "Segundo o Art. 155, §6º, inciso I, da Constituição Federal, a quem cabe, mediante resolução, fixar as alíquotas mínimas do Imposto sobre a Propriedade de Veículos Automotores (IPVA)?",
+        "question": "Segundo o Art. 155, §6º, inciso I, da Constituição Federal, a quem cabe, mediante resolução, fixar as alíquotas mínimas do Imposto sobre a Propriedade de Veículos Automotores IPVA?",
         "choices": [
             "A) Poder Legislativo Estadual.",
             "B) Câmara dos Deputados Federais.",
@@ -7160,7 +8462,7 @@
     {
         "question": "Quanto as obrigações em matéria tributária, a subsidiariedade é um instituto jurídico que define o grau das relações entre os devedores e entre estes e o credor, indicando que cada um responde pela dívida toda, sem benefício de ordem.",
         "choices": [],
-        "correctAwser": "true",
+        "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -7183,6 +8485,14 @@
     },
     {
         "question": "Resolução específica disporá sobre as condições de parcelamento dos créditos tributários do devedor em recuperação judicial.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A concessão de parcelamento deve ser antecedida pela edição de resolução específica do Poder Legislativo com competência na matéria do respectivo tributo.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -7264,6 +8574,14 @@
         "id": ""
     },
     {
+        "question": "A mera perda patrimonial decorrente da atividade econômica não acarretará improbidade administrativa, mesmo quando comprovado ato doloso praticado com essa finalidade.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O sucessor ou o herdeiro daquele que causar dano ao erário ou que se enriquecer ilicitamente estão sujeitos apenas à obrigação de repará-lo até o limite do valor da herança ou do patrimônio transferido.",
         "choices": [],
         "correctAwser": "true",
@@ -7301,8 +8619,16 @@
             "A) I, II e IV, apenas.",
             "B) I, II, III, IV e V.",
             "C) I, III e IV, apenas.",
-            "D) II, III e IV, apenas.",
-            "A) respeito do regramento do Imposto Sobre a Propriedade Predial e Territorial Urbana – IPTU, é correto afirmar que",
+            "D) II, III e IV, apenas."
+        ],
+        "correctAwser": "A",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do regramento do Imposto Sobre a Propriedade Predial e Territorial Urbana – IPTU, é correto afirmar que",
+        "choices": [
             "A) considera-se ocorrido o fato gerador do IPTU no dia 31 de dezembro de cada exercício financeiro.",
             "B) a incidência do Imposto depende da regularidade do cadastro imobiliário junto à Divisão de Tributação.",
             "C) contribuinte do Imposto é o proprietário do imóvel, o titular do domínio útil ou seu possuidor.",
@@ -7315,14 +8641,35 @@
     },
     {
         "question": "Assinale a alternativa que contém ERRO acerca do Imposto sobre a Transmissão de Bens Imóveis - ITBI por ato oneroso Inter Vivos.",
-        "choices": [],
+        "choices": [
+            "A) É contribuinte do imposto o adquirente dos bens ou direitos transmitidos.",
+            "B) Para fins de apuração da base de cálculo, serão dedutíveis do valor venal eventuais dívidas que onerem o imóvel transmitido.",
+            "C) O valor venal real será apurado pelo Fisco e lançado de ofício quando a declaração do contribuinte não mereça fé, a critério da autoridade fiscal.",
+            "D) O imposto não incide na aquisição por usucapião."
+        ],
         "correctAwser": "B",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A incidência do imposto sobre serviços independerá da denominação dada ao serviço.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
     },
     {
         "question": "O imposto sobre serviço não incide sobre as exportações de serviços para o exterior do país.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A validade jurídica do ato praticado é determinante para a ocorrência do fato gerador do imposto sobre serviço.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
@@ -7333,6 +8680,14 @@
         "question": "O imposto sobre serviço - ISS não incide sobre serviços prestados através do regime de concessão do poder público.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A alíquota do imposto sobre serviços incidente sobre serviços de barbearia, cabeleireiros, manicuros, pedicuros e congêneres é de 2%.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "TRUE_FALSE",
         "id": ""
@@ -7369,8 +8724,16 @@
             "A) autotutela, que inibe a aplicação de severas sanções a entidades federativas por ato de gestão anterior, independentemente de o novo Administrador estar tomando as providências cabíveis à reparação dos danos ao erário.",
             "B) impessoalidade, segundo o qual não importa quem seja a pessoa natural atualmente ocupando o cargo de chefe do Executivo, devendo ocorrer a inscrição do município em cadastros restritivos fundada em irregularidades na gestão anterior, em qualquer hipótese.",
             "C) intranscendência subjetiva das sanções, que inibe a aplicação de severas sanções a entidades federativas por ato de gestão anterior, desde que o novo Administrador esteja tomando as providências cabíveis à reparação dos danos eventualmente cometidos.",
-            "D) continuidade da administração pública, segundo o qual não pode ocorrer interrupção fictícia das atividades administrativas, devendo ocorrer a inscrição do município em cadastros restritivos fundada em irregularidades na gestão anterior, em qualquer hipótese.",
-            "A) sociedade empresária Locação 100% Ltda., ativa no setor de locação de bens imóveis, seus e de terceiros, foi incorporada, em operação de alguns milhões de reais, pela sociedade empresária Locações Especiais Ltda., atuante no mesmo ramo de atividade. À luz da Constituição Federal, sobre a transmissão de bens imóveis da sociedade empresária Locação 100% Ltda. para a sociedade Locações Especiais Ltda. decorrente da incorporação,",
+            "D) continuidade da administração pública, segundo o qual não pode ocorrer interrupção fictícia das atividades administrativas, devendo ocorrer a inscrição do município em cadastros restritivos fundada em irregularidades na gestão anterior, em qualquer hipótese."
+        ],
+        "correctAwser": "C",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade empresária Locação 100% Ltda., ativa no setor de locação de bens imóveis, seus e de terceiros, foi incorporada, em operação de alguns milhões de reais, pela sociedade empresária Locações Especiais Ltda., atuante no mesmo ramo de atividade. À luz da Constituição Federal, sobre a transmissão de bens imóveis da sociedade empresária Locação 100% Ltda. para a sociedade Locações Especiais Ltda. decorrente da incorporação,",
+        "choices": [
             "A) incide ITBI, por ser a locação de imóveis a atividade preponderante da incorporadora.",
             "B) incide ITCMD, por ser qualificada tal transmissão como doação.",
             "C) incide ITCMD, por ocorrer tal transmissão entre duas pessoas jurídicas.",
@@ -7426,8 +8789,16 @@
             "A) com garantia real, no limite do valor do bem gravado.",
             "B) quirografários.",
             "C) extraconcursais.",
-            "D) decorrentes de acidentes de trabalho.",
-            "A) sociedade empresária Construções 100% Ltda., prestadora de serviços de construção, conservação e reforma a terceiros, deixou de declarar e de pagar ISS, tributo sujeito a lançamento por homologação, relativo a um período de 3 meses. A respeito desse cenário e à luz do Código Tributário Nacional, o Fisco Municipal poderá exercer seu direito de constituir o crédito tributário por meio de",
+            "D) decorrentes de acidentes de trabalho."
+        ],
+        "correctAwser": "B",
+        "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade empresária Construções 100% Ltda., prestadora de serviços de construção, conservação e reforma a terceiros, deixou de declarar e de pagar ISS, tributo sujeito a lançamento por homologação, relativo a um período de 3 meses. A respeito desse cenário e à luz do Código Tributário Nacional, o Fisco Municipal poderá exercer seu direito de constituir o crédito tributário por meio de",
+        "choices": [
             "A) autolançamento, extinguindo-se tal direito após 5 anos contados da ocorrência do fato gerador.",
             "B) lançamento por declaração, extinguindo-se tal direito após 5 anos contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.",
             "C) lançamento por declaração, extinguindo-se tal direito após 5 anos contados da ocorrência do fato gerador.",
@@ -7459,7 +8830,7 @@
             "C) Salvo disposição de lei em contrário, a responsabilidade por infrações da legislação tributária depende da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato",
             "D) A pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em outra é responsável pelos tributos devidos até à data do ato pelas pessoas jurídicas de direito privado fusionadas, transformadas ou incorporadas"
         ],
-        "correctAwser": "A",
+        "correctAwser": "",
         "categoryId": "09920563-cd53-4062-86c6-ca0ce694a0e1",
         "type": "MULTIPLE_CHOICE",
         "id": ""

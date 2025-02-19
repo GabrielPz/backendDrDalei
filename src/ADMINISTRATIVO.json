@@ -74,6 +74,14 @@
         "id": ""
     },
     {
+        "question": "A Administração tem o dever de explicitamente emitir decisão nos processos administrativos e sobre solicitações ou reclamações, em matéria de sua competência.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca dos princípios constitucionais aplicáveis à Administração Pública e do regime jurídico que lhes é decorrente, é CORRETO dizer o princípio da legalidade também se relaciona com a exigência de que a remuneração de servidores públicos somente possa ser fixada ou alterada por lei específica, sendo vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público.",
         "choices": [],
         "correctAwser": "true",
@@ -100,7 +108,31 @@
     {
         "question": "Quanto às medidas que podem ser adotadas pelo Poder Público em face do proprietário de solo urbano, podemos destacar a exigência de adequado aproveitamento, em se tratando de proprietário do solo urbano não edificado, subutilizado ou não utilizado.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A pena de parcelamento ou edificação compulsórios, em se tratando de proprietário do solo urbano não edificado, subutilizado ou não utilizado, é medida que pode ser adotada pelo poder público em face de proprietário de solo urbano.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A pena de confisco, sem direito à indenização, em se tratando de proprietário do solo urbano não edificado, subutilizado ou não utilizado que já sofreu penas mais brandas, pode ser utilizada pelo poder público em face do proprietário de solo urbano.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, em regra.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -246,6 +278,30 @@
     {
         "question": "Elias, advogado da Prefeitura Municipal de Santo Agostinho, é instado a emitir parecer jurídico sobre a possibilidade de aplicação da sanção de impedimento de licitar e contratar, cumulada com multa, a determinada empresa que não celebrou o contrato, quando convocada dentro do prazo de validade de sua proposta. Nesse contexto, não se justificar a imposição de penalidade mais grave, é possível aplicar a sanção de impedimento de licitar e contratar, limitada, contudo, ao prazo máximo de três anos.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei Federal nº 14.133/2021 trouxe importantes novidades relativas às licitações e contratações públicas, sobre as quais o órgão jurídico da Prefeitura Municipal deverá estar atento. Em relação à atuação dos municípios nesta seara, é correto afirmar que órgãos e entidades da Administração Pública federal poderão aderir a ata de registro de preços gerenciada por órgão ou entidade municipal.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A partir de 1º de janeiro de 2024, passou a ser obrigatória a realização das contratações públicas, por meio do Portal Nacional de Contratações Públicas (PNCP) pelos órgãos e entidades dos Poderes Executivo, Legislativo e Judiciário de todos os entes federativos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sanção de declaração de inidoneidade para licitar ou contratar será precedida de análise jurídica e, quando aplicada por órgão do Poder Executivo, será de competência exclusiva de secretário municipal e, quando aplicada por autarquia ou fundação, será de competência exclusiva da autoridade máxima da entidade.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -316,6 +372,14 @@
         "id": ""
     },
     {
+        "question": "A sociedade ABC pleiteou um ato discricionário perante a Administração Pública Municipal, de modo que cabe ao órgão competente analisar da conveniência e oportunidade para fins de deferimento do pedido formulado, no âmbito do mérito administrativo.  Diante dessa situação hipotética, é correto afirmar que os elementos do ato administrativo que integram o respectivo mérito são, motivo e objeto.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Igor, adolescente, é estudante de uma escola pública municipal, que após diversas ameaças que eram de conhecimento de todos no ambiente escolar, agrediu a também adolescente e aluna da instituição Julia, sua antiga namorada. Tal fato ocorreu em sala de aula, durante o período letivo, na presença de professores e inspetores, que nada fizeram, é certo que Julia sofreu lesões graves, razão pela qual seus genitores almejam buscar a responsabilização civil do respectivo ente federativo. Diante dessa situação hipotética, o Município em questão, não responde objetivamente em âmbito civil pelos danos causados a Júlia, pois, não tinha o dever de guarda, vigilância e proteção da aluna na instituição pública.",
         "choices": [],
         "correctAwser": "false",
@@ -325,6 +389,14 @@
     },
     {
         "question": "Ao compulsar a Lei nº 13.334/2016, que regulamenta o Programa de Parcerias de Investimentos - PPI, Victor observou que, atendidas as peculiaridades especificadas na mencionada norma, diversos negócios públicos-privados podem ser considerados contratos de parceria, entre os quais está expressamente indicado, o arrendamento de bem público.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A permissão de uso de bem público, pode ser considerada contrato de parceria.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -340,9 +412,25 @@
         "id": ""
     },
     {
+        "question": "A autoridade competente do Município de Maranhal precisa indicar servidor de seus quadros para o exercício da atribuição de fiscal do contrato, para o que foi cogitado o nome de Clênio, em razão dele já atuar como agente da contratação, ponderando-se, contudo, os riscos envolvidos no exercício simultâneo de tais atividades. Diante disso, e considerando os princípios da Lei nº 14.133/2021, é correto afirmar que a indicação de Clênio, não é viável, diante do princípio da segregação das funções.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Ao estudar direito administrativo para concurso público, Gorete verificou que a doutrina administrativista distingue o ato administrativo do fato administrativo, de modo que concluiu, corretamente, que é exemplo desse último, a multa administrativa.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A desapropriação indireta, é exemplo de fato administrativo.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -375,6 +463,14 @@
         "question": "Compete ao STJ processar e julgar originalmente, os mandados de segurança e os habeas data contra ato dos Comandantes da Marinha, do Exército e da Aeronáutica.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei n.º 14.133, de 1º de abril de 2021 (Nova Lei de Licitações e Contratos Administrativos), estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios. Consoante as disposições da citada lei, a contratação da execução da obra ou do serviço por preço certo de unidades determinadas é denominada de empreitada integral.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -459,6 +555,14 @@
         "id": ""
     },
     {
+        "question": "A sociedade empresária XYZ, após tomar ciência de que o Município Alfa realizará licitação pública envolvendo valores pecuniários elevados, determina que a sua assessoria jurídica analise a Lei de Licitações e Contratos Administrativos, para orientar os diretores da entidade sobre as hipóteses em que o contratado terá direito à extinção da avença administrativa. Busca-se, assim, permitir que o grupo empresarial tome uma decisão informada sobre a participação ou não no procedimento licitatório. Nesse cenário, considerando as disposições da  Lei nº 14.133/2021, é correto afirmar que o contratado  terá direito à extinção do contrato administrativo na hipótese de não liberação pela Administração, nos prazos contratuais, de área, local ou objeto, para execução de obra, serviço ou fornecimento, e de fontes de materiais naturais especificadas no projeto, inclusive devido a atraso ou descumprimento das obrigações atribuídas pelo contrato à Administração relacionadas a desapropriação, a desocupação de áreas públicas ou a licenciamento ambiental.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O Município Alfa e a sociedade empresária XYZ, após a observância das formalidades legais inerentes ao devido procedimento licitatório, celebraram contrato de parceria público-privada, nos termos da legislação de regência.  Nesse cenário, considerando as disposições da  Lei nº 11.079/2004, é correto afirmar que as cláusulas  do contrato de parceria público-privada deverão prever o compartilhamento com a Administração Pública de ganhos econômicos efetivos do parceiro privado decorrentes da redução do risco de crédito dos financiamentos utilizados pelo parceiro privado.",
         "choices": [],
         "correctAwser": "true",
@@ -491,6 +595,14 @@
         "id": ""
     },
     {
+        "question": "A aposentadoria compulsória de membro do Ministério Público que completa 75 (setenta  cinco anos de idade) é um ato administrativo vinculado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Conforme a Constituição da República Federativa do Brasil, somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação.",
         "choices": [],
         "correctAwser": "true",
@@ -508,6 +620,14 @@
     },
     {
         "question": "Podem qualificar-se como Organizações da Sociedade Civil de Interesse Público as pessoas jurídicas de direito privado sem fins lucrativos que tenham sido constituídas e se encontrem em funcionamento regular há, no mínimo, 3 (três) anos, desde que os respectivos objetivos sociais e normas estatutárias atendam aos requisitos instituídos pela Lei n. 9.790/1999. Referida lei dispõe que é permitida a participação de servidores públicos na composição de conselho ou diretoria de Organização da Sociedade Civil de Interesse Público.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A requisição, estabelecida no art. 5º, XXV, da Constituição da República Federativa do Brasil, consiste na utilização transitória, onerosa, compulsória, pessoal, discricionária e auto executável de um bem privado pelo Estado em situações de iminente perigo público.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -589,6 +709,14 @@
     {
         "question": "Nos termos da Lei n. 8.666/1993, quando o convocado não assinar o termo de contrato o prazo e condições estabelecidos, é facultado à Administração convocar os licitantes remanescentes, na ordem de classificação, para fazê-lo em igual prazo e nas mesmas condições propostas pelo primeiro classificado, inclusive quanto aos preços atualizados de conformidade com o ato convocatório.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei do Processo Administrativo prevê que um órgão administrativo e seu titular poderão delegar parte da sua competência a outros órgãos ou titulares, desde que estes lhe sejam hierarquicamente subordinados, não haja impedimento legal, e quando for conveniente, em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -619,6 +747,14 @@
         "id": ""
     },
     {
+        "question": "A matriz de risco é delineada como a cláusula contratual definidora de riscos e de responsabilidades entre as partes e caracterizadora do equilíbrio econômico-financeiro inicial do contrato. Acerca da mencionada cláusula contratual: A alocação de riscos considerará a natureza do risco, o beneficiário das prestações a que se vincula e a capacidade de cada setor para melhor gerenciá-lo, sendo certo que os riscos que tenham cobertura oferecida por seguradoras serão preferencialmente transferidos ao contratado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca da matriz de risco, como cláusula contratual, a opção pela realização da matriz de risco submete-se à discricionariedade da Administração Pública, razão pela qual não há obrigatoriedade de estabelecimento de tal cláusula em nenhuma hipótese de contratação a ser realizada.",
         "choices": [],
         "correctAwser": "false",
@@ -637,6 +773,14 @@
     {
         "question": "Ao tomar conhecimento da viabilidade de contratações sucessivas para aquisição de bens e serviços, as autoridades passaram a analisar as normas atinentes ao sistema de registro de preços constantes da Lei nº 14.133/2021, vindo a apurar corretamente que, é possível contratar execução de obras e serviços de engenharia pelo sistema de registro de preços, desde que atendidos os requisitos de existência de projeto padronizado sem complexidade técnica e da necessidade permanente ou frequente da obra ou serviço a ser contratado.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A existência de preços registrados implica no compromisso de fornecimento nas condições estabelecidas, obrigando a Administração a realizar a contratação nos termos da respectiva ata.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -652,6 +796,14 @@
     },
     {
         "question": "João e Matheus são acionistas da sociedade empresária XYZ, e pretendem participar de processo licitatório que será, oportunamente, realizado pelo Estado Alfa, para aquisição de bens comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto. Nesse cenário, a modalidade de licitação que a sociedade empresária XYZ irá participar, será Pregão.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade empresária Tico & Teco, após a observância das formalidades legais, celebrou contrato administrativo com o Estado Alfa, para fins de fornecimento de bens, produzidos no Brasil e que envolvam, cumulativamente, alta complexidade tecnológica e defesa nacional.  Nesse cenário, é correto afirmar que o contrato administrativo celebrado entre o Estado Alfa e a sociedade empresária Tico & Teco terá o prazo de até dez (10) anos.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -699,6 +851,14 @@
         "id": ""
     },
     {
+        "question": "A prestação de informações falsas por Ministro de Estado, constitui crime de responsabilidade na hipótese de pedido escrito de informações feito pelas Mesas da Câmara dos Deputados ou do Senado Federal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O retardo na liquidação regular dos precatórios, por parte do Presidente do Tribunal de Justiça de determinado Estado da federação, constitui crime de responsabilidade.",
         "choices": [],
         "correctAwser": "true",
@@ -716,6 +876,30 @@
     },
     {
         "question": "Considerando a jurisprudência sumulada do Superior Tribunal de Justiça e do Supremo Tribunal Federal, é correto o entendimento de que desde que devidamente motivada e com amparo em investigação ou sindicância, é permitida a instauração de processo administrativo disciplinar com base em denúncia anônima.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "B) O excesso de prazo para a conclusão do processo administrativo disciplinar causa nulidade independentemente de demonstração de prejuízo à defesa.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A falta de defesa técnica por advogado no processo administrativo disciplinar ofende a Constituição.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teratologia no procedimento do processo administrativo disciplinar não autoriza a incursão no mérito administrativo quando exercido o controle jurisdicional do processo administrativo disciplinar.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -755,9 +939,49 @@
         "id": ""
     },
     {
+        "question": "A Constituição traz como uma das espécies de crime de responsabilidade do Presidente da República atos que atentem contra o livre exercício do Poder Judiciário.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e organizações da administração direta e indireta segundo o artigo 70 da constituição precisa ser feita por meio de sistema de controle externo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A fiscalização contábil, financeira e orçamentária é desenvolvida segundo um conjunto de terminologias e práticas vinculadas constitucionalmente. Nesse sentido, a terminologia “legitimidade” está atrelada a análise de obediência à Lei.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Quanto à fiscalização contábil, financeira e orçamentária é correto afirmar que a aplicação das subvenções e renúncia de receitas está atrelada a análise dos incentivos oferecidos pela administração pública.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A “economicidade” enquanto terminologia e prática vinculada constitucionalmente, está atrelada a análise do custo benefício das ações públicas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A “legalidade” está ligada a análise pela percepção da população quanto a gestão pública.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -835,9 +1059,41 @@
         "id": ""
     },
     {
+        "question": "A instalação de uma fábrica do setor automotivo na Região Norte do País, podendo a empresa ser beneficiada por uma isenção de IPI, é exemplo do princípio da redução das desigualdades sociais e regionais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Exemplo do princípio da redução das desigualdades sociais e regionais, são os empréstimos consignados com diferenciação para funcionários públicos da União.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A diferenciação na aplicação de impostos proporcional ao volume comercializado por empresas do setor têxtil em região com população superior a um milhão de habitantes, pode ser considerado exemplo do princípio da redução das desigualdades sociais e regionais.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A isenção fiscal para indústria do setor petrolífero com atuação em zona periférica urbana, sem sombra de dúvidas é ato demonstrativo do princípio da redução das desigualdades sociais e regionais.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A extinção de pagamento é estabelecida segundo a legislação sob formas diferentes. Assim é correto afirmar, que a extinção satisfatória cabe em situações de consignação em pagamento, pagamento em sub-rogação ou imputação do pagamento.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -852,8 +1108,15 @@
     },
     {
         "question": "O nexo de causalidade é o termo jurídico caracterizado por um pressuposto da responsabilidade civil sendo o elo entre o dano e o agente com relação entre causa e efeito entre o ato praticado e sua consequência.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A legalidade e racionalidade processual deve ser o modo de operação padrão da administração pública. Assinale a alternativa correspondente à ação que deve ser motivada formalmente, fazendo parte dispositiva sendo precedida de uma explicação ou exposição de fundamentos de fato e de direito.",
         "choices": [
-            "A) legalidade e racionalidade processual deve ser o modo de operação padrão da administração pública. Assinale a alternativa correspondente à ação que deve ser motivada formalmente, fazendo parte dispositiva sendo precedida de uma explicação ou exposição de fundamentos de fato e de direito.",
             "A) Poder de polícia.",
             "B) Decisões administrativas.",
             "C) Ação privativa do Estado.",
@@ -883,8 +1146,16 @@
             "A) Controle de legalidade.",
             "B) Controle adversativo.",
             "C) Controle de mérito.",
-            "D) Controle vertical.",
-            "A) respeito da tipologia de atos administrativos, assinale a alternativa correspondente ao tipo de ato administrativo que inclui avisos, portarias, ordens de serviços, ofícios e despachos.",
+            "D) Controle vertical."
+        ],
+        "correctAwser": "C",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da tipologia de atos administrativos, assinale a alternativa correspondente ao tipo de ato administrativo que inclui avisos, portarias, ordens de serviços, ofícios e despachos.",
+        "choices": [
             "A) Normativos.",
             "B) Regulatórios.",
             "C) Emergenciais.",
@@ -965,6 +1236,14 @@
         "id": ""
     },
     {
+        "question": "A declaração do Estado ou de quem o represente com produção de efeitos jurídicos imediatos, é, para todos os efeitos, um ato administrativo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que tange à improbidade administrativa, é correto afirmar que corresponde às condutas consideradas desonestas e que podem incorrer desde o uso indevido de recursos públicos até o favorecimento ilícito de empresas e indivíduos em licitações e contratos.",
         "choices": [],
         "correctAwser": "true",
@@ -982,6 +1261,14 @@
     },
     {
         "question": "Marcelo servidor público tomou uma decisão administrativa sem base legal específica, pensando naquilo que seria melhor para a administração. Tempos depois, um superior hierárquico, identificou que o ato administrativo não estava em conformidade com o ordenamento jurídico em vigor.  Nesse caso, a decisão deve ser reavaliada e possivelmente anulada, conforme o princípio da autotutela, garantindo que todos os atos administrativos estejam em consonância com a lei.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria do risco administrativo é uma das bases da responsabilidade civil do Estado.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -1101,6 +1388,14 @@
         "id": ""
     },
     {
+        "question": "A Lei nº 11.107/2005 dispõe sobre normas gerais de contratação de consórcios públicos. De acordo com o citado diploma legal, o consórcio público constituirá associação pública ou pessoa jurídica de direito privado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "De acordo com a Lei nº 9.784/1999, que trata do processo administrativo federal, a motivação deve ser explícita, clara e congruente, podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, neste caso, serão parte integrante do ato, configurando o que a doutrina denomina de motivação aliunde.",
         "choices": [],
         "correctAwser": "true",
@@ -1141,7 +1436,23 @@
         "id": ""
     },
     {
+        "question": "A sociedade de economia mista Beta do Município X recebeu formalmente, por meio de lei específica, delegação do poder de polícia do Município para prestar serviço de policiamento do trânsito na cidade, inclusive para aplicar multa aos infratores. Por entender que o Município X não poderia delegar o poder de polícia a pessoa jurídica de direito privado, o M.P. ajuizou ação civil pública pleiteando a declaração de nulidade da delegação e das multas aplicadas, assim como a assunção imediata do serviço pelo Município. De acordo com a atual jurisprudência do STF em tema de repercussão geral, a pretensão ministerial: não deve ser acolhida, pois é constitucional a delegação do poder de polícia na forma realizada, inclusive no que concerne à sanção de polícia.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Dino, pai de três filhos e atualmente em seu segundo casamento, resolveu adquirir um imóvel, em área nobre de Salvador, para com ele presentear o caçula, único filho da sua atual união conjugal. Para isso, vendeu um dos seus cinco imóveis e, com o dinheiro obtido, adquiriu o imóvel para o filho caçula; e colocou na escritura pública de venda e compra, de comum acordo com os vendedores do referido imóvel, o filho caçula como comprador do bem. Alguns meses depois, os outros dois filhos tomaram conhecimento das transações realizadas e resolveram ajuizar ação judicial contra Dino, alegando que haviam sofrido prejuízos. Nesse contexto, devem alegar simulação relativa, devendo ser reconhecida a invalidade da venda e compra e declarada a validade da doação, que importará adiantamento da legítima.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito de registro de imóveis, de acordo com o STJ, o procedimento de dúvida registral previsto na Lei de Registros Públicos tem natureza administrativa, não constituindo prestação jurisdicional.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -1239,6 +1550,30 @@
     {
         "question": "O gun jumping consiste na consumação de atos de concentração econômica antes de eles serem autorizados pelo CADE, sendo uma prática vedada pela legislação brasileira.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A convenção 169 da OIT, é um instrumento de proteção dos direitos humanos dos povos indígenas e tribais e determina que os governos respeitem a identidade étnica e cultural, os costumes e as tradições desses povos, e, para tanto, utiliza-se de duas premissas básicas e fundamentais: respeito e participação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autodeterminação dos povos tribais e indígenas prevista nessa convenção requer o consentimento do Estado, logo, segundo esse critério, deve-se respeitar, no Brasil, o marco temporal, ou seja, somente as comunidades tribais e indígenas que estavam ocupando seus territórios em 1988 possuem o direito à autodeterminação.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos direitos da comunidade LGBTQIAPN+, inexiste qualquer proteção criminal contra a homofobia, a transfobia e a violência baseada na orientação sexual e identidade de gênero, o que demonstra a falta de empenho do Estado no combate à violência e crimes de ódio contra as pessoas LGBTQIAPN+.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -1270,6 +1605,14 @@
     },
     {
         "question": "De acordo com o Estatuto da Igualdade Racial, as políticas de ação afirmativa e outras políticas públicas que tenham como objetivos a igualdade de oportunidades e a inclusão social da população negra devem ser observadas nos planos plurianuais e orçamentos da União.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do papel do MP na aplicação do Estatuto da Pessoa com Deficiência (Lei n.º 13.146/2015), este atua como fiscal da lei e defensor dos direitos das pessoas com deficiência.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -1396,17 +1739,9 @@
         "id": ""
     },
     {
-        "question": "De acordo com a Lei n.º 11.079/2004, que dispõe sobre as parcerias público-privadas, o seguro-garantia fornecido por instituição privada é modalidade apta a garantir as obrigações pecuniárias contraídas pela administração pública.",
+        "question": "stração pública.",
         "choices": [],
         "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O aporte de bem de uso comum no fundo garantidor de parcerias público-privadas previsto na Lei nº 11.079/2004, independe de sua desafetação.",
-        "choices": [],
-        "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -1415,6 +1750,14 @@
         "question": "É defeso à administração pública, prever em edital a possibilidade de a licitante retificar a proposta e os documentos de habilitação no curso do procedimento.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A concorrência e o diálogo competitivo são modalidades de licitação aplicáveis às parcerias público-privadas reguladas pela Lei nº 11.079/2004.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -1452,7 +1795,31 @@
         "id": ""
     },
     {
+        "question": "A respeito do princípio da publicidade da Administração Pública, em regra, funciona no Direito Brasileiro como condição de validade dos atos administrativos.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O princípio da publicidade impõe à Administração a adoção da transparência ativa e passiva.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A fim de cumprir o dever de informar, a Constituição Federal assegura que o acesso a informações públicas deve ser realizado independentemente do pagamento de taxa e da cobrança de valores ressarcitórios para a sua reprodução.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A publicidade de atos, programas e serviços e campanhas de órgãos públicos tem como objetivo educar, informar e orientar, não sendo vedado, em função do princípio democrático, vinculá-la ao gestor público legitimamente eleito.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -1484,9 +1851,33 @@
         "id": ""
     },
     {
-        "question": "Considere que, no Município X, a Administração exige o pagamento mensal pela exploração de quiosques instalados em uma praça pública e que, ao lado dessa praça, há um pátio em que estão alocadas viaturas policiais que não são mais adequadas à atividade de policiamento. Com base na teoria dos bens públicos, as viaturas estão desafetadas ao interesse público e, respeitadas as condições legais, poderão ser objeto de alienação.",
+        "question": "A discricionariedade autoriza o agente público a agir fora dos limites previstos em lei, quando a sua conduta estiver fundada na supremacia do interesse público sobre o privado.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "Considere que, no Município X, a Administração exige o pagamento mensal pela exploração de quiosques instalados em uma praça pública e que, ao lado dessa praça, há um pátio em que estão alocadas viaturas policiais que não são mais adequadas à atividade de policiamento. Com base na teoria dos bens públicos, as viaturas estão desafetadas ao interesse público e, respeitadas as condições legais, poderão ser objeto de alienação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do exercício do controle da Administração Pública com base nas diretrizes da Lei de Introdução às Normas do Direito Brasileiro, em função da independência existente entre as esferas civil, administrativa e penal, as sanções aplicadas ao agente não levarão em conta na dosimetria as demais sanções de mesma natureza e relativas ao mesmo fato.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A decisão que na esfera controladora decretar a invalidação de um ato, deverá indicar de modo expresso as suas consequências jurídicas e administrativas.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -1534,6 +1925,14 @@
     {
         "question": "Sobre a estrutura do Poder Judiciário e respectiva jurisdição, à luz da previsão expressa do artigo 92 da Constituição Federal de 1988, o Conselho Nacional de Justiça e os Tribunais Superiores são considerados órgãos do Judiciário e têm sede na capital federal.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Justiça Desportiva é considerada órgão do Poder Judiciário, com autonomia e âmbito nacional de jurisdição.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -1549,6 +1948,14 @@
     },
     {
         "question": "Há vedação de acesso ao cargo de Procurador Geral da República ao brasileiro naturalizado.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A vedação de acesso ao brasileiro naturalizado é restrita a cargos eletivos federais e carreira diplomática.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -1581,6 +1988,62 @@
     },
     {
         "question": "João é escrevente judiciário, trabalha na secretaria de uma Vara da Fazenda Pública e é responsável por, nos estritos limites de suas atribuições legais, dar andamento aos processos judiciais de improbidade administrativa. Ao chegar ao seu local de trabalho e abrir o sistema de acompanhamento de processos do Tribunal de Justiça, deparou-se com uma ação de improbidade, na qual o Ministério Público, em incidente, apresenta pedido de indisponibilidade de bens dos réus, que foi acolhido pelo Magistrado. Considerando a situação hipotética e o disposto na Lei no 8.429/92, João poderá concluir, de forma correta, que o Magistrado pode permitir a substituição da garantia por seguro-garantia judicial, caso seja realizada penhora em dinheiro.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A indisponibilidade de bens, para ser válida, precisa ser precedida de prévia oitiva dos réus.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A penhora, em regra, poderá incidir sobre bens de família dos réus, em função do princípio da supremacia do interesse público.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A realização da penhora deverá considerar a preservação do princípio da moralidade e a indisponibilidade incidirá sobre os bens dos réus, ainda que isso acarrete prejuízo à prestação de serviços públicos.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da prescrição da ação para aplicação das  sanções previstas na Lei 8.429/92, interrompida a prescrição, o prazo recomeça a correr do dia da interrupção, pela metade do prazo previsto em lei.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A suspensão da prescrição produz efeitos individualmente para cada um dos que concorreram para a prática do ato de improbidade administrativa, ainda que não sejam parte do mesmo processo judicial.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito das penas disciplinares, de acordo com a Lei no 10.261/68, é correto afirmar que a pena de repreensão poderá ser aplicada oralmente, nos casos de indisciplina ou falta no cumprimento dos deveres do servidor público.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A pena de suspensão não excederá o prazo de 120 (cento e vinte) dias.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -1756,6 +2219,14 @@
         "id": ""
     },
     {
+        "question": "A licitação para registro de preços somente pode ser realizada nas modalidades de pregão ou de concorrência, devendo esta ser do tipo menor preço, e ambas serem precedidas de ampla pesquisa de mercado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Independentemente do regime que vier a ser adotado, obras e serviços de engenharia cuja concretização utilize o regime diferenciado de contratação não poderão ser realizados sem projeto executivo.",
         "choices": [],
         "correctAwser": "false",
@@ -1844,6 +2315,14 @@
         "id": ""
     },
     {
+        "question": "A mutação constitucional corresponde ao processo formal de modificação do texto constitucional.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Contemporaneamente, entende-se que o exercício de interpretação constitucional não é equivalente à busca da vontade original dos constituintes.",
         "choices": [],
         "correctAwser": "false",
@@ -1901,6 +2380,14 @@
     },
     {
         "question": "João é agente público no âmbito da empresa pública XYZ, integrante da Administração Pública Indireta e responsável pela prestação de um determinado serviço público à coletividade. Um dia, João, no exercício da função, dolosamente causou dano material ao particular Luiz. Na mesma data, Matheus, empregado da sociedade empresária ABC, que presta um serviço público à população do Estado Alfa, após celebrar um contrato administrativo com o Poder Público, gerou, por culpa e ao exercer as suas funções, dano material ao transeunte Cléber, que não é usuário do serviço público fornecido pela entidade privada. Nesse cenário, a empresa pública XYZ e a sociedade empresária ABC responderão objetivamente pelos danos causados aos particulares Luiz e Cléber.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade empresária XYZ, com sede no Brasil, praticou, durante anos, atos contra a Administração Pública, fraudando, mediante ajuste, o caráter competitivo de diversos procedimentos licitatórios realizados pelo Estado Alfa. Após a descoberta dos eventos e a demissão dos empresários envolvidos, o novo diretor executivo da entidade buscou, junto à sua equipe técnica, informações sobre a instauração de um potencial processo administrativo para apuração da responsabilidade da pessoa jurídica na esfera administrativa e civil. Nesse cenário, considerando as disposições da Lei nº 12.846/2013, é correto afirmar que no processo administrativo para apuração de responsabilidade, será concedido à pessoa jurídica prazo de trinta dias para defesa, contados a partir da intimação.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -2014,6 +2501,22 @@
     {
         "question": "São atributos do poder de polícia a discricionariedade, a autoexecutoriedade e a coercibilidade.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autoexecutoriedade é a possibilidade que tem a Administração de, com os próprios meios, executar suas decisões, sem a necessidade de recorrer previamente ao Poder Judiciário.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autoexecutoriedade é uma característica inerente a toda e qualquer medida de polícia.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -2068,7 +2571,39 @@
         "id": ""
     },
     {
+        "question": "A teoria da responsabilidade objetiva, adotada no Direito Administrativo brasileiro, estabelece que a Administração Pública é responsável pelos danos causados por seus agentes, independentemente da comprovação de culpa.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Teoria dos Motivos Determinantes, no contexto do Direito Administrativo, estabelece que a Administração Pública é vinculada às razões explicitadas nos atos administrativos, sendo vedada a alteração desses motivos durante a execução do ato.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A desconcentração, enquanto forma de distribuição de competências dentro da mesma pessoa jurídica, assemelha-se à descentralização, mas difere desta pela ausência de autonomia para os órgãos desconcentrados.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O instituto da \"teoria dos motivos determinantes\" no Direito Administrativo estabelece que a Administração Pública pode anular seus próprios atos quando os motivos que os ensejaram forem ilegais ou inexistentes, independentemente de decisão judicial",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A delegação de competência na Administração Pública é um ato irrevogável, uma vez que visa descentralizar a tomada de decisões para uma eficiente execução das atividades administrativas.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -2076,7 +2611,23 @@
         "id": ""
     },
     {
+        "question": "A doutrina do \"Parens Patriae\" confere ao Estado o poder de intervir em situações que envolvem interesses difusos e coletivos, permitindo que esse atue como protetor dos interesses da sociedade em casos específicos, mesmo sem a existência de lesão individualizada.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O princípio da legalidade, no âmbito do Direito Administrativo brasileiro, restringe a atuação da Administração Pública àquilo que é expressamente previsto em lei, sendo vedado qualquer ato administrativo que não tenha respaldo normativo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A descentralização administrativa é caracterizada pela transferência de competências da União para os estados, municípios e Distrito Federal, visando uma maior autonomia na gestão pública. Portanto, a criação de autarquias e fundações públicas é um exemplo prático desse processo.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -2108,6 +2659,30 @@
         "id": ""
     },
     {
+        "question": "A prescrição no âmbito disciplinar, prevista no Regime Jurídico dos Servidores Públicos Civis da União, é um instituto que impede a Administração Pública de apurar e aplicar penalidades após transcorrido determinado prazo, sendo esse prazo contado a partir da ciência da autoridade competente.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A licitação é dispensável nas contratações de serviços de engenharia, desde que o valor da obra seja inferior a 20% do limite previsto para modalidade convite, segundo a Lei de Licitações (Lei nº 8.666/1993).",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A doutrina da supremacia do interesse público sobre o privado implica que, em casos de colisão de interesses, o interesse público sempre prevalece, justificando medidas restritivas mesmo diante de direitos individuais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O Poder Regulamentar, conferido ao Chefe do Poder Executivo, permite a edição de decretos e regulamentos que podem contrariar as leis, desde que sejam necessários para a fiel execução das normas jurídicas.",
         "choices": [],
         "correctAwser": "false",
@@ -2121,8 +2696,16 @@
             "A) acordo de cooperação.",
             "B) convênio.",
             "C) termo de colaboração.",
-            "D) termo de fomento.",
-            "A) doutrina do Direito Administrativo indica hipóteses em que é racionalmente impossível a convalidação de vícios do ato administrativo, pois, se o mesmo conteúdo fosse novamente produzido, seria reproduzida a invalidade anterior. Segundo esse posicionamento, a convalidação é racionalmente impossível se o ato administrativo apresentar vícios relativos",
+            "D) termo de fomento."
+        ],
+        "correctAwser": "A",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A doutrina do Direito Administrativo indica hipóteses em que é racionalmente impossível a convalidação de vícios do ato administrativo, pois, se o mesmo conteúdo fosse novamente produzido, seria reproduzida a invalidade anterior. Segundo esse posicionamento, a convalidação é racionalmente impossível se o ato administrativo apresentar vícios relativos",
+        "choices": [
             "A) à competência, à finalidade e ao motivo.",
             "B) à competência e ao objeto, apenas.",
             "C) ao objeto, à finalidade, ao motivo e à causa.",
@@ -2161,8 +2744,21 @@
     },
     {
         "question": "O procedimento que visa a selecionar previamente bens que atendam às exigências técnicas ou de qualidade estabelecidas pela Administração denomina-se",
-        "choices": [],
+        "choices": [
+            "A) catálogo de padronização.",
+            "B) credenciamento.",
+            "C) pré-qualificação.",
+            "D) registro de preços."
+        ],
         "correctAwser": "C",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A intervenção federal da União nos Estados e no Distrito Federal será possível para assegurar o sistema representativo e o regime democrático.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2177,6 +2773,14 @@
     },
     {
         "question": "Pode a União, intervir nos Estados membros e no Distrito Federal, para assegurar a autonomia municipal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A intervenção federal da União nos Estados e no Distrito Federal é possível para assegurar a aplicação do mínimo exigido da receita resultante de impostos municipais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -2241,6 +2845,14 @@
     },
     {
         "question": "Na hipótese de nenhum dos licitantes remanescentes aceitar a contratação nas condições propostas pelo licitante vencedor, a Administração poderá convocar esses licitantes para negociação, na ordem de classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço do adjudicatário, observados o valor estimado e sua eventual atualização nos termos do edital.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da política tarifária nas concessões de serviços públicos, conforme as normas gerais sobre o regime de concessão e permissão da prestação de serviços públicos, a criação, alteração ou extinção de quaisquer tributos ou encargos legais, após a apresentação da proposta, quando comprovado seu impacto, implicará a revisão da tarifa, ressalvados os impostos sobre a renda.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -2314,7 +2926,7 @@
     {
         "question": "O novo regime prescricional previsto na Lei nº 14.230/2021 é irretroativo, aplicando-se os novos marcos temporais a partir da publicação da lei.",
         "choices": [],
-        "correctAwser": "true",
+        "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2354,6 +2966,14 @@
         "id": ""
     },
     {
+        "question": "A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Os servidores públicos podem ser remunerados acima do teto constitucional, conforme a discricionariedade da administração.",
         "choices": [],
         "correctAwser": "false",
@@ -2384,6 +3004,14 @@
     },
     {
         "question": "Em relação ao ciclo orçamentário governamental, é correto afirmar que a sequência a seguir, descreve corretamente as fases e a ordem de execução: elaboração, apreciação legislativa, execução, controle e avaliação, aprovação legislativa.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sequência: aprovação legislativa, avaliação dos resultados, execução das despesas, elaboração do orçamento, descreve corretamente as fazes e a ordem de execução do ciclo orçamentário governamental.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -2433,6 +3061,14 @@
     {
         "question": "Serão devidas as custas, desde que comprovada a má-fé do autor, nos casos de Ação Popular.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A improcedência por carência de provas evidencia a má-fé do autor da Ação Popular.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -2480,6 +3116,14 @@
     },
     {
         "question": "Nos termos da Lei no 10.261/1968, quanto ao procedimento disciplinar, se a testemunha não for localizada, a defesa poderá substituí-la, se quiser, levando, na mesma data designada para a audiência, outra testemunha, independentemente de notificação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A demissão a bem do serviço público acarreta a incompatibilidade permanente para nova investidura em cargo, função ou emprego público.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -2601,6 +3245,14 @@
     {
         "question": "De acordo com a Lei de Improbidade, estando a petição inicial em devida forma, o juiz mandará autuá-la e ordenará a notificação do reque rido, para oferecer manifestação por escrito, que poderá ser instruída com documentos e justificações, dentro do prazo de quinze dias.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A perda da função pública e a suspensão dos direitos políticos do condenado por ato de improbidade efetivam-se com a publicação da condenação por ato de improbidade em segunda instância.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -2616,6 +3268,14 @@
     },
     {
         "question": "Medéia, funcionária pública estadual, quando em atividade, praticou falta grave para a qual é cominada a pena de demissão. Porém, a portaria que instaurou o respectivo processo administrativo para apuração da infração foi publicada somente dois anos após Medéia ter se aposentado do serviço público. Nessa situação hipotética, considerando, ainda, o fato de que a falta cometida ocorreu um ano antes de sua aposentadoria, é correto afirmar que Medéia poderá ter sua aposentadoria cassada, uma vez que a inatividade não impede a aplicação da sanção e não se operou a prescrição nesse caso.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito das normas do processo administrativo, não tendo o acusado recursos financeiros ou negando-se a constituir advogado, o presidente nomeará advogado dativo.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -2642,6 +3302,14 @@
         "question": "No processo administrativo, o acusado tem o direito de assistir à inquirição do denunciante, para que tenha ciência pessoal das declarações que aquele deverá prestar em audiência.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito das testemunhas no processo administrativo, o presidente e cada acusado poderão arrolar até 5 (cinco) testemunhas.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2713,7 +3381,31 @@
     {
         "question": "Alana, que é servidora pública, deixou de praticar, indevidamente, ato de ofício que era de sua responsabilidade, atentando contra os princípios da Administração Pública. Essa conduta de Alana, nos moldes da Lei no 8.429/92, ficará sujeita, entre outras sanções, à suspensão dos direitos políticos, multa civil e proibição de contratar com o poder público.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A afirmativa de que na descentralização territorial ou geográfica a administração indireta transfere às pessoas jurídicas de direito privado (Fundações Públicas de Direito Privado, Sociedades de Economia Mista, Empresas Públicas, Concessionários, Permissionários, Autorizatários), por lei, contrato administrativo ou ato unilateral a depender do caso, a execução de um serviço público, de forma que a titularidade do serviço continua sendo do Poder Público. Está correta.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A descentralização política tem como base a Constituição Federal e ocorre sempre que pessoas jurídicas de direito público deslocam suas atribuições para outros entes políticos. Tendo como base a vasta doutrina do direito administrativo brasileiro. Essa assertiva está correta.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei nº 9.784/1999, no parágrafo único do Art. 2º, define os critérios que devem ser observados no Processo Administrativo Federal. Diante disso, o critério de atuação conforme a lei e o direito, aparece como corolário do princípio da legalidade, vez que administrar é aplicar a lei de ofício, não podendo o administrador fugir desses preceitos.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2752,6 +3444,14 @@
     },
     {
         "question": "De acordo com o Estatuto dos Servidores Públicos do Município X, a pena de demissão será aplicada, dentre outros, em caso de usar materiais e bens municipais em serviço particular.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autoridade que tiver ciência de irregularidade no serviço público deverá promover os atos necessários à instauração do procedimento administrativo disciplinar ou da sindicância. Considerando o disposto no Estatuto dos Servidores Públicos do Município X, sobre a oitiva de testemunhas no processo disciplinar, na hipótese de depoimento contraditório ou que se infirmem, as testemunhas serão confrontadas, até que se chegue às alegações e afirmações verdadeiras.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -2888,6 +3588,14 @@
     },
     {
         "question": "O refinanciamento da dívida pública constará separadamente na lei orçamentária e nas de crédito adicional.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A atualização monetária do principal da dívida mobiliária refinanciada poderá superar a variação do índice de preços previsto na lei de diretrizes orçamentárias, ou em legislação específica.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -3055,6 +3763,14 @@
         "id": ""
     },
     {
+        "question": "A liberdade de expressão abrange também a liberdade de pensamento, não podendo haver restrições a ideias e opiniões, exceto nos casos de discurso de ódio.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O direito à propriedade privada é garantido pela Constituição, sendo que sua função social é um princípio que visa garantir que a propriedade seja utilizada de forma a atender aos interesses da coletividade.",
         "choices": [],
         "correctAwser": "false",
@@ -3066,6 +3782,14 @@
         "question": "Sobre Disciplina constitucional dos precatórios, estes são títulos da dívida pública emitidos pelo Governo Federal para financiar projetos de infraestrutura.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Emenda Constitucional nº 62/2009 estabeleceu um regime especial de pagamento de precatórios, priorizando os credores de maior valor.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3095,7 +3819,23 @@
         "id": ""
     },
     {
+        "question": "A Administração Pública deve atuar conforme a lei, executando apenas aquilo que a legislação permite. Essa assertiva refere-se ao Princípio da Legalidade.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O Princípio da Moralidade, assevera que a Administração Pública deve buscar a eficiência em suas atividades, visando à otimização dos recursos e à entrega de serviços de qualidade à sociedade.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Administração Pública deve pautar suas ações de acordo com padrões éticos e morais (Princípio da Eficiência).",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -3151,6 +3891,14 @@
         "id": ""
     },
     {
+        "question": "A concessão do serviço de coleta de resíduos sólidos é uma forma de prestação indireta, cabendo à empresa privada atuar como delegatária do serviço;",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca da organização administrativa, as autarquias são entidades de direito público, criadas por lei, com autonomia administrativa, patrimonial e financeira, destinadas à prestação de serviços de natureza pública ou atividades típicas do Estado.",
         "choices": [],
         "correctAwser": "true",
@@ -3184,6 +3932,14 @@
     },
     {
         "question": "Causar dano a qualquer bem pertencente ao patrimônio público, por descuido ou má vontade, não constitui apenas ofensa ao Estado, mas a todos os homens de boa vontade que dedicaram seus esforços para construí-los.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A moralidade da Administração Pública não se limita à distinção entre o bem e o mal, devendo ser acrescida da ideia de que o fim é sempre o bem comum.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -3305,6 +4061,14 @@
         "id": ""
     },
     {
+        "question": "A lei estabelecerá as hipóteses de contratação por prazo indeterminado para o atendimento de necessidade temporária de excepcional interesse público.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "É permitida a acumulação remunerada de cargos públicos, quando houver compatibilidade de horários, de dois cargos de professor.",
         "choices": [],
         "correctAwser": "true",
@@ -3330,6 +4094,14 @@
     },
     {
         "question": "De acordo com a doutrina clássica, a finalidade é requisito vinculado, compreendendo o objetivo de interesse público pretendido com a realização do ato.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos poderes administrativos, o poder hierárquico é caracterizado como poder externo, uma vez que se aplica aos particulares.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -3386,6 +4158,22 @@
     },
     {
         "question": "O Estado não poderá intervir em seus Municípios quando não forem prestadas, na forma da lei, as contas devidas.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A todos é assegurado, após o pagamento das respectivas taxas, o direito de petição aos poderes públicos em defesa de direitos ou contra ilegalidade ou abuso de poder.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A fiscalização dos Municípios será exercida pelo Poder Legislativo Municipal, com o auxílio de Tribunais, Conselhos ou órgãos de Contas Municipais.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -3486,7 +4274,47 @@
         "id": ""
     },
     {
+        "question": "A aplicação das sanções administrativas, em contrato administrativo, tendo em vista o princípio da ampla defesa, somente poderá se dar após a viabilização da defesa no prazo de 15 (quinze) dias.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A revogação da licitação pode ser feita a qualquer tempo, independentemente de qualquer requisito, por se tratar de matéria de conveniência e oportunidade da Administração.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O pregão é modalidade de licitação cujo valor não pode ultrapassar o limite para utilização do convite.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A habilitação, no Regime Diferenciado de Contratação, a que se refere a Lei nº 12.462/2011, é feita posteriormente ao julgamento, salvo se for estabelecida a sua realização antes da apresentação de propostas ou lances e antes do julgamento, por ato motivado, e com previsão no instrumento convocatório.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A licitação é automaticamente dispensada quando o valor da contratação é de até 10% do limite para a utilização da modalidade de convite.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A licitação é dispensável para a contratação de serviços técnico-profissionais especializados, de natureza singular, com profissionais ou empresas de notória especialização.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -3499,8 +4327,16 @@
             "A) intervenção.",
             "B) rescisão.",
             "C) caducidade.",
-            "D) encampação.",
-            "A) limitação de caráter geral, estabelecida em lei, que condiciona o uso da propriedade pelo titular, chama-se",
+            "D) encampação."
+        ],
+        "correctAwser": "D",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A limitação de caráter geral, estabelecida em lei, que condiciona o uso da propriedade pelo titular, chama-se",
+        "choices": [
             "A) servidão administrativa.",
             "B) limitação administrativa.",
             "C) ocupação temporária.",
@@ -3600,6 +4436,14 @@
         "id": ""
     },
     {
+        "question": "A aplicação aos servidores públicos ocupantes de cargos públicos dos direitos sociais elencados no parágrafo terceiro do artigo 39 da Constituição Federal é restrita aos servidores regidos pela Consolidação das Leis do Trabalho.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Somente ao servidor público municipal da administração pública direta, no exercício de mandato de Vereador, é facultado, em qualquer hipótese, perceber as vantagens do seu cargo, emprego ou função pública sem prejuízo da remuneração do cargo eletivo.",
         "choices": [],
         "correctAwser": "false",
@@ -3617,6 +4461,14 @@
     },
     {
         "question": "As agências reguladoras integram o sistema de controle externo da administração pública direta e indireta como auxiliares do Tribunal de Contas.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Constituição Estadual, em função da autonomia dos Estados-membros, fixará o número de Conselheiros do Tribunal de Contas do Estado.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -3656,6 +4508,14 @@
         "id": ""
     },
     {
+        "question": "A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivos de conveniência ou oportunidade, respeitados os direitos adquiridos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Têm natureza política e são excluídos de apreciação pelo Poder Judiciário os atos administrativos dotados de vinculação resultantes do exercício do poder de polícia administrativa que limitam ou disciplinam direito, interesse ou liberdade dos administrados.",
         "choices": [],
         "correctAwser": "false",
@@ -3673,6 +4533,14 @@
     },
     {
         "question": "Sobre a responsabilidade civil tratada no parágrafo sexto do artigo 37 da Constituição Federal, as pessoas jurídicas com personalidade de direito privado prestadoras de serviços públicos, por terem natureza jurídica privada, não respondem por danos causados por seus empregados nessa atividade segundo a norma constante do parágrafo sexto do artigo 37 da Constituição Federal.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade civil prevista no parágrafo sexto do artigo 37 da Constituição Federal é aplicável somente às pessoas jurídicas de direito público que exercem as atividades da administração pública direta.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -3718,8 +4586,21 @@
     },
     {
         "question": "Assinale a opção que indica o processo destinado a propiciar às pessoas com deficiência a aquisição de conhecimentos, habilidades e aptidões para o exercício de profissão ou de ocupação, permitindo-lhes nível suficiente de desenvolvimento profissional para ingresso no campo de trabalho.",
-        "choices": [],
+        "choices": [
+            "A) colocação competitiva no mercado de trabalho",
+            "B) reabilitação profissional",
+            "C) programa de estímulo ao empreendedorismo",
+            "D) habilitação profissional"
+        ],
         "correctAwser": "D",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito de medidas judiciais destinadas à proteção de interesses coletivos, difusos, individuais homogêneos e individuais indisponíveis das pessoas com deficiência, a sentença que concluir pela carência ou pela improcedência da ação estará sujeita ao duplo grau de jurisdição.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3742,8 +4623,15 @@
     },
     {
         "question": "Por ausência de legitimidade, as fundações ou autarquias que incluam entre suas finalidades institucionais a proteção dos interesses e a promoção de direitos da pessoa com deficiência deverão representar ao MP ou à DP os atos que ensejem a propositura de medida judicial.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida conceitua componentes de obras de urbanização — como os referentes a pavimentação, saneamento, encanamento para esgotos etc. — como",
         "choices": [
-            "A) lei que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida conceitua componentes de obras de urbanização — como os referentes a pavimentação, saneamento, encanamento para esgotos etc. — como",
             "A) mobiliário urbano.",
             "B) tecnologia assistiva.",
             "C) elemento de urbanização.",
@@ -3803,6 +4691,14 @@
         "question": "O Estado necessariamente será responsabilizado em caso de suicídio de pessoa presa, em razão do seu dever de plena vigilância.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade do Estado, em regra, será afastada quando se tratar da obrigação de pagamento de encargos trabalhistas de empregados terceirizados que tenham deixado de receber salário da empresa de terceirização.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3870,6 +4766,14 @@
     },
     {
         "question": "O gun jumping consiste na consumação de atos de concentração econômica antes de eles serem autorizados pelo CADE, sendo uma prática vedada pela legislação brasileira.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Gérson, sem vínculo estatutário prévio com o DF, foi nomeado por Marcelo para exercer cargo em comissão no gabinete deste na Secretaria de Justiça do DF, cargo declarado em lei de livre nomeação e exoneração. Nessa situação, Gérson será contribuinte do regime próprio de previdência social do DF.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -3981,6 +4885,14 @@
         "id": ""
     },
     {
+        "question": "A justiça eleitoral fiscaliza a escrituração contábil e a prestação de contas das campanhas eleitorais, que devem ser feitas no encerramento da campanha eleitoral pelos partidos que tiverem candidatos eleitos.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Um partido político tem direito a atuação parlamentar, nas casas legislativas para as quais tenha elegido representante, se, em cada eleição para a Câmara dos Deputados, obtiver o apoio de, no mínimo, 5% dos votos apurados.",
         "choices": [],
         "correctAwser": "false",
@@ -4006,6 +4918,30 @@
     },
     {
         "question": "Veiculação de propaganda eleitoral em bens particulares por meio de fixação de faixas, placas, cartazes, pinturas ou inscrições pode ser feita após a obtenção de licença municipal e de autorização da justiça eleitoral.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prestação de contas de candidato a eleição proporcional deve ser feita pelo comitê financeiro ou pelo próprio candidato, que deve então comprovar, por exemplo, a cessão de bens imóveis de qualquer valor.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A distribuição gratuita de bens, valores ou benefícios pela administração pública é proibida durante o ano de eleição, exceto nos casos de programas sociais autorizados em lei e já em execução orçamentária no exercício anterior, executados por entidade nominalmente vinculada a candidato ou por esse mantida.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A captação de sufrágio se caracteriza pela ação proibida ao candidato — doar, oferecer, prometer ou entregar ao eleitor, com o fim de obter-lhe o voto, bem ou vantagem pessoal de qualquer natureza —, e pelo elemento temporal, já que se trata de ação cometida entre as convenções partidárias e a eleição.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -4133,6 +5069,14 @@
         "id": ""
     },
     {
+        "question": "A violação de princípios da administração pública, tais como da moralidade, da impessoalidade e da eficiência, caracteriza ato de improbidade administrativa, desde que comprovado o dolo, ainda que genérico, do agente.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Na esfera de atuação do poder de polícia, não pode a administração pública efetuar a demolição de obra irregular de forma sumária, sem observar os princípios do contraditório e da ampla defesa, devendo haver a oitiva prévia do interessado.",
         "choices": [],
         "correctAwser": "false",
@@ -4150,6 +5094,14 @@
     },
     {
         "question": "Os Estados podem, no exercício do seu poder de polícia, limitar a instalação de estabelecimentos comerciais do mesmo ramo em determinada área.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A aplicação de sanções pela administração pública decorre do poder disciplinar, que confere à administração pública autoridade para conformar atividades particulares, bem como punir condutas desviadas de seus servidores.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -4192,14 +5144,6 @@
         "question": "Caso haja apenas indícios de cometimento de atos de improbidade administrativa, a petição inicial da respectiva ação não deve ser recebida pelo Poder Judiciário, em decorrência da aplicação do princípio constitucional da presunção de inocência.",
         "choices": [],
         "correctAwser": "false",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "É possível a demissão de servidor por improbidade administrativa por meio de PAD, independentemente de ação judicial, caso existam elementos comprobatórios da prática de ato de improbidade.",
-        "choices": [],
-        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4430,8 +5374,16 @@
             "A) 1 (um) ano.",
             "B) 2 (dois) anos.",
             "C) 3 (três) anos.",
-            "D) 4 (quatro) anos.",
-            "A) demissão do servidor estável, só acontece depois da realização de um:",
+            "D) 4 (quatro) anos."
+        ],
+        "correctAwser": "C",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A demissão do servidor estável, só acontece depois da realização de um:",
+        "choices": [
             "A) Processo Judicial Disciplinar.",
             "B) Procedimento Administrativo Disciplinar.",
             "C) Procedimento Administrativo Ético.",
@@ -4478,6 +5430,14 @@
         "question": "Os Municípios podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Municípios, independente da aprovação da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei complementar;",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4539,6 +5499,14 @@
         "id": ""
     },
     {
+        "question": "A competência da União para legislar sobre normas gerais exclui a competência suplementar dos Estados.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para atender a suas peculiaridades",
         "choices": [],
         "correctAwser": "true",
@@ -4573,6 +5541,14 @@
     {
         "question": "Constitui ato de improbidade administrativa que atenta contra os princípios da administração pública a nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei n.º 9.394/1996 estabelece que a União, os Estados, o Distrito Federal e os Municípios organizarão, em regime de colaboração, os respectivos sistemas de ensino, desta forma é correto afirmar que, os Municípios incumbir-se-ão de oferecer a educação infantil em creches e pré-escolas, e, com prioridade, o ensino fundamental, permitida a atuação em outros níveis de ensino, independente de atendidas plenamente as necessidades de sua área de competência e com recursos acima dos percentuais mínimos vinculados pela Constituição Federal à manutenção e desenvolvimento do ensino.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -4580,6 +5556,22 @@
     },
     {
         "question": "Incumbe aos Município, organizar, manter e desenvolver os órgãos e instituições oficiais dos seus sistemas de ensino, integrando-os às políticas e planos educacionais da União e dos Estados.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Constituição Federal de 1988 dispõe que compete à União desapropriar por interesse social, para fins de reforma agrária, o imóvel rural que não esteja cumprindo sua função social, mediante prévia e justa indenização em títulos da dívida agrária, com cláusula de preservação do valor real, resgatáveis no prazo de até vinte anos, a partir do segundo ano de sua emissão, e cuja utilização será definida em lei. Neste sentido, são isentas de impostos federais, estaduais e municipais as operações de transferência de imóveis desapropriados para fins de reforma agrária.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A política de desenvolvimento urbano, executada pelo Poder Público municipal, conforme diretrizes gerais fixadas em lei, tem por objetivo ordenar o pleno desenvolvimento das funções sociais da cidade e garantir o bem-estar de seus habitantes.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -4612,6 +5604,14 @@
     },
     {
         "question": "Acerca dos princípios da Administração Pública, como decorrência do princípio da motivação, todos os atos administrativos devem ser escritos.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A publicidade dos atos da Administração Pública é excepcionada apenas pela necessidade de proteção da intimidade dos cidadãos.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -4676,6 +5676,14 @@
     },
     {
         "question": "São características dos contratos administrativos, dentre outras, a instabilidade, o desequilíbrio, a comutatividade e o formalismo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A principal distinção entre os contratos e os convênios administrativos reside no fato de que os convênios se caracterizam pela comunhão de interesses dos convenentes, enquanto os contratos se caracterizam pela contraposição dos interesses do contratante e do contratado.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -4763,6 +5771,38 @@
         "id": ""
     },
     {
+        "question": "A isenção de custas processuais na ação popular para a defesa de interesse coletivo ou difuso inclui o ônus da sucumbência, salvo se comprovada má-fé.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prova obtida por interceptação telefônica decretada por juízo incompetente é ilícita, ainda que o ato seja indispensável para salvaguardar o objeto da persecução penal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A disposição constitucional que determina que lei complementar regulamente a criação de território ou a sua transformação em estado-membro é exemplo de norma de eficácia contida.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A norma constitucional que estabelece que o provimento dos cargos públicos ocorra por meio da realização de concurso público é de eficácia limitada, tendo em vista que a promoção do certame depende de autorização legal.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Cabe aos tribunais de contas, no prazo decadencial de cinco anos, examinar a legalidade do ato de aposentadoria, a contar da publicação do referido ato.",
         "choices": [],
         "correctAwser": "false",
@@ -4774,6 +5814,14 @@
         "question": "Caso a revogação de um ato administrativo decorra da verificação de ilegalidade, será dispensada a instauração de processo administrativo.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A revisão de atos administrativos flagrantemente inconstitucionais não está sujeita a prazo decadencial.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4984,13 +6032,28 @@
     },
     {
         "question": "Fundações possuem personalidade jurídica de direito privado, conforme o Código Civil, instituídas, mediante dotação patrimonial de origem privada.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autoridade que tiver ciência de irregularidade praticada pelo servidor público que lhe seja subordinado, estará obrigada a",
         "choices": [
-            "A) autoridade que tiver ciência de irregularidade praticada pelo servidor público que lhe seja subordinado, estará obrigada a",
             "A) determinar sua imediata apuração, por sindicância ou por processo administrativo disciplinar.",
             "B) emitir ofício dirigido ao Ministério Público.",
             "C) interrogar o servidor, bem como averiguar pessoalmente, por todos os meios, os fatos a serem apurados.",
-            "D) oficiar a Presidência do Tribunal, respectivo.",
-            "A) nomeação para cargo em comissão de cônjuge de servidor em atividade, é",
+            "D) oficiar a Presidência do Tribunal, respectivo."
+        ],
+        "correctAwser": "A",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A nomeação para cargo em comissão de cônjuge de servidor em atividade, é",
+        "choices": [
             "A) Ato discricionário da Administração do Tribunal.",
             "B) Expressamente permitida.",
             "C) Expressamente vedada.",
@@ -5058,8 +6121,15 @@
     },
     {
         "question": "Um bem é necessariamente impenhorável se pertencer a empresa privada contratada pela União.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A requisição administrativa exige o seguinte pressuposto de validade:",
         "choices": [
-            "A) requisição administrativa exige o seguinte pressuposto de validade:",
             "A) Indenização prévia.",
             "B) Ofício requisitório.",
             "C) Perigo público iminente.",
@@ -5135,6 +6205,14 @@
     },
     {
         "question": "Ricardo e Robson, ambos ocupantes do cargo de Analista Judiciário do Tribunal Regional do Trabalho da 500ª Região, são casados. Ricardo é o servidor competente que conduz determinado processo administrativo, em cujo curso foi arrolado Robson, na qualidade de testemunha. Ao tomar conhecimento do arrolamento de Robson como testemunha, à luz da Lei nº 9.784/99, o servidor Ricardo deverá comunicar o fato à autoridade competente, abstendo-se de atuar no feito, em razão de seu impedimento, sob pena de cometer falta grave disciplinar.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei de Improbidade Administrativa estabelece que a posse e o exercício de agente público ficam condicionados à apresentação de declaração de imposto de renda e proventos de qualquer natureza, que tenha sido apresentada à Secretaria Especial da Receita Federal do Brasil, a fim de ser arquivada no serviço de pessoal competente. Nesse contexto, de acordo com a atual redação da Lei nº 8.429/92, a citada declaração de bens será atualizada anualmente, sendo dispensada a atualização na data em que o agente público deixar o exercício do mandato, do cargo, do emprego ou da função.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -5229,7 +6307,23 @@
         "id": ""
     },
     {
+        "question": "A Lei de Introdução às Normas do Direito Brasileiro (LINDB), com as alterações introduzidas pela Lei nº 13.655/2018, trouxe o chamado consequencialismo, visando à maior previsibilidade, segurança jurídica e eficiência na criação e na aplicação do Direito Público.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca da Lei de Introdução às Normas do Direito Brasileiro, a decisão administrativa, controladora ou judicial que estabelecer interpretação ou orientação nova sobre norma de conteúdo indeterminado, impondo novo dever ou novo condicionamento de direito, deverá prever regime de transição quando indispensável para que o novo dever ou condicionamento de direito seja cumprido de modo proporcional, equânime e eficiente e sem prejuízo aos interesses gerais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146/2015) dispõe que é assegurada atenção integral à saúde da pessoa com deficiência em todos os níveis de complexidade, por intermédio do SUS, garantido acesso universal e igualitário. De acordo com tal Estatuto da Pessoa com Deficiência, as ações e os serviços de saúde pública destinados à pessoa com deficiência devem assegurar diversas providências, tal qual, atendimento psicológico, exceto para seus familiares e atendentes pessoais;",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -5277,7 +6371,31 @@
         "id": ""
     },
     {
+        "question": "A sentença que concluir pela carência ou pela improcedência de ação de improbidade administrativa está sujeita ao reexame necessário, ainda que não haja previsão específica na Lei de Improbidade.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O caráter de bem de família impede a decretação da sua indisponibilidade na ação de improbidade.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A indisponibilidade pode recair sobre bens adquiridos tanto antes como depois da prática do ato de improbidade.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do controle da Administração Pública, no processo de revisão, no âmbito da Administração Federal, é admitida a reformatio in pejus, desde que haja a possibilidade de manifestação prévia do recorrente.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -5330,9 +6448,25 @@
         "id": ""
     },
     {
+        "question": "A Secretaria da Habitação de determinado estado da Federação celebrou convênio com uma empresa estatal recém-criada, para que esta, integrante da mesma esfera da Administração, realizasse atividades de desenvolvimento de projetos de engenharia, bem como execução de obras de pequena e média complexidade, mediante repasse de recursos. Diante dos elementos descritos para esse caso, a Administração pública pode denunciar o instrumento celebrado durante sua vigência, demonstrado que a escolha do convenente, empresa estatal, não se mostrou a mais vantajosa para o erário, sob o ponto de vista da economicidade.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Por convênio celebrado com empresa estatal recém criada, a Secretaria de Habitação de determinado Estado Federado solicitou que fossem realizadas atividades de desenvolvimento de projetos de engenharia, bem como execução de obras de pequena e média complexidade, mediante repasse de recursos. Diante disso, o Tribunal de Contas competente para fiscalização do ato poderia anular o convênio celebrado com a empresa estatal, tendo em vista que deveria ter sido celebrado contrato, para cujo vínculo jurídico há autorização legal expressa para formalização mediante dispensa de licitação, em razão de se tratar de ente da Administração indireta.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A utilização de um terreno público pela iniciativa privada para construção de um espaço destinado a atividades de lazer e cultura para a população, mediante cobrança de valores razoáveis dos usuários, compatibilizando a política pública de disponibilização dessas atividades com a finalidade de percebimento de receitas pelo utente do terreno, pode se dar mediante concessão de uso, cuja natureza é contratual, precedida de licitação, considerando que o objeto do contrato é passível de ser prestado por mais de um interessado.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5387,8 +6521,15 @@
     },
     {
         "question": "Thiago, ocupante do cargo efetivo de Oficial de Justiça Avaliador do Tribunal de Justiça de Pernambuco, ao cumprir mandado judicial de citação no endereço da ré Joventina, envolveu-se em discussão com ela, e acabou quebrando o portão de sua casa. Inconformada com a agressividade do agente público e com os danos que sofreu, Joventina ajuizou ação indenizatória. Na hipótese narrada, aplica-se a responsabilidade civil subjetiva do poder público estadual, sendo imprescindível a comprovação de ter agido o agente público com dolo ou culpa, caso em que cabe ação de regresso visando ao ressarcimento ao erário.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A vigilância sanitária municipal, em fiscalização de rotina em determinado restaurante, constatou a utilização de produtos impróprios para o consumo, bem como o risco de desabamento de uma escada interna usada pelos clientes, que dá acesso ao piso superior. Diante do constatado, a autoridade administrativa competente municipal interditou o restaurante, mediante a prática de ato administrativo:",
         "choices": [
-            "A) vigilância sanitária municipal, em fiscalização de rotina em determinado restaurante, constatou a utilização de produtos impróprios para o consumo, bem como o risco de desabamento de uma escada interna usada pelos clientes, que dá acesso ao piso superior. Diante do constatado, a autoridade administrativa competente municipal interditou o restaurante, mediante a prática de ato administrativo:",
             "A) de império, com base na prerrogativa do poder de polícia;",
             "B) de gestão, com base na prerrogativa do poder hierárquico;",
             "C) vinculado, com base na prerrogativa do poder disciplinar;",
@@ -5602,6 +6743,14 @@
     {
         "question": "O uso, pelo prefeito, de verbas oriundas do Fundo Nacional da Saúde, destinadas a determinado programa de saúde, para pagamento de dívidas da secretaria de saúde com instituto de previdência municipal configura o crime de desvio de verbas públicas, previsto como crime de responsabilidade, independentemente de haver prejuízo à administração pública.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A entrega da prestação de contas após o prazo legal pelo prefeito de determinado município, é suficiente para configurar o crime de deixar de prestar contas da aplicação de recursos recebidos a qualquer título, tipificado como crime de responsabilidade, por configurar crime de mera conduta.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -5784,6 +6933,22 @@
         "id": ""
     },
     {
+        "question": "A ação por danos causados por agente público deve ser ajuizada contra o Estado ou a pessoa jurídica de direito privado prestadora de serviço público, sendo parte ilegítima para a ação o autor da conduta, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei de Responsabilidade Fiscal dispôs, de uma série de instrumentos visando disciplinar o limite de gastos, a realização de despesas, o endividamento, a lisura e integridade na prestação das contas, sob pena de responsabilização institucional, ao próprio Ente federativo, bem como sanções pessoais ao agente público, de ordem política, administrativa ou penal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Nos termos do que dispõe expressamente a Lei de Improbidade Administrativa (Lei nº 8.429/92), a conduta consistente em celebrar contrato de rateio de consórcio público, sem suficiente e prévia dotação orçamentária, ou sem observar as formalidades previstas na lei, constitui ato de improbidade administrativa que causa lesão ao erário.",
         "choices": [],
         "correctAwser": "true",
@@ -5793,6 +6958,14 @@
     },
     {
         "question": "Em relação à Lei de Improbidade Administrativa (Lei nº 8.429/1992) e à sua interpretação pelo Supremo Tribunal Federal, a legitimidade da Fazenda Pública para o ajuizamento de ações por improbidade administrativa é ordinária, já que ela atua na defesa de seu próprio patrimônio público. A legitimidade do Ministério Público, por sua vez, é extraordinária.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A suspensão e a interrupção da prescrição produzem efeitos relativamente a todos os que concorreram para a prática do ato de improbidade. Nos atos de improbidade conexos que sejam objeto do mesmo processo, a suspensão e a interrupção relativas a qualquer deles estendem-se aos demais.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -5888,6 +7061,22 @@
         "id": ""
     },
     {
+        "question": "A legitimidade do Ministério Público para o ajuizamento de ações que tenham por objeto a defesa dos direitos individuais indisponíveis é sempre concorrente.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prevalência da atuação do Ministério Público, como autor de ação na defesa de interesses individuais indisponíveis na Lei nº 8.069/90, se dá em defesa dos direitos da criança e do adolescente.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "As manifestações processuais do Ministério Público, como fiscal da ordem jurídica, no curso de ação na defesa de interesses individuais indisponíveis, não serão meramente opinativas, mas postulatórias.",
         "choices": [],
         "correctAwser": "false",
@@ -5920,6 +7109,14 @@
         "id": ""
     },
     {
+        "question": "A sentença civil fará coisa julgada erga omnes, nos limites da competência territorial do órgão prolator, exceto se o pedido for julgado procedente, hipótese em que qualquer legitimado poderá intentar outra ação com idêntico fundamento, valendo-se de nova prova.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que concerne às ações coletivas para a defesa de interesses individuais, nos termos do Código de Defesa do Consumidor (Lei nº 8.078/90), a defesa dos interesses e direitos dos consumidores e das vítimas poderá ser exercida em juízo individualmente, ou a título coletivo.",
         "choices": [],
         "correctAwser": "true",
@@ -5945,6 +7142,14 @@
     },
     {
         "question": "Em caso de procedência do pedido, na ação coletiva para a defesa de interesses individuais a condenação será genérica, fixando a responsabilidade do réu pelos danos causados.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A liquidação e a execução de sentença somente poderão ser promovidas pela vítima e seus sucessores.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -6256,16 +7461,36 @@
     },
     {
         "question": "Durante a tramitação de um projeto de lei orçamentária no Congresso Nacional, foi decidida a inclusão, por emenda, de determinada dotação, para o que foi reduzida, em mesmo valor, outra dotação. Nesse caso, de acordo com a determinação constitucional, pode ter sido reduzida dotação para",
-        "choices": [],
+        "choices": [
+            "A) pessoal.",
+            "B) encargos sobre as despesas com pessoal.",
+            "C) amortização da dívida.",
+            "D) investimentos."
+        ],
         "correctAwser": "D",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da responsabilização pela prática de ato de improbidade administrativa, o STJ entende que a decretação de medida cautelar de indisponibilidade dos bens em razão da prática de ato de improbidade que cause dano ao erário não está condicionada à comprovação de que o réu esteja dilapidando seu patrimônio.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
     },
     {
         "question": "No âmbito da ação civil pública, o inquérito civil é facultativo, de titularidade exclusiva do Ministério Público, e tem como objetivo angariar provas e elementos de convicção para o exercício da ação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A ação civil para a decretação da perda do cargo de procurador de justiça do MP/PI será proposta pelo",
         "choices": [
-            "A) ação civil para a decretação da perda do cargo de procurador de justiça do MP/PI será proposta pelo",
             "A) procurador-geral de Justiça no STJ.",
             "B) procurador-geral da República do MP no STF.",
             "C) procurador-geral de justiça do MP no Tribunal de Justiça do Estado respectivo.",
@@ -6286,6 +7511,19 @@
     },
     {
         "question": "Promotor de justiça do MP de determinado Estado que atue em primeira instância poderá assumir o cargo de",
+        "choices": [
+            "A) corregedor geral.",
+            "B) subprocurador-geral de justiça.",
+            "C) procurador-geral de justiça.",
+            "D) membro eleito do conselho superior."
+        ],
+        "correctAwser": "",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A licença-prêmio por assiduidade, direito dos servidores públicos Federais, Estaduais e Municipais, foi extinta em 2019, com o advento da Emenda Constitucional nº 75.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -6317,6 +7555,14 @@
         "id": ""
     },
     {
+        "question": "A Emenda Constitucional no 18/1998 introduziu expressamente o princípio da eficiência dentre os princípios da Administração Pública, em que pese já constar de norma constitucional a necessidade de a Administração manter sistema de controle interno com a finalidade de avaliar os resultados quanto à eficiência da gestão orçamentária, financeira e patrimonial dos seus órgãos e entidades.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Considerando a jurisprudência atualizada do Supremo Tribunal Federal, o princípio da legalidade na Administração Pública é relativizado, permitindo ao administrador, por ato administrativo motivado, conceder direitos de qualquer espécie e criar obrigações.",
         "choices": [],
         "correctAwser": "false",
@@ -6326,6 +7572,14 @@
     },
     {
         "question": "Considerando os vícios dos atos administrativos, é correto afirmar que a Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, ainda que deles se originem direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, nas hipóteses previstas em lei, a apreciação judicial.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Administração Pública não pode deixar que um ato ilegal prevaleça, ainda que sua manutenção seja menos prejudicial ao interesse público do que sua anulação, independentemente de dolo do agente, prejuízo ao Erário ou a direito de terceiros.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -6670,8 +7924,21 @@
     },
     {
         "question": "Em consonância com a redação vigente da Lei nº 8.429/1992, que dispõe sobre as sanções aplicáveis pela prática de atos de improbidade administrativa e dá outras providências, qual a penalidade cabível em caso de agente público que se recusa a apresentar a sua declaração de bens, dentro do prazo determinado, ao serviço de pessoal competente?",
-        "choices": [],
+        "choices": [
+            "A) É prevista a pena de suspensão da função pública, sem prejuízo de outras sanções cabíveis.",
+            "B) É cabível a aplicação de multa de até 20 (vinte) vezes o valor da remuneração percebida pelo agente público.",
+            "C) É cabível a advertência, sem prejuízo da pena de suspensão em caso de reincidência.",
+            "D) É prevista a pena de demissão, sem prejuízo de outras sanções cabíveis."
+        ],
         "correctAwser": "D",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A despesa total com pessoal ativo e inativo do Município, em cada período de apuração, não poderá exceder a 60% (sessenta por cento) da sua receita corrente líquida, sendo tal percentual assim repartido: 6% (seis por cento) para o Poder Legislativo e 54% (cinquenta e quatro por cento) para o Poder Executivo.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -6753,8 +8020,16 @@
             "A) Subordinar seus órgãos e unidades, estabelecendo uma relação de hierarquia entre eles.",
             "B) Criar leis e normas que regulam o funcionamento da Administração Pública.",
             "C) Anular atos administrativos ilegais praticados por seus agentes.",
-            "D) Aplicar sanções a seus servidores em caso de infração funcional.",
-            "A) respeito dos atributos dos atos administrativos, assinale a alternativa incorreta:",
+            "D) Aplicar sanções a seus servidores em caso de infração funcional."
+        ],
+        "correctAwser": "A",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos atributos dos atos administrativos, assinale a alternativa incorreta:",
+        "choices": [
             "A) Presunção de legitimidade: os atos administrativos gozam da presunção de que são legítimos e válidos, até que prova em contrário.",
             "B) Imperatividade: a Administração Pública pode impor o cumprimento dos atos administrativos aos administrados, mesmo contra a sua vontade.",
             "C) Autoexecutoriedade: a Administração Pública tem o poder de executar os atos administrativos por seus próprios meios, sem necessidade de recorrer ao Poder Judiciário.",
@@ -6871,8 +8146,21 @@
     },
     {
         "question": "Questão 45 Quando é legal receber aposentadoria e vencimentos do serviço público?",
-        "choices": [],
+        "choices": [
+            "A) Sempre que houver compatibilidade de horários.",
+            "B) Apenas para cargos de professor.",
+            "C) Quando a soma das remunerações não ultrapassar o teto previsto na Constituição.",
+            "D) Somente para profissionais de saúde com profissão regulamentada por lei."
+        ],
         "correctAwser": "C",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e organizações da administração direta e indireta segundo o artigo 70 da constituição precisa ser feita por meio de sistema de controle.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -6928,8 +8216,16 @@
             "A) O TCU aprecia nomeações para cargo de provimento em comissão.",
             "B) O TCU aprecia melhorias posteriores das aposentadorias que não alterarem o fundamento legal do ato concessório.",
             "C) O TCU não aprecia concessões de aposentadorias, reformas e pensões.",
-            "D) O TCU aprecia a legalidade de atos da admissão de pessoal.",
-            "A) legalidade e racionalidade processual deve ser o modo de operação padrão da administração pública. Assinale a alternativa correspondente à ação que deve ser motivada formalmente, fazendo parte dispositiva sendo precedida de uma explicação ou exposição de fundamentos de fato e de direito.",
+            "D) O TCU aprecia a legalidade de atos da admissão de pessoal."
+        ],
+        "correctAwser": "D",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A legalidade e racionalidade processual deve ser o modo de operação padrão da administração pública. Assinale a alternativa correspondente à ação que deve ser motivada formalmente, fazendo parte dispositiva sendo precedida de uma explicação ou exposição de fundamentos de fato e de direito.",
+        "choices": [
             "A) Poder de polícia.",
             "B) Decisões administrativas.",
             "C) Ação privativa do Estado.",
@@ -6987,8 +8283,15 @@
     },
     {
         "question": "Deve o controle interno avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Constituição Federal possui muitos dispositivos que favorecem um controle dos administrados como maneiras para os cidadãos observarem a regularidade da gestão pública. Assinale a alternativa correspondente ao tipo de controle na administração pública quanto a abordagem da natureza do controle sendo caracterizado por ser de conveniência e oportunidade do ato, atingindo diretamente a discricionariedade do administrador.",
         "choices": [
-            "A) Constituição Federal possui muitos dispositivos que favorecem um controle dos administrados como maneiras para os cidadãos observarem a regularidade da gestão pública. Assinale a alternativa correspondente ao tipo de controle na administração pública quanto a abordagem da natureza do controle sendo caracterizado por ser de conveniência e oportunidade do ato, atingindo diretamente a discricionariedade do administrador.",
             "A) Controle de legalidade.",
             "B) Controle adversativo.",
             "C) Controle de mérito.",
@@ -7001,8 +8304,47 @@
     },
     {
         "question": "Um ato administrativo é a declaração do Estado ou quem o represente com produção de efeitos jurídicos imediatos. A respeito da tipologia de atos administrativos, assinale a alternativa correspondente ao tipo de ato administrativo que inclui avisos, portarias, ordens de serviços, ofícios e despachos.",
-        "choices": [],
+        "choices": [
+            "A) Normativos.",
+            "B) Regulatórios.",
+            "C) Emergenciais.",
+            "D) Ordinatórios."
+        ],
+        "correctAwser": "D",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A improbidade administrativa corresponde às condutas consideradas desonestas e que podem incorrer desde o uso indevido de recursos públicos até o favorecimento ilícito de empresas e indivíduos em licitações e contratos. Assinale a alternativa correspondente ao tipo de improbidade, descrito no Artigo 10ª da Lei de Improbidade Administrativa que se refere a qualquer ação ou omissão que cause danos ao patrimônio público.",
+        "choices": [
+            "A) Enriquecimento ilícito.",
+            "B) Abuso de poder.",
+            "C) Acúmulo de capital público.",
+            "D) Prejuízos ao erário."
+        ],
+        "correctAwser": "D",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A seção V da Lei Orgânica Municipal de Paradise, promulgada em 25 de maio de 1990 trata da remuneração do prefeito, vice-prefeito e vereadores. De acordo com a Lei Orgânica supracitada, analise os itens: I – A lei fixará critérios de indenização de despesas de viagem do prefeito, vice-prefeito e dos vereadores; II – A remuneração dos vereadores terá como limite máximo o valor percebido como remuneração do prefeito municipal; e III – A verba de representações do presidente da câmara, que integra a remuneração, não poderá exceder a 80% (oitenta por cento) da que for fixada para o prefeito municipal. Estão corretas:",
+        "choices": [
+            "A) Apenas as alternativas II e III estão corretas.",
+            "B) Apenas as alternativas I e II estão corretas.",
+            "C) Apenas as alternativas I e III estão corretas.",
+            "D) Apenas a alternativa II está correta."
+        ],
         "correctAwser": "B",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos Municípios e, com base no texto constitucional, para a composição das Câmaras Municipais, nos Municípios com até 15.000 (quinze mil) habitantes, será observado o limite máximo de 9 (nove) vereadores.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -7026,8 +8368,16 @@
             "A) contenciosa.",
             "B) verificadora.",
             "C) controladora.",
-            "D) consultiva.",
-            "A) desapropriação consiste em um meio de intervenção na propriedade. Sobre o tema, assinale a alternativa CORRETA.",
+            "D) consultiva."
+        ],
+        "correctAwser": "D",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A desapropriação consiste em um meio de intervenção na propriedade. Sobre o tema, assinale a alternativa CORRETA.",
+        "choices": [
             "A) Não há possibilidade de a desapropriação incidir sobre bens públicos.",
             "B) A desapropriação por utilidade pública deverá efetivar-se mediante acordo ou intentar-se judicialmente, dentro de dois anos, contados da data da expedição do respectivo decreto e findos os quais este caducará.",
             "C) Poderão promover a desapropriação por utilidade pública mediante autorização expressa constante de lei ou contrato: os concessionários, permissionários, autorizatários e arrendatários.",
@@ -7091,6 +8441,14 @@
     {
         "question": "Acerca do direito de greve, a lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade e os abusos cometidos sujeitam os responsáveis às penas da lei.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Justiça Comum, federal ou estadual, é competente para processar e julgar ação possessória ajuizada em decorrência do exercício do direito de greve pelos trabalhadores da iniciativa privada.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -7118,7 +8476,23 @@
         "id": ""
     },
     {
+        "question": "A petição inicial da ação de improbidade poderá, a critério de seu autor, individualizar a conduta do réu e apontar os elementos probatórios mínimos que demonstrem a ocorrência dos atos ímprobos e de sua autoria.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Se houver mais de um réu na ação de improbidade, a somatória dos valores declarados indisponíveis não poderá superar o montante indicado na petição inicial como dano ao erário ou como enriquecimento ilícito.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A ação para a aplicação das sanções previstas na LIA prescreve em 8 (oito) anos, contados a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -7175,6 +8549,14 @@
     },
     {
         "question": "Sobre Licitações, observadas as regras da Lei 13.303/16, assinale a alternativa INCORRETA.É dispensável, conforme a Lei 13.303/16, a realização de licitação por empresas públicas e sociedades de economia mista quando não acudirem interessados à licitação anterior e essa, justificadamente, não puder ser repetida sem prejuízo para a empresa pública ou a sociedade de economia mista, bem como para suas respectivas subsidiárias, desde que mantidas as condições preestabelecidas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A empresa pública e a sociedade de economia mista, na licitação para aquisição de bens, não poderão indicar marca ou modelo em decorrência da necessidade de padronização do objeto, segundo regramento da Lei 13.303/16.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -7344,8 +8726,15 @@
     },
     {
         "question": "Sobre o processo administrativo, o órgão de instrução que não for competente para emitir a decisão final elaborará relatório indicando o pedido inicial, o conteúdo das fases do procedimento e formulará proposta de decisão, objetivamente justificada, encaminhando o processo à autoridade competente.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei 14133/21- nova lei de licitações - apresenta as modalidades de licitação, dispostas corretamente na alternativa:",
         "choices": [
-            "A) Lei 14133/21- nova lei de licitações - apresenta as modalidades de licitação, dispostas corretamente na alternativa:",
             "A) Concorrência, tomada de preços, convite, leilão e concurso.",
             "B) Pregão, concorrência, concurso, leilão e convite.",
             "C) Pregão, concorrência, concurso, leilão e diálogo competitivo.",
@@ -7364,7 +8753,7 @@
             "C) É inconstitucional, pois compete privativamente à União legislar sobre trânsito e transporte.",
             "D) É constitucional, já que o Município pode legislar sobre o transporte local, observadas as leis federais e estaduais, vedando-o, restringindo-o ou regulamentando-o."
         ],
-        "correctAwser": "A",
+        "correctAwser": "",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "MULTIPLE_CHOICE",
         "id": ""
@@ -7375,8 +8764,16 @@
             "A) A competência para estabelecer o zoneamento da cidade é necessária, podendo afetar a livre concorrência.",
             "B) Não compete ao Município a edição de lei que fixa o tempo máximo de espera em fila de banco.",
             "C) O horário de funcionamento de instituições bancárias é de interesse predominante dos Municípios, podendo regulamentá-lo.",
-            "D) Os Municípios podem legislar para suplementar a legislação estadual e federal, desde que isso seja necessário ao interesse local.",
-            "A) administração pública está dividida de acordo com a correta descrição da alternativa:",
+            "D) Os Municípios podem legislar para suplementar a legislação estadual e federal, desde que isso seja necessário ao interesse local."
+        ],
+        "correctAwser": "D",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A administração pública está dividida de acordo com a correta descrição da alternativa:",
+        "choices": [
             "A) Administração pública e órgãos públicos.",
             "B) Administração pública direta e repartições públicas.",
             "C) Administração pública direta e administração pública indireta.",
@@ -7393,8 +8790,16 @@
             "A) Princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.",
             "B) Princípios da razoabilidade, moralidade, executoriedade, publicidade e proporcionalidade.",
             "C) Princípios da supremacia do interesse público, legalidade, moralidade, continuidade e eficiência.",
-            "D) Princípios da legalidade, impessoalidade, moralidade, publicidade e ineficácia.",
-            "A) convalidação dos atos administrativos ocorre no(s) seguinte(s) elemento(s):",
+            "D) Princípios da legalidade, impessoalidade, moralidade, publicidade e ineficácia."
+        ],
+        "correctAwser": "A",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A convalidação dos atos administrativos ocorre no(s) seguinte(s) elemento(s):",
+        "choices": [
             "A) Pelo Sujeito, se o ato for praticado por vício de incompetência.",
             "B) Em razão da matéria.",
             "C) Pelos elementos - motivo e finalidade.",
@@ -7466,6 +8871,14 @@
     {
         "question": "No que diz respeito às previsões da Lei nº 13.303/2016, a sociedade de economia mista não poderá lançar debêntures ou outros títulos ou valores mobiliários, conversíveis em ações, nem mesmo emitir partes beneficiárias.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A empresa pública e a sociedade de economia mista deverão divulgar toda e qualquer forma de remuneração dos administradores.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -7489,6 +8902,14 @@
     },
     {
         "question": "Situação hipotética: Um servidor público do estado do Rio de Janeiro impetrou mandado de segurança com a finalidade de impugnar regra presente em portaria da administração pública estadual que, segundo alegado, havia ferido direito adquirido do servidor. Após o despacho de recebimento da petição inicial, outro servidor, pertencente à mesma carreira do impetrante, requereu ingresso no processo como litisconsorte ativo, fundamentando seu requerimento em afinidade de questão por ponto comum de direito. Assertiva: De acordo com a legislação que trata do procedimento aplicável a essa hipótese, o magistrado deve deferir o requerimento de ingresso do litisconsorte ativo superveniente.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A parte interessada poderá utilizar recurso de revisão, com efeito suspensivo, para requerer a reforma de parecer prévio emitido sobre as contas anuais prestadas por prefeito municipal.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -7568,6 +8989,14 @@
         "id": ""
     },
     {
+        "question": "A licitação para registro de preços somente pode ser realizada nas modalidades de pregão ou de concorrência, devendo esta ser do tipo menor preço, e ambas serem precedidas de ampla pesquisa de mercado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Independentemente do regime que vier a ser adotado, obras e serviços de engenharia cuja concretização utilize o regime diferenciado de contratação não poderão ser realizados sem projeto executivo. Acerca do controle da administração pública e a intervenção do Estado na propriedade, julgue os itens que se seguem.",
         "choices": [],
         "correctAwser": "true",
@@ -7605,8 +9034,16 @@
             "A) O processo e julgamento por crime de responsabilidade não impede a responsabilização por atos de improbidade administrativa, caso João Paulo seja Prefeito Municipal.",
             "B) Caso João Paulo seja Presidente da República, está sujeito ao duplo regime sancionatório estabelecido pela legislação para crimes de responsabilidade e atos de improbidade administrativa.",
             "C) A despeito de a conduta de José se amoldar simultaneamente a ato de improbidade e crime de responsabilidade, eventual condenação por ambas as vias de responsabilização não seria admitida para o caso em apreço.",
-            "D) Todas as alternativas anteriores são falsas.",
-            "A) Defensoria Pública é uma instituição permanente e essencial à função jurisdicional do Estado, e atua no exercício da defesa dos necessitados. Para o desempenho da função institucional, a Constituição Federal prevê expressamente aos membros da Defensoria Pública a garantia de:",
+            "D) Todas as alternativas anteriores são falsas."
+        ],
+        "correctAwser": "A",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Defensoria Pública é uma instituição permanente e essencial à função jurisdicional do Estado, e atua no exercício da defesa dos necessitados. Para o desempenho da função institucional, a Constituição Federal prevê expressamente aos membros da Defensoria Pública a garantia de:",
+        "choices": [
             "A) Vitaliciedade, que é adquirida após dois anos de efetivo exercício no cargo.",
             "B) Irredutibilidade de remuneração, que se dará exclusivamente pelo sistema com base em vencimento.",
             "C) Independência funcional, que lhes assegura a plena autonomia de convicção no exercício de suas funções, ainda que divergente em relação às leis e aos princípios institucionais do órgão.",
@@ -7770,6 +9207,14 @@
         "id": ""
     },
     {
+        "question": "A Lei Geral de Proteção de Dados – Lei nº 13.709/2018, tem como principal objetivo proteger os direitos fundamentais de liberdade; privacidade; e, livre desenvolvimento da personalidade da pessoa natural, bem como o foco na criação de um cenário de segurança jurídica, com a padronização de regulamentos e práticas para promover a proteção aos dados pessoais de todo cidadão que esteja no Brasil.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "De acordo com os parâmetros internacionais existentes acerca da Lei de Proteção de Dados (Lei nº 13.709/2018), considera dado pessoal sensível aqueles que se referem à origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural.",
         "choices": [],
         "correctAwser": "true",
@@ -7800,8 +9245,15 @@
     },
     {
         "question": "Suponhamos que uma determinada lei estadual estabeleça normas administrativas, com a finalidade de compatibilizar o desenvolvimento socioeconômico com a preservação ambiental, prevendo a aplicação de penalidades e multas aos infratores. A normativa veda ofensa ou sujeição a qualquer tipo de experiência capaz de causar sofrimento ou dano aos animais. Contudo, exclui a responsabilidade sobre as condutas praticadas em decorrência da realização dos cultos e liturgias das religiões de matriz africana. Sob o aspecto constitucional, é correto afirmar que a lei estadual é inconstitucional ao passo que resguarda o direito fundamental à liberdade religiosa e protege as manifestações de cunho religioso.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A nova Lei de Licitações e Contratos Administrativos estabelece normas gerais de licitação e contratação. Uma das modalidades de licitação previstas na referida lei é assim descrita: “modalidade de licitação para contratação de obras, serviços e compras em que a Administração Pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos”. Tal descrição corresponde à seguinte modalidade:",
         "choices": [
-            "A) nova Lei de Licitações e Contratos Administrativos estabelece normas gerais de licitação e contratação. Uma das modalidades de licitação previstas na referida lei é assim descrita: “modalidade de licitação para contratação de obras, serviços e compras em que a Administração Pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos”. Tal descrição corresponde à seguinte modalidade:",
             "A) diálogo competitivo.",
             "B) pregão.",
             "C) concurso.",
@@ -7869,8 +9321,34 @@
     },
     {
         "question": "“É a subtração da responsabilidade penal, civil, disciplinar ou política do parlamentar, por suas opiniões, palavras e votos. Trata se de cláusula de irresponsabilidade geral de Direito Constitucional material e garante que o congressista exerça a sua atividade com a mais ampla liberdade de manifestação. A isenção de responsabilidade é total, não podendo o parlamentar responder por qualquer dos chamados delitos de opinião (calúnia, injúria, difamação, desacato...). Refere-se somente a atos funcionais, ainda que não exercidos exclusivamente no âmbito do Congresso Nacional. ” (BAHIA, Flavia. Descomplicando Direito Constitucional. 3 ed. Recife: Editora Armador, 2017) Assinale das alternativas o enunciado acima se refere:",
-        "choices": [],
+        "choices": [
+            "A) Imunidade formal",
+            "B) Prerrogativa de foro",
+            "C) Imunidade material",
+            "D) Imunidade em estado de sítio"
+        ],
+        "correctAwser": "C",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A União, os Estados, o Distrito Federal e os Municípios organizarão, em regime de colaboração, os respectivos sistemas de ensino. Os Municípios não se incumbirão de:",
+        "choices": [
+            "A) Organizar, manter e desenvolver os órgãos e instituições oficiais dos seus sistemas de ensino, integrando-os às políticas e planos educacionais da União e dos Estados.",
+            "B) Exercer ação redistributiva em relação às suas escolas.",
+            "C) Assumir o transporte escolar dos alunos da rede municipal.",
+            "D) Baixar normas gerais sobre cursos de graduação e pós-graduação."
+        ],
         "correctAwser": "D",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A chamada “Lei de Improbidade Administrativa”, (Lei n.º 8.429/1992), dispõe sobre: “as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, de que trata o § 4º, do art. 37, da CF; e dá outras providências”.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -7887,6 +9365,14 @@
         "question": "Para os efeitos da “Lei de Improbidade Administrativa”, consideram-se agente público o agente político, o servidor público e todo aquele que exerce, desde que remunerado, por eleição, nomeação, designação, contratação, qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego, ou função, nas entidades referidas no art. 1º, desta Lei.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A figura da DESLEGIFICAÇÃO no Direito Administrativo, serve para regular atos normativos administrativos (matéria técnica), como por exemplo, ocorre, através de resoluções, portarias, instruções, etc..",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -7910,8 +9396,16 @@
             "A) Nomeação.",
             "B) Readaptação.",
             "C) Adaptação.",
-            "D) Reversão.",
-            "A) Lei nº 14.133/2021 — Lei de Licitações e Contratos Administrativos trata sobre os processos licitatórios. Quanto aos objetivos do processo licitatório previstos expressamente na referida Lei, assinalar a alternativa CORRETA:",
+            "D) Reversão."
+        ],
+        "correctAwser": "B",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Lei nº 14.133/2021 — Lei de Licitações e Contratos Administrativos trata sobre os processos licitatórios. Quanto aos objetivos do processo licitatório previstos expressamente na referida Lei, assinalar a alternativa CORRETA:",
+        "choices": [
             "A) Assegurar a seleção da proposta apta a gerar o resultado de contratação menos vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do produto.",
             "B) Priorizar as empresas que estejam no início de suas atividades, incentivando‐se, assim, o empreendedorismo.",
             "C) Proibir contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos e das atividades.",
@@ -7920,54 +9414,6 @@
         "correctAwser": "D",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "MULTIPLE_CHOICE",
-        "id": ""
-    },
-    {
-        "question": "É CORRETO afirmar que a jurisprudência do STF reconhece a ocorrência de situações em que o Poder Legislativo necessite praticar em juízo, em nome próprio, uma série de atos processuais na defesa de sua autonomia e independência frente aos demais Poderes, nada impedindo que assim o faça por meio de um setor pertencente a sua estrutura administrativa, também responsável pela consultoria e pelo assessoramento jurídico de seus demais órgãos.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "É INCORRETO afirmar ser imprescindível a apresentação de instrumento de mandato pelo titular do cargo de procurador de autarquia para representá-la em juízo.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Nos termos do artigo 132 da Constituição da República, cada Estado detém competência para organizar sua representação judicial e extrajudicial, que deve ser realizada por procuradores de carreira, incluída, nesta competência, a formulação de leis sobre procedimentos em matéria processual, atendidas as peculiaridades locais.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Salvo demonstração de culpa ou erro grosseiro, submetida às instâncias administrativo-disciplinares ou jurisdicionais próprias, não cabe a responsabilização do advogado público pelo conteúdo de seu parecer de natureza meramente opinativa.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Considere as afirmações seguintes, tendo em vista a Lei 14.133/2021: I. No pregão, o critério de julgamento poderá ser o de menor preço ou o de maior desconto; e II. A concorrência e o pregão seguem o rito procedimental comum.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "No que concerne à Lei de Licitações (Lei nº 14.133/2021), o leilão é apropriado para alienação de bens imóveis ou de bens móveis inservíveis ou ilegalmente apreendidos.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
         "id": ""
     },
     {
@@ -7984,25 +9430,8 @@
         "id": ""
     },
     {
-        "question": "Sobre a Lei 14.333/2021, constatada irregularidade insanável no respectivo procedimento licitatório ou na execução do contrato administrativo, deve ser declarada a nulidade do contrato e suspensa a sua execução.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Acerca da Lei de Licitações, a declaração de nulidade do contrato administrativo opera retroativamente, impedindo os efeitos jurídicos que o contrato deveria produzir ordinariamente e desconstituindo os já produzidos.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "No que tange à Lei nº 14.133/2021, ao declarar a nulidade do contrato, a autoridade, com vistas à continuidade da atividade administrativa, poderá decidir que ela só tenha eficácia em momento futuro.",
+        "question": "A respeito da intimação no processo administrativo, é INCORRETO afirmar:",
         "choices": [
-            "A) respeito da intimação no processo administrativo, é INCORRETO afirmar:",
             "A) A Administração Pública possui discricionariedade para decidir a forma pela qual será feita a intimação.",
             "B) A intimação deve informar que o processo terá continuidade, independentemente do comparecimento do intimado.",
             "C) Caso o interessado não atenda intimação para se defender sobre certos fatos a ele imputados, estes serão presumidos verdadeiros.",
@@ -8024,94 +9453,6 @@
         "correctAwser": "B",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "MULTIPLE_CHOICE",
-        "id": ""
-    },
-    {
-        "question": "Tendo em vista a Constituição Estadual de determinado Estado e seus efeitos, na Administração Pública do Estado, somente pode ser instituída fundação de direito privado para gestão de previdência complementar de servidores públicos.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "É vedada a delegação de poderes ao Executivo estadual, por Constituição Estadual, para criação ou extinção de fundação de direito privado de sua administração indireta.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Depende de lei específica a autorização dada por Constituição Estadual para instituir e extinguir fundação de direito privado da administração indireta.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Em 1º de abril de 2021, foi editada a Lei n° 14.133, que vem sendo chamada de nova lei de licitações e contratos administrativos. Trata-se de diploma legal federal que, visando ao aprimoramento da matéria, implementa nova disciplina para as contrações públicas. É CORRETO afirmar que a nova lei cria o Portal Nacional de Contratações Públicas, sítio eletrônico unificado e gerido pelo Poder Executivo Federal, vedando-se a instituição de sítios eletrônicos oficiais próprios pelos entes federativos para realização de contratações.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "É correto afirmar que a nova lei de licitações (Lei nº 14.133/2021), estabelece que as licitações serão preferencialmente realizadas sob a forma eletrônica, e admite, desde que motivada, a forma presencial, devendo a sessão pública ser gravada em áudio e vídeo.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "No que concerne à nova lei de licitações, é correto afirmar que esta impõe aos entes e órgãos da Administração Pública a utilização do sistema de registro cadastral unificado, disponível no Portal Nacional de Contratações Públicas, e veda a realização de licitação restrita a fornecedores cadastrados.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "É correto afirmar que a Lei nº 14.133/2021, prevê a revogação da Lei nº 8.666/93, após decorridos 2 anos da publicação oficial da nova lei, mantida, todavia, a disciplina da modalidade licitatória do pregão, tal como contida na Lei nº 10.520/2002.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Para compatibilizar direitos próprios do regime do servidor público com os direitos políticos, o art. 38 da Constituição da República contém regras sobre a situação de servidores públicos que se elejam para o exercício de mandatos políticos. Consideradas aquelas regras, é INCORRETO afirmar que a opção pela remuneração do cargo, emprego ou função pública de origem só é garantida no caso de eleição para mandatos políticos municipais e estaduais.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "É inadmissível o exercício cumulativo de mandato de vereador com outro cargo, emprego ou função pública, desde que haja compatibilidade de horários.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O tempo de exercício de mandato de deputado federal deve ser contado para fins de aquisição, por servidor público estadual, de adicional por tempo de serviço.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Um policial federal eleito deputado estadual ficará afastado do cargo para o exercício do mandato, devendo permanecer filiado ao regime próprio de previdência social a que faz jus na condição de policial.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
         "id": ""
     },
     {
@@ -8181,10 +9522,15 @@
     },
     {
         "question": "20 O sistema brasileiro de responsabilidade civil extracontratual do Estado, fundado na Constituição e na jurisprudência, admite a responsabilidade",
-        "choices": [],
-        "correctAwser": "false",
+        "choices": [
+            "A) objetiva por risco integral como regra, nas hipóteses de conduta comissiva e subjetiva nos casos de conduta omissiva.",
+            "B) objetiva por risco integral como regra, nos casos de conduta comissiva, não admitindo a jurisprudência do Supremo Tribunal Federal a distinção entre fortuito interno e fortuito externo.",
+            "C) objetiva do Estado e subjetiva do agente público causador do dano, adotando a teoria do risco administrativo.",
+            "D) subjetiva do causador do dano, podendo a vítima acioná-lo diretamente, caso não prefira acionar o poder público."
+        ],
+        "correctAwser": "C",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
-        "type": "TRUE_FALSE",
+        "type": "MULTIPLE_CHOICE",
         "id": ""
     },
     {
@@ -8543,6 +9889,19 @@
     },
     {
         "question": "O Município X pretende autorizar a criação de uma fundação pública de direito privado, a qual ficaria responsável pela execução de serviços de saúde. Os trabalhadores dessa fundação estariam submetidos, por sua vez, ao regime celetista. De acordo com a jurisprudência do Supremo Tribunal Federal, a pretensão do Município é:",
+        "choices": [
+            "A) Viável, porque a Administração direta e indireta não estão sujeitas ao Regime Jurídico Único, podendo ser adotado o regime celetista inclusive na Administração direta.",
+            "B) Viável, uma vez que fundação pública com personalidade jurídica de direito privado pode adotar o regime celetista para contratação de seus empregados.",
+            "C) Inviável, pois é inconstitucional a constituição de fundação pública de direito privado para a prestação de serviço público de saúde.",
+            "D) Inviável, pois o serviço de prestação de saúde pelo Estado somente pode ser prestado por servidores estatutários, qualquer seja a natureza da pessoa jurídica envolvida."
+        ],
+        "correctAwser": "B",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A estabilidade dos servidores públicos é adquirida após dois anos de efetivo exercício.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -8551,6 +9910,14 @@
     },
     {
         "question": "Alguns servidores públicos podem acumular cargos públicos, desde que haja compatibilidade de horários e sejam dois cargos de professor.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade dos servidores públicos é exclusivamente administrativa. Das assertivas, pode-se afirmar que:",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -8584,7 +9951,7 @@
         "id": ""
     },
     {
-        "question": "QUESTÃO 34. Sobre as funções essenciais à Justiça conforme a Constituição Federal, assinale a alternativa correta.",
+        "question": "A) O Ministério Público é um órgão subordinado ao Poder Executivo.",
         "choices": [
             "A) O Ministério Público é um órgão subordinado ao Poder Executivo.",
             "B) A Advocacia Pública não possui prerrogativas especiais em comparação com a advocacia privada.",
@@ -8684,6 +10051,14 @@
         "id": ""
     },
     {
+        "question": "A forma eletrônica na celebração de contratos e de termos aditivos não é permitida pela Lei.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Antes de formalizar ou prorrogar o contrato, a administração deve verificar a regularidade fiscal do contratado e consultar os cadastros de empresas inidôneas e punidas.",
         "choices": [],
         "correctAwser": "false",
@@ -8715,6 +10090,14 @@
     {
         "question": "O termo de fomento é o instrumento por meio do qual são formalizadas as parcerias estabelecidas pela Administração Pública com organizações da sociedade civil para a consecução de finalidades de interesse público e recíproco que não envolvam a transferência de recursos financeiros.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Administração Pública poderá dispensar a realização do chamamento público no caso de atividades voltadas ou vinculadas a serviços de educação, saúde e assistência social, desde que executadas por organizações da sociedade civil previamente credenciadas pelo órgão gestor da respectiva política.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -8743,6 +10126,14 @@
     },
     {
         "question": "As empresas públicas podem prestar serviços públicos, não se devendo confundir a natureza da entidade (de direito privado) com a do serviço.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei específica autorizadora da criação das estatais é, segundo a Constituição, a ordinária, restringindo-se a exigência de Lei Complementar apenas para as fundações.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -9055,6 +10446,14 @@
     {
         "question": "Devem ser classificadas no grupo de despesas Investimentos, a despesas orçamentárias com softwares e com o planejamento e a execução de obras, inclusive com a aquisição de imóveis considerados necessários à realização destas últimas, e com a aquisição de instalações, equipamentos e material permanente.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A despesa pública deve ser classificada por Grupo de Natureza da Despesa. O Grupo de Natureza da Despesa é um agregador de elemento de despesa com as mesmas características quanto ao objeto de gasto. Essa agregação objetiva, principalmente, eliminar a dupla contagem dos recursos transferidos ou descentralizados.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
@@ -9062,6 +10461,14 @@
     },
     {
         "question": "Devem ser classificadas no grupo de despesas Inversões Financeiras, as despesas orçamentárias com a aquisição de imóveis ou bens de capital já em utilização; a aquisição de títulos representativos do capital de empresas ou entidades de qualquer espécie, já constituídas, quando a operação não importe aumento do capital; dentre outras.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A classificação da despesa orçamentária por identificador de resultado primário, de caráter obrigatório, tem como finalidade auxiliar a apuração do resultado nominal previsto na Lei Orçamentária – LOA, não sendo obrigatório constar no PLOA.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -9085,6 +10492,22 @@
         "id": ""
     },
     {
+        "question": "A Modalidade de Aplicação da despesa indica se os recursos serão aplicados mediante transferência financeira, inclusive a decorrente de descentralização orçamentária para outros níveis de Governo, seus órgãos ou entidades, ou diretamente para entidades privadas sem fins lucrativos e outras instituições; ou, então, diretamente pela unidade detentora do crédito orçamentário, ou por outro órgão ou entidade no âmbito do mesmo nível de Governo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A compreensão do orçamento exige o conhecimento de sua estrutura e sua organização, implementadas por meio de um sistema de classificação estruturado. Esse sistema tem o propósito de atender às exigências de informação demandadas por todos os interessados nas questões de finanças públicas, como os poderes públicos, as organizações públicas e privadas e a sociedade em geral.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Na estrutura atual do orçamento público, as programações orçamentárias não precisam estar organizadas em programas (planos) de trabalho. Por isso são facultativas as informações qualitativas e quantitativas.",
         "choices": [],
         "correctAwser": "false",
@@ -9094,6 +10517,14 @@
     },
     {
         "question": "O programa de trabalho, que define quantitativamente a programação orçamentária, pode, se necessário, responder, de maneira clara e objetiva, às perguntas clássicas que caracterizam o ato de orçar, sendo, do ponto de vista operacional, composto de blocos de informação, quais sejam: classificação por esfera, classificação institucional e classificação funcional.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A programação orçamentária qualitativa tem duas dimensões: a física e a financeira. A dimensão física estima o montante necessário para o desenvolvimento da ação orçamentária. A dimensão financeira define a quantidade de bens e serviços a serem entregues. A sequência está correta em",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -9134,8 +10565,29 @@
     },
     {
         "question": "52 A Contabilidade Aplicada ao Setor Público compreende diferentes aspectos, os quais são importantes para a correta interpretação das informações contábeis. ∙ Aspecto ____________ – Nesse aspecto, devem ser atendidos os princípios e as normas contábeis voltadas para o reconhecimento, mensuração e evidenciação dos ativos e passivos e de suas variações patrimoniais. ∙ Aspecto ____________ – Compreende o registro e a evidenciação do orçamento público, tanto quanto à sua aprovação quanto à sua execução. ∙ Aspecto ____________ – Compreende a apuração e a evidenciação, por meio da contabilidade, dos indicadores estabelecidos pela LRF, dentre os quais se destacam os da despesa com pessoal, das operações de crédito e da dívida consolidada, além da apuração da disponibilidade de caixa, do resultado primário e do resultado nominal, a fim de verificar-se o equilíbrio das contas públicas. Assinale a alternativa que completa a sequencia.",
-        "choices": [],
+        "choices": [
+            "A) Orçamentário / Patrimonial / Fiscal",
+            "B) Patrimonial / Orçamentário / Fiscal",
+            "C) Fiscal / Orçamentário / Patrimonial",
+            "D) Patrimonial / Fiscal / Orçamentário"
+        ],
         "correctAwser": "B",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Dívida Pública, em termos gerais, é a dívida contraída pelo Tesouro Nacional, Estadual ou Municipal para financiar o déficit orçamentário, nele incluído o refinanciamento da própria dívida, bem como para realizar operações com finalidades específicas definidas em lei.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Dívida Pública Federal pode ser classificada de distintas formas, sendo as principais: quanto à forma utilizada para o endividamento e quanto à moeda na qual ocorrem os fluxos de recebimento e pagamento da dívida.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -9159,7 +10611,23 @@
     {
         "question": "Atualmente, toda a Dívida Pública Federal em circulação no mercado nacional é paga em real e captada por meio da emissão de títulos públicos, sendo por essa razão definida como Dívida Pública Mobiliária Federal interna. Já a Dívida Pública Federal existente no mercado internacional é paga em outras moedas que não o real e tem sido captada tanto por meio da emissão de títulos quanto por contratos, sendo por isso definida como Dívida Pública Federal externa.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei de Responsabilidade Fiscal enfraquece a Lei de Diretrizes Orçamentárias, em virtude da obrigatoriedade do Anexo de Riscos Fiscais, onde deve ser estabelecida meta anual em valores correntes e constantes para o período.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei de Responsabilidade Fiscal trata de equilíbrio nas contas públicas: o equilíbrio das chamadas Contas Primárias, traduzida no Resultado Primário equilibrado. O equilíbrio a ser buscado é o equilíbrio autossustentável, aquele que prescinde de operações de crédito e, portanto, sem aumento da dívida pública.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
@@ -9348,13 +10816,30 @@
             "A) A pessoa jurídica admita sua participação de acordo com sua responsabilidade objetiva; coopere com as investigações e o processo judicial; comprometa-se a implementar ou melhorar mecanismos internos de integridade, auditoria e incentivo às denúncias de irregularidades e à aplicação efetiva do código de ética e de conduta.",
             "B) Ser pessoa física ou jurídica; estar entre os três primeiros a apresentar a proposta de leniência; o ato lesivo ser apenas à Administração Pública federal; cesse completamente o envolvimento na infração investigada a partir da data de aceitação do acordo; facultada a participação em atos processuais e efetivo pagamento dos valores estabelecidos, a título de sanção.",
             "C) Identificação dos demais envolvidos na infração, quando couber; obtenção célere de informações e documentos que comprovem o ilícito; a primeira a se manifestar sobre seu interesse em cooperar; cesse completamente seu envolvimento na infração investigada a partir da data de propositura do acordo; admita sua participação no ato ilícito, cooperando plena e permanentemente; compareça a todos os atos processuais, até seu encerramento.",
-            "D) O acordo deve ser celebrado com o Estado pela AGE; obtenção célere de informações e documentos que comprovem o ilícito; comprometa-se a implementar ou melhorar mecanismos internos de integridade e auditoria; cesse completamente o envolvimento na infração investigada a partir da data de aceitação do acordo; admita sua participação no ato ilícito, cooperando plena e permanentemente; compareça a todos os atos processuais, até seu encerramento.",
-            "A) Ouvidoria de determinado Município recebeu uma representação anônima dando conta de que Joana, ocupante do cargo efetivo de Auditor Fiscal Tributário do Município, estaria, no exercício da função, recebendo propina para favorecer determinado contribuinte. Para apurar indícios preliminares de veracidade do noticiado, o órgão competente municipal deu início à sindicância que, após os trâmites regulares, ensejou a instauração de processo administrativo disciplinar (PAD) em face de Joana. Com intuito de anular judicialmente o PAD, Joana contratou advogado que lhe informou que, de acordo com jurisprudência do Superior Tribunal de Justiça, a instauração de processo administrativo disciplinar com base em denúncia anônima é",
+            "D) O acordo deve ser celebrado com o Estado pela AGE; obtenção célere de informações e documentos que comprovem o ilícito; comprometa-se a implementar ou melhorar mecanismos internos de integridade e auditoria; cesse completamente o envolvimento na infração investigada a partir da data de aceitação do acordo; admita sua participação no ato ilícito, cooperando plena e permanentemente; compareça a todos os atos processuais, até seu encerramento."
+        ],
+        "correctAwser": "C",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Ouvidoria de determinado Município recebeu uma representação anônima dando conta de que Joana, ocupante do cargo efetivo de Auditor Fiscal Tributário do Município, estaria, no exercício da função, recebendo propina para favorecer determinado contribuinte. Para apurar indícios preliminares de veracidade do noticiado, o órgão competente municipal deu início à sindicância que, após os trâmites regulares, ensejou a instauração de processo administrativo disciplinar (PAD) em face de Joana. Com intuito de anular judicialmente o PAD, Joana contratou advogado que lhe informou que, de acordo com jurisprudência do Superior Tribunal de Justiça, a instauração de processo administrativo disciplinar com base em denúncia anônima é",
+        "choices": [
+            "D) em face de Joana. Com intuito de anular judicialmente o PAD, Joana contratou advogado que lhe informou que, de acordo com jurisprudência do Superior Tribunal de Justiça, a instauração de processo administrativo disciplinar com base em denúncia anônima é",
             "A) permitida, desde que, no curso da apuração, haja identificação superveniente do noticiante, para sanar o vício inicial do anonimato do noticiante.",
             "B) permitida, desde que devidamente motivada e com amparo em investigação ou sindicância, diante do poder-dever de autotutela imposto à Administração.",
             "C) vedada, diante da expressa proibição, no texto constitucional, do anonimato para dar início à aplicação do direito administrativo sancionador.",
-            "D) vedada, diante de expressa proibição no texto constitucional, sob pena de violação aos princípios constitucionais da impessoalidade e isonomia.",
-            "A) Vigilância Sanitária do Município Alfa recebeu denúncia de que o Supermercado Beta estaria expondo à venda produtos alimentícios impróprios para consumo. Por determinação da autoridade competente, servidores públicos municipais da vigilância sanitária realizaram fiscalização no mencionado supermercado e constataram que, de fato, estavam sendo vendidos produtos alimentícios com validade vencida e visivelmente estragados. Com base em lei municipal, os produtos foram imediatamente apreendidos para fins de perícia e, findo o processo administrativo, foram aplicadas as sanções administrativas previstas em lei ao supermercado. Na situação narrada, o Município Alfa agiu:",
+            "D) vedada, diante de expressa proibição no texto constitucional, sob pena de violação aos princípios constitucionais da impessoalidade e isonomia."
+        ],
+        "correctAwser": "B",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Vigilância Sanitária do Município Alfa recebeu denúncia de que o Supermercado Beta estaria expondo à venda produtos alimentícios impróprios para consumo. Por determinação da autoridade competente, servidores públicos municipais da vigilância sanitária realizaram fiscalização no mencionado supermercado e constataram que, de fato, estavam sendo vendidos produtos alimentícios com validade vencida e visivelmente estragados. Com base em lei municipal, os produtos foram imediatamente apreendidos para fins de perícia e, findo o processo administrativo, foram aplicadas as sanções administrativas previstas em lei ao supermercado. Na situação narrada, o Município Alfa agiu:",
+        "choices": [
             "A) no regular uso do poder regulamentar, sendo desnecessária prévia intervenção judicial para apreensão do produto, em razão do atributo da imperatividade do ato administrativo.",
             "B) com abuso de poder, eis que a aplicação de sanções administrativas apenas poderia ocorrer após processo judicial, assegurados o contraditório e a ampla defesa.",
             "C) no regular uso do poder hierárquico, sendo desnecessária prévia intervenção judicial para apreensão do produto, em razão do atributo da imperatividade do ato administrativo.",
@@ -9396,6 +10881,14 @@
     },
     {
         "question": "Os princípios gerais do direito, são fontes de todo e qualquer direito, exceto do Direito Administrativo.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A jurisprudência é sempre fonte secundária do Direito Administrativo.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
@@ -9504,6 +10997,14 @@
         "id": ""
     },
     {
+        "question": "A LEI por ser escrita ou organizada é a principal fonte do Direito Administrativo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que concerne à doutrina, é correto afirmar que para Mazza e Di Pietro “regime jurídico administrativo” serve para tipificar o Direito Administrativo, posicionando a Administração Pública de forma hierárquica acima de qualquer relação jurídico administrativa.",
         "choices": [],
         "correctAwser": "true",
@@ -9515,6 +11016,22 @@
         "question": "PRINCÍPIOS GERAIS DO DIREITO, não são fontes inorganizadas do Direito Administrativo.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A doutrina majoritária brasileira, elege a analogia como fonte do Direito Administrativo.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A jurisprudência do STJ firmou a possibilidade de interpretação analógica em relação à matéria de servidores públicos, quando inexistir previsão específica no diploma normativo do estado ou do município.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "487640da-9bc5-487b-a1e8-5c0911158e82",
         "type": "TRUE_FALSE",
         "id": ""
