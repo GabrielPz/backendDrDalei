@@ -18,6 +18,7 @@ import fastifyRawBody from "fastify-raw-body";
 import { errorHandler } from "./middlewares/ErrorMiddleware";
 import { prisma } from "./lib/prisma";
 import { Webhook } from "./services/WebHook";
+import { forgotPasswordRoutes } from "./routes/ForgotPasswordRoutes";
 
 const app = fastify();
 
@@ -70,6 +71,7 @@ app.register(userRoutes, { prefix: "/api/v1" });
 app.register(paymentRoutes, { prefix: "/api/v1" });
 app.register(authRoutes, { prefix: "/api/v1" });
 app.register(rentedMovieRoutes, { prefix: "/api/v1" });
+app.register(forgotPasswordRoutes, { prefix: "/api/v1" });
 app.register(Webhook, { prefix: "/api/v1" });
 
 app.listen({ port: 8000, host: "0.0.0.0" }).then(async () => {

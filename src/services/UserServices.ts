@@ -41,6 +41,16 @@ export const userService = {
     });
   },
 
+  async updatePassword(userId: string, newPassword: string): Promise<User> {
+    const hashedPassword = await bcrypt.hash(newPassword, 10);
+    return prisma.user.update({
+      where: { id: userId },
+      data: {
+        password: hashedPassword,
+      },
+    });
+  },
+
   async deleteUser(id: string): Promise<User> {
     return prisma.user.delete({
       where: { id },
