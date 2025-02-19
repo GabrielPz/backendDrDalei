@@ -233,6 +233,14 @@
     {
         "question": "As taxas ou as tarifas decorrentes da prestação de serviço de limpeza urbana e de manejo de resíduos sólidos, no que tange às diretrizes nacionais para o saneamento básico, considerarão a destinação adequada dos resíduos coletados e o nível de renda da população da área atendida, de forma isolada ou combinada, e poderão, ainda, considerar o consumo de água do contribuinte ou usuário.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A cobrança pela prestação do serviço público de drenagem e manejo de águas pluviais urbanas deve levar em conta, em cada lote urbano, os percentuais de impermeabilização e a existência de dispositivos de amortecimento ou de retenção de água de chuva, bem como o consumo individual dos usuários, vedada a hipótese distintiva por nível de renda.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -319,6 +327,14 @@
         "id": ""
     },
     {
+        "question": "A Lei nº 12.153/2009, que dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, é de extrema importância no contexto do sistema judiciário brasileiro. Os Juizados Especiais da Fazenda Pública foram criados com o objetivo de fornecer uma via mais acessível, eficiente e ágil para resolver litígios envolvendo órgãos governamentais e a Administração Pública. Considerando a referida Lei, se o valor da execução ultrapassar o estabelecido para pagamento independentemente do precatório, o pagamento far-se-á, sempre, por meio do precatório, sendo obrigatório à parte exequente a renúncia ao crédito do valor excedente, para que possa optar pelo pagamento do saldo sem o precatório.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que tange à Lei 12.153/2009 (Lei dos Juizados Especiais da Fazenda Pública), se o valor da execução ultrapassar o estabelecido para pagamento independente do precatório, o saque do valor depositado poderá ser feito pela parte autora, pessoalmente, em qualquer agência do banco depositário, independentemente de alvará.",
         "choices": [],
         "correctAwser": "false",
@@ -343,6 +359,22 @@
         "id": ""
     },
     {
+        "question": "A Lei nº 6.830/1980 regula o processo de cobrança judicial da dívida ativa da Fazenda Pública no Brasil. Ela busca equilibrar os interesses do Estado em recuperar recursos e dos devedores em garantir seus direitos durante o processo de execução fiscal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A aplicação adequada da Lei que regula o processo de cobrança judicial da dívida ativa da fazenda pública no brasil (Lei nº 6.830/1980), é essencial para manter a integridade do sistema fiscal e garantir que os recursos públicos sejam adequadamente protegidos e recuperados. Tendo em vista a referida normativa, se, antes da decisão de primeira instância, a inscrição de Dívida Ativa for, a qualquer título, cancelada, a execução fiscal será extinta, sem qualquer ônus para as partes.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Considerando a aplicação adequada da Lei nº 6.830/1980, o juiz, a requerimento das partes, poderá, por conveniência da unidade da garantia da execução, ordenar a reunião de processos contra o mesmo devedor.",
         "choices": [],
         "correctAwser": "true",
@@ -351,7 +383,23 @@
         "id": ""
     },
     {
+        "question": "A tutela de urgência pode ser concedida em duas modalidades principais: antecipada e cautelar. Efetivada a tutela cautelar, o pedido principal terá de ser formulado pelo autor no prazo de trinta dias, caso em que será apresentado nos mesmos autos em que deduzido o pedido de tutela cautelar, dependendo do adiantamento de novas custas processuais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Nos casos em que a urgência for contemporânea à propositura da ação, a petição inicial pode limitar-se ao requerimento da tutela antecipada e à indicação do pedido de tutela final, com a exposição da lide, do direito que se busca realizar e do perigo de dano ou do risco ao resultado útil do processo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A consignação em pagamento é uma ferramenta importante para proteger os direitos do devedor, garantindo que ele possa cumprir com suas obrigações financeiras de forma apropriada, mesmo quando o credor se recusa injustificadamente a receber o pagamento.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -376,6 +424,14 @@
     },
     {
         "question": "Se o objeto da prestação for coisa indeterminada e a escolha couber ao credor, será este citado para exercer o direito dentro de cinco dias, se outro prazo não constar de lei ou do contrato, ou para aceitar que o devedor a faça, devendo o juiz, ao despachar a petição inicial, fixar lugar, dia e hora em que se fará a entrega, sob pena de depósito.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A informatização do processo judicial é um avanço significativo na área do direito e na administração da justiça. A informatização do processo judicial visa tornar a justiça mais acessível. A possibilidade de enviar petições, acompanhar processos e acessar documentos judiciais pela internet facilita o acesso das partes, advogados e cidadãos aos tribunais, reduzindo a necessidade de deslocamentos físicos. De acordo com a Lei nº 11.419/2006, os órgãos do Poder Judiciário poderão desenvolver sistemas eletrônicos de processamento de ações judiciais por meio de autos total ou parcialmente digitais, utilizando, preferencialmente, a rede mundial de computadores e acesso por meio de redes internas e externas.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -476,8 +532,16 @@
             "A) eleição.",
             "B) domicílio do autor.",
             "C) situação da coisa.",
-            "D) domicílio do réu.",
-            "A) existência da pessoa natural termina com a:",
+            "D) domicílio do réu."
+        ],
+        "correctAwser": "C",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A existência da pessoa natural termina com a:",
+        "choices": [
             "A) Emancipação.",
             "B) Maioridade.",
             "C) Morte.",
@@ -516,6 +580,14 @@
     },
     {
         "question": "De acordo com as disposições gerais da Tutela Provisória, a tutela provisória requerida em caráter incidental depende do pagamento de custas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A tutela provisória pode fundamentar-se em urgência ou evidência.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -568,6 +640,19 @@
         "id": ""
     },
     {
+        "question": "A extinção do processo com resolução do mérito ocorre quando",
+        "choices": [
+            "A) arguição de impedimento ou de suspeição.",
+            "B) admissão de incidente de resolução de demandas repetitivas.",
+            "C) parto da advogada responsável pelo processo, única patrona da causa.",
+            "D) homologação do reconhecimento da procedência do pedido formulado na ação ou na reconvenção."
+        ],
+        "correctAwser": "D",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
         "question": "Dandara, nos últimos meses, passou a ter graves desavenças com seu único sócio, Valdomiro, na condução da sociedade, Damiro Informática Ltda., o que inviabiliza a sua manutenção na empresa. Diante disso, pretende a saída do quadro societário. Com base nos estudos acerca das sociedades limitadas, Dandara poderá pleitear a dissolução parcial da sociedade por falta de affectio societatis, podendo a sociedade manter sua existência e, por conseguinte, a personalidade jurídica.",
         "choices": [],
         "correctAwser": "true",
@@ -577,6 +662,14 @@
     },
     {
         "question": "Arão caminhava livremente pela calçada quando, subitamente, ao avistar uma mãe gritando com seu filho (criança com aparência de 5 anos), a exigir-lhe respeito e obediência, decidiu atuar a favor da criança, desferindo um empurrão na mãe, causando lesões corporais de leve intensidade. O ato praticado por Arão deve ser qualificado como ato ilícito, porque praticou ação voluntária dolosa, violando direito da vítima e causando-lhe dano passível de indenização.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei n. 8.560/1992, que regula a averiguação oficiosa da paternidade, conferiu legitimidade processual ativa ao Ministério Público para a proposição da ação de investigação de paternidade e ampliou as maneiras de reconhecimento espontâneo da perfilhação do pai.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -601,6 +694,14 @@
     },
     {
         "question": "O interessado em que o herdeiro declare se aceita, ou não, a herança, poderá, quinze dias após aberta a sucessão, requerer ao juiz prazo razoável, não maior de trinta dias, para, nele, se pronunciar o herdeiro, sob pena de se haver a herança por aceita.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Súmula n. 596 do STJ enuncia que “A obrigação alimentar dos avós tem natureza complementar e subsidiária, somente se configurando no caso de impossibilidade total de seu cumprimento pelos pais”.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -753,6 +854,14 @@
     },
     {
         "question": "Nos termos da Lei n. 13.726/2018, na relação dos órgãos e entidades dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios com o cidadão, é vedada a exigência de prova relativa a fato que já houver sido comprovado pela apresentação de outro documento válido e quando, por motivo não imputável ao solicitante, não for possível obter diretamente do órgão ou entidade responsável documento comprobatório de regularidade, os fatos poderão ser comprovados mediante declaração escrita e assinada pelo cidadão, que, em caso de declaração falsa, ficará sujeito às sanções administrativas, civis e penais aplicáveis.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei n. 11.804/2008 estabelece que os alimentos gravídicos compreenderão os valores suficientes para cobrir as despesas do período de gravidez e que sejam dela decorrentes, da concepção ao parto, a ser deferido pelo juiz, após audiência de justificação onde ouvirá a parte autora e apreciará as provas da paternidade em cognição sumária, podendo tomar depoimento da parte ré e de testemunhas.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -1018,6 +1127,14 @@
     {
         "question": "Conforme dispõe o Código de Processo Civil, o Ministério Público poderá propor ação rescisória em três casos: quando foi parte no processo; se não foi ouvido no processo em  que lhe era obrigatória a intervenção; quando a sentença é o efeito de colusão das partes, a fim de fraudar a lei.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria da encampação é aplicada no habeas data e no mandado de segurança quando presentes, cumulativamente, os seguintes requisitos: a) existência de vínculo hierárquico entre a autoridade que prestou informações e a que ordenou a prática do ato impugnado; b) manifestação a respeito do mérito nas informações prestadas, ainda que resulte em modificação da competência.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -1025,6 +1142,22 @@
     },
     {
         "question": "Nos termos da Lei n. 11.417/2006, no procedimento de edição, revisão ou cancelamento de enunciado da súmula vinculante, o relator poderá admitir, por decisão irrecorrível, a manifestação de terceiros na questão, nos termos do Regimento Interno do Supremo Tribunal Federal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A analogia (Savigny/Gény) é um instrumento cuja finalidade é a complementação do ordenamento jurídico, e por este motivo somente é aplicada aos casos não regulamentados pela lei.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A proposta de Alexy para solucionar o conflito entre princípios consiste na aplicação do princípio preponderante devido ao valor intrínseco regulamentado, em detrimento do outro (analisados independentemente do caso concreto), evitando-se assim a análise típica dos conteúdos em cada caso e possível alteração das relações em situações futuras.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -1040,9 +1173,41 @@
         "id": ""
     },
     {
+        "question": "A argumentação jurídica é um conjunto de métodos pelos quais o intérprete não busca identificar o conteúdo ou sentido objetivo da norma para aplicá-la ao caso concreto de forma silogística, mas sim justificar sua decisão.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Helena é casada pelo regime de comunhão parcial de bens com Aires, desde 1999. Devido às graves dificuldades financeiras, ela teve diversos imóveis hipotecados nos últimos meses.  O primeiro, um apartamento que é a residência familiar, foi hipotecado ao Banco Alpha S.A., em virtude da celebração de um contrato de mútuo; até a presente data, no entanto, a hipoteca não foi registrada no Registro Geral de Imóvel competente. Esse imóvel foi adquirido ainda em construção, e teve uma hipoteca anterior, firmada entre a construtora e o agente financeiro.  O terreno que Helena possuía na Região Oceânica foi hipotecado devido à condenação por sentença judicial de primeira instância, para o pagamento de quantia certa. E, por fim, teve um imóvel comercial hipotecado, adquirido por arrematação, para garantia do pagamento do restante do preço da arrematação.  Nesse sentido, a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do tema “hipoteca”, a ausência de registro desta, afasta a exceção à regra de impenhorabilidade do bem de família legal prevista na Lei no 8.009/1990.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A hipoteca judiciária constitui um efeito secundário da sentença judicial transitada em julgado de natureza condenatória, o que obsta a efetivação da pendência de julgamento de apelação recebida em efeito suspensivo.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Associação de Assistência Hospitalar Machadiana, entidade civil que presta serviços ambulatoriais e hospitalares no Município de Casa da Cura, vem atravessando sérias dificuldades econômicas, tanto que o seu Balanço Patrimonial, ao final do ano de 2023, aponta uma dívida consolidada superior a R$ 40.000.000,00 (quarenta milhões de reais).  Diante disso, uma nova direção assumiu a entidade e verificou a existência de dívida não consolidada com a fornecedora LíquiGás complexo Hospitalar Ltda., devido à imposição de preço pelo produto, o que o tornou extremamente oneroso, se comparado com o pago pelas outras entidades de saúde. A partir de 2021, em razão da inadimplência da Associação, buscando um meio de minimizar seus prejuízos, a fornecedora passou a reajustar o valor do produto fornecido com índices bem acima da inflação, o que caracteriza abuso de direito, mediante quebra da boa-fé objetiva, a qual, limita o exercício de direitos subjetivos.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -1056,7 +1221,23 @@
         "id": ""
     },
     {
+        "question": "A revisão judicial dos contratos, com vistas ao atendimento de sua função social, é uma intervenção ordinária e natural em favor de vulneráveis econômicos.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Leonora e Carla, amigas de longa data, celebraram, entre si, negócio mediante o qual Leonora compromete-se a entregar a Carla, em 15/03/2024, um apartamento de 150 metros quadrados,  ou uma casa de 230 metros quadrados, ao passo que Carla se compromete a, tão logo seja realizada a entrega de um dos bens, dar quitação plena e irrestrita de uma dívida líquida e já vencida de Leonora com Ela. Constou do acordo que a escolha do bem a ser entregue caberia a Carla que, após alguma reflexão e pesquisa optou pelo apartamento, informando sua decisão a Leonora por mensagem de whatsapp, no dia 01/03/2024.  Em 8/03/2024, Leonora foi surpreendida por uma proposta de Arquimedes para aquisição imediata do apartamento, oferecendo um preço muito vantajoso. Assim, diante da oferta irrecusável, Leonora celebra contrato de compra e venda irretratável com Júlio Soares que, imediatamente, no dia 10/03/2024, efetua o pagamento integral da quantia estipulada.  No dia 15/03/2024, Leonora procurou Carla para lhe entregar a casa. Carla recusa-se a receber a casa e dar a quitação prometida, exigindo a entrega do apartamento ou o equivalente, acrescido de perdas e danos, por ser lícita e legítima a recusa, pois, nos termos do acordo ela pode escolher a coisa a ser entregue, como feito, inclusive, antes do vencimento da obrigação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade empresária Cubana alimentos e Bebidas Ltda. realizou ampla campanha publicitária, principalmente na Internet, tendo como alvo crianças na faixa etária de 5 (cinco) a 8 (oito) anos. A campanha visava à venda de determinado biscoito que tinha a forma de um famoso personagem infantil. A imagem desse personagem faz parte da embalagem e de todo o material da propaganda. Na publicidade, a sociedade empresária, por meio da sua agência de publicidade, desqualifica o produto da concorrente direta, afirmando que o seu é demasiadamente melhor, além de o concorrente desrespeitar valores ambientais.  Com base nos estudos de propaganda, a publicidade comparativa é vedada expressamente pelo Código de Defesa do Consumidor, mesmo que a informação seja verídica e não abusiva.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -1224,7 +1405,31 @@
         "id": ""
     },
     {
+        "question": "A concessão de efeito suspensivo para os embargos à execução não tem o condão de suspender, ainda que parcialmente, a execução.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "É desnecessário ouvir as partes para que o juiz, de ofício, reconheça a prescrição no curso do processo de execução.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A extinção da execução produz efeito quando declarada por decisão interlocutória ou sentença.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A inexistência de intimação do exequente sobre a primeira tentativa infrutífera de localização do devedor ou de localização de bens penhoráveis não autoriza a presunção de efetivo prejuízo que justifique a alegação de nulidade do procedimento de declaração de prescrição no curso do processo de execução.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -1241,6 +1446,38 @@
     },
     {
         "question": "É responsável pela reparação civil, o empregador, por seus empregados e prepostos no exercício do trabalho que lhes competir ou em razão dele.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito de obrigação e responsabilidade, é correto afirmar que obrigação é um dever jurídico originário, ou seja, todos os cidadãos devem comportar-se de modo equivalente ao ordenamento jurídico.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade é um ato escuso de comportamento e adequação a ritos constitucionais.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade civil é aquela da qual existe um vínculo jurídico de prestação entre o credor e o devedor.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade civil é sempre um dever originário e a obrigação é um dever sucessivo.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -1356,6 +1593,14 @@
     {
         "question": "Em um julgamento de recurso em terceira instância, foi levantada, pela primeira vez, a questão da legitimidade ativa como uma das condições da ação. Contudo, a legitimidade ativa é uma condição da ação que pode ser examinada a qualquer momento e em qualquer grau de jurisdição.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A legitimidade ativa é uma matéria que pode ser levantada apenas no início do processo, durante a fase de saneamento.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -1363,6 +1608,14 @@
     },
     {
         "question": "Em uma ação de rito ordinário, houve a extinção do processo sem julgamento do mérito devido ao abandono da causa pela parte autora. Assim, a intimação pessoal da parte autora para dar andamento ao feito é obrigatória, para que a extinção do processo seja válida.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A extinção do processo sem julgamento do mérito pode ocorrer sem a necessidade de intimação pessoal da parte autora, desde que haja manifestação expressa do juiz.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -1450,6 +1703,14 @@
         "id": ""
     },
     {
+        "question": "A sociedade empresária Rio Festivo, em razão de fatos extraordinários e imprevisíveis, sofreu com a interrupção de suas atividades comerciais, impactando negativamente o seu patrimônio. Em que pese todo o esforço para adimplir as obrigações previamente assumidas, a sociedade não teve capacidade financeira para pagar um dos seus fornecedores, que ingressou com ação judicial a fim de satisfazer o seu crédito. No curso da ação, restou evidenciado que a sociedade Rio Festivo não possuía patrimônio suficiente, porém Carlos, sócio majoritário, possuía confortável situação financeira. Ante o fato hipoteticamente narrado, é correto afirmar que o fornecedor-credor deverá requerer a instauração do incidente de desconsideração da personalidade jurídica, o qual será indeferido em razão de não restar configurada a confusão patrimonial ou o desvio de finalidade.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Daniel e Pedro, irmãos gêmeos e filhos de Tereza, com o intuito de celebrar os seus aniversários de 13 anos, resolveram realizar uma espécie de gincana na garagem do condomínio envolvendo corrida de obstáculos, caça ao tesouro e o desafio final era uma disputa de pênaltis. Para tanto, estabeleceram como gol o espaço entre dois veículos estacionados na garagem, o de Tereza e o veículo de propriedade do vizinho do apartamento 901. Justamente no último chute ao gol, Daniel acerta uma luminária que despenca em cima do teto do carro do vizinho, ocasionando avarias na pintura, tudo devidamente constatado nas câmeras de segurança Nesse contexto, Tereza (mãe dos meninos), responde objetivamente pelos danos causados por seus filhos menores.",
         "choices": [],
         "correctAwser": "true",
@@ -1522,7 +1783,31 @@
         "id": ""
     },
     {
+        "question": "A cerca das sociedades civis, a sociedade em conta de participação tem uma série de peculiaridades que a distinguem de outras sociedades, como, por exemplo, a sociedade em comum ou a sociedade limitada.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "São aspectos desta sociedade em conta de participação, referentes a sua natureza, constituição, registro e responsabilidade dos sócios.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade em conta de participação tem natureza de sociedade não personificada; sua constituição independe das formalidades exigidas para outros tipos de sociedade; o contrato pode ou não ser levado a registro, não interferindo na aquisição da personalidade jurídica; apenas se obriga ilimitadamente perante terceiros o sócio ostensivo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade em conta de participação tem natureza de contrato associativo e bilateral; sua constituição depende das formalidades exigidas para outros tipos de sociedade; o contrato deve ser levado a registro para fins de aquisição da personalidade jurídica; obrigam-se ilimitadamente perante terceiros tanto o sócio ostensivo quanto o sócio participante.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -1543,6 +1828,35 @@
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A publicação da lei n. 13.146/2015 causou repercussão direta ao direito substantivo privado brasileiro. Em um caminho de superação da corponormatividade, que vê corpos na legislação de maneira dicotômica, classificando entre capacidades, fortaleceu as discussões jurídicas acerca do anticapacitismo no nosso ordenamento jurídico a fim de garantir liberdade, igualdade e dignidade humana, como meio de horizontalização de direitos fundamentais à pessoa com deficiência.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A multipropriedade é um regime de condôminos em que cada titular é proprietário de um imóvel por uma fração de tempo predefinida, de forma alternada, e que pela natureza indivisível aos proprietários não cabe a extinção do condomínio ou ação de divisão.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sistemática do instituto da responsabilidade civil no ordenamento jurídico pátrio é dividida, com base na culpabilidade do sujeito, em subjetiva e objetiva. Aos contratos de transporte de passageiros, de forma paga, ao entendimento do Supremo Tribunal Federal e da sistemática privada,",
+        "choices": [
+            "A) cabe ação regressiva e não é elidida por culpa de terceiro.",
+            "B) é elidida por culpa de terceiro e não cabe a ação regressiva.",
+            "C) cabe a denunciação da lide é não é elidida por culpa de terceiro.",
+            "D) é elidida por culpa de terceiro e não cabe às bagagens de passageiros."
+        ],
+        "correctAwser": "A",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
         "id": ""
     },
     {
@@ -1619,6 +1933,14 @@
         "id": ""
     },
     {
+        "question": "A empresa “X”, com sede no Estado do Amapá, há alguns anos enfrentava dificuldades financeiras e passou a não realizar o pagamento de dívidas. Com a pandemia, a situação se agravou ainda mais e a empresa encerrou suas atividades às pressas, sem comunicar aos órgãos competentes. Diante da inadimplência os credores, incluindo o fisco, entraram em juízo e solicitaram a desconsideração da personalidade jurídica. Ante à jurisprudência do STJ, o magistrado deve considerar, que: presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Sobre o contrato de seguro de vida, e considerando a jurisprudência do STJ, é possível afirmar, que: o atraso no pagamento do prêmio pelo segurado, independentemente da sua constituição em mora pela seguradora, implica a suspensão automática do contrato de seguro de vida.",
         "choices": [],
         "correctAwser": "false",
@@ -1684,7 +2006,28 @@
     {
         "question": "O Banco “X” S/A ajuizou execução por título extrajudicial em face de João para satisfação de sua dívida. No momento da penhora de um automóvel, o executado informou que este fora vendido para seu filho, Bernardo. O automóvel se encontra na posse de Bernardo, e a transferência da propriedade foi registrada administrativamente junto ao Detran. No entanto, o executado não obteve êxito em comprovar o valor supostamente pago pela venda do carro, ficando claro que houve uma doação. Diante disso, deve ser reconhecida a nulidade do contrato de compra e venda do carro por simulação relativa objetiva.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A MARF Suprimentos Ltda. firmou uma confissão de dívida perante a SM Informática S/A, tendo por objeto a quantia de R$ 150.000,00. Uma das cláusulas da confissão de dívida estabelecia que o pagamento da dívida se daria em data a ser definida por credor e devedor. Com o passar do tempo, a SM Informática S/A tentou por diversas vezes fixar a data para pagamento, mas a MARF Suprimentos Ltda. nunca concordava. A mencionada cláusula contém uma condição:",
+        "choices": [
+            "A) suspensiva simplesmente potestativa;",
+            "B) resolutiva puramente potestativa;",
+            "C) suspensiva contraditória;",
+            "D) suspensiva puramente potestativa."
+        ],
         "correctAwser": "D",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A empreiteira Cosme Ltda. contratou a Flet Ltda. para que ela lhe desse a perfuratriz modelo SKS que tinha no seu galpão em Santana. Entretanto, outra cláusula do contrato previa a possibilidade acessória de a Flet Ltda. se desincumbir de sua obrigação, se quisesse, entregando à Cosme Ltda. a perfuratriz modelo 1190 que está em seu armazém nos arredores de Macapá. Ocorre que, antes da data marcada para a entrega, uma tempestade atinge Santana e destrói o galpão, inviabilizando a entrega da perfuratriz modelo SKS. Diante disso, a Cosme Ltda. pode exigir, somente a resolução do contrato, com devolução de valores eventualmente pagos.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -1971,6 +2314,14 @@
     {
         "question": "De acordo com o CPC, se, em processo de execução de contrato inadimplido, ocorrer a penhora judicial de dinheiro depositado em conta bancária do executado, o juiz poderá cancelar o ato de penhora caso acolha o pedido de impenhorabilidade sob o argumento de que a quantia bloqueada corresponde a salário do executado e não ultrapassa cinquenta salários mínimos.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da petição inicial de ação civil, ao contrário da ausência da indicação dos fundamentos jurídicos do pedido, a falta de indicação dos fatos acarreta o indeferimento de plano da inicial.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -1978,6 +2329,14 @@
     },
     {
         "question": "Referentemente à inicial em ação civil, não lhe sendo possível obter o nome do réu, o autor poderá indicar as características físicas do demandado, o que, se viabilizar a citação deste, não será causa de indeferimento da inicial.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei n. 6.766/1979, que regulamenta o parcelamento de solo urbano, sofreu recente alteração por meio da lei n. 14.118/2021. O parcelamento de solo urbano consiste no loteamento ou desmembramento de terreno urbano. Além da legislação específica, dever-se-á analisar as legislações estaduais e municipais que definem planos diretores e o desenvolvimento sustentável das cidades. O responsável pela implantação do parcelamento é chamado de empreendedor, que, conforme a legislação atual, pode ser o compromissário comprador, cessionário ou promitente cessionário ou o foreiro, desde que o proprietário expresse sua anuência e haja sub rogação.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -2002,6 +2361,19 @@
     },
     {
         "question": "De acordo com o CPC, na ação em que houver pedido subsidiário, o valor da causa corresponderá",
+        "choices": [
+            "A) à soma dos valores dos pedidos principal e subsidiário.",
+            "B) ao pedido de maior valor, entre o principal e o subsidiário.",
+            "C) à média dos valores dos pedidos principal e subsidiário.",
+            "D) ao valor do pedido principal."
+        ],
+        "correctAwser": "D",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito de cláusulas abusivas, prescrição, proteção contratual e relação entre consumidor e planos de saúde, e considerando o entendimento jurisprudencial do STJ, a vigência dos contratos de seguro de assistência à saúde, a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste neles prevista prescreve em um ano.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -2010,6 +2382,14 @@
     },
     {
         "question": "No que se refere aos direitos básicos do consumidor, à legitimidade ativa para a propositura de ações coletivas e aos bancos de dados e cadastros de consumidores, a responsabilidade subjetiva do médico não exclui a possibilidade de inversão do ônus da prova, se presentes os requisitos previstos no CDC, devendo o profissional demonstrar ter agido com respeito às orientações técnicas aplicáveis.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito de proteção contratual, responsabilidade por vício do serviço e legitimidade ativa para a propositura de ações coletivas, é correto afirmar que: admite-se a responsabilização de buscadores da Internet pelos resultados de busca apresentados para fazer cessar o vínculo criado, nos seus bancos de dados, entre dados pessoais e os resultados que não guardam relevância para o interesse público à informação, seja pelo conteúdo eminentemente privado, seja pelo decurso do tempo.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -2051,6 +2431,14 @@
     {
         "question": "À luz do ECA e da jurisprudência do STJ, assinale a opção correta, quanto à defesa dos interesses individuais, coletivos e difusos, às atribuições do MP, ao instituto da remissão e a garantias e aspectos processuais, é correto afirmar que na oitiva de apresentação, o representante do MP pode conceder, sem a presença da defesa técnica, a remissão ao ato infracional. Contudo, na audiência ou no procedimento de homologação por sentença da remissão, para evitar nulidade absoluta, é obrigatória a presença de defensor.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da colocação de criança ou adolescente em família substituta, procedimento previsto no ECA, o consentimento dos titulares do poder familiar para a colocação da criança em família substituta é retratável até a data de publicação da sentença constitutiva da adoção.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -2078,7 +2466,36 @@
         "id": ""
     },
     {
-        "question": "lei que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida conceitua componentes de obras de urbanização — como os referentes a pavimentação, saneamento, encanamento para esgotos etc. — como",
+        "question": "O processo destinado a propiciar às pessoas com deficiência a aquisição de conhecimentos, habilidades e aptidões para o ingresso no campo de trabalho é:",
+        "choices": [
+            "A) colocação competitiva no mercado de trabalho",
+            "B) reabilitação profissional",
+            "C) programa de estímulo ao empreendedorismo",
+            "D) habilitação profissional"
+        ],
+        "correctAwser": "D",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito de medidas judiciais destinadas à proteção de interesses coletivos, difusos, individuais homogêneos e individuais indisponíveis das pessoas com deficiência, a sentença que concluir pela carência ou pela improcedência da ação estará sujeita ao duplo grau de jurisdição.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito de medidas judiciais destinadas à proteção das pessoas com defivciência, a certidão necessária à instrução do feito poderá ser negada caso a justificativa para o indeferimento do pedido seja o fato de o interesse público impor sigilo àquela informação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida conceitua componentes de obras de urbanização — como os referentes a pavimentação, saneamento, encanamento para esgotos etc. — como",
         "choices": [
             "A) mobiliário urbano.",
             "B) tecnologia assistiva.",
@@ -2104,27 +2521,27 @@
         "id": ""
     },
     {
-        "question": "Em relação à eficácia probatória ou força probante dos livros mercantis obrigatórios de um empresário, é correto afirmar que os dados constantes da escrituração mercantil criam",
+        "question": "A) uma presunção relativa de veracidade a favor de um litigante quando este fizer prova contra o empresário. (Opção Correta)",
         "choices": [
             "A) uma presunção relativa de veracidade a favor de um litigante quando este fizer prova contra o empresário.",
             "B) uma presunção absoluta de veracidade a favor de um litigante, desde que estejam presentes os requisitos intrínsecos e extrínsecos dos documentos.",
             "C) uma presunção absoluta de veracidade a favor do empresário, desde que estejam presentes os requisitos intrínsecos e extrínsecos dos documentos.",
             "D) uma presunção relativa de veracidade a favor do empresário, independentemente da presença dos requisitos intrínsecos e extrínsecos dos documentos."
         ],
-        "correctAwser": "C",
+        "correctAwser": "A",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "MULTIPLE_CHOICE",
         "id": ""
     },
     {
-        "question": "Em relação à eficácia probatória ou força probante dos livros mercantis obrigatórios de um empresário, é correto afirmar que os dados constantes da escrituração mercantil criam",
+        "question": "A resolução de uma sociedade simples pode ocorrer por",
         "choices": [
-            "A) uma presunção relativa de veracidade a favor de um litigante quando este fizer prova contra o empresário.",
-            "B) uma presunção absoluta de veracidade a favor de um litigante, desde que estejam presentes os requisitos intrínsecos e extrínsecos dos documentos. ",
-            "C) uma presunção absoluta de veracidade a favor do empresário, desde que estejam presentes os requisitos intrínsecos e extrínsecos dos documentos. ",
-            "D) uma presunção relativa de veracidade a favor do empresário, independentemente da presença dos requisitos intrínsecos e extrínsecos dos documentos. "
+            "A) decurso do prazo de duração ou por decisão majoritária dos sócios, quando a sociedade tiver prazo indeterminado.",
+            "B) decisão unânime dos sócios e por perda da autorização legal para o funcionamento da sociedade.",
+            "C) morte do sócio, se não houver disposição diferente no contrato social, ou por exclusão judicial do sócio devido a falta grave no cumprimento de obrigações societárias.",
+            "D) falta de pluralidade de sócios por mais de cento e oitenta dias e por perda da autorização legal para o funcionamento da sociedade."
         ],
-        "correctAwser": "A",
+        "correctAwser": "C",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "MULTIPLE_CHOICE",
         "id": ""
@@ -2252,6 +2669,14 @@
         "id": ""
     },
     {
+        "question": "A ação direta de inconstitucionalidade não pode ser utilizada para inviabilizar a aprovação de projetos de lei.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que tange à Jurisprudência do STF para julgar os itens subsequentes, a imunidade material parlamentar, quanto a palavras e opiniões emitidas fora do espaço do Congresso Nacional, pressupõe a presença de nexo de causalidade entre a suposta ofensa e a atividade parlamentar.",
         "choices": [],
         "correctAwser": "true",
@@ -2311,6 +2736,14 @@
         "question": "As pessoas com deficiência são consideradas absolutamente incapazes pelo atual regime da capacidade civil.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A incapacidade relativa atinge as pessoas que não podem exprimir sua vontade devido a causas de natureza permanente ou transitória.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2444,6 +2877,14 @@
         "id": ""
     },
     {
+        "question": "A respeito das atribuições do juiz no âmbito do processo civil brasileiro, quando observar a existência de múltiplas demandas individuais repetitivas, o juiz poderá oficiar o Ministério Público e a Defensoria Pública para promover a propositura de ação coletiva.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Caso esteja convencido de que ambas as partes utilizaram do processo para a prática de ato simulado, o juiz deverá aplicar as penalidades da litigância de má-fé e proferir decisão que obste o objetivo ilícito das partes.",
         "choices": [],
         "correctAwser": "true",
@@ -2526,6 +2967,14 @@
         "id": ""
     },
     {
+        "question": "A idade mínima para que o transgênero possa alterar seu nome no registro civil é após completar 16 anos de idade e desde que em presença dos pais ou responsáveis.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Para trocarem o seu nome no registro civil, o transgênero, precisa apenas declarar sua vontade diretamente no registro civil das pessoas naturais.",
         "choices": [],
         "correctAwser": "true",
@@ -2560,7 +3009,7 @@
         "id": ""
     },
     {
-        "question": "De acordo com o STJ, se a parte a que a perda aproveita permanecer deliberadamente inerte diante do dano, haverá abuso de direito, por se configurar oA)",
+        "question": "De acordo com o STJ, se a parte a que a perda aproveita permanecer deliberadamente inerte diante do dano, haverá abuso de direito, por se configurar o",
         "choices": [
             "A) surrectio.",
             "B) duty to mitigate the own loss.",
@@ -2814,6 +3263,14 @@
     {
         "question": "Acerca dos negócios jurídicos, a cláusula condicional, que deriva exclusivamente da vontade das partes, condiciona o efeito do negócio jurídico a evento futuro e incerto.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A interpretação do negócio jurídico independe da confirmação de sentido pelo comportamento posterior das partes à sua celebração.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -2876,6 +3333,14 @@
         "id": ""
     },
     {
+        "question": "A interrupção da prescrição pode ocorrer mediante ato extrajudicial que importe reconhecimento inequívoco do direito pelo devedor.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Os prazos prescricionais podem ser alterados por acordo das partes.",
         "choices": [],
         "correctAwser": "false",
@@ -2886,7 +3351,23 @@
     {
         "question": "No tocante à responsabilidade civil, aquele que, por ato ilícito, independentemente de culpa, causar dano a outrem ficará obrigado a repará-lo, quando sua atividade normalmente desenvolvida implicar, por sua natureza, em risco para os direitos de terceiros.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade civil é independente da criminal, sendo possível questionar a existência do fato na esfera civil depois de discutida e comprovada a questão no juízo criminal.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A empresa X, representada pelo escritório de advocacia Y, propôs ação de obrigação de fazer em face do Município de Vila Verde. A ação foi distribuída por sorteio para a 5a Vara da Fazenda Pública da Comarca de Vila Verde que tem como escrivão Eduardo. O Município foi devidamente citado e na contestação apresentou a alegação de que, dez dias após a propositura da petição inicial, um primo distante de Eduardo foi contratado, como advogado, pelo escritório de advocacia Y, fazendo com que Eduardo seja impedido de exercer suas funções no processo. Diante da situação hipotética, é correto afirmar que a alegação apresentada em contestação está incorreta, uma vez que não há qualquer tipo de impedimento na atuação de Eduardo como escrivão em um processo no qual seu primo seja advogado.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2916,7 +3397,23 @@
         "id": ""
     },
     {
+        "question": "A produção antecipada de provas será admitida nos casos em que haja fundado receio de que venha a tornar-se impossível ou muito difícil a verificação de certos fatos na pendência da ação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Os interessados poderão requerer a produção de qualquer prova no mesmo procedimento, relacionada ao mesmo fato ou a outro deste decorrente, desde que a sua produção conjunta não acarrete excessiva demora.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A produção antecipada da prova previne a competência do juízo para a ação que venha a ser proposta.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -3102,6 +3599,14 @@
     {
         "question": "O assistente litisconsorcial é aquele que possui interesse jurídico em ingressar no feito, enquanto o interesse que legitima a participação do assistente simples é meramente econômico.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A alegação de ilegitimidade passiva deduzida pelo réu em sua contestação possibilita que o autor realize, no prazo legal e após manifestação do juiz, a alteração da petição inicial para substituição do polo passivo.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -3119,6 +3624,14 @@
         "question": "O exame originário de incidente de resolução de demandas repetitivas compete exclusivamente a tribunal de justiça ou a tribunal regional, sendo inviável, em qualquer hipótese, a instauração do incidente, de forma direta, no STJ.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei aplicável para a fixação do regime jurídico referente a verba honorária de sucumbência em primeiro grau é aquela vigente na data da sentença que impõe honorários sucumbenciais, sendo irrelevante, para essa finalidade, a identificação de eventual norma que vigorasse na data do ajuizamento da ação.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3212,6 +3725,14 @@
         "id": ""
     },
     {
+        "question": "A contestação é a peça de defesa por excelência para o réu. A nulidade da dívida, por sua vez, não é alegável como preliminar de contestação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca do processo civil, a Litispendência e a Convenção de arbitragem, podem ser alegadas em preliminar de contestação.",
         "choices": [],
         "correctAwser": "true",
@@ -3221,6 +3742,22 @@
     },
     {
         "question": "O mandado de segurança é a garantia constitucional destinada à proteção de direito líquido e certo, não amparado por habeas data ou habeas corpus, violado ou ameaçado de violação por ato de autoridade pública ou particular investido em função pública.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do Mandado de Segurança, tomadas em conta as disposições da Lei nº 12.016/2009 e a jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça sobre a matéria, a concessão de mandado de segurança produz efeitos patrimoniais em relação a período pretérito à impetração.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A desistência do mandado de segurança pelo impetrante é possível a qualquer momento, desde que haja concordância da autoridade coatora.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -3262,6 +3799,14 @@
     {
         "question": "O direito de resposta possui status de garantia constitucional, sendo destinado a permitir o exercício da faculdade de oposição a informações divulgadas sobre o ofendido.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do direito de resposta, tomadas as disposições da Lei nº 13.188/2015, o procedimento especial do direito de resposta admite a cumulação de pedidos, a reconvenção, o litisconsórcio, a assistência e a intervenção de terceiros.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -3279,6 +3824,14 @@
         "question": "O juiz prolatará a sentença no prazo máximo de 60 (sessenta) dias, contado do ajuizamento da ação de direito de resposta, salvo na hipótese de conversão do pedido em reparação por perdas e danos.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade civil do controlador ou operador de danos pessoais possui disciplina própria na Lei nº 13.709/2018 (Lei Geral de Proteção de Dados). Sobre o tema, é correto afirmar que o operador responde solidariamente pelos danos causados pelo tratamento quando descumprir as obrigações da legislação de proteção de dados ou quando não tiver seguido as instruções lícitas do controlador, hipótese em que o operador se equipara ao controlador.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3308,7 +3861,31 @@
         "id": ""
     },
     {
+        "question": "A desconsideração da personalidade jurídica, referentemente ao Código de Defesa do Consumidor, será efetivada quando houver falência, estado de insolvência, encerramento ou inatividade da pessoa jurídica provocados por atos dolosos de sócios ou de administradores.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A mera existência de grupo econômico sem a presença de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, não autoriza a desconsideração da personalidade da pessoa jurídica.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Considerando as disposições do Código de defesa do consumidor, a personalidade jurídica poderá ser desconsiderada sempre que ela for, de alguma forma, obstáculo ao ressarcimento de prejuízos causados aos consumidores.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei Geral de Proteção de Dados (LGPD) disciplina a proteção de dados pessoais e seu tratamento, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural. Um dos fundamentos da proteção de dados pessoais é a defesa do consumidor e, nesse sentido, o direito de o titular dos dados pessoais peticionar em relação aos seus dados poderá ser exercido perante os organismos de defesa do consumidor.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -3332,7 +3909,31 @@
         "id": ""
     },
     {
+        "question": "A consumidora Atalanta requereu a instauração de processo de repactuação de dívidas, com vistas à realização de audiência conciliatória de superendividamento. Realizada a audiência, não houve êxito na conciliação em relação a sete dos vinte credores de Atalanta. O juiz, a pedido da consumidora, instaurou processo por superendividamento para repactuação das dívidas remanescentes e apresentação de plano judicial compulsório para os sete credores cujos créditos não integraram o acordo celebrado. Nesse sentido os credores terão assegurado, no mínimo, o valor do principal devido, corrigido monetariamente por índices oficiais de preço, e preverá a liquidação total da dívida, após a quitação do plano de pagamento consensual, em, no máximo, 5 (cinco) anos, sendo a primeira parcela devida no prazo máximo de 180 (cento e oitenta) dias, contado da sua homologação judicial, e o restante do saldo será devido em parcelas mensais iguais e sucessivas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto é o pregão. À luz do disposto na mencionada norma, é cabível para a contratação de leiloeiro, situação em que deve adotar o critério de julgamento de maior desconto para as comissões a serem cobradas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Instada a se manifestar acerca das peculiaridades atinentes às garantias no âmbito das contratações realizadas por sociedades de economia mista e empresas públicas, com fulcro na Lei nº 13.303/2016, Silvana respondeu corretamente que a prestação da garantia pode ser exigida pela entidade administrativa, cabendo ao contratado optar entre as modalidades caução em dinheiro, seguro garantia e fiança bancária.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade Delta, após o devido processo administrativo, sofreu a sanção de declaração de inidoneidade para licitar ou contratar com a Administração, em razão do que os respectivos administradores passaram a participar de licitações por meio da sociedade Beta, coligada de Delta, de forma dissimulada, com vistas a ludibriar a Administração Pública e continuar participando dos certames. Ao verificarem tal situação, as autoridades competentes em âmbito administrativo estão analisando a possibilidade de desconsideração da personalidade jurídica da sociedade Delta, para fins de estender os efeitos da sanção a ela aplicada para a sociedade Beta. Diante dessa situação hipotética, é correto afirmar que a desconsideração da personalidade jurídica é possível sempre que a sociedade for utilizada com abuso do direito para dissimular a prática dos atos ilícitos previsto na norma em questão, sendo viável a extensão de todos os efeitos da sanção aplicada, observados o contraditório, a ampla defesa e a obrigatoriedade de análise jurídica prévia.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -3388,6 +3989,30 @@
         "id": ""
     },
     {
+        "question": "A debênture terá valor nominal expresso em moeda nacional, salvo nos casos de obrigação em que, nos termos da legislação em vigor, possa ter o pagamento estipulado em moeda estrangeira.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A debênture poderá assegurar ao seu titular: juros fixos ou variáveis; participação no lucro da companhia; e prêmio de reembolso.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A debênture poderá, conforme dispuser a escritura de emissão, ter uma garantia real ou uma garantia flutuante, todavia não poderá gozar de preferência ou ser subordinada aos demais credores da companhia.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Os titulares de debêntures da mesma emissão ou série poderão, a qualquer tempo, reunir‑se em assembleia, a fim de deliberar sobre qualquer matéria de interesse da comunhão dos debenturistas.",
         "choices": [],
         "correctAwser": "true",
@@ -3428,9 +4053,41 @@
         "id": ""
     },
     {
+        "question": "A ação fundada em direito pessoal ou em direito real sobre os bens móveis será proposta, em regra, no foro de domicílio do autor.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A competência para as ações fundadas em direito real sobre os imóveis cabe ao foro de situação da coisa.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No Brasil, o foro de domicílio do autor da herança possui a competência para o inventário, a partilha, a arrecadação, o cumprimento das disposições de última vontade, a impugnação ou a anulação de partilha extrajudicial e, também, para todas as ações em que o espólio for réu, salvo se o óbito ocorrer no estrangeiro.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A ação em que o réu estiver ausente será proposta no Distrito Federal, cujo foro também terá a competência para a arrecadação, o inventário, a partilha e o cumprimento das disposições testamentárias.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A ação em que o incapaz for réu será proposta no foro de domicílio de seu representante ou assistente.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3453,6 +4110,14 @@
     },
     {
         "question": "O cessionário do crédito hipotecário tem o direito de fazer averbar a cessão no registro do imóvel.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A cessão de crédito tem eficácia em relação ao devedor, ainda que este não seja notificado.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -3654,6 +4319,14 @@
     {
         "question": "Nos casos de processos administrativos que envolvam interesses difusos ou coletivos e que tramitem em mais de um estado, a Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública poderá avocá‑los após manifestação do Conselho Nacional de Defesa do Consumidor e das autoridades máximas dos sistemas estaduais.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A averiguação preliminar é o procedimento investigatório de natureza sancionatória, instaurado pela autoridade competente de proteção e de defesa do consumidor.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -3836,6 +4509,22 @@
         "id": ""
     },
     {
+        "question": "A compensação é uma forma de adimplemento e extinção das obrigações no Direito Civil, permitindo a anulação recíproca de dívidas entre duas partes quando estas são líquidas, vencidas e de mesma natureza.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria da imprevisão no inadimplemento das obrigações possibilita a revisão judicial do contrato apenas nos casos de eventos imprevisíveis, excluindo-se aqueles considerados extraordinários.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O princípio da fungibilidade no Direito Processual Civil permite a substituição de um tipo de recurso por outro, desde que sejam observados os pressupostos de admissibilidade. Assim, caso uma parte interponha um recurso inadequado, o tribunal poderá aceitar a sua interposição, desde que se verifique a existência de erro escusável e não haja prejuízo à parte contrária.",
         "choices": [],
         "correctAwser": "true",
@@ -3862,6 +4551,14 @@
     {
         "question": "O IRDR (Incidente de Resolução de Demandas Repetitivas) foi uma das inovações trazidas pelo advento da Lei 13.105/2015 (Código de Processo Civil). Tal incidente encontra-se disposto nos artigos 976 a 987 do Código de Processo Civil, tendo como principal objetivo unificar as decisões para processos que contenham a mesma questão de direito posta.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prescrição aplicável às infrações disciplinares de servidores públicos, no âmbito do Direito Administrativo, segue o prazo de 5 anos, independentemente da gravidade da infração cometida.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -3869,6 +4566,14 @@
     },
     {
         "question": "No Direito Processual Civil, os procedimentos de jurisdição voluntária são regulados a partir do artigo 719 do Código de Processo Civil. Nesses procedimentos, os interessados procuram o judiciário para obter uma decisão que lhes interessa para a obtenção de um determinado bem da vida, sem que haja um litígio.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A ação rescisória, regulada pelos artigos 966 a 975 do Novo Código de Processo Civil (CPC/15), pode ser aplicada sobre qualquer decisão judicial, independentemente de ter transitado em julgado.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -3892,6 +4597,14 @@
         "id": ""
     },
     {
+        "question": "A desconsideração da personalidade jurídica, prevista no Código de Processo Civil de 2015, pode ser aplicada mesmo quando não há sócios ou administradores agindo com abuso da personalidade jurídica.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Os embargos à execução, previstos nos artigos 914 a 920 do Novo Código de Processo Civil (CPC/15), não são uma ação autônoma.",
         "choices": [],
         "correctAwser": "false",
@@ -3900,7 +4613,39 @@
         "id": ""
     },
     {
+        "question": "A ação monitória é um procedimento judicial que dispensa a apresentação de documento escrito pelo credor, sendo suficiente a simples alegação da existência da dívida. Portanto, o requisito documental não é essencial para o seu ajuizamento.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A personalidade jurídica das pessoas naturais tem início no momento do registro civil, e a capacidade plena para o exercício dos atos da vida civil é adquirida automaticamente ao atingir a maioridade.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O conflito de competência no Direito Processual Civil só pode ser suscitado por meio de preliminar de incompetência na contestação.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A reconvenção no procedimento comum é uma faculdade conferida ao réu para formular pedido contraposto, buscando a obtenção de tutela jurisdicional diversa da pretendida pelo autor. Diante disso, é correto afirmar que a reconvenção pode ser proposta tanto nas ações de conhecimento quanto nas ações executivas.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A citação pessoal é a regra no processo civil brasileiro, mas, em casos específicos, como nas ações de divórcio consensual, é permitida a citação por meio de publicação de editais, visando simplificar o procedimento.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -3924,7 +4669,39 @@
         "id": ""
     },
     {
+        "question": "A reclamação no Direito Processual Civil é um instrumento pelo qual a parte ou interessado pode requerer uma nova análise de uma decisão judicial. Ela é usada para preservar a competência do Superior Tribunal de Justiça ou garantir a autoridade de suas decisões.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No contexto do Direito Civil, a categoria dos bens é essencial para compreender as relações jurídicas. Considerando a classificação quanto à natureza, é correto afirmar que os direitos autorais são considerados bens incorpóreos, imateriais e não sujeitos à apropriação comercial.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A chamada litigância de má-fé, prevista no Código de Processo Civil, ocorre exclusivamente quando uma das partes age com dolo, visando prejudicar a outra parte no processo judicial, sendo passível de penalidades como multa e indenização.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria da imprevisão, prevista no Código Civil Brasileiro, é aplicável apenas aos contratos bilaterais e não alcança os contratos unilaterais, uma vez que nesses não há a necessidade de equilíbrio entre as partes.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A tutela de urgência e a tutela de evidência, no âmbito do Direito Processual Civil, são institutos exclusivos do direito brasileiro, não encontrando correspondência em sistemas jurídicos de outros países. Portanto, a concessão dessas tutelas está condicionada à legislação nacional, não havendo aplicação de conceitos similares em ordenamentos estrangeiros.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -3941,6 +4718,22 @@
     },
     {
         "question": "No Direito Processual Civil, o recurso de apelação é usado contra sentenças, para devolução, ao Tribunal, do conhecimento da matéria impugnada.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A promessa de recompensa, no âmbito do Direito Civil, configura um contrato unilateral em que a oferta vincula o promitente, mesmo na ausência de aceitação por parte do beneficiário da recompensa.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A suspensão do processo pode ocorrer de ofício pelo juiz, independentemente de pedido das partes, sempre que houver a necessidade de aguardar o julgamento de incidente de resolução de demandas repetitivas (IRDR) que possa influenciar diretamente no processo principal.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -3989,6 +4782,14 @@
     },
     {
         "question": "No Direito Processual Civil, a ação de execução é um processo judicial que ocorre quando alguém não paga uma dívida que deve. O credor pode entrar na Justiça para exigir o pagamento e, caso o devedor não cumpra, o juiz pode autorizar a busca de bens ou valores do devedor para quitar a dívida.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A aceitação de uma proposta de contrato por parte de um representante legal, sem a devida outorga de poderes, configura um ato jurídico lícito, desde que a representação não ultrapasse os limites dos interesses do representado.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -4086,6 +4887,14 @@
     {
         "question": "Processa(m)-se durante as férias forenses, onde as houver, e não se suspendem pela superveniência delas, os procedimentos de jurisdição voluntária e os necessários à conservação de direitos, quando puderem ser prejudicados pelo adiamento.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A homologação de desistência de ação, pode se processar durante as férias forenses e não se suspendem pela superveniência delas.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -4103,6 +4912,14 @@
         "question": "Dos despachos cabem os recursos de agravo de instrumento ou embargos de declaração.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A desistência do recurso não impede a análise de questão cuja repercussão geral já tenha sido reconhecida.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4166,6 +4983,14 @@
     {
         "question": "Mariana estava voltando para casa com um carro dirigido por um motorista de aplicativo. No trajeto para casa, o carro capotou em uma curva e, como consequência, Mariana ficou internada por três semanas experimentando diversos gastos médicos. Buscando ressarcir seus gastos, Mariana propõe ação de indenização por danos materiais em face de Cleber, o motorista, alegando que ele foi imprudente e estava trafegando acima da velocidade permitida na via. A ação foi proposta perante a 5a Vara Cível da Comarca de Santa Madalena, cujo Chefe de Secretaria era amigo íntimo de Cleber. No momento de produção de provas, o juiz nomeou perito para averiguar se Cleber estava trafegando ou não acima da velocidade permitida na via. Cleber nomeou assistente técnico para auxiliar na perícia. O assistente técnico, no entanto, era proprietário do imóvel que Mariana locava e autor da ação de despejo que estava em fase de recurso perante a 2a Vara Cível da Comarca de Santa Madalena. Diante da situação hipotética, Mariana poderá alegar que, em relação ao processo de indenização, o chefe de Secretaria é suspeito.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A citação poderá ser feita em qualquer lugar em que se encontre o réu, o executado ou o interessado. No entanto, não se fará a citação, salvo para evitar o perecimento do direito de cônjuge, de companheiro ou de qualquer parente do morto, consanguíneo ou afim, em linha reta ou na linha colateral em terceiro grau, no dia do falecimento e nos 7 (sete) dias seguintes.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -4173,6 +4998,14 @@
     },
     {
         "question": "No que tange à citação, esta poderá ser feita em qualquer lugar em que se encontre o réu, o executado ou o interessado, no entanto, não se fará a citação de doente, enquanto grave o seu estado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A petição inicial da ação, que visa à prestação de tutela cautelar em caráter antecedente, indicará a lide e seu fundamento, a exposição sumária do direito que se objetiva assegurar e o perigo de dano ou o risco ao resultado útil do processo. No que diz respeito ao procedimento da tutela cautelar requerida em caráter antecedente, a causa de pedir poderá ser aditada no momento de formulação do pedido principal.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -4189,6 +5022,14 @@
     },
     {
         "question": "Joana assinou um contrato de prestação de serviços com Pedro, no valor de R$ 200,00 (duzentos reais mensais) no qual restou estabelecido que ele entregaria, mensalmente, em sua casa de campo, uma cesta de alimentos ou de bebidas. Passados oito meses, Pedro não entregou nenhuma cesta e, por isso, Joana decidiu propor ação de obrigação de fazer em face de Pedro para que ele cumprisse o contratado. Diante da situação hipotética, considerando que o pedido é alternativo, o juiz assegurará ao devedor o direito de cumprir a prestação de um ou de outro modo, ainda que o autor não tenha formulado pedido alternativo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A ação que tem por objeto cumprimento de obrigação em prestações sucessivas, deverá haver declaração expressa do autor para que sejam incluídas na condenação, enquanto durar a obrigação.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -4230,7 +5071,23 @@
     {
         "question": "É permitido nos Juizados Especiais Cíveis, que os atos processuais sejam realizados em horário noturno, sendo que a prática de atos processuais em outras comarcas poderá ser solicitada por qualquer meio idôneo de comunicação.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "B) a citação por correspondência, com aviso de recebimento em mão própria, por oficial de justiça, independentemente de mandado ou carta precatória ou por edital, é permitida nos Juizados Especiais Cíveis.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Empresa DNA – EPP é proprietária de um grande terreno na cidade de Andrenópolis, que tem por confinante uma praça Municipal. Passando por dificuldades financeiras, a empresa DNA decide vender o seu terreno, no entanto, quando foi verificar as medidas exatas, seus só cios perceberam que parte do terreno da empresa estava sendo utilizado como estacionamento da praça. Incon formados, decidem, em nome da empresa, propor ação demarcatória em face do Município de Andrenópolis. A ação foi proposta perante o Juizado Especial da Fazenda Pública de Andrenópolis, a certidão da propriedade e os demais documentos necessários foram juntados ao pro cesso e foi dado à causa o valor de 50 (cinquenta salários mínimos). O juiz recebeu a ação e, de ofício, deferiu tu tela de urgência de natureza cautelar para evitar dano de difícil ou incerta reparação. Diante da situação hipotética, a ação não é de competência do Juizado Especial da Fazenda Pública, pois se trata de ação de demarcação.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4253,6 +5110,14 @@
     },
     {
         "question": "Acerca do pleito e do processamento da recuperação judicial, a constatação prévia consistirá, objetivamente, na verificação das reais condições de funcionamento da empresa e da regularidade documental, permitindo o indeferimento do processamento da recuperação judicial baseado na análise de viabilidade econômica do devedor.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos conhecimentos sobre o empresário previstos no código civil, é facultativa a inscrição do empresário no registro público de empresas mercantis da respectiva sede, antes do início de sua atividade.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -4277,6 +5142,22 @@
     },
     {
         "question": "O incapaz não pode, mesmo por meio de representante ou devidamente assistido, continuar a empresa antes exercida por ele enquanto capaz, por seus pais ou pelo autor de herança.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos conhecimentos sobre a sociedade por quotas de responsabilidade limitada previstas no código civil, os sócios não são obrigados à reposição dos lucros e das quantias retiradas quando tais lucros ou quantias se distribuírem com prejuízo do capital.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A responsabilidade de cada sócio é restrita ao valor de suas quotas e não há responsabilidade solidária pela integralização do capital social. Isso se aplica à sociedade por quotas de responsabilidade limitada.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -4343,6 +5224,22 @@
         "question": "Acerca das pessoas naturais, a personalidade civil da pessoa começa da concepção, sendo que são absolutamente incapazes apenas os menores de 16 anos e relativamente capazes os maiores de 16 e menores de 18 anos, os ébrios habituais e os viciados em tóxico, aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade, e os pródigos.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A personalidade civil da pessoa começa do nascimento com vida, sendo que são absolutamente incapazes apenas os menores de 16 anos, e relativamente capazes os maiores de 16 e menores de 18 anos, os ébrios habituais e os viciados em tóxico, aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade, e os pródigos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Fundação é uma pessoa jurídica criada por escritura pública ou testamento, por meio da qual o instituidor fará uma dotação especial de bens livres, especificando o fim a que se destina. As finalidades da associação devem necessariamente atender aos interesses de toda a sociedade, legalmente se limitando à assistência social, cultura, defesa e conservação do patrimônio histórico e artístico, educação, saúde, segurança alimentar e nutricional, defesa, preservação e conservação do meio ambiente e promoção do desenvolvimento sustentável, pesquisa científica, desenvolvimento de tecnologias alternativas, modernização de sistemas de gestão, produção e divulgação de informações e conhecimentos técnicos e científicos, promoção da ética, da cidadania, da democracia e dos direitos humanos e atividades religiosas.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4516,7 +5413,23 @@
         "id": ""
     },
     {
+        "question": "A respeito das sociedades limitadas, é possível confirmar, ser de dois anos da data da subscrição das quotas sociais o prazo para que os sócios respondam solidariamente pela exata estimação de bens conferidos ao capital social de uma sociedade limitada.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Em atenção ao princípio da estabilidade ou da variabilidade condicionada do capital social, ressalvado o disposto em lei especial, só pode ser aumentado o capital social após a integralização das quotas sociais inicialmente subscritas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade limitada poderá reduzir o capital se houver perdas irreparáveis, após a integralização do capital social original, ou se o capital for excessivo em relação ao objeto da sociedade.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -4590,6 +5503,14 @@
     {
         "question": "O proprietário, extinta a concessão, passará a ter a propriedade plena sobre o terreno, construção ou plantação, independentemente de indenização, se as partes não houverem estipulado o contrário.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos Direitos Reais no Código Civil, considera-se fiduciária a propriedade resolúvel de coisa móvel fungível que o devedor, com escopo de garantia, transfere ao credor.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -4620,9 +5541,49 @@
         "id": ""
     },
     {
+        "question": "A hipoteca não abrange as acessões, melhoramentos ou construções do imóvel, sendo nula de pleno direito a alienação de imóvel hipotecado.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "De acordo com a jurisprudência do Superior Tribunal de Justiça pertinente ao direito de família, a arguição do direito real de habitação, para fins exclusivamente possessórios, depende de seu reconhecimento anterior em ação própria declaratória de união estável.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A supressão do patronímico materno não é possível por ocasião do casamento, mesmo quando preservados os interesses de terceiro e demonstrado justo motivo.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A filiação socioativa, da qual a denominada adoção à brasileira consubstancia espécie, detém integral respaldo do ordenamento jurídico nacional.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A aplicação da guarda compartilhada, em razão de o divórcio usualmente coincidir com o ápice do distanciamento do antigo casal e com a maior evidenciação das diferenças existentes, constitui medida excepcional, inviável quando ausente o consenso.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do direito das sucessões no Código Civil, o herdeiro não responde por encargos superiores às forças da herança; incumbe-lhe, porém, a prova do excesso, salvo se houver inventário que a escuse, demonstrando o valor dos bens herdados.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4637,6 +5598,14 @@
     },
     {
         "question": "Somente as pessoas já nascidas no momento da abertura da sucessão legitimam-se a suceder.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A incapacidade superveniente do testador invalida o testamento, e o testamento do incapaz se valida com a superveniência da capacidade.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -4732,7 +5701,23 @@
         "id": ""
     },
     {
+        "question": "A obrigação de incolumidade assumida pelo transportador implica a responsabilidade objetiva pela interrupção da execução contratual.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Todos terão direito à remuneração, quando concluído o negócio com a intermediação de mais de um corretor.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A doação de ascendentes a descendentes é inválida se não houver a anuência dos demais herdeiros.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -4773,6 +5758,22 @@
     },
     {
         "question": "Será eficaz a partir da sentença que declara a extinção do contrato, quando decorra do exercício do direito de resolução por onerosidade excessiva, por meio da ação respectiva.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A extinção do contrato, pode ser impedida pela oposição de exceção de contrato não cumprido, que é meio de autodefesa do devedor.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A extinção do contrato, poderá decorrer do implemento de condição resolutiva, desde que esta não seja impossível, caso em que deverá ser reconhecida a invalidade do negócio jurídico.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -4924,6 +5925,14 @@
         "id": ""
     },
     {
+        "question": "A constatação imediata da prescrição da pretensão ou da decadência do direito potestativo, entre outras hipóteses, autoriza o juiz a julgar liminarmente improcedente o pedido, não a indeferir a petição inicial.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No caso de o juiz indeferir por completo a petição inicial, o autor poderá apelar; não sendo exercido o juízo de retratação, o réu deverá ser citado para responder ao recurso de apelação.",
         "choices": [],
         "correctAwser": "true",
@@ -5052,6 +6061,14 @@
         "id": ""
     },
     {
+        "question": "A responsabilidade do comerciante por vício de qualidade ou quantidade do produto é apenas subsidiária, já que o comerciante só poderá ser responsabilizado quando o fabricante, o construtor, o produtor ou o importador não puderem ser identificados.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O fornecedor poderá colocar no mercado produtos e serviços potencialmente nocivos ou perigosos à saúde ou segurança, mas deverá informar, de maneira ostensiva e adequada, a respeito da sua nocividade ou periculosidade, sem prejuízo da adoção de outras medidas cabíveis em cada caso concreto.",
         "choices": [],
         "correctAwser": "true",
@@ -5092,6 +6109,14 @@
         "id": ""
     },
     {
+        "question": "A respeito do Direito da Criança e do Adolescente, o processamento dos pedidos de adoção e as habilitações para adoção dos pretendentes domiciliados fora do Estado do Rio Grande do Sul competem exclusivamente aos Juizados da Infância e da Juventude.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que tange ao direito da criança e do adolescente, o Brasil ainda não ratificou a Convenção Relativa à Proteção das Crianças e à Cooperação em Matéria de Adoção internacional.",
         "choices": [],
         "correctAwser": "false",
@@ -5100,7 +6125,28 @@
         "id": ""
     },
     {
+        "question": "A adoção independe do consentimento dos pais ou do representante legal do adotando, porque pressupõe prévia destituição do poder familiar.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O Conselho Tutelar, nos termos da Lei nº 8.069/90, é órgão permanente e autônomo, não jurisdicional, encarregado pela sociedade de zelar pelo cumprimento dos direitos da criança e do adolescente, e é composto de",
+        "choices": [
+            "A) três membros, com mandato de dois anos.",
+            "B) quatro membros, com mandato de cinco anos.",
+            "C) cinco membros, com mandato de quatro anos.",
+            "D) cinco membros, com mandato de cinco anos."
+        ],
+        "correctAwser": "C",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da disciplina da sociedade limitada no Código Civil, esta rege-se, nas omissões do regime próprio, pelas normas da sociedade em comum.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -5111,6 +6157,22 @@
         "question": "No que tange à sociedade limitada, todos os sócios respondem solidariamente pela exata estimação de bens conferidos ao capital social até o prazo de dois anos da data do registro da sociedade.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade limitada é administrada por uma ou mais pessoas obrigatoriamente designadas no contrato social.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A administração atribuída no contrato a todos os sócios da sociedade limitada, não se estende de pleno direito aos que posteriormente adquiram essa qualidade.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5133,6 +6195,22 @@
     },
     {
         "question": "O alienante do estabelecimento empresarial, não havendo autorização expressa, não pode fazer concorrência ao adquirente nos cinco anos subsequentes à transferência.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A cessão dos créditos referentes ao estabelecimento empresarial transferido produz efeito em relação aos respectivos devedores, independentemente de publicação da transferência e da boa-fé do devedor que pagar ao cedente.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da disciplina dos Títulos de Crédito, prevista no Código Civil a omissão de qualquer requisito legal, que tire ao escrito a sua validade como título de crédito, acarreta a invalidade do negócio jurídico que lhe deu origem.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -5177,7 +6255,23 @@
         "id": ""
     },
     {
+        "question": "A participação de uma mesma pessoa como sócia em mais de uma Empresa individual de responsabilidade limitada (Eireli) pode caracterizar a formação de grupo econômico.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Pessoa que desempenhe atividade rural e esteja matriculada no registro de empresa pode requerer recuperação judicial.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A desconsideração da personalidade jurídica é consequência necessária da ausência de arquivamento dos atos constitutivos da sociedade limitada.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -5187,7 +6281,23 @@
     {
         "question": "Acerca da desconsideração da personalidade jurídica, é correto afirmar, que é admitida também para a responsabilização da sociedade por dívidas pessoais dos sócios.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A rejeição do plano de recuperação judicial por uma das classes de credores impede sua aprovação pelo juiz, tornando obrigatória a decretação da falência.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A função do administrador judicial na falência e na recuperação de empresa, que poderá ser exercida por pessoa jurídica, é indelegável, embora admitida a contratação de auxiliares.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5209,6 +6319,22 @@
         "id": ""
     },
     {
+        "question": "A aplicação da teoria do adimplemento substancial, nos contratos de alienação fiduciária em garantia, assegura ao devedor a possibilidade de purgar a mora, evitando a retomada do bem pelo credor.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A estipulação da cláusula del credere, nos contratos de comissão, transfere o risco do inadimplemento dos negócios celebrados ao comissário.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O faturizador é obrigado a honrar o pagamento do título para o faturizado, no contrato de faturização (factoring), quando estipulada a cláusula pro soluto.",
         "choices": [],
         "correctAwser": "true",
@@ -5220,6 +6346,14 @@
         "question": "O contrato de arrendamento mercantil, celebrado sob a forma de leasing operacional, exige a participação de instituição financeira.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A decretação de regime de administração especial temporária não afeta o curso regular das atividades da instituição financeira, ao contrário do que ocorre no caso de intervenção.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5336,8 +6470,21 @@
     },
     {
         "question": "Entre outros, cessará para os menores a incapacidade:",
-        "choices": [],
+        "choices": [
+            "A) pelo exercício de emprego público;",
+            "B) pelo cometimento de infração penal;",
+            "C) pela colação de grau em curso de ensino superior;",
+            "D) nenhuma das alternativas anteriores."
+        ],
         "correctAwser": "C",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A existência da pessoa natural, termina com a morte, presume-se, então, quanto aos ausentes nos casos em que a lei autoriza, a abertura de sucessão definitiva.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5505,6 +6652,14 @@
     {
         "question": "De acordo com o CPC, se, em processo de execução de contrato inadimplido, ocorrer a penhora judicial de dinheiro depositado em conta bancária do executado, o juiz poderá cancelar o ato de penhora caso acolha o pedido de impenhorabilidade sob o argumento de que a quantia bloqueada corresponde a salário do executado e não ultrapassa cinquenta salários mínimos.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da petição inicial de ação civil, ainda que, para atender os requisitos da petição inicial, o autor requeira uma diligência excessivamente onerosa, é vedado ao juiz indeferir a inicial sob esse fundamento.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -5551,6 +6706,14 @@
         "id": ""
     },
     {
+        "question": "A respeito de cláusulas abusivas, prescrição, proteção contratual e relação entre consumidor e planos de saúde, de acordo com o entendimento jurisprudencial do STJ, uma das condições para que o reajuste de mensalidade de plano de saúde individual fundado na mudança de faixa etária do beneficiário seja válido é que os percentuais aplicados sejam razoáveis, baseados em estudos atuariais idôneos, e não onerem excessivamente o consumidor nem discriminem o idoso.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Na vigência dos contratos de seguro de assistência à saúde, a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste neles prevista prescreve em um ano.",
         "choices": [],
         "correctAwser": "false",
@@ -5560,6 +6723,14 @@
     },
     {
         "question": "É abusiva a cláusula contratual de coparticipação na hipótese de internação superior a trinta dias em razão de transtornos psiquiátricos, por restringir obrigação fundamental inerente à natureza do contrato.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A operadora de plano de saúde, em razão da sua autonomia, será isenta de responsabilidade por falha na prestação de serviço de hospital conveniado.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -5578,6 +6749,22 @@
         "question": "O MP terá legitimidade ativa para atuar na defesa de direitos difusos, coletivos e individuais homogêneos dos consumidores, exceto quando tais direitos decorrerem da prestação de serviço público.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A manutenção de inscrição negativa nos cadastros de proteção ao crédito deve respeitar a exigibilidade do débito inadimplido, tendo, para tanto, um limite de cinco anos, independentemente do prazo prescricional para a cobrança do crédito.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito de proteção contratual, responsabilidade por vício do serviço e legitimidade ativa para a propositura de ações coletivas, com base no CDC e na jurisprudência do STJ, admite-se a responsabilização de buscadores da Internet pelos resultados de busca apresentados para fazer cessar o vínculo criado, nos seus bancos de dados, entre dados pessoais e os resultados que não guardam relevância para o interesse público à informação, seja pelo conteúdo eminentemente privado, seja pelo decurso do tempo.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5639,6 +6826,14 @@
         "id": ""
     },
     {
+        "question": "A reclamação obstativa da decadência feita verbalmente pelo consumidor para protestar vícios do produto não tem validade.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que tange a atos infracionais e medidas socioeducativas, por ser uma consequência natural do processo de ressocialização, a progressão da medida socioeducativa prescinde do juízo de convencimento do magistrado, que fica vinculado ao relatório multidisciplinar individual do adolescente.",
         "choices": [],
         "correctAwser": "false",
@@ -5656,6 +6851,14 @@
     },
     {
         "question": "Com referência a adoção, guarda, medidas pertinentes aos pais ou responsáveis e direitos fundamentais da criança e do adolescente, a princípio, para a constatação da adoção à brasileira, o estudo psicossocial da criança, do pai registral e da mãe biológica não se mostra imprescindível.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A omissão na lei previdenciária impede que os infantes recebam pensão por morte do guardião, uma vez que, pelo critério da especialidade, não basta a norma prevista no ECA que declara a condição de dependente de crianças e adolescentes, porque ela se afigura como meramente programática.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -5687,6 +6890,22 @@
         "id": ""
     },
     {
+        "question": "A legitimidade ativa do MP para ajuizar ação de alimentos em prol de criança ou adolescente tem caráter subsidiário, ou seja, surge somente quando ausente a atuação da DP no local.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A competência para processar e julgar ação civil pública ajuizada contra um estado federado na busca da defesa de crianças e adolescentes é, em regra, absoluta das varas da fazenda pública, por previsão constitucional.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Na oitiva de apresentação, o representante do MP pode conceder, sem a presença da defesa técnica, a remissão ao ato infracional. Contudo, na audiência ou no procedimento de homologação por sentença da remissão, para evitar nulidade absoluta, é obrigatória a presença de defensor.",
         "choices": [],
         "correctAwser": "true",
@@ -5698,6 +6917,14 @@
         "question": "Antes de iniciado o processo para apuração de ato infracional, o MP poderá conceder a remissão como forma de exclusão do processo, podendo incluir qualquer medida socioeducativa, sendo a única exceção a internação.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da colocação de criança ou adolescente em família substituta, procedimento previsto no ECA, para decidir sobre a concessão de guarda provisória ou sobre o estágio de convivência, a autoridade judiciária deverá determinar a realização de estudo social ou, se possível, de perícia por equipe interprofissional.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5728,6 +6955,14 @@
     },
     {
         "question": "O processamento e julgamento do crime de publicação de material pedófilo-pornográfico em sítios da Internet será da competência da justiça federal, quando for possível a identificação do atributo da internacionalidade do resultado obtido ou que se pretendia obter.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A mera simulação da participação de criança ou adolescente em cena pornográfica por meio da adulteração de fotografia é uma conduta atípica, haja vista a ausência de perigo concreto ao bem jurídico que poderia ser tutelado.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -5761,6 +6996,22 @@
     {
         "question": "Em relação à eficácia probatória ou força probante dos livros mercantis obrigatórios de um empresário, os dados constantes da escrituração mercantil criam uma presunção relativa de veracidade a favor de um litigante quando este fizer prova contra o empresário.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A resolução de uma sociedade simples pode ocorrer por morte do sócio, se não houver disposição diferente no contrato social, ou por exclusão judicial do sócio devido à falta grave no cumprimento de obrigações societárias.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A resolução de uma sociedade simples pode ocorrer por falta de pluralidade de sócios por mais de cento e oitenta dias e por perda da autorização legal para o funcionamento da sociedade.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -5776,6 +7027,14 @@
     },
     {
         "question": "O pacto de retrovenda é uma das modalidades de compra e venda mercantis previstas no Código Civil e tem como principal característica a reserva ao vendedor do direito de, em determinado prazo, recobrar o imóvel que tenha vendido.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do pacto de retrovenda, a legislação vigente dispõe que o vendedor, em caso de recusa do comprador em receber a quantia a que faz jus, depositará o valor judicialmente para exercer o direito de resgate.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -5921,9 +7180,41 @@
         "id": ""
     },
     {
+        "question": "A utilização dos costumes como método de integração das normas de direito material depende de expressa previsão legal.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei do país de origem do falecido estrangeiro poderá ser utilizada para regular a sucessão de seus bens localizados no Brasil.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos direitos da personalidade, o divórcio restitui a situação de incapacidade aos menores de idade que tenham conquistado a emancipação pelo casamento.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Não se admite declaração de morte presumida sem decretação de ausência.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A comoriência pode ser reconhecida ainda que os óbitos não tenham decorrido de um único acidente.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5938,6 +7229,14 @@
     },
     {
         "question": "Os ausentes, desde que assim declarados por sentença judicial, são considerados absolutamente incapazes pela lei.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da responsabilidade civil, o estado de necessidade exclui o dever de indenizar.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -5977,7 +7276,31 @@
         "id": ""
     },
     {
+        "question": "A respeito dos institutos da alienação parental e união estável, por ausência de previsão legal acerca da união homoafetiva, o TJDFT decidiu que a união de pessoas do mesmo sexo deve ser reconhecida como sociedade de fato.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A jurisprudência do STJ firmou entendimento de que o casamento válido não impede o reconhecimento da união estável, desde que se comprove a separação de fato ou judicial.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O STJ consolidou entendimento de que, por ausência de previsão legal, não se poderá aplicar à união estável o regime obrigatório de separação de bens para as hipóteses em que, no início do relacionamento, os conviventes já contem com mais de sessenta anos de idade.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei enumera de forma exaustiva os atos que configuram alienação parental, assim como a consequência automática do reconhecimento, pelo julgador, da alienação parental é a alteração da guarda da criança ou adolescente, para fins de preservação da integridade psicológica destes.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -6073,6 +7396,14 @@
         "id": ""
     },
     {
+        "question": "A escritura de compra e venda de imóvel deve ser lavrada pelo tabelião do cartório de notas do local onde estiver situado o bem, sob pena de nulidade do negócio.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O direito de regresso, previsto na Lei n.º 8.935/1994, é assegurado ao notário somente nas hipóteses em que o preposto, agindo com dolo, no exercício de atividade própria da serventia, cause dano a terceiro.",
         "choices": [],
         "correctAwser": "false",
@@ -6082,6 +7413,22 @@
     },
     {
         "question": "De acordo com a Lei n.º 8.935/1994, compete ao Poder Judiciário a fiscalização da atividade notarial e de registro, de forma que a perda da delegação somente pode ocorrer por sentença transitada em julgado e prolatada em razão do ajuizamento de ação para esse fim, com observância dos princípios da ampla defesa e do contraditório.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei assegura a gratuidade do assento do registro civil de nascimento e de óbito, bem como da primeira certidão respectiva, independentemente da declaração ou comprovação da condição de pobreza.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito das normas processuais civis, de acordo com a regra da perpetuatio jurisdictionis, adotada pelo CPC, a lei nova que altera a competência em razão da matéria não se aplica aos processos pendentes de julgamento e cuja instrução já esteja encerrada.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -6169,6 +7516,14 @@
         "id": ""
     },
     {
+        "question": "A ocorrência de continência ou de conexão torna sempre possível a reunião dos processos para julgamento conjunto, salvo quando um deles já tenha sido julgado.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Tramitando ação de indenização por danos morais em vara do juizado especial cível de Brasília, o juiz, caso verifique que o autor tenha se tornado incapaz, nos termos da lei, deverá remeter os autos para uma vara cível da mesma circunscrição com fundamento na incompetência absoluta do autor.",
         "choices": [],
         "correctAwser": "false",
@@ -6193,6 +7548,14 @@
         "id": ""
     },
     {
+        "question": "A perda do objeto da ação torna o pedido impossível, o que enseja a extinção do processo sem resolução do mérito.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Ao exigir de um indivíduo casado a autorização do cônjuge para o ajuizamento de determinadas ações reais imobiliárias, o Código Civil estabelece uma restrição da capacidade processual.",
         "choices": [],
         "correctAwser": "true",
@@ -6202,6 +7565,14 @@
     },
     {
         "question": "O menor impúbere que pretenda propor ação de investigação de paternidade deve ser representado em juízo pela genitora, visto que ele não possui legitimidade ativa ad causam.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei possibilita a atuação do MP, como substituto processual, para a defesa, em nome do menor e no interesse dele, dos direitos que sofram lesão ou ameaça de lesão.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -6228,6 +7599,14 @@
         "question": "Em relação aos recursos processuais e ao reexame necessário, nem todos os recursos processuais têm efeito devolutivo, devendo o julgador, segundo o seu juízo de admissibilidade, analisar, em cada caso, a viabilidade dessa incidência.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A tempestividade, segundo a doutrina, representa pressuposto recursal extrínseco.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -6267,6 +7646,22 @@
     {
         "question": "Acerca dos princípios aplicáveis à relação de consumo, de acordo com a jurisprudência do STJ, a aplicação da inversão do ônus da prova prevista no CDC é regra de instrução, ou seja, ocorre preferencialmente na decisão saneadora proferida pelo juiz.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A inversão do ônus da prova obriga a parte contrária a arcar com as despesas decorrentes da produção daquele meio de prova requerido pelo consumidor autor da demanda.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A vulnerabilidade difere da hipossuficiência, pois esta é de ordem material e presumida, em regra, para os consumidores, ao passo que aquela é de ordem processual e seu reconhecimento depende da análise do caso concreto.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -6290,6 +7685,14 @@
     },
     {
         "question": "Com base no entendimento doutrinário e nos julgados do STJ acerca do CDC, dada a necessidade de atendimento ao princípio da continuidade, é ilegítima a interrupção por inadimplemento do serviço público essencial prestado por concessionária, ainda que o consumidor seja previamente notificado por débito atual.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A relação estabelecida entre locador não profissional e locatário no contrato de locação urbana é de consumo, da mesma forma que na relação entre condômino e condomínio que envolva a cobrança de encargos condominiais.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -6369,6 +7772,14 @@
         "id": ""
     },
     {
+        "question": "A pessoa jurídica responde criminalmente pelas condutas tipicamente previstas no CDC como crimes, independentemente da responsabilização de seus gestores e empregados.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que se refere ao princípio da prioridade absoluta, ao princípio do melhor interesse da criança e do adolescente e aos direitos fundamentais previstos no ECA e na CF, conforme atual entendimento do STJ e do STF, o município é obrigado a atender, em creches e pré-escolas, crianças de zero a seis anos de idade, desde que haja previsão orçamentária específica para esse fim previamente aprovada pelo Poder Legislativo municipal.",
         "choices": [],
         "correctAwser": "false",
@@ -6409,6 +7820,14 @@
         "id": ""
     },
     {
+        "question": "A respeito da adoção, da guarda e da perda do poder familiar, de acordo com o ECA e com a jurisprudência do STJ, será vedado ao juiz julgar procedente o pedido de adoção póstuma quando a ação for ajuizada após o falecimento do adotante, mesmo que haja provas contundentes da inequívoca vontade do de cujus em adotar, como o tratamento do adotando como se filho fosse e o conhecimento público dessa condição.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O juiz deve adotar a ordem cronológica de inscrição dos pretendentes à adoção do cadastro próprio como critério absoluto para o deferimento da adoção, mesmo que, por questões fáticas, fique comprovado haver forte vínculo afetivo entre a criança e os guardiões de fato.",
         "choices": [],
         "correctAwser": "false",
@@ -6418,6 +7837,14 @@
     },
     {
         "question": "O trânsito em julgado de sentença criminal condenatória na qual tenha sido estipulada pena restritiva de liberdade acima de oito anos de reclusão implica a destituição do poder familiar do pai ou da mãe sentenciados, ainda que a vítima do crime eventualmente praticado não tenha sido o próprio filho.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A criança e o adolescente têm o direito de visitar, periodicamente, a mãe ou o pai privado de liberdade, para fins de manutenção da convivência familiar, desde que autorizada judicialmente, após a comprovação de que o ambiente penitenciário não irá prejudicar o regular desenvolvimento psicológico do infante.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -6547,6 +7974,14 @@
     {
         "question": "Para que o pequeno produtor rural seja registrado no registro público de empresas mercantis, basta-lhe formular requerimento nesse sentido e atender as formalidades legais, passando a constituir-se como empresário individual.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A vedação de se qualificar sociedade cooperativa como empresária por força dos atos praticados traduz, segundo a doutrina, um resquício da teoria dos atos de comércio no atual Código Civil.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -6665,6 +8100,14 @@
         "id": ""
     },
     {
+        "question": "A sucessão legítima é aquela que ocorre em virtude da lei, ou seja, são chamados a suceder aqueles que a lei indica como sendo os herdeiros. No que tange à sucessão legítima, aos descendentes, em concorrência com o cônjuge sobrevivente, aos ascendentes, em concorrência com o cônjuge, ao cônjuge sobrevivente, aos colaterais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Sobre o Direito de Sucessão é correto afirmar que somente é reconhecido direito sucessório ao cônjuge sobrevivente se, ao tempo da morte do outro, não estavam separados judicialmente, nem separados de fato há mais de 2 anos, salvo prova, neste caso, de que essa convivência se tornara impossível sem culpa do sobrevivente.",
         "choices": [],
         "correctAwser": "true",
@@ -6681,7 +8124,23 @@
         "id": ""
     },
     {
+        "question": "A capacidade de direito ou jurídica nada mais é que a aptidão para adquirir direitos e contrair obrigações na vida civil que a pessoa natural possui. Todo ser humano é dotado de personalidade, mas muitos deles não apresentam condições necessárias para exercer, por si próprio, seus direitos (capacidade de fato). Nesse contexto é correto afirmar, serem incapazes, relativamente a certos atos ou à maneira de os exercer, os menores de 16 anos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Relativamente à capacidade de fato, são incapazes, relativamente a certos atos ou à maneira de os exercer os ébrios habituais e os viciados em tóxico.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A menoridade cessa aos vinte e um anos completos, quando a pessoa fica habilitada à prática de todos os atos da vida civil.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -6860,8 +8319,15 @@
     },
     {
         "question": "Em igualdade de condições, como critério de desempate, será assegurada preferência, sucessivamente aos bens e serviços, produzidos ou prestados por empresas que comprovem cumprimento de reserva de cargos prevista em lei para pessoa com deficiência ou para reabilitado da Previdência Social e que atendam às regras de acessibilidade previstas na legislação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A margem de preferência da licitação será estabelecida com base em estudos revistos periodicamente, em prazo não superior a 5 (cinco) anos, que levem em consideração, afora:",
         "choices": [
-            "A) margem de preferência da licitação será estabelecida com base em estudos revistos periodicamente, em prazo não superior a 5 (cinco) anos, que levem em consideração, afora:",
             "A) Geração de emprego e renda.",
             "B) Efeito na arrecadação de tributos federais, estaduais e municipais.",
             "C) Desenvolvimento e inovação tecnológica realizados no estrangeiro.",
@@ -7003,7 +8469,23 @@
         "id": ""
     },
     {
+        "question": "A distribuição diversa do ônus da prova pode ocorrer por convenção das partes mesmo se recair sobre direito indisponível.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Nos casos previstos em lei ou diante de peculiaridades da causa relacionadas à impossibilidade ou à excessiva dificuldade de cumprir o ônus da prova pela parte ao qual compete ou à maior facilidade de obtenção da prova do fato contrário, poderá o juiz atribuir o ônus da prova de modo diverso, desde que o faça por decisão fundamentada e dê à parte a oportunidade de se desincumbir do ônus que lhe foi atribuído.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A determinação das provas necessárias ao julgamento do mérito provém de decisão do Juiz adstrita aos requerimentos de produção de provas que as partes realizem.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -7036,6 +8518,22 @@
     },
     {
         "question": "É correto afirmar, com fulcro naquilo que dispõe o Código de Processo Civil, que o recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público, como parte ou como fiscal da ordem jurídica.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei n.º 7.347/1985 é responsável por disciplinar a ação civil pública de responsabilidade por danos causados ao meio-ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turísticos e paisagístico. Considerando referida lei, têm legitimidade para propor a ação principal e a ação cautelar: I - o Ministério Público; II - a Defensoria Pública; III - a União, os Estados, o Distrito Federal e os Municípios; IV - a autarquia, empresa pública, fundação ou sociedade de economia mista; V - a associação que, concomitantemente: a) esteja constituída há pelo menos 1 (um) ano nos termos da lei civil; b) inclua, entre suas finalidades institucionais, a proteção ao patrimônio público e social, ao meio ambiente, ao consumidor, à ordem econômica, à livre concorrência, aos direitos de grupos raciais, étnicos ou religiosos ou ao patrimônio artístico, estético, histórico, turístico e paisagístico.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A ação civil pública, nos termos da Lei nº 7.347/1985, poderá ter por objeto somente a condenação em dinheiro, excluindo-se o cumprimento de obrigação de fazer ou não fazer.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -7123,6 +8621,14 @@
         "id": ""
     },
     {
+        "question": "A revelia em decorrência da não apresentação de contestação não produzirá presunção de veracidade quando a petição inicial não estiver acompanhada de instrumento que a lei considere indispensável à prova do ato.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "João ingressou com ação de indenização contra Maria. A ação foi julgada procedente. As partes não interpuseram recurso contra a sentença, razão pela qual, após o transcurso do prazo legal, foi certificado o trânsito em julgado. Após 01 (um) ano do trânsito em julgado, quando já havia se iniciado o cumprimento de sentença, Maria descobre que a sentença proferida pelo juiz violou manifestamente norma jurídica. Diante desse fato, é correto afirmar sobre a ação rescisória que, o direito de Maria à rescisão se extingue em 2 (dois) anos contados do trânsito em julgado da sentença que julgou procedente a ação de indenização.",
         "choices": [],
         "correctAwser": "true",
@@ -7163,6 +8669,14 @@
         "id": ""
     },
     {
+        "question": "A apresentação de embargos à execução de título judicial ou extrajudicial depende de penhora, nos termos da Lei nº 9.099/1995.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que se refere à tutela provisória satisfativa, a apelação interposta da sentença que confirma a decisão provisória será recebida apenas no efeito devolutivo.",
         "choices": [],
         "correctAwser": "true",
@@ -7172,6 +8686,14 @@
     },
     {
         "question": "Uma vez concedida, a tutela provisória satisfativa não poderá ser alterada de ofício, mas, tão somente, por decisão recursal.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A tutela provisória satisfativa não pode ser concedida, nem excepcionalmente, sem a ouvida da parte contrária, em respeito ao princípio do contraditório, sob pena de nulidade.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -7264,6 +8786,14 @@
         "id": ""
     },
     {
+        "question": "A obrigação dos avós de prestar alimentos aos netos possui natureza complementar e subsidiária, somente surgindo em caso de comprovação da impossibilidade total ou parcial dos dois genitores de proverem os alimentos de seus filhos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Prescreve em cinco anos, a contar do dia seguinte ao do vencimento da prestação, o prazo para a cobrança de taxa condominial ordinária ou extraordinária constante em instrumento público ou particular.",
         "choices": [],
         "correctAwser": "true",
@@ -7305,6 +8835,22 @@
     },
     {
         "question": "Na hipótese de desconsideração da personalidade jurídica, pode haver a responsabilização de todos os sócios da sociedade anônima em razão da utilização abusiva da empresa.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A legislação aplicável permite que o recém-nascido seja registrado como natural de município onde resida sua mãe, ainda que este seja distinto do local do nascimento.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A cobrança de juros capitalizados em contrato bancário de mútuo independe de expressa previsão contratual porque decorre da natureza da atividade realizada pela instituição financeira. À luz das disposições do Código de Processo Civil (CPC), julgue os próximos itens.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -7400,6 +8946,14 @@
         "id": ""
     },
     {
+        "question": "A incapacidade relativa atinge as pessoas que não podem exprimir sua vontade devido a causas de natureza permanente ou transitória.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "As pessoas com deficiência são consideradas absolutamente incapazes pelo atual regime da capacidade civil.",
         "choices": [],
         "correctAwser": "false",
@@ -7457,6 +9011,14 @@
     },
     {
         "question": "O associado poderá ser removido da associação por discricionariedade dos administradores.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A insuficiência de bens não é impedimento para a constituição de fundação voltada à preservação do meio ambiente.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -7528,7 +9090,23 @@
         "id": ""
     },
     {
+        "question": "A advocacia pública, por meio de representação judicial, é responsável pela defesa e promoção dos interesses dos entes da Federação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Com o objetivo de promover a defesa dos interesses difusos e coletivos, a Defensoria Pública detém legitimidade ativa para a proposição de ação civil pública, tanto principal como cautelar.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A utilização de métodos de solução consensual de conflitos é vedada ao Ministério Público, considerando seu papel institucional de promoção do inquérito civil e da ação civil pública.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -7614,8 +9192,21 @@
     },
     {
         "question": "Joana estava em sua casa, em 1/3/2018, quando foi atingida por acidente causado pela empresa Moto Contínuo S.A., que explorava o mercado livre de comercialização de energia elétrica. Em 3/4/2022, ajuíza demanda indenizatória em face da causadora do acidente, mas seus pedidos são julgados liminarmente improcedentes pelo reconhecimento da prescrição trienal.  Em recurso, defende as seguintes teses: 1. qualifica-se como consumidora da ré, ainda que dela não tenha contratado serviço ou produto; 2. o prazo prescricional, nesse caso, mesmo em se tratando de responsabilidade extracontratual, seria de cinco anos; e 3. de todo modo, haveria de se reconhecer a causa interruptiva do prazo prescricional prevista no Art. 200 do Código Civil enquanto não se esclarecesse o fato criminal correlato, mormente porque, por ora, não há sequer inquérito instaurado para esse fim. Nesse caso:",
-        "choices": [],
+        "choices": [
+            "A) nenhuma tese deve ser acolhida;",
+            "B) apenas a tese 1 deve ser acolhida;",
+            "C) apenas as teses 1 e 2 devem ser acolhidas;",
+            "D) todas as teses devem ser acolhidas."
+        ],
         "correctAwser": "C",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A franqueadora Net.X enviou à franqueada Top.Y o instrumento contratual de franquia. Esta, embora não tenha assinado e restituído o documento àquela, colocou em prática os termos contratados, tendo recebido treinamento da franqueadora, utilizado sua marca e instalado as franquias. Inclusive, pagou à franqueadora as contraprestações estabelecidas no contrato. Nesse caso, embora não se tenha assinado o contrato, a declaração tácita de vontade pode ser aferida à luz comportamento concludente.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -7638,6 +9229,14 @@
     },
     {
         "question": "No que tange às tutelas provisórias, é correto afirmar que, a tutela de urgência pode ser concedida liminarmente ou após justificação prévia.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A tutela de urgência de natureza cautelar pode ser efetivada, dentre outras formas, mediante arresto, sequestro e arrolamento de bens.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -7703,6 +9302,14 @@
         "id": ""
     },
     {
+        "question": "A União foi condenada em ação movida por Nathália, servidora pública federal, ao pagamento de indenização a título de danos morais e danos materiais, em montante equivalente a R$ 3.000.000,00. Após ser intimada da sentença, a Advocacia-Geral da União interpôs recurso de apelação, exclusivamente para buscar a reforma da sentença no que se refere aos índices de correção monetária aplicados pelo juízo e ao percentual referente aos honorários advocatícios. Nathália não recorreu. Em sede de julgamento do recurso de apelação interposto pela União e remessa necessária, o Tribunal Regional Federal correspondente, entendendo que o valor fixado a título de indenização era inferior ao devido, majorou o montante para R$ 3.200.000,00. Inconformada, a União interpôs recurso especial intempestivo, requerendo a nulidade integral da decisão proferida pelo Tribunal Regional Federal, por violação a entendimento sumulado do Superior Tribunal de Justiça. Nesse caso, é correto afirmar que: ao julgar a remessa necessária, não caberia ao Tribunal Regional Federal agravar a condenação imposta à União, sob pena de desvirtuar a remessa necessária.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Regina ajuizou ação de reintegração de posse em face de João, distribuída à 3ª Vara Cível da Comarca de Niterói (RJ), local em que o réu é domiciliado. Em sua causa de pedir, Regina sustentou que João ocupou indevidamente imóvel de sua propriedade, localizado na cidade de Rio Bonito (RJ). Dois meses antes do ajuizamento da ação proposta por Regina, João ajuizou ação de usucapião em face de Regina, sustentando ter adquirido a propriedade do imóvel após o decurso do prazo legal. O pleito foi distribuído à 1ª Vara Cível da Comarca de Rio Bonito (RJ). Sobre o caso acima, é correto afirmar que: diante da conexão entre as causas, é cabível sua reunião para julgamento conjunto no juízo prevento, que, no caso, é a 1ª Vara Cível da Comarca de Rio Bonito.",
         "choices": [],
         "correctAwser": "true",
@@ -7742,8 +9349,16 @@
             "A) uma vez que o tomador dos serviços também era responsável, ele não poderá no futuro reivindicar a quantia do ex-empregador de Felix;",
             "B) o Código Civil é omisso a respeito, portanto caberá ao juiz, em cada caso concreto, dizer se haverá direito regressivo da tomadora contra o devedor principal;",
             "C) o risco do negócio pertence às empresas, de modo que por lei ambas são solidariamente responsáveis pela reparação, sem direito de cobrança mútua posterior;",
-            "D) a responsável subsidiária pagou dívida de outra empresa, pelo que se sub-roga nos direitos do credor e poderá cobrar o valor da devedora principal;",
-            "A) audiência de divórcio litigioso do ex-casal Almir e Lívia estava designada para 13:30 horas. Ocorre que todos estavam esperando e, a despeito de o juiz estar em seu gabinete, já eram 14:15 horas e o pregão não havia sido realizado. Os advogados tentaram saber o que estava acontecendo, e a resposta do escrivão foi que o juiz estava repousando do almoço. Nesse sentido, e de acordo com o disposto no CPC, é correto afirmar que:",
+            "D) a responsável subsidiária pagou dívida de outra empresa, pelo que se sub-roga nos direitos do credor e poderá cobrar o valor da devedora principal;"
+        ],
+        "correctAwser": "D",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A audiência de divórcio litigioso do ex-casal Almir e Lívia estava designada para 13:30 horas. Ocorre que todos estavam esperando e, a despeito de o juiz estar em seu gabinete, já eram 14:15 horas e o pregão não havia sido realizado. Os advogados tentaram saber o que estava acontecendo, e a resposta do escrivão foi que o juiz estava repousando do almoço. Nesse sentido, e de acordo com o disposto no CPC, é correto afirmar que:",
+        "choices": [
             "A) o ex-casal terá de aguardar, porque o juiz se encontra presente em seu gabinete;",
             "B) não há previsão na Lei de limite temporal para que as partes aguardem o juiz e nem que esse espere os litigantes;",
             "C) a retirada do casal dependeria de autorização judicial, sob pena de aplicação de multa àquele que se retira da Corte sem justificativa;",
@@ -7877,6 +9492,14 @@
     },
     {
         "question": "No caso de posse em cargo público, após aprovação em concurso, determinada por decisão judicial, é do entendimento do Supremo Tribunal Federal, que o servidor não faz jus à indenização sob fundamento de que deveria ter sido investido em momento anterior, salvo, situação de flagrante arbitrariedade, a ser demonstrada.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria do risco administrativo, segundo a qual é possível excluir a responsabilidade diante da ausência de qualquer de seus elementos definidores, é adotada como regra, pela República Federativa do Brasil.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -8029,6 +9652,19 @@
     },
     {
         "question": "Nos termos da legislação em vigor, o juiz resolverá o mérito quando:",
+        "choices": [
+            "A) reconhecer a existência de perempção, de litispendência ou de coisa julgada.",
+            "B) acolher a alegação de existência de convenção de arbitragem ou quando o juízo arbitral reconhecer sua competência.",
+            "C) homologar a renúncia à pretensão formulada na ação ou na reconvenção.",
+            "D) verificar a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo."
+        ],
+        "correctAwser": "C",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Resolução n° 230/2016 do CNJ disciplina que cada órgão do Poder Judiciário deverá manter um cadastro dos servidores, serventuários extrajudiciais e terceirizados com deficiência que trabalham no seu quadro. Esse cadastro deve especificar as deficiências e as necessidades particulares de cada servidor, terceirizado ou serventuário extrajudicial, sendo que a atualização desse cadastro deve ser permanente, devendo ocorrer uma revisão detalhada uma vez por semestre.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -8555,13 +10191,29 @@
         "id": ""
     },
     {
+        "question": "A Lei nº 13.146/2015, estabelece que os direitos da pessoa com deficiência serão garantidos por ocasião da aplicação de penalidades civis e administrativas, mas não no caso de sanções penais, hipótese em que vigora um regime jurídico próprio e diferenciado pelo seu caráter punitivo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Maria, de 14 anos, desferiu diversas agressões escritas em seu perfil, em rede social, contra o Bar ABC Ltda., cujos prepostos se recusaram a vender-lhe bebida alcoólica. Ante a menção desonrosa à imagem do Bar, é correto afirmar que:",
         "choices": [
             "A) o ato não é hábil a gerar dano, ante a falta de capacidade de fato de Maria;",
             "B) o Bar poderá buscar tutela jurídica ante a violação de um direito da personalidade;",
             "C) o Bar não possui capacidade de direito, pelo que é inviável falar-se em danos à sua imagem;",
-            "D) o Bar nada poderá fazer, pois não é titular de direitos da personalidade.",
-            "A) Turma de ex-alunos do Colégio XYZ resolve formalizar-se como pessoa jurídica e, para tanto, opta pela espécie associação. Quanto à sua existência, diz-se que:",
+            "D) o Bar nada poderá fazer, pois não é titular de direitos da personalidade."
+        ],
+        "correctAwser": "B",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Turma de ex-alunos do Colégio XYZ resolve formalizar-se como pessoa jurídica e, para tanto, opta pela espécie associação. Quanto à sua existência, diz-se que:",
+        "choices": [
             "A) ocorrerá quarenta e cinco dias após a inscrição do ato constitutivo no registro de pessoas jurídicas;",
             "B) ocorrerá quarenta e cinco dias após a lavratura do ato de constituição;",
             "C) ocorreu desde a primeira reunião dos ex-alunos;",
@@ -8888,8 +10540,23 @@
     },
     {
         "question": "Os débitos decorrentes do fornecimento de energia elétrica, água e esgoto constituem obrigação propter rem, visto estarem vinculadas ao imóvel.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A obrigação propter rem grava o próprio bem, de modo que este pode ser penhorado, já que a natureza da dívida recai sobre o imóvel e não sobre o indivíduo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A legislação brasileira estabelece a cessação da menoridade aos 18 (dezoito) anos completos, quando a pessoa fica habilitada à prática de todos os atos da vida civil. Assim, de acordo com o Código Civil, aponte a alternativa INCORRETA a respeito das hipóteses em que a incapacidade cessará para os menores:",
         "choices": [
-            "A) legislação brasileira estabelece a cessação da menoridade aos 18 (dezoito) anos completos, quando a pessoa fica habilitada à prática de todos os atos da vida civil. Assim, de acordo com o Código Civil, aponte a alternativa INCORRETA a respeito das hipóteses em que a incapacidade cessará para os menores:",
             "A) Pelo casamento.",
             "B) Pelo exercício de emprego público efetivo.",
             "C) Pela concessão de um dos pais, mediante instrumento público, independentemente de homologação judicial, ou por sentença do juiz, ouvido o tutor, se o menor tiver 16 (dezesseis) anos completos.",
@@ -8957,6 +10624,14 @@
         "id": ""
     },
     {
+        "question": "A dissolução da sociedade conjugal não extingue o bem de família.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Perde o poder familiar e é excluído da sucessão o pai que praticar contra filha estupro ou outro crime contra a dignidade sexual sujeito à pena de reclusão.",
         "choices": [],
         "correctAwser": "false",
@@ -8965,7 +10640,23 @@
         "id": ""
     },
     {
+        "question": "A pessoa maior de 70 (setenta) anos que se casar pode praticar todos os atos de disposição necessários ao desempenho de sua profissão, mas precisa da autorização do cônjuge para prestar fiança ou aval.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O dever dos pais de prestar alimentos aos filhos é extensivo aos avós e, não tendo os pais condições de suportar totalmente o encargo, os avós respondem solidariamente.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A multipropriedade se extinguirá automaticamente se todas as frações de tempo forem do mesmo multiproprietário.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -8998,6 +10689,14 @@
     },
     {
         "question": "O Ministério Público tem legitimidade ativa para propor ação revocatória dos atos praticados em conluio fraudulento entre o devedor e o terceiro com a intenção de prejudicar credores e que causar efetivo prejuízo para a massa falida.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autonomia patrimonial das sociedades empresárias, em relação ao patrimônio dos sócios e das demais sociedades do mesmo grupo econômico, é um instrumento lícito de alocação e segregação de riscos, estabelecido pela lei com a finalidade de estimular empreendimentos, para a geração de empregos, tributo, renda e inovação em benefício de todos.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -9207,13 +10906,37 @@
     {
         "question": "Na execução fundada em título extrajudicial, a Fazenda Pública será citada para opor embargos em 30 (trinta) dias. Não opostos embargos ou transitada em julgado a decisão que os rejeitar, expedir-se-á precatório ou requisição de pequeno valor em favor do exequente, observando-se o disposto no art. 100 da Constituição Federal.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A coisa julgada, como regra, incide sobre a resolução de questões principais ou de prejudiciais.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
     },
     {
+        "question": "A liquidação pode ser realizada tanto em relação à sentença quanto em relação à decisão parcial de mérito.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O procedimento de produção antecipada de provas contempla oportunidade de apresentação de defesas e recursos, conforme determina o contraditório efetivo previsto nos arts. 9º e 10 do CPC.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A confissão realizada por um dos litisconsortes em litisconsórcio unitário vincula a todos, em razão da natureza do liame entre as partes.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -9231,7 +10954,23 @@
     {
         "question": "O juiz poderá atribuir o ônus da prova de modo diverso nos casos previstos em lei ou diante das peculiaridades da causa relacionadas à impossibilidade ou à excessiva dificuldade de cumprir o encargo probatório ou, ainda, à maior facilidade de obtenção da prova do fato contrário.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A distribuição diversa do ônus da prova também pode ocorrer por convenção das partes quando recair sobre direito indisponível da parte.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A inversão do ônus da prova aplica-se às ações civis públicas sobre degradação ambiental.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
         "id": ""
@@ -9253,7 +10992,55 @@
         "id": ""
     },
     {
+        "question": "A obrigação somente será convertida em perdas e danos se o autor o requerer ou se impossível a tutela específica ou a obtenção de tutela pelo resultado prático equivalente.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A indenização por perdas e danos dar-se-á em prejuízo da multa fixada periodicamente para compelir o réu ao cumprimento específico da obrigação.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Após investigações em sede extrajudicial, o Ministério Público amealhou provas de que a pessoa jurídica HospMed Ltda., administrada pelo sócio majoritário Brivaldo, teria sido selecionada em contratações emergenciais milionárias para prestar serviços a uma autarquia estadual cujo presidente, Ivan, seria amigo e aliado político do deputado estadual Saulo, cuja campanha eleitoral teria recebido generosas doações daquele empresário. Os documentos indicam que as contratações diretas não foram precedidas de justificativa de preço, de orçamento com custos unitários ou de projeto básico, bem como que a emergência teria sido dolosamente fabricada. Nessa situação, à luz da Lei nº 8.429/1992, com as alterações promovidas pela Lei nº 14.230/2021, o Parquet pode ajuizar ação de improbidade em face das pessoas naturais mencionadas e da sociedade limitada para demonstrados de plano a probabilidade de ocorrência dos atos ímprobos e o perigo de dano irreparável ou de risco ao resultado útil do processo, requerer liminarmente a indisponibilidade dos bens de todos os demandados, solidariamente, não podendo a constrição recair sobre contas bancárias caso existam outros bens móveis ou imóveis capazes de garantir o juízo, em montante suficiente para assegurar o ressarcimento ao Erário, sem incidir sobre os valores a serem eventualmente aplicados a título de multa civil.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A 50ª Promotoria de determinada Comarca recebeu notícia anônima de que a pessoa jurídica Manauara Park teria instalado um empreendimento do setor de turismo e lazer em área de preservação permanente (APP) do lago Manauara, afetando a vegetação da região. Nessa situação, caso o promotor de justiça em exercício no órgão instaure procedimento preparatório para identificação dos investigados ou delimitação do objeto, será indispensável a edição de nova portaria para a sua conversão em inquérito civil.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Promotoria de Justiça responsável apurou que a Prefeitura Municipal de determinado município teria implementado, durante a pandemia de Covid-19, programa de distribuição de cestas básicas ou kits de gêneros alimentícios durante o período de suspensão das atividades escolares, durante o qual não houve o oferecimento de atividade pedagógica a distância em substituição ao ensino presencial para o cômputo do ano letivo. Diante dessa situação, é correto afirmar que o programa poderia ser financiado com verbas oriundas do mínimo constitucional de aplicação na manutenção e desenvolvimento do ensino.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei de Responsabilidade Fiscal estabelece limites para a despesa total com pessoal, em cada período de apuração e em cada ente da Federação, havendo, na esfera estadual, limites globais e específicos, dentre os últimos o relativo ao Ministério Público. A respeito do tema, o Ministério Público deve apurar, de forma segregada para aplicação do limite de despesa com pessoal, a integralidade das despesas com pessoal dos respectivos servidores inativos e pensionistas, mesmo que o custeio dessas despesas esteja a cargo do Tesouro Estadual.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da ação popular, à luz da legislação em vigor e da jurisprudência dos Tribunais Superiores, é correto afirmar que cabe agravo de instrumento de quase todas as decisões interlocutórias proferidas no curso da ação popular, sendo inaplicável a esse rito especial o sistema da recorribilidade diferida previsto no Código de Processo Civil.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
@@ -9298,8 +11085,16 @@
             "A) para serem imitidos na posse provisória dos bens de Humberto, os herdeiros deverão prestar garantia de restituição;",
             "B) os imóveis do ausente não poderão ser dados em hipoteca nem alienados, salvo em virtude de desapropriação;",
             "C) o sucessor excluído da posse provisória pode alegar a falta de meios para que lhe seja entregue metade dos rendimentos do quinhão que lhe tocaria;",
-            "D) ainda que o ausente venha a aparecer, não terá direito a reaver dos sucessores sua parte nos frutos e rendimentos.",
-            "A) “ABC” Ltda. foi contratada pelo condomínio do edifício Rosas para prestar serviços de segurança e vigilância por um ano, em troca do pagamento mensal de R$ 10.000,00, a ser efetivado até o dia 05 de cada mês. Findo um ano, o contrato não foi renovado porque o condomínio ficou inadimplente das três últimas prestações, e agora a “ABC” Ltda. pleiteia o pagamento do total devido. Sobre cada prestação atrasada, incidirão:",
+            "D) ainda que o ausente venha a aparecer, não terá direito a reaver dos sucessores sua parte nos frutos e rendimentos."
+        ],
+        "correctAwser": "C",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A “ABC” Ltda. foi contratada pelo condomínio do edifício Rosas para prestar serviços de segurança e vigilância por um ano, em troca do pagamento mensal de R$ 10.000,00, a ser efetivado até o dia 05 de cada mês. Findo um ano, o contrato não foi renovado porque o condomínio ficou inadimplente das três últimas prestações, e agora a “ABC” Ltda. pleiteia o pagamento do total devido. Sobre cada prestação atrasada, incidirão:",
+        "choices": [
             "A) atualização monetária e juros a partir do vencimento de cada prestação;",
             "B) atualização monetária a partir do ajuizamento da ação e juros a partir da citação;",
             "C) atualização monetária a partir do vencimento de cada prestação e juros a partir da citação;",
@@ -9339,6 +11134,14 @@
     {
         "question": "Arquimedes veio a falecer em 2015, aos 70 anos de idade, depois de três anos separado de fato de sua esposa Maria, com quem se casara em 2005. Logo depois da separação, Arquimedes assumiu publicamente relacionamento com Renata, e assim permaneceram de forma contínua e duradoura até sua morte. Um dos filhos de Arquimedes, chamado Gabriel, morrera um ano antes dele, deixando duas filhas, Maria e Sofia, que contavam com 10 e 12 anos de idade, respectivamente, quando da morte do avô. Arquimedes deixou ainda dois filhos vivos, Pedro e Paulo, que desaprovavam o novo relacionamento do pai. Arquimedes cortara relações com Pedro há um ano, pois o filho chegou a chamar Renata de interesseira em um jantar com toda a família. Paulo, por sua vez, renunciou à herança assim que soube da morte do pai. Considerando que Arquimedes não deixou testamento, é correto afirmar sobre sua sucessão que os filhos de Paulo não podem herdar por representação do pai, renunciante, mas podem vir a herdar por direito próprio, e por cabeça, se os demais herdeiros também renunciarem.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A moradia constitui direito fundamental como corolário do princípio da dignidade da pessoa humana. Lamentavelmente, por falta de recursos ou por desconhecimento, são celebrados negócios que transferem a posse física do imóvel sem observar a dimensão registral ou urbanística do ato. A necessidade de disciplinar a ocupação do solo, por outro lado, emerge como dever derivado da proteção ambiental, da garantia de salubridade, da segurança urbana e da obrigatoriedade de publicização do direito real. No conflito entre os valores, o Poder Judiciário vem tentando uniformizar os entendimentos a respeito da matéria. Em relação ao tema, é correto afirmar que a pretensão de adjudicação compulsória sujeita-se a prazo prescricional, mas se extingue por meio de usucapião exercida por terceiro.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
         "type": "TRUE_FALSE",
@@ -9362,8 +11165,15 @@
     },
     {
         "question": "Mário e Antônia eram sócios de uma sociedade empresária denominada Maritônia Empreendimentos Ltda. Antônia atuava como administradora da sociedade e era responsável pela distribuição dos dividendos. Após alguns desentendimentos entre eles, Mário ajuizou ação indenizatória, com base em evidências de que a distribuição dos dividendos não observava a participação societária de cada um dos sócios, buscando indenização pelos valores que teriam sido recebidos a maior por Antônia. O pedido autoral foi julgado improcedente, por ausência de provas da distribuição desproporcional de dividendos. A sentença foi mantida pelo Tribunal de Justiça do Estado, tendo transitado em julgado, após a inadmissão do Recurso Especial de Mário pelo TJ, mais precisamente em julho de 2019. Inconformado com o resultado do processo, Mário se retira da sociedade e é sucedido por Mévio, cunhado de Mário, com a anuência de Antônia. Em novembro de 2023, Mário é surpreendido por uma ligação de Mévio informando sobre a existência de elementos contundentes, já existentes à época da ação originária, mas até então desconhecidos por Mário, que comprovam a distribuição desproporcional de dividendos por parte de Antônia na época em que Mário era sócio. Diante disso, Mário ajuíza ação rescisória para desconstituir a decisão transitada em julgado. Considerando essa situação jurídica, é correto afirmar que a propositura de ação rescisória por Mário não impede o cumprimento da decisão rescindenda, com o pagamento dos ônus sucumbenciais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "10f20971-7f98-4e7f-adfd-1f07faec8600",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A empresa nacional Gama Ltda. firmou contrato de prestação de serviços com empresa norte-americana, sediada em Nova Iorque, para fornecimento de imagens que seriam disponibilizadas em banco de imagens internacional. O contrato de prestação de serviços estabelecia que o foro de eleição seria o da sede da empresa estrangeira. Ajuizada a ação no foro competente (Tribunal de Nova Iorque), a empresa brasileira foi regularmente citada, mas não apresentou defesa, tendo sido condenada, ao final, ao fornecimento de imagens específicas e ao pagamento de indenização. Sobre o cumprimento de decisão estrangeira em território nacional, é correto afirmar que:",
         "choices": [
-            "A) empresa nacional Gama Ltda. firmou contrato de prestação de serviços com empresa norte-americana, sediada em Nova Iorque, para fornecimento de imagens que seriam disponibilizadas em banco de imagens internacional. O contrato de prestação de serviços estabelecia que o foro de eleição seria o da sede da empresa estrangeira. Ajuizada a ação no foro competente (Tribunal de Nova Iorque), a empresa brasileira foi regularmente citada, mas não apresentou defesa, tendo sido condenada, ao final, ao fornecimento de imagens específicas e ao pagamento de indenização. Sobre o cumprimento de decisão estrangeira em território nacional, é correto afirmar que:",
             "A) a sentença estrangeira constitui título executivo extrajudicial e pode ser executada imediatamente no Brasil;",
             "B) o cumprimento de decisão estrangeira far-se-á perante o juízo estadual competente, a requerimento da parte;",
             "C) a decisão estrangeira somente terá eficácia no Brasil após a homologação de sentença estrangeira, salvo disposição em sentido contrário de lei ou tratado;",

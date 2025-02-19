@@ -66,6 +66,14 @@
         "id": ""
     },
     {
+        "question": "A Lei é uma das fontes no Direito do Trabalho. Trata-se de fonte formal heterônoma, pois sua formação é materializada pelo Estado, sem a participação imediata dos destinatários principais das regras jurídicas. Nesse contexto, é da União, a competência para legislar sobre Direito do Trabalho no Brasil.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Idele é uma renomada neurocirurgiã, sendo empregada do maior hospital particular da sua cidade, realizando apenas cirurgias do sistema nervoso central e periférico, incluindo o cérebro, coluna e todas as ramificações nervosas. Idele engravidou no final de 2023. Todos os setores do hospital são insalubres, em graus variados, e o tipo de atividade feita pela empregada não permite que seu trabalho seja feito em domicílio. Nesse diapasão, a hipótese será considerada como gravidez de risco e ensejará a percepção de salário-maternidade durante todo o período de afastamento.",
         "choices": [],
         "correctAwser": "true",
@@ -291,13 +299,28 @@
     },
     {
         "question": "Enunciado de súmula de tribunal de justiça sobre direito cuja competência privativa para legislar é da União, não contempla uma hipótese de improcedência liminar do pedido em causas que dispensem a fase instrutória.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A reforma trabalhista, destacou dentre seus principais itens, a questão do trabalhador autônomo e sua contratação, desde que cumpridas por este todas as formalidades legais, com ou sem exclusividade, de forma contínua ou não, afasta a qualidade de empregado prevista em Lei. Assinale a alternativa correspondente as “formalidades legais” citadas.",
         "choices": [
-            "A) reforma trabalhista, destacou dentre seus principais itens, a questão do trabalhador autônomo e sua contratação, desde que cumpridas por este todas as formalidades legais, com ou sem exclusividade, de forma contínua ou não, afasta a qualidade de empregado prevista em Lei. Assinale a alternativa correspondente as “formalidades legais” citadas.",
             "A) Contrato e declaração de compatibilidade.",
             "B) Emissão de nota fiscal e declaração de compatibilidade.",
             "C) Contrato e emissão de nota fiscal.",
-            "D) Registro no sindicato da categoria e contrato.",
-            "A) Lei 13.467/2017 trouxe uma nova tipologia de contrato de trabalho caracterizado pela prestação de serviço, com subordinação, não contínua, acontecendo com alternância de períodos de prestação de serviços e de inatividade.",
+            "D) Registro no sindicato da categoria e contrato."
+        ],
+        "correctAwser": "C",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Lei 13.467/2017 trouxe uma nova tipologia de contrato de trabalho caracterizado pela prestação de serviço, com subordinação, não contínua, acontecendo com alternância de períodos de prestação de serviços e de inatividade.",
+        "choices": [
             "A) Contrato intermitente.",
             "B) Contrato sazonal.",
             "C) Contrato vitalício.",
@@ -431,6 +454,14 @@
     {
         "question": "Pedro estava em seu horário de almoço e alimentava-se no refeitório da empresa. Ao levantar e se dirigir ao balcão para deixar sua bandeja, Pedro escorregou, porque o chão estava molhado, e teve violenta queda, machucando-se. Nesse contexto, houve acidente do trabalho e a empresa deverá emitir CAT até o 1º dia útil seguinte ao evento, sob pena de multa.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A estabilidade é garantida a todos os servidores públicos, independentemente do regime jurídico ao qual estejam vinculados, assegurando-lhes permanência no cargo, exceto nos casos de condenação criminal definitiva.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
@@ -438,6 +469,14 @@
     },
     {
         "question": "Com base na CLT, acerca da equiparação salarial e férias, o estudante com menos de dezoito anos de idade que mantenha vínculo empregatício terá direito a fazer coincidir suas férias com as férias escolares.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A equiparação salarial entre empregados tem como pressuposto único a exigência de que o serviço seja prestado ao mesmo empregador e na mesma localidade.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -448,6 +487,14 @@
         "question": "Considerando os contratos de trabalho à luz da legislação trabalhista, condenação criminal de empregado é motivo para rescisão do contrato de trabalho por justa causa pelo empregador, mesmo que seja deferida a suspensão da execução da pena pelo juízo.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A realização de contrato de trabalho por prazo determinado cinco meses após outro contrato por prazo determinado realizado entre as mesmas partes levará o segundo contrato a ser considerado, via de regra, como contrato de trabalho por prazo indeterminado, a não ser que a expiração do primeiro tenha dependido da execução de serviços especializados ou da realização de certos acontecimentos.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -510,6 +557,14 @@
     },
     {
         "question": "No que tange a direitos coletivos do trabalho, comissões de conciliação prévia e direito de greve, nos termos do entendimento sumulado do TST, expirada a vigência da convenção coletiva, os benefícios proporcionados pela norma coletiva devem ser mantidos, salvo supressão ou modificação por meio de negociação coletiva de trabalho.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A garantia de estabilidade no emprego prevista na CLT para o empregado que se candidata a cargo de direção ou representação de entidade sindical ou de associação profissional tem início a contar do registro da candidatura e finda até um ano após o mandato.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -653,9 +708,33 @@
         "id": ""
     },
     {
+        "question": "A concessão do auxílio-acidente, restrita ao segurado empregado, ao trabalhador avulso e ao segurado especial, depende da ocorrência de acidente de qualquer natureza, com produção de sequela definitiva e efetiva redução da capacidade de trabalho do segurado em decorrência dessa sequela.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O auxílio-doença é encerrado apenas com a morte do segurado, de forma que o segurado poderá recebê-lo conjuntamente com qualquer outro benefício, inclusive com a aposentadoria por invalidez.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do valor dos benefícios do RGPS, na data do reajustamento, o valor dos benefícios do RGPS não poderá exceder o limite máximo do salário-de-benefício, respeitados os direitos adquiridos, salvo no caso da aposentadoria por invalidez, quando o segurado necessitar da assistência permanente de outra pessoa, situação em que o valor será acrescido de 25%, ainda que o valor da aposentadoria atinja o limite máximo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A justificação administrativa, utilizada para a comprovação de tempo de serviço, de dependência econômica, de identidade e de relação de parentesco, deve, para produzir efeito, estar baseada em prova material, não sendo admitida prova exclusivamente testemunhal.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -718,6 +797,14 @@
     },
     {
         "question": "Em uma obra de construção civil, o fechamento provisório dos vãos de acesso às caixas dos elevadores deve ser constituído de material resistente e fixado de forma segura à estrutura, até o momento da colocação definitiva das portas. A altura desse fechamento deve ser de, no mínimo, 1,20 m.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A atividade que implicar exposição ocupacional a vibrações localizadas ou de corpo inteiro, sem proteção adequada, será caracterizada como insalubre em grau médio.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -797,6 +884,14 @@
         "id": ""
     },
     {
+        "question": "A inspeção de ambientes de trabalho para fins previdenciários e a caracterização da invalidez para benefícios previdenciários e assistenciais são atribuições que competem privativamente aos peritos médicos da previdência social e, supletivamente, aos supervisores médico-periciais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Cervicalgia, lombalgia, dedo em gatilho e fibromatose da fáscia palmar são diagnósticos possivelmente relacionados ao trabalho e, portanto, podem ser enquadrados como LER/DORT.",
         "choices": [],
         "correctAwser": "true",
@@ -814,6 +909,30 @@
     },
     {
         "question": "Na pesquisa e no diagnóstico de casos de dor osteomuscular de origem ocupacional, as atividades extralaborais do paciente devem ser identificadas, pois, geralmente, elas desencadeiam quadros semelhantes aos casos de LER/DORT. A respeito das doenças pulmonares de origem ocupacional, julgue os próximos itens.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A siderose, decorrente da exposição a fumos de óxido de ferro, caracteriza-se por alterações radiológicas pulmonares difusas, que são associadas ao desenvolvimento precoce de insuficiência respiratória grave.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A siderose comum em trabalhadores de lavouras de fumo, é caracterizada pelo achado de alterações radiológicas pulmonares associadas à exposição a fumos de óxido de ferro.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A principal causa da pneumoconiose em trabalhadores que lidam com o carvão é a exposição ocupacional ao carvão vegetal proveniente da parte lenhosa de madeiras não resinosas.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -840,14 +959,6 @@
         "question": "Em caso de aborto não criminoso, a mulher celetista terá direito a repouso remunerado de trinta dias.",
         "choices": [],
         "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Diante do que estabelece a CLT sobre alteração do contrato individual de trabalho:",
-        "choices": [],
-        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -888,6 +999,14 @@
     },
     {
         "question": "No que tange ao contrato individual de trabalho, há obrigatoriedade de ser firmado apenas por escrito.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A falta de anotação da CTPS, demonstra que não há relação de trabalho entre Empregador e Empregado, situação essa que mudará, quando o Empregador resolver fazer as anotações devidas na Carteira de Trabalho e Previdência Social do Empregado.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -960,6 +1079,14 @@
     },
     {
         "question": "O 13º salário não é um benefício devido apenas a empregados com carteira assinada, sendo devido também a aposentados, a pensionistas e a servidores públicos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A falta de aviso prévio por parte do empregado dá ao empregador o direito de descontar os salários correspondentes ao prazo respectivo.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -1081,7 +1208,23 @@
     {
         "question": "No que tange ao princípio do indúbio pró-operário, é possível afirmar que uma única norma que permita dupla interpretação, deve esta ser interpretada da forma mais favorável ao trabalhador.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A cerca das fontes do Direito do Trabalho, as autoridades administrativas e a justiça do Trabalho, na falta de disposições legais ou contratuais, decidirão, conforme o caso, apenas pela jurisprudência, por analogia, por equidade, pelo direito comparado e outros princípios e normas gerais do direito, admitindo-se, excepcionalmente, que um interesse de classe ou particular prevaleça sobre o interesse público.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito das fontes do Direito do Trabalho, sumulas e outros enunciados de jurisprudência editados pelo Tribunal Superior do Trabalho e pelos Tribunais Regionais do Trabalho não poderão restringir direitos legalmente previstos nem criar obrigações que não estejam previstas em lei.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -1157,6 +1300,22 @@
     },
     {
         "question": "As Fontes formais do Direito do Trabalho, tais quais, as portarias ministeriais e a Constituição Federal brasileira, traduzem a esterioração dos fatos por meio da régua jurídica.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sentença normativa no Direito do Trabalho, fonte formal deste, é aquela decisão do tribunal em dissídio coletivo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sentença normativa é o poder normativo da Justiça do Trabalho, que advém da Constituição da República Federativa do Brasil, através do qual, se cria uma regra geral, abstrata e impessoal, aplicável a uma determinada categoria.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -1308,8 +1467,15 @@
     },
     {
         "question": "Empregada que desejava realizar viagem de férias por 30 dias, em determinado período, teve seu pedido negado, com determinação por parte do empregador de que a empregada usufruísse suas férias em três períodos, o primeiro de 15 dias, o segundo de 10 dias e o terceiro de 5 dias. Diante do exposto, é correto afirmar, que o empregador de forma, pode determinar o período de concessão das férias, de acordo com seus interesses, contudo, não pode determinar, unilateralmente, o fracionamento das férias, sem a concordância da empregada.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A empresa Paradise Ltda., pretende colocar número limite de férias injustificadas para cálculo dos dias que o empregado terá direito para gozo de suas férias, respeitando as normas vigentes da CLT. Assim, após 12 meses de vigência do contrato de trabalho, para que o empregado tenha direito à 30 dias de férias, o número de faltas injustificadas será:",
         "choices": [
-            "A) empresa Paradise Ltda., pretende colocar número limite de férias injustificadas para cálculo dos dias que o empregado terá direito para gozo de suas férias, respeitando as normas vigentes da CLT. Assim, após 12 meses de vigência do contrato de trabalho, para que o empregado tenha direito à 30 dias de férias, o número de faltas injustificadas será:",
             "A) 10 dias.",
             "B) 5 dias.",
             "C) 3 dias.",
@@ -1575,8 +1741,21 @@
     },
     {
         "question": "Um juiz do trabalho, recentemente promovido a titular de uma Vara, constatou que a marcação das audiências estava muito distante. Assim, resolveu colocar o máximo de audiências durante todos os dias úteis da semana, para que, ao final desse esforço planejado, a marcação estivesse em um patamar aceitável. Designou então o operoso magistrado audiências de segunda-feira a sexta-feira, na parte da manhã e da tarde, com um intervalo para poder se alimentar. De acordo com a CLT, as audiências poderão ser normalmente realizadas pelo magistrado:",
-        "choices": [],
+        "choices": [
+            "A) das 6:00 às 18:00 horas;",
+            "B) das 8:00 às 18:00 horas;",
+            "C) das 8:00 às 20:00 horas;",
+            "D) das 9:00 às 16:00 horas."
+        ],
         "correctAwser": "B",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A impenhorabilidade compreende o imóvel sobre o qual se assentam a construção, as plantações, as benfeitorias de qualquer natureza e todos os equipamentos, inclusive os de uso profissional, ou móveis que guarnecem a casa, desde que quitados.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -1806,6 +1985,14 @@
         "id": ""
     },
     {
+        "question": "A manipulação de cimento em obras ou o mero contato com esse produto não enseja, por si só, o pagamento do adicional de insalubridade, ainda que constatada mediante laudo pericial.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "É devido o pagamento de adicional de insalubridade em grau médio a empregado que, embora recepcionista de hospital, exerça suas atividades em contato com pacientes potencialmente infectados ou manuseie objetos de uso destes, não previamente esterilizados.",
         "choices": [],
         "correctAwser": "true",
@@ -1903,6 +2090,14 @@
     },
     {
         "question": "Para fins de justa causa, incontinência de conduta consiste na conduta culposa do empregado que atinja a moral, sob o ponto de vista sexual, prejudicando o ambiente laborativo ou suas obrigações contratuais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prestação de serviços a mais de uma empresa do mesmo grupo econômico, durante a mesma jornada de trabalho, não caracteriza a coexistência de mais de um contrato de trabalho, salvo ajuste em contrário.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -2087,6 +2282,14 @@
     {
         "question": "Mariana, empregada doméstica, ingressou com reclamatória trabalhista em face do seu empregador, de forma verbal e sem assistência de advogado, postulando o pagamento de férias com 1/3. O pedido foi julgado procedente e a reclamada sucumbente, interpôs Recurso Ordinário. A autora foi intimada para apresentar contra-razões. No caso, conforme previsão legal e entendimento sumulado do TST, ambas podem exercer o jus postulandi para recorrer e contrarrazoar o recurso ordinário perante o Tribunal Regional do Trabalho.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A CF/88 dispõe expressamente sobre a competência material da Justiça do Trabalho e, entre essas disposições prevê a competência da Justiça do Trabalho para processar e julgar crimes contra a organização do trabalho e as causas acidentárias em face do Instituto Nacional do Seguro Social.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
@@ -2125,6 +2328,14 @@
         "id": ""
     },
     {
+        "question": "A empresa ABC Ltda., possui Plano de Cargos e Salários, entretanto, Virgínia, que já está na empresa há 3 anos, pleiteia equiparação salarial com Amanda, a qual, desempenha a mesma função, tem apenas dois meses a mais no emprego, portanto são contemporâneas. De acordo com as disposições da legislação trabalhista em vigor, é correto afirmar, que Virgínia não será atendida em seu pleito, haja vista que o PCS, assim como o quadro de carreira, existente na empresa, são fatores impeditivos para aqueles que buscam equiparação salarial.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Havendo discriminação salarial por motivo de Sexo, Etnia, Raça, Idade ou Origem, o trabalhador terá direito às diferenças salariais, além de indenização por danos morais e multa de 25X o novo salário.",
         "choices": [],
         "correctAwser": "false",
@@ -2143,6 +2354,14 @@
     {
         "question": "No que concerne aos aspectos do trabalho rural, é possível afirmar, que assim como o urbano, empregado rural, é pessoa física, prestadora de serviços de natureza não eventual, sob dependência e mediante salário.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A contratação de trabalhador rural por pequeno prazo, não poderá superar 3 meses durante período de 1 ano, prazo este que superado, será convertida em contrato por prazo determinado.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
@@ -2150,6 +2369,14 @@
     },
     {
         "question": "Acerca dos trabalhadores urbanos e rurais, é correto afirmar que o intervalo Inter jornada, tanto dos trabalhadores urbanos, quanto dos trabalhadores rurais é de 11 horas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A hora noturna do trabalhador urbano nos termos da CLT é de 52 minutos e 30 segundos, diferenciando-se da hora noturna do trabalhador rural, a qual, não sofre variação, que permanece sendo de 60 minutos.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -2224,6 +2451,14 @@
         "question": "Os desembargadores dos TRT’s, são nomeados pelo Presidente da República, em número de 7, precisam ter entre 35 e 65 anos, mais de 10 anos de experiência e não precisam de aprovação, como ocorre com Ministros do TST.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Justiça Intinerante dos Tribunais Regionais do Trabalho, permite que sejam feitos atendimentos descentralizados, através de audiências e demais funções jurisdicionais, dentro das respectivas regiões, em primeiro grau de jurisdição.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2463,8 +2698,21 @@
     },
     {
         "question": "Determinada sociedade empresária possui cerca de 100 funcionários e, em razão de mudanças na direção, decidiu realizar algumas dispensas. Dentre os indicados estão uma gestante; um dirigente sindical, e outro, que alega não poder ser demitido, por ser membro da CIPA, indicado pelo empregador. Diante disso, a direção da empresa, quer saber como proceder, corretamente.",
-        "choices": [],
+        "choices": [
+            "A) Todos possuem estabilidade com mesma durabilidade;",
+            "B) A estabilidade da gestante dá-se da confirmação da gravidez, até cinco meses após o parto;",
+            "C) A estabilidade do dirigente sindical e do membro da CIPA indicado pelo empregador, dá-se da indicação até um ano após o termino do mandato;",
+            "D) Nenhuma das alternativas anteriores está correta."
+        ],
         "correctAwser": "B",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A greve é o sentimento máximo de pressão que o trabalhador pode exercer. Para o TST, a greve realizada com motivação política explícita, ainda que seja de curta duração, é abusiva.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2534,6 +2782,14 @@
         "id": ""
     },
     {
+        "question": "A unicidade sindical, prevista expressamente na Carta da República/88, assevera que é vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, sendo essa uma limitação à liberdade sindical no Brasil.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca da convenção nº 87 da Organização Internacional do Trabalho.",
         "choices": [
             "A) não aceita ingerência mínima de qualquer Estado, nas liberdades sindicais;",
@@ -2555,9 +2811,40 @@
         "id": ""
     },
     {
+        "question": "A preferential shop, ou seja, a prática de determinadas empresas, dá preferência na contratação de mão de obra, a trabalhador sindicalizado, viola dispositivo constitucional, e portanto, é uma prática antissindical.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A retenção de contribuição associativa por parte do empregador, jamais poderá ser entendida como conduta antissindical.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A confecção e divulgação de lista de nomes de trabalhadores que tenham proposto ação judicial contra empregadores (ou que tenham participado de movimento paredista, a par de outras situações similares), têm sido compreendidas pela jurisprudência como conduta deflagradora de manifesto dano moral individual ou coletivo, prática esta, considerada discriminatória e antissindical.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Havendo extinção da atividade empresarial no âmbito da base territorial do sindicato, não há razão para subsistir a estabilidade.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A sociedade empresária Alfa recebeu a visita, em sua sede, de dois fiscais do trabalho. Em razão das irregularidades alegadamente existentes, foi-lhe imposta a sanção de multa. Convicta de que não praticara qualquer ilícito administrativo, a sociedade empresária Alfa procurou o seu advogado e solicitou que fosse ajuizada, perante o juízo competente, a ação cabível para a anulação da penalidade. À luz da narrativa, é correto afirmar que o juízo referido integra",
         "choices": [
-            "A) sociedade empresária Alfa recebeu a visita, em sua sede, de dois fiscais do trabalho. Em razão das irregularidades alegadamente existentes, foi-lhe imposta a sanção de multa. Convicta de que não praticara qualquer ilícito administrativo, a sociedade empresária Alfa procurou o seu advogado e solicitou que fosse ajuizada, perante o juízo competente, a ação cabível para a anulação da penalidade. À luz da narrativa, é correto afirmar que o juízo referido integra",
             "A) a Justiça Comum Federal.",
             "B) a Justiça Comum Estadual.",
             "C) em qualquer caso, a Justiça do Trabalho.",
@@ -2702,6 +2989,14 @@
         "id": ""
     },
     {
+        "question": "A empresa CoMetais Ltda., formalizou acordo em uma reclamação trabalhista, na qual se comprometeu a pagar o valor de R$ 12.000,00 em 12 parcelas ao ex-funcionário Flávio. Ocorre que, após cumprir duas delas, deixou de cumprir o pactuado, motivo pelo qual o Reclamante pediu a execução do acordo. O juiz mandou expedir mandado de citação para que a Executada cumpra o acordo e que o faça em 48 (quarenta e oito) horas ou garanta a execução, sob pena de penhora. Diante do caso apresentado, a Reclamada será citada via oficial de justiça. Se procurada pelo oficial por 2 (duas) vezes no espaço de 48 (quarenta e oito) horas e não for encontrada, a citação será feita por edital, publicado no jornal oficial ou, na falta deste, afixado na sede da Junta ou Juízo, durante 5 (cinco) dias.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que diz respeito à gratuidade da justiça e às recentes alterações impostas pela denominada “Reforma Trabalhista”, as empresas em recuperação judicial são isentas do pagamento de depósito recursal, entretanto, estão sujeitas ao pagamento das custas processuais.",
         "choices": [],
         "correctAwser": "true",
@@ -2727,6 +3022,14 @@
     },
     {
         "question": "O valor do depósito recursal será reduzido pela metade para entidades sem fins lucrativos, empregadores domésticos, microempreendedores individuais, microempresas e empresas de pequeno porte.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da rescisão do contrato de trabalho, no caso de empregado que falta reiterada e injustificadamente ao trabalho, é motivo o bastante para ser causa à rescisão contratual por desídia.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -2838,137 +3141,9 @@
         "id": ""
     },
     {
-        "question": "Considerando as disposições legais e o entendimento pacífico do Tribunal Superior do Trabalho (TST) a respeito das hipóteses de estabilidade provisória no emprego, considere: Aires, membro do conselho fiscal do Sindicato dos Comerciários de Juiz de Fora-MG, por atuar na defesa de direitos da categoria respectiva, tem estabilidade no emprego desde o registro da candidatura até um ano após o término do mandato.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Ana, eleita como suplente de diretor da Cooperativa criada e gerida pelos empregados das Indústrias Reunidas Kafika Ltda, tem estabilidade no emprego desde o registro da candidatura até um ano após o término do mandato.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Embora, em razão do acidente de trabalho sofrido, tenha ficado afastado do trabalho por mais de 15 dias e tenha percebido auxílio-doença acidentário, Zenildo não tem direito à garantia de emprego decorrente de acidente de trabalho, pois foi contratado por prazo determinado.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Guilherme, empregado de categoria diferenciada eleito dirigente sindical, goza de estabilidade provisória, pois exerce na empresa atividade pertinente à categoria profissional do sindicato para o qual foi eleito dirigente.",
+        "question": "A empresa Marco Inicial Engenharia Ltda. foi vendida em agosto de 2017. Por ocasião da venda, a empresa estava em situação financeira difícil e, há mais de um ano, não recolhia o FGTS dos empregados, estando também atrasado o pagamento do 13º salário de 2023. Havia, ainda, muitas horas extras sem pagamento e sem a devida compensação. Os novos proprietários que assumiram a direção da empresa não quitaram os direitos anteriores dos trabalhadores e, pior, passaram a atrasar o pagamento dos salários, sendo que desde janeiro de 2018 deixaram de quitar os salários. Alguns trabalhadores resolveram ingressar em juízo pleiteando a rescisão indireta dos contratos de trabalho, cobrando os direitos não quitados e, buscando informações sobre os novos proprietários e sobre a venda da empresa, verificaram que estes não têm qualquer patrimônio pessoal, o que os levou a suspeitar de fraude na transferência da empresa. A responsabilidade pelos direitos trabalhistas, nesse caso, é dos novos proprietários, na condição de sucessores, sendo que os antigos proprietários, sucedidos, têm responsabilidade solidária com os sucessores se ficar comprovada fraude na transferência.",
         "choices": [],
         "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Claudete, empregada doméstica que ficou grávida no curso do contrato de experiência, tem direito a estabilidade provisória do emprego até 180 dias após o parto, por disposição expressa da Lei Complementar nº 150/2015.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O adicional de insalubridade, ainda que recebido por longo período, não se incorpora à remuneração do empregado, podendo deixar de ser pago. Segundo a previsão legal, a perícia de insalubridade ode ser feita por médico do trabalho ou engenheiro do trabalho, registrados no Ministério do Trabalho; os limites de tolerância são fixados em razão da natureza e da intensidade do agente, e do tempo de exposição a seus efeitos.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Acerca do adicional de insalubridade, há possibilidade deste deixar de ser pago com a eliminação do risco à saúde nos termos previstos pela lei e nas normas expedidas pelo Ministério do Trabalho.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "No que tange ao adicional de insalubridade, há possibilidade deste deixar de ser pago com a eliminação do risco à saúde e à integridade física, comprovada por meio de perícia judicial.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O direito de greve, assegurado constitucionalmente, não é absoluto. Os serviços e atividades essenciais são definidos por lei, que também disporá sobre o atendimento das necessidades inadiáveis da comunidade. Nesse sentido, nos serviços e atividades essenciais, caso empregadores e trabalhadores não cumpram a exigência de prestação, durante a greve, dos serviços indispensáveis ao atendimento das necessidades inadiáveis da comunidade, o Poder Público deverá assegurar tal prestação.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Os sindicatos, os empregadores e os trabalhadores ficam obrigados, de comum acordo, a garantir, durante a greve, a prestação de pelo menos 50% dos serviços indispensáveis ao atendimento das necessidades inadiáveis da comunidade.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Marília trabalha em uma indústria alimentícia que fabrica doces e chocolates. Nos meses de janeiro e fevereiro, em razão da produção de chocolates para a Páscoa, trabalhou de 2ª a 6ª feira, das 9h às 18h, gozando diariamente de 15 minutos para repouso e alimentação. Nesse contexto, Marília faz jus a 45 minutos, acrescidos de 50% sobre a remuneração da hora normal de trabalho, tendo tal pagamento natureza salarial.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Geneton foi contratado em 19/02/2018 pela empresa Viva Viva Festas e Eventos Ltda., na modalidade de trabalho intermitente. Por se tratar de forma nova de contratação, Geneton tem dúvidas em relação às consequências caso recuse a oferta de trabalho pelo empregador. Considerando o que prevê a Lei no 13.467/2017, a recusa da oferta não descaracteriza a subordinação para fins do contrato de trabalho intermitente.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Sobre o aviso prévio, considerando as disposições legais e o entendimento pacífico do TST, sendo dispensada por justa causa fundada em insubordinação no curso do aviso prévio, Angélica deixará de receber o restante do aviso prévio, mas receberá as demais verbas rescisórias, pois a dispensa inicialmente tinha sido sem justa causa.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Faltando 40 dias para o término do contrato de experiência, Joana é dispensada sem justa causa pelo empregador, hipótese que lhe dá direito ao recebimento do aviso prévio.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Após ser dispensada sem justa causa, Beatriz pede ao empregador dispensa do cumprimento do aviso prévio, informando que precisa descansar e está pensando em fazer uma viagem. Aceito o pedido pelo empregador, este ficará isento do pagamento do aviso prévio, pois Beatriz renunciou ao respectivo direito.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Eva teve concedido auxílio-doença no curso do aviso prévio, o que implica em que os efeitos da sua dispensa somente se concretizem depois de expirado o benefício previdenciário.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Por receber salário na base de tarefa, o cálculo do aviso prévio de Moacir será feito de acordo com a média dos salários recebidos durante a vigência do contrato de trabalho.",
-        "choices": [],
-        "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3083,7 +3258,31 @@
         "id": ""
     },
     {
+        "question": "A regra é a irredutibilidade do salário, exceto, através de Acordo Coletivo ou Convenção Coletiva de Trabalho.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Considerando que a remuneração é a soma de todos os valores que o empregado recebe, a base do 13º é a remuneração e não o salário.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A base de cálculo para as férias é a remuneração.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A base de cálculo para o Fundo de Garantia por Tempo de Serviço é a remuneração.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -3126,6 +3325,14 @@
         "question": "Determinada empresa, objetivando suprir a necessidade transitória de mão de obra motivada pelo acidente de trabalho de uma de suas empregadas, poderá contratar trabalhador temporário, por meio de empresa de trabalho temporário, por tempo nunca superior a 180 dias, prorrogáveis por 180 dias, quando comprovada a manutenção das condições que a ensejaram.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A reversão do empregado ao cargo efetivo anteriormente ocupado, deixando o exercício da função de confiança, segundo a CLT, acontece unilateralmente, independentemente do consentimento do empregado.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3179,6 +3386,14 @@
         "id": ""
     },
     {
+        "question": "A Justiça do Trabalho presa muito pela celeridade processual, assim, é correto afirmar que no processo do trabalho, como regra, de decisões interlocutórias são irrecorríveis de imediato.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "São exceções à irrecorribilidade imediata das decisões interlocutórias, entre outras: Decisão do TRT que contrariar súmula ou OJ do TST e que deferir ou indeferir o pedido de concessão em mandado de segurança de competência do juiz do trabalho.",
         "choices": [],
         "correctAwser": "true",
@@ -3188,6 +3403,14 @@
     },
     {
         "question": "São exceções à irrecorribilidade imediata das decisões interlocutórias, entre outras: Decisão que acolhe exceção de incompetência territorial e remete os autos para outro TRT.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A decisão denegatória de seguimento a recurso, desafia recurso imediato das decisões interlocutórias, sendo cabível contra esta, o agravo de instrumento quando proferida pelo juízo a quo. Caso a decisão seja da lavra do juízo ad quem, o recurso cabível será o agravo interno (ou “agravo regimental”).",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -3244,6 +3467,22 @@
     },
     {
         "question": "São dispensados do pagamento do depósito recursal as Empresas Públicas (EP) e Sociedades de Economia Mista (SEM).",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A deserção no Processo do Trabalho se dá pela falta de recolhimento das custas ou do depósito recursal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A empresa ABC Ltda., teve contra si decisão em processo trabalhista e tentará reformar o julgado através de recurso, e para que este possa seguir, há necessidade de recolhimento do depósito recursal. Ocorre que por esperteza, Maurílio, advogado da ABC Ltda. faz o recolhimento do depósito a menor. Diante da situação hipotética, é correto afirmar, que o juiz determinará que a ABC Ltda., será intimada para complementar o depósito recursal no prazo de 8 dias.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -3316,6 +3555,14 @@
     },
     {
         "question": "O processo do trabalho se caracteriza por ter como princípio, a conciliação, devendo esta, ser estimulada pelo juiz.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Consolidação das Leis do Trabalho e as leis esparsas que regem a matéria, apresentam lacunas naturais, não conseguindo regular todas as situações jurídicas e sociais. Nesse contexto, é correto afirmar que na fase de conhecimento o Direito Processual Comum será fonte subsidiária do Direito Processual do Trabalho, desde que preencha dois requisitos cumulativos: 1. Omissão da CLT; e 2. Compatibilidade de princípios e regras.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -3492,14 +3739,35 @@
     },
     {
         "question": "Paulo Ricardo, Auditor do BACEN, pretendia contratar Bartolomeu, cuidador, para cuidar de sua genitora que conta hoje com 88 anos. E na mesma data também pretendia contratar Helena, doméstica, para cuidar do seu apartamento, já que encontra-se divorciado há 90 dias. Para tanto, solicitou de Bartolomeu e de Helena, Certidão de Antecedentes Criminais. Tal exigência:",
-        "choices": [],
+        "choices": [
+            "A) é legítima, considerando a natureza do ofício para o qual Bartolomeu e Helena serão contratados;",
+            "B) é ilegítima, por caracterizar lesão moral traduzido por tratamento discriminatório;",
+            "C) é legítima em relação a Bartolomeu e legítima em relação a Helena;",
+            "D) é legítima em relação a Helena e ilegítima em relação a Bartolomeu."
+        ],
         "correctAwser": "A",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A exigência de Certidão de Antecedentes Criminais, quando ausente alguma das justificativas (previsão legal, natureza do ofício ou grau especial de fidúcia exigido), caracteriza dano moral In re Ipsa, passível de indenização, independentemente do candidato ao emprego ter ou não sido admitido.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
     },
     {
         "question": "Em caso de acidente do Trabalho que gere, cumulativamente: 1. Afastamento superior a 15 dias, sendo os primeiros 15 dias interrupção do contrato de trabalho, e o pagamento de responsabilidade do empregador; e 2. Percepção do auxílio-doença acidentário (cód. B-91), geram estabilidade provisória de 12 meses.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A aposentadoria por invalidez, quando cancelada, mesmo após 5 anos ou mais, o trabalhador terá direito de retornar ao emprego, facultado, porém, ao empregador, indenizá-lo na forma da lei. Assim. Nesse diapasão, é possível afirmar que a suspenção do contrato de trabalho por aposentadoria por invalidez, não está sujeita a prazo.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -3683,7 +3951,23 @@
         "id": ""
     },
     {
+        "question": "A mera expectativa do trabalhador de perceber um ganho econômico pelo trabalho ofertado é suficiente para caracterizar a onerosidade.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Os serviços de natureza não eventual são aqueles imprescindíveis à consecução dos fins da empresa, do que decorre a necessidade contínua e habitual do trabalho prestado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A substituição de um trabalhador por outro afasta a pessoalidade, independentemente da frequência e da forma como isso ocorreu.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -3692,6 +3976,14 @@
     },
     {
         "question": "Apesar da similaridade à relação empregatícia, não há falar em vínculo de emprego entre pastor e igreja, quando verificada a natureza vocacional e religiosa da prestação de serviços que se destina à assistência espiritual e à propagação da fé, e não à contraprestação porventura recebida.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prestação de alguns serviços de pessoa integrada a grupo familiar caracteriza a existência de relação empregatícia, quando verificados esforços em conjunto na atividade econômica exercida pela entidade familiar, ainda que em regime de colaboração mútua.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -3753,6 +4045,14 @@
     },
     {
         "question": "As pessoas portadoras de deficiência têm assegurado o percentual de 5% (cinco por cento) das vagas oferecidas pela parte concedente do estágio.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A jornada de atividade em estágio deve constar do termo de compromisso, ser compatível com as atividades escolares e não ultrapassar 6 (seis) horas diárias e 36 (trinta e seis) horas semanais no caso de estudantes do ensino superior, da educação profissional de nível médio e do ensino médio regular.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -3887,6 +4187,22 @@
     {
         "question": "O empregador, titular da patente, poderá conceder ao empregado, autor de invento ou aperfeiçoamento, participação nos ganhos econômicos resultantes da exploração da patente, mediante negociação com o interessado ou conforme disposto em norma da empresa, o que não será incorporado ao salário.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A existência de direção, controle ou administração ostensiva de uma empresa sobre as demais caracteriza grupo econômico em regime de subordinação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei no 5.889/1973, que estatuiu normas reguladoras do trabalho rural, manteve a diretriz contida na Consolidação das Leis do Trabalho − CLT, definindo a responsabilidade solidária das empresas integrantes de grupo econômico, em regime de subordinação.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
@@ -3894,6 +4210,30 @@
     },
     {
         "question": "Segundo disposição expressa na CLT, para configurar o grupo econômico, é necessário que exista direção, controle ou administração de uma empresa sobre as demais, ainda que cada uma preserve sua autonomia funcional e organizacional.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A CLT consagra, expressamente, a responsabilidade solidária das empresas integrantes de grupo econômico em regime de coordenação.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Faculdade Notório Saber decidiu ampliar seu campus e construir um novo prédio. Contratou, para tanto, a Construtora ABC Ltda., a qual, por sua vez, subcontratou a Empreiteira Faz Tudo Ltda., renomada pelo serviço de marcação do terreno e fundações. Considerando o material que seria utilizado na obra e da grande circulação de estudantes, a Faculdade ampliou seu quadro de seguranças terceirizados no local e demandou outros 3 (três) funcionários da empresa Serviços de Segurança Olho Aberto Ltda., para permanecerem 24 (vinte e quatro) horas por dia, em revezamento. Ao término da construção, a Empreiteira Faz Tudo Ltda. e a empresa Serviços de Segurança Olho Aberto Ltda. encerraram suas atividades, sem sequer terem efetuado o pagamento das parcelas resilitórias de seus empregados, os quais, por sua vez, ingressaram com ação trabalhista contra todos os envolvidos, pleiteando a responsabilidade solidária/subsidiária. Quanto à responsabilidade, a Faculdade Notório Saber responderá subsidiariamente pelos créditos advindos das ações ajuizadas pelos empregados da empresa Serviços de Segurança Olho Aberto e não terá qualquer responsabilidade pelos créditos advindos das ações ajuizadas pelos empregados da Empreiteira Faz Tudo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Faculdade Notório Saber decidiu ampliar seu campus e construir um novo prédio. Contratou, para tanto, a Construtora ABC Ltda., a qual, por sua vez, subcontratou a Empreiteira Faz Tudo Ltda., renomada pelo serviço de marcação do terreno e fundações. Considerando o material que seria utilizado na obra e da grande circulação de estudantes, a Faculdade ampliou seu quadro de seguranças terceirizados no local e demandou outros 3 (três) funcionários da empresa Serviços de Segurança Olho Aberto Ltda., para permanecerem 24 (vinte e quatro) horas por dia, em revezamento. Ao término da construção, a Empreiteira Faz Tudo Ltda. e a empresa Serviços de Segurança Olho Aberto Ltda. encerraram suas atividades, sem sequer terem efetuado o pagamento das parcelas resilitórias de seus empregados, os quais, por sua vez, ingressaram com ação trabalhista contra todos os envolvidos, pleiteando a responsabilidade solidária/subsidiária. Quanto à responsabilidade, a Construtora ABC não terá qualquer responsabilidade pelos créditos advindos das ações ajuizadas pelos empregados da empresa Serviços de Segurança Olho Aberto e responderá subsidiariamente pelos créditos advindos das ações ajuizadas pelos empregados da Empreiteira Faz Tudo.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -4206,17 +4546,9 @@
         "id": ""
     },
     {
-        "question": "À luz do que dispõe o Decreto no 71.855/1973, que trata da figura do empregador doméstico, é permitido a qualquer membro da família que resida no local em que o empregado prestou serviços comparecer à audiência, não sendo necessária a presença da pessoa contratante.",
+        "question": "essária a presença da pessoa contratante.",
         "choices": [],
         "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "As demandas envolvendo a Administração Pública, em dissídio individual, e desde que o valor não exceda a 40 (quarenta) vezes o salário-mínimo, poderão ser ajuizadas sob o rito sumaríssimo, observado o limite da expedição de Requisição de Pequeno Valor.",
-        "choices": [],
-        "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4303,8 +4635,21 @@
     },
     {
         "question": "Assinale a assertiva incorreta sobre nulidades.",
-        "choices": [],
+        "choices": [
+            "A) O princípio da transcendência ou do prejuízo consiste no reconhecimento de nulidade apenas quando dela decorrer manifesto prejuízo processual às partes.",
+            "B) As nulidades não arguidas pelas partes na primeira oportunidade que tiverem de manifestação nos autos levarão à convalidação do ato nulo, desde que se trate de nulidades relativas. As nulidades absolutas deverão ser declaradas de ofício pelo Juiz, independentemente da arguição das partes.",
+            "C) Poderá ser declarada a nulidade relativa, ainda que arguida por quem lhe deu causa, se o Juiz verificar a existência de situação relevante que a justifique.",
+            "D) Segundo o princípio da utilidade, serão aproveitados os atos válidos praticados no processo, desde que posteriores ao ato nulo e dele não sejam consequência."
+        ],
         "correctAwser": "C",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A antecipação da tutela concedida em sentença trabalhista, não comporta impugnação pela via do mandado de segurança, por ser impugnável mediante recurso ordinário.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4313,6 +4658,14 @@
         "question": "No caso de a tutela antecipada (ou liminar) ser concedida antes da sentença, não cabe a impetração do mandado de segurança, em face da existência de recurso próprio.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A superveniência da sentença trabalhista, nos autos originários, faz perder o objeto do mandado de segurança que impugnava a concessão da tutela antecipada (ou liminar).",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4406,6 +4759,14 @@
         "id": ""
     },
     {
+        "question": "A correição parcial não é, efetivamente, recurso, razão pela qual não exige preparo e contrarrazões, tendo por finalidade impedir atos judiciais tumultuários existentes no processo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Na Justiça do Trabalho, não se conhece de recurso de revista ou de embargos, se a decisão recorrida resolver determinado item do pedido por diversos fundamentos e a jurisprudência transcrita não abranger a todos.",
         "choices": [],
         "correctAwser": "true",
@@ -4422,6 +4783,14 @@
         "id": ""
     },
     {
+        "question": "A Consolidação das Leis do Trabalho − CLT estabelece, como títulos extrajudiciais, passíveis de execução, os termos de ajuste de conduta firmados perante o Ministério Público do Trabalho e os termos de conciliação firmados perante as Comissões de Conciliação Prévia.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Na Justiça do Trabalho, a fase que precede a execução do título executivo, seja ele judicial ou extrajudicial, é conhecida como liquidação de sentença, a qual somente poderá ser feita por cálculo ou arbitramento, este último quando a parte que detinha o dever documental não apresenta nos autos os documentos pertinentes.",
         "choices": [],
         "correctAwser": "false",
@@ -4431,6 +4800,14 @@
     },
     {
         "question": "Segundo a CLT, se o executado, procurado por 2 (duas) vezes no espaço de 48 (quarenta e oito) horas, não for encontrado, far-se-á a citação por hora certa, hipótese em que o Oficial de Justiça deverá deixar comunicado informando a hora da primeira visita realizada e a hora da próxima visita.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A CLT possui regra própria no tocante à forma em que se dará a garantia da execução, não condicionando a ordem de preferência de bens eventualmente indicados à penhora à aplicação de qualquer norma supletiva.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -4478,9 +4855,25 @@
         "id": ""
     },
     {
+        "question": "A sentença que acolhe a pretensão deduzida no inquérito para apuração de falta grave extingue o contrato de trabalho na data do trânsito em julgado da decisão, uma vez sujeita a recurso.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Constitui faculdade do empregado, na ação que julga improcedente o inquérito para apuração de falta grave, retornar às suas atividades, podendo optar, em razão do desgaste havido no processo, pelo pagamento de uma indenização relativa ao período de estabilidade.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prerrogativa para instauração do dissídio coletivo em caso de greve é da entidade sindical ou do Ministério Público do Trabalho, considerando que o art. 856 da Consolidação das Leis do Trabalho – CLT restou derrogado pelo art. 8o da Lei no 7.783/1989, que dispõe sobre o exercício do direito de greve.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4552,6 +4945,22 @@
     {
         "question": "Compete à Justiça do Trabalho julgar as ações que tenham como causa de pedir o descumprimento de normas trabalhistas relativas à segurança, higiene e saúde dos trabalhadores.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A ação indenizatória proposta pelos sucessores do trabalhador vítima de acidente de trabalho fatal é de competência da Justiça Estadual, já que se trata de questão de direito sucessório na ceara civil.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A ação indenizatória proposta por servidor público estatutário em razão de acidente de trabalho será de competência da Justiça do Trabalho.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
@@ -4622,6 +5031,14 @@
         "id": ""
     },
     {
+        "question": "A Constituição Federal de 1988 veda o pagamento de salários diferentes a trabalhadores em posições funcionais idênticas, como se extrai do inciso XXX do art. 7º: “proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil; [...]” Seguindo a orientação constitucional, a legislação trabalhista, em sua redação atualizada, disciplina os requisitos a serem observados para fins de equiparação salarial de trabalhadores em funções idênticas e que prestem serviços ao mesmo empregador. Nesse caso hipotético, o trabalhador readaptado em nova função por motivo de doença ou deficiência atestada pelo órgão competente da Previdência Social não servirá de paradigma para fins de equiparação salarial.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Considere o texto a seguir: A nova direção do Sindicato dos Servidores da Justiça Eleitoral apresentou uma denúncia no Ministério Público do Trabalho (MPT) contra a exigência do retorno ao trabalho presencial no Tribunal Regional Eleitoral (TRE), inclusive durante o recesso forense, devido ao aumento dos casos de Covid-19. A Procuradora do Trabalho enviou um despacho ao Tribunal, concedendo o prazo de 48 horas para manifestação sobre o objeto da denúncia. O Sindicato já havia enviado, anteriormente, ofício ao TRE solicitando, em caráter de urgência, a retomada do trabalho remoto no âmbito da Justiça Eleitoral, mas não obteve resposta. Além disso, o Tribunal emitiu comunicado exigindo que a maioria dos servidores retornasse ao trabalho presencial, preferencialmente no período da tarde, provocando aglomeração de servidores nos locais de trabalho. É importante destacar que a determinação do Tribunal ocorre sem avaliar a taxa de novos contágios e a capacidade de atendimento da rede de saúde, colocando em risco servidoras, servidores e seus familiares. (Disponível em: sitraemg.org.br. Acesso em: 26/02/2024 (versão adaptada)). No que diz respeito à atuação do Ministério Público do Trabalho na situação relatada na notícia, é da atribuição do Ministério Público do Trabalho e Emprego – MPTE, apurar se o Poder Público tem propiciado condições adequadas de trabalho para os servidores públicos, em defesa de direito social de alcance coletivo geral.",
         "choices": [],
         "correctAwser": "true",
@@ -4647,6 +5064,22 @@
     },
     {
         "question": "É cabível a celebração de acordo após o trânsito em julgado da sentença condenatória, na Justiça Laborativa, desde que seja anterior à homologação dos cálculos de liquidação de sentença.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A decisão homologatória de acordo após o transito em julgado de sentença condenatória no processo do trabalho, deverá indicar a natureza jurídica das parcelas constantes do acordo homologado e imputará ao empregador o recolhimento integral da contribuição previdenciária, incluindo a cota do trabalhador segurado, se for o caso.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A decisão homologatória da conciliação em processo trabalhista, valerá como decisão irrecorrível, inclusive para a União em caso de acordo que contenha parcela de natureza indenizatória.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -4685,8 +5118,16 @@
             "A) capacidade das partes, objeto, forma prescrita, higidez de vontade.",
             "B) capacidade das partes, licitude do objeto, forma vedada, higidez de vontade.",
             "C) capacidade das partes, licitude do objeto, forma prescrita ou não vedada, higidez de vontade.",
-            "D) capacidade das partes, objeto, forma prescrita ou não vedada, vício de vontade.",
-            "A) reforma trabalhista, destacou dentre seus principais itens, a questão do trabalhador autônomo e sua contratação, desde que cumpridas por este todas as formalidades legais, com ou sem exclusividade, de forma contínua ou não, afasta a qualidade de empregado prevista em Lei. Assinale a alternativa correspondente as “formalidades legais” citadas.",
+            "D) capacidade das partes, objeto, forma prescrita ou não vedada, vício de vontade."
+        ],
+        "correctAwser": "C",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A reforma trabalhista, destacou dentre seus principais itens, a questão do trabalhador autônomo e sua contratação, desde que cumpridas por este todas as formalidades legais, com ou sem exclusividade, de forma contínua ou não, afasta a qualidade de empregado prevista em Lei. Assinale a alternativa correspondente as “formalidades legais” citadas.",
+        "choices": [
             "A) Contrato e declaração de compatibilidade.",
             "B) Emissão de nota fiscal e declaração de compatibilidade.",
             "C) Contrato e emissão de nota fiscal.",
@@ -4703,8 +5144,16 @@
             "A) Apenas as alternativas I e II estão corretas.",
             "B) Apenas as alternativas II e III estão corretas.",
             "C) Apenas as alternativas I e III estão corretas.",
-            "D) Apenas a alternativa II está correta.",
-            "A) Lei 13.467/2017 trouxe uma nova tipologia de contrato de trabalho caracterizado pela prestação de serviço, com subordinação, não contínua, acontecendo com alternância de períodos de prestação de serviços e de inatividade. Assinale a alternativa correspondente.",
+            "D) Apenas a alternativa II está correta."
+        ],
+        "correctAwser": "A",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Lei 13.467/2017 trouxe uma nova tipologia de contrato de trabalho caracterizado pela prestação de serviço, com subordinação, não contínua, acontecendo com alternância de períodos de prestação de serviços e de inatividade. Assinale a alternativa correspondente.",
+        "choices": [
             "A) Contrato de alternância.",
             "B) Contrato intermitente.",
             "C) Contrato aberto.",
@@ -4884,14 +5333,35 @@
     },
     {
         "question": "Maria ajuizou uma reclamação trabalhista contra a empresa Alfa. No dia da audiência inicial, a reclamante não compareceu e não justificou a ausência, ocasionando o arquivamento do processo. Duas semanas após, Maria novamente ajuizou nova ação com os mesmos pedidos, mas no dia seguinte ao do ajuizamento decidiu requerer a desistência do processo em razão de estar descontente com a atuação do seu advogado, sendo, portanto, o pedido homologado pelo magistrado. Ocorre que Maria está cogitando contratar novo advogado para ajuizar novamente a ação trabalhista contra a empresa Alfa. Nesse caso, analise se Maria deverá aguardar algum prazo, assinalando a resposta CORRETA.",
-        "choices": [],
+        "choices": [
+            "A) Maria deve aguardar três meses antes de ajuizar a mesma ação.",
+            "B) Maria deve esperar seis meses antes de ajuizar novamente a mesma ação, devido ao arquivamento do primeiro processo por sua ausência.",
+            "C) Maria pode ajuizar a reclamação trabalhista imediatamente, pois não precisará aguardar nenhum prazo para ajuizar nova ação.",
+            "D) Maria não poderá ajuizar novamente a mesma ação em razão à ofensa à coisa julgada."
+        ],
         "correctAwser": "C",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A coisa julgada na Justiça Laborativa ocorre quando uma decisão judicial se torna definitiva, não sendo mais passível de recurso.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
     },
     {
         "question": "Na Justiça do Trabalho, não existe proibição legal para ajuizar a mesma ação após a desistência do processo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei n.º 13.467/2017, intitulada como “Reforma Trabalhista”, introduziu profundas alterações no ordenamento jurídico que rege as relações de trabalho entre empregados e empregadores. Dentre tantas, também foi introduzida a não-concessão ou a concessão parcial do intervalo intrajornada mínimo, para repouso e alimentação, a empregados urbanos e rurais, implica o pagamento total do período correspondente, e não apenas daquele suprimido, com acréscimo de, no mínimo, 50% sobre o valor da remuneração da hora normal de trabalho, sem prejuízo do cômputo da efetiva jornada de labor para efeito de remuneração.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -4916,6 +5386,14 @@
     },
     {
         "question": "Por não se considerar tempo à disposição do empregador, não será computado como período extraordinário o que exceder a jornada normal, ainda que ultrapasse o limite de cinco minutos previsto no § 1º do art. 58 da CLT, quando o empregado, por escolha própria, buscar proteção pessoal, em caso de insegurança nas vias públicas ou más condições climáticas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A convenção coletiva e o acordo coletivo de trabalho têm prevalência sobre a lei quando, entre outros, dispuserem sobre teletrabalho, regime de sobreaviso, e trabalho intermitente.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -5010,6 +5488,22 @@
         "id": ""
     },
     {
+        "question": "A entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes bem como o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação deverão ser efetuados até dez dias contados a partir do término do contrato.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A anotação da extinção do contrato na Carteira de Trabalho e Previdência Social é documento hábil para requerer o benefício do seguro-desemprego e a movimentação da conta vinculada no Fundo de Garantia do Tempo de Serviço, nas hipóteses legais, desde que a comunicação da dispensa tenha sido realizada.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "As dispensas imotivadas individuais, plúrimas ou coletivas equiparam-se para todos os fins, não havendo necessidade de autorização prévia de entidade sindical ou de celebração de convenção coletiva ou acordo coletivo de trabalho para sua efetivação.",
         "choices": [],
         "correctAwser": "true",
@@ -5076,230 +5570,6 @@
         "correctAwser": "B",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "MULTIPLE_CHOICE",
-        "id": ""
-    },
-    {
-        "question": "São consideradas atividades ou operações perigosas, na forma da regulamentação aprovada pelo Ministério do Trabalho e Emprego, aquela que, por sua natureza ou métodos de trabalho, impliquem risco acentuado em virtude de exposição permanente do trabalhador à: I. Inflamáveis; II. Explosivos; III. Energia elétrica; e IV. Roubos e outras espécies de violência física.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Acerca da PERICULOSIDADE, é correto afirmar que a base de cálculo para o seu pagamento, é o salário base sem acréscimos.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "No que tange à INSALUBRIDADE, é correto afirmar que a base de cálculo para o seu pagamento, é o salário mínimo.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O trabalho em condições de periculosidade, assegura ao empregado um adicional de 30% (trinta por cento), sobre o salário com os acréscimos resultantes de gratificações, prêmios ou participações nos lucros da empresa.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O trabalho em condições de insalubridade de grau mínimo, médio ou máximo, assegura ao trabalhador adicional de 10%, 20% ou 50%, respectivamente, sobre o salário mínimo com seus acréscimos.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "É correto afirmar que a eliminação do risco à saúde ou integridade física do empregado, cessa o direito ao adicional de periculosidade.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "No que concerne ao uso de EPI’s, durante o trabalho em condições insalubres, acontecerá a eliminação ou a neutralização, quando com a utilização de equipamento de proteção individual, haja diminuição da intensidade do agente agressivo a limites de tolerância, o que não se aplica ao trabalho em condições perigosas, quando o uso de equipamentos de proteção individual, não elimina ou neutraliza a situação de perigo e portanto não descaracteriza a situação perigosa para efeito de recebimento do adicional.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Considerando a jurisprudência consolidada do TST, é correto afirmar que súmulas e outros enunciados de jurisprudência editados pelo Tribunal Superior do Trabalho e pelos Tribunais Regionais do Trabalho não poderão restringir direitos legalmente previstos nem criar obrigações que não estejam previstas em lei.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O tempo de espera do motorista/caminhoneiro, na fila para descarregar, que exceda as 8 horas diárias, será computado como hora trabalhada e remunerado como hora extra e não mais como indenização.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O intervalo interjornadas do motorista/caminhoneiro de 11 horas não admite fracionamento.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O Repouso Semanal Remunerado ou Descanso Semanal Remunerado do motorista/caminhoneiro, deverá ser preferencialmente aos domingos e não poderá ser acumulado, devendo o empregador pagar em dobro ou conceder o descanso.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O descanso com o veículo em movimento do motorista/caminhoneiro permitido pela CLT, foi declarado inconstitucional pelo STF, não podendo mais ser computado como intervalo (tempo de descanso).",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Aos trabalhadores domésticos são assegurados pela Constituição da República de 1988, em igualdade de condições com os trabalhadores urbanos e rurais em geral, os direitos ao aviso prévio proporcional ao tempo de serviço, ao fundo de garantia do tempo de serviço e ao décimo terceiro salário.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "É devido aos trabalhadores rurais o pagamento dos valores relativos às horas in itinere transcorridas até o dia anterior à data de início de vigência da Lei 13.467/2017 (Reforma TrabalhistA)",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Os empregados sob regime de tempo parcial recebem salário proporcional à sua jornada, em relação aos que cumprem, nas mesmas condições, tempo integral, tendo como piso o salário-mínimo vigente.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Por comando constitucional, ao sindicato legalmente constituído cabe a defesa dos direitos coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas, o que lhe confere legitimidade ordinária para atuar perante a Justiça do Trabalho na condição de substituto processual.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Compete à Justiça do Trabalho processar e julgar os habeas corpus, quando o ato questionado envolver matéria sujeita a sua jurisdição.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "No processo do trabalho, não se admite a inversão do ônus da prova que gere situação em que a desincumbência do encargo pela parte seja impossível ou excessivamente difícil.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O princípio da intangibilidade salarial é corolário do princípio da dignidade da pessoa humana.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O recolhimento do valor da multa imposta como sanção por litigância de má fé é pressuposto objetivo para interposição do recurso ordinário contra a decisão de primeira instância.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Cassiano impetra ação de habeas corpus, na qual, Adroaldo (juiz do trabalho), figura como autoridade coatora. Nesse caso, cabe ao Tribunal Regional do Trabalho processar e julgar.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Nos termos da jurisprudência atual do Tribunal Superior do Trabalho, é cabível habeas corpus na Justiça do Trabalho para discutir decisão judicial que determina retenção de passaporte.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Os entes integrantes da Administração Pública direta respondem, subsidiária e objetivamente em caso de inadimplemento, pela contratada, das obrigações trabalhistas e previdenciárias decorrentes dos contratos que tenham por objeto a prestação de serviços com cessão de mão de obra.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Nos dissídios individuais, o comparecimento do advogado público à audiência de instrução e julgamento elide a revelia por ausência de preposto da pessoa jurídica de direito público interno reclamada.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Configura litigância de má-fé na Justiça Laboral, a provocação de incidente manifestamente infundado.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Sobre os recursos trabalhistas é incabível o recurso de revista de ente público que não interpôs recurso ordinário voluntário contra a decisão de primeira instância, salvo se a condenação for agravada na segunda instância.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O dissídio coletivo de natureza jurídica pode ter por objeto a interpretação de normas jurídicas de caráter genérico.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O valor das horas extraordinárias habituais integra o aviso prévio indenizado.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
-        "type": "TRUE_FALSE",
         "id": ""
     },
     {
@@ -5382,14 +5652,35 @@
     },
     {
         "question": "36. De acordo com a Consolidação das Leis do Trabalho (CLT), em relação à jornada de trabalho, é CORRETO afirmar que regime de compensação de jornada estabelecido por acordo individual, tácito ou escrito, para a compensação no mesmo mês é:",
-        "choices": [],
+        "choices": [
+            "A) obrigatório.",
+            "B) lícito.",
+            "C) nulo.",
+            "D) anulável."
+        ],
         "correctAwser": "B",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A mera expectativa do trabalhador de perceber um ganho econômico pelo trabalho ofertado é suficiente para caracterizar a onerosidade.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
     },
     {
         "question": "Os serviços de natureza não eventual são aqueles imprescindíveis à consecução dos fins da empresa, do que decorre a necessidade contínua e habitual do trabalho prestado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A substituição de um trabalhador por outro afasta a pessoalidade, independentemente da frequência e da forma como isso ocorreu.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -5398,6 +5689,14 @@
     },
     {
         "question": "Apesar da similaridade à relação empregatícia, não há falar em vínculo de emprego entre pastor e igreja, quando verificada a natureza vocacional e religiosa da prestação de serviços que se destina à assistência espiritual e à propagação da fé, e não à contraprestação porventura recebida.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prestação de alguns serviços de pessoa integrada a grupo familiar caracteriza a existência de relação empregatícia, quando verificados esforços em conjunto na atividade econômica exercida pela entidade familiar, ainda que em regime de colaboração mútua.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -5470,6 +5769,14 @@
     },
     {
         "question": "As pessoas portadoras de deficiência têm assegurado o percentual de 5% (cinco por cento) das vagas oferecidas pela parte concedente do estágio.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A jornada de atividade em estágio deve constar do termo de compromisso, ser compatível com as atividades escolares e não ultrapassar 6 (seis) horas diárias e 36 (trinta e seis) horas semanais no caso de estudantes do ensino superior, da educação profissional de nível médio e do ensino médio regular.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -5624,8 +5931,15 @@
     },
     {
         "question": "É incorreto afirmar que CLT consagra, expressamente, a responsabilidade solidária das empresas integrantes de grupo econômico em regime de coordenação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Faculdade Notório Saber decidiu ampliar seu campus e construir um novo prédio. Contratou, para tanto, a Construtora ABC Ltda., a qual, por sua vez, subcontratou a Empreiteira Faz Tudo Ltda., renomada pelo serviço de marcação do terreno e fundações. Considerando o material que seria utilizado na obra e da grande circulação de estudantes, a Faculdade ampliou seu quadro de seguranças terceirizados no local e demandou outros 3 (três) funcionários da empresa Serviços de Segurança Olho Aberto Ltda., para permanecerem 24 (vinte e quatro) horas por dia, em revezamento. Ao término da construção, a Empreiteira Faz Tudo Ltda. e a empresa Serviços de Segurança Olho Aberto Ltda. encerraram suas atividades, sem sequer terem efetuado o pagamento das parcelas resilitórias de seus empregados, os quais, por sua vez, ingressaram com ação trabalhista contra todos os envolvidos, pleiteando a responsabilidade solidária/subsidiária. Quanto à responsabilidade, a Faculdade Notório Saber responderá",
         "choices": [
-            "A) Faculdade Notório Saber decidiu ampliar seu campus e construir um novo prédio. Contratou, para tanto, a Construtora ABC Ltda., a qual, por sua vez, subcontratou a Empreiteira Faz Tudo Ltda., renomada pelo serviço de marcação do terreno e fundações. Considerando o material que seria utilizado na obra e da grande circulação de estudantes, a Faculdade ampliou seu quadro de seguranças terceirizados no local e demandou outros 3 (três) funcionários da empresa Serviços de Segurança Olho Aberto Ltda., para permanecerem 24 (vinte e quatro) horas por dia, em revezamento. Ao término da construção, a Empreiteira Faz Tudo Ltda. e a empresa Serviços de Segurança Olho Aberto Ltda. encerraram suas atividades, sem sequer terem efetuado o pagamento das parcelas resilitórias de seus empregados, os quais, por sua vez, ingressaram com ação trabalhista contra todos os envolvidos, pleiteando a responsabilidade solidária/subsidiária. Quanto à responsabilidade, a Faculdade Notório Saber responderá",
             "A) solidariamente pelos créditos advindos das ações ajuizadas pelos empregados da empresa Serviços de Segurança Olho Aberto e da Empreiteira Faz Tudo.",
             "B) subsidiariamente pelos créditos advindos das ações ajuizadas pelos empregados da empresa Serviços de Segurança Olho Aberto e solidariamente pelos créditos advindos das ações ajuizadas pelos empregados da Empreiteira Faz Tudo.",
             "C) subsidiariamente pelos créditos advindos das ações ajuizadas pelos empregados da empresa Serviços de Segurança Olho Aberto e da Empreiteira Faz Tudo.",
@@ -5640,6 +5954,22 @@
         "question": "Não havendo prazo estipulado, a parte que, sem justo motivo, quiser rescindir o contrato deverá avisar a outra da sua resolução com a antecedência mínima de seis dias, se o pagamento for efetuado por semana ou tempo inferior.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A falta do aviso prévio por parte do empregador dá ao empregado o direito aos salários correspondentes ao prazo do aviso, garantida sempre a integração desse período no seu tempo de serviço.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A falta de aviso prévio por parte do empregado dá ao empregador o direito de descontar os salários correspondentes ao prazo respectivo.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5678,6 +6008,14 @@
     },
     {
         "question": "No Processo do Trabalho, é facultado ao empregador fazer-se substituir pelo gerente, ou qualquer outro preposto que tenha conhecimento do fato, e cujas declarações obrigarão o proponente. Registra-se que o preposto em questão não precisa ser empregado da parte reclamada.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prova documental é um meio de prova abrangendo não somente os escritos, como também gravações magnéticas, fotografias, desenhos, gravações sonoras, reproduções digitalizadas etc. Tem, portanto, um contexto amplo. A CLT versou sobre a prova documental em apenas quatro artigos (777, 780, 787 e 830), de modo que são aplicáveis, supletivamente, os dispositivos do CPC e da legislação extravagante.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -5794,6 +6132,14 @@
         "id": ""
     },
     {
+        "question": "A Administração Pública direta e indireta (autarquias e fundações de direito público) pode ou não adotar o regime trabalhista para a contratação de pessoal, podendo implantar o regime estatutário de caráter administrativo, sendo que as fundações de direito privado, empresas públicas, sociedades de economia mista e as suas subsidiárias estão atreladas obrigatoriamente ao regime da iniciativa privada (Art. 173, CF).",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No regime celetista, a administração equipara-se ao empregador particular, sem as prerrogativas inerentes ao poder público. Contudo, mesmo nesta hipótese, impõe-se à relação jurídica de trabalho preceitos de direito público. Este patamar essencial que institui o regime publicista mínimo para todos os servidores públicos e estatais compreende, EXCETO:",
         "choices": [
             "A) Obediência ao teto constitucional.",
@@ -5840,7 +6186,7 @@
             "C) o direito ao aviso prévio proporcional ao tempo de serviço somente é assegurado nas rescisões de contrato de trabalho ocorridas a partir da publicação da Lei no 12.506, em 13 de outubro de 2011.",
             "D) não cabe aviso prévio nas rescisões antecipadas dos contratos de experiência."
         ],
-        "correctAwser": "A",
+        "correctAwser": "D",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "MULTIPLE_CHOICE",
         "id": ""
@@ -5951,8 +6297,21 @@
     },
     {
         "question": "No que se refere ao direito ao trabalho, dispõe a Lei nº 13.146/2015 — Estatuto da Pessoa com Deficiência:",
-        "choices": [],
+        "choices": [
+            "A) As pessoas jurídicas de direito público, privado ou de qualquer natureza são obrigadas a garantir ambientes de trabalho acessíveis e inclusivos.",
+            "B) Não é garantida aos trabalhadores com deficiência acessibilidade em cursos de formação e de capacitação.",
+            "C) A pessoa com deficiência tem direito ao trabalho de sua livre escolha e aceitação, em ambiente acessível e inclusivo, independentemente da igualdade de oportunidade com os demais.",
+            "D) A pessoa com deficiência não tem direito a condições justas e favoráveis de trabalho, incluindo igual remuneração por trabalho de igual valor."
+        ],
         "correctAwser": "A",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito das hipóteses de concessão da tutela da evidência no processo civil, quando as alegações de fato do requerente puderem ser comprovadas apenas documentalmente e, cumulativamente, o pedido estiver fundado em tese assentada em julgamento de casos repetitivos ou em súmula vinculante, é caso de concessão em liminar.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5983,6 +6342,14 @@
     },
     {
         "question": "São inaplicáveis os artigos 389, 395 e 404 do Código Civil ao Processo do Trabalho para fins de condenação ao pagamento de honorários advocatícios, nas lides decorrentes da relação de emprego, objeto de ações ajuizadas antes do início da vigência da Lei 13.467/2017, visto que, no âmbito da Justiça do Trabalho, essa condenação não se resolve pela ótica da responsabilidade civil, mas sim da sua legislação específica, notadamente a Lei 5.584/1970.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A condenação em honorários advocatícios sucumbenciais prevista no artigo 791-A, caput e parágrafos, da CLT será aplicável apenas às ações propostas na Justiça do Trabalho a partir de 11 de novembro de 2017, data do início da vigência da Lei 13.467/2017, conforme já decidiu o Tribunal Pleno, de forma unânime, por ocasião da aprovação do artigo 6º da Instrução Normativa 41/2018.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -6024,6 +6391,14 @@
     {
         "question": "Nos processos laborais, as testemunhas não poderão sofrer qualquer desconto pelas faltas ao serviço, ocasionadas pelo seu comparecimento para depor, quando devidamente arroladas ou convocadas.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A testemunha que for parente até o terceiro grau civil, amigo íntimo ou inimigo de qualquer das partes, prestará compromisso, contudo seu depoimento valerá como simples informação.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
@@ -6047,6 +6422,14 @@
     },
     {
         "question": "Em caso de dissídio coletivo que tenha por motivo novas condições de trabalho e no qual figure como parte apenas uma fração de empregados de uma empresa, poderá o tribunal competente, na própria decisão, estender tais condições de trabalho, se julgar justo e conveniente, aos demais empregados da empresa que forem da mesma profissão dos dissidentes.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Justiça do Trabalho executará, de ofício, as contribuições sociais previstas na alínea “a” do inciso I e no inciso II do caput do art. 195 da Constituição Federal, e seus acréscimos legais, relativas ao objeto da condenação constante das sentenças que proferir e dos acordos que homologar.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -6158,6 +6541,14 @@
         "id": ""
     },
     {
+        "question": "A prova do contrato individual do trabalho será feita pelas anotações constantes da Carteira de Trabalho e Previdência Social ou por instrumento escrito e suprida por todos os meios permitidos em direito.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Cabe ao empregador definir o padrão de vestimenta no meio ambiente laboral, sendo ilícita a inclusão no uniforme de logomarcas de outras empresas parceiras e de outros itens de identificação relacionados à atividade desempenhada.",
         "choices": [],
         "correctAwser": "false",
@@ -6214,6 +6605,14 @@
         "id": ""
     },
     {
+        "question": "A natureza jurídica do Direito Processual do Trabalho, é de direito público, pois, cabe exclusivamente à União, legislar sobre direito Processual do trabalho e sua autonomia.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Não é correto afirmar que predomina no Direito Processual do Trabalho a tese que a doutrina intitula como teoria monista.",
         "choices": [],
         "correctAwser": "false",
@@ -6231,6 +6630,14 @@
     },
     {
         "question": "É correto afirmar que a autodefesa no processo trabalhista é exercido, principalmente, pelo direito de greve.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autocomposição na justiça laborativa, é exercida a partir de um terceiro colaborador (mediador), que atua na aproximação das partes (mediação).",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -6264,6 +6671,14 @@
     {
         "question": "São características da jurisdição e competência trabalhista, dentre outras: a) inevitabilidade; e b) definitividade.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Competência Relativa: fundada em fatores cogentes, de ordem pública, deve ser objeto de verificação até mesmo de ofício pelo juiz.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
@@ -6279,8 +6694,29 @@
     },
     {
         "question": "São espécies de competência, exceto:",
-        "choices": [],
+        "choices": [
+            "A) em razão da matéria.",
+            "B) em razão da pessoa.",
+            "C) em razão do valor da causa.",
+            "D) em razão da classe social."
+        ],
         "correctAwser": "D",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A competência Absoluta: fundada em fatores cogentes, de ordem pública, deve ser objeto de verificação até mesmo de ofício pelo juiz.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Competência Relativa: baseia-se em aspectos de interesse exclusivo ou preponderante das partes, devendo ser objeto de arguição, na forma prevista na lei processual.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -6297,6 +6733,22 @@
         "question": "São espécie de competência relativa: 1. Territorial; 2. Funcional; e 3. Em razão do valor da causa.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A competência absoluta, se refere a normas cogentes com caráter de indisponibilidade, podendo ser declarada a qualquer tempo, e se não for observada, poderá levar a uma nulidade absoluta.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A competência relativa, não poderá ser declarada de ofício, cabendo ao reclamado na contestação, em preliminar, opor exceção de incompetência.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
         "type": "TRUE_FALSE",
         "id": ""
@@ -6319,6 +6771,22 @@
     },
     {
         "question": "No que se refere à imunidade de jurisdição no processo do trabalho, é correto afirmar que as organizações e organismos internacionais gozam de imunidade absoluta de jurisdição quando amparados por norma internacional incorporada ao ordenamento jurídico brasileiro, não se lhes aplicando a regra do Direito Consuetudinário. Excepcionalmente, prevalecerá a jurisdição brasileira na hipótese de renúncia expressa a cláusula de imunidade jurisdicional.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Administração Pública direta e indireta da União, dos Estados do Distrito Federal e dos Municípios, poderá ser alvo de ação trabalhista, mas para que isso aconteça, há que está diante de uma relação celetista de trabalho.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A competência para dirimir conflitos que não sejam regidos pela CLT, mas sim por um estatuto, servidores estatutários e o poder público, na esteira do que decidido pelo Supremo Tribunal Federal na ADI nº 3.395, será da justiça comum federal ou estadual.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -6503,8 +6971,16 @@
             "A) o Banco Caixa Forte S/A deverá responder pelo pagamento de eventuais horas extraordinárias de Avelino contraídas desde a data da admissão até 14/10/2022, recaindo sobre o Banco Fortuna S/A as obrigações trabalhistas a partir de 15/10/2022 até o término da relação empregatícia;",
             "B) a mudança interempresarial ocorrida entre as empresas provocou a automática transferência de direitos e obrigações trabalhistas do Banco Caixa Forte S/A para o Banco Fortuna S/A, passando este a responder por eventuais horas extraordinárias de Avelino relativas a todo o período contratual;",
             "C) o Banco Caixa Forte S/A e o Banco Fortuna S/A deverão responder solidariamente por eventuais horas extraordinárias devidas a Avelino ao longo da contratualidade;",
-            "D) o Banco Caixa Forte S/A deverá responder de forma subsidiária ao Banco Fortuna S/A por eventuais horas extraordinárias devidas a Avelino;",
-            "A) evolução histórica do trabalho demonstra que o labor humano, em suas diversas dimensões, passou por profundas transformações ao longo do tempo, o que permanece ocorrendo até os dias atuais. Sob a perspectiva histórica do trabalho e do Direito do Trabalho, é correto afirmar que:",
+            "D) o Banco Caixa Forte S/A deverá responder de forma subsidiária ao Banco Fortuna S/A por eventuais horas extraordinárias devidas a Avelino;"
+        ],
+        "correctAwser": "B",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A evolução histórica do trabalho demonstra que o labor humano, em suas diversas dimensões, passou por profundas transformações ao longo do tempo, o que permanece ocorrendo até os dias atuais. Sob a perspectiva histórica do trabalho e do Direito do Trabalho, é correto afirmar que:",
+        "choices": [
             "A) a servidão foi um tipo de trabalho característico da sociedade feudal, fundamentada na posse da terra pelos senhores feudais. Os servos não possuíam liberdade de trabalho, mas recebiam proteção militar e política dos senhores feudais, bem como tinham autonomia comercial em relação a tudo que produziam;",
             "B) por meio da Encíclica Rerum Novarum, o papa Leão XIII, dentre outros temas, abordou a condição de trabalho do proletariado, defendendo que, dentre os deveres principais do patrão, estava preservar a isonomia salarial entre os operários, pois defendia que na sociedade civil todos deveriam ter o mesmo nível social, em igualdade de condições;",
             "C) o direito do trabalho é produto do século XIX, nascendo como reação à crescente exploração do trabalho humano. No Brasil, a Constituição de 1891, embora consagrasse o princípio da não intervenção do Estado nas relações de trabalho, destacou-se como a primeira carta constitucional a abordar em seu texto a necessidade de um direito ao “trabalho livre, justo e remunerado”;",
@@ -6521,8 +6997,16 @@
             "A) diante do princípio da primazia da realidade, os registros realizados pelo empregador na carteira de trabalho do empregado geram presunção juris et de jure;",
             "B) na aplicação do princípio da prevalência da norma mais favorável, por meio do critério técnico da teoria do conglobamento, extrai-se que se prefere a norma mais favorável após o confronto em bloco das normas objeto de comparação;",
             "C) o princípio da proteção está ligado à própria razão de ser do direito individual e coletivo do trabalho, uma vez que se busca compensar a desigualdade existente no âmbito do contrato individual do trabalho e na seara das negociações coletivas de trabalho;",
-            "D) quando do exame de convenção coletiva ou acordo coletivo de trabalho, o juiz do trabalho analisará tão somente a conformidade dos elementos essenciais do negócio jurídico, e deverá balizar a sua atuação pelo princípio da tutela ao hipossuficiente.",
-            "A) empresa ABC Ltda., por meio de negociação com seus empregados, instituiu programa de participação nos lucros ou resultados, mediante comissão composta por cinco empregados eleitos como representantes dos trabalhadores e outros cinco empregados escolhidos pelo empregador, além de um representante designado pelo respectivo sindicato profissional, o qual foi indicado após a entidade sindical ter sido notificada quanto à formação da comissão paritária. Após o fornecimento de todas as informações necessárias pela empresa à comissão de empregados e amplo processo de debate sobre o tema, restou definido o instrumento da PLR (Participação nos Lucros e Resultados), contendo claramente as regras aplicáveis, os mecanismos de aferição quanto ao pactuado, o período da distribuição e vigência do programa, além das metas e índices de produtividade aplicáveis. Diante da situação hipotética acima, do entendimento dominante do Tribunal Superior do Trabalho e da Lei que regula a participação dos trabalhadores nos lucros ou resultados da empresa, é correto afirmar que:",
+            "D) quando do exame de convenção coletiva ou acordo coletivo de trabalho, o juiz do trabalho analisará tão somente a conformidade dos elementos essenciais do negócio jurídico, e deverá balizar a sua atuação pelo princípio da tutela ao hipossuficiente."
+        ],
+        "correctAwser": "B",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A empresa ABC Ltda., por meio de negociação com seus empregados, instituiu programa de participação nos lucros ou resultados, mediante comissão composta por cinco empregados eleitos como representantes dos trabalhadores e outros cinco empregados escolhidos pelo empregador, além de um representante designado pelo respectivo sindicato profissional, o qual foi indicado após a entidade sindical ter sido notificada quanto à formação da comissão paritária. Após o fornecimento de todas as informações necessárias pela empresa à comissão de empregados e amplo processo de debate sobre o tema, restou definido o instrumento da PLR (Participação nos Lucros e Resultados), contendo claramente as regras aplicáveis, os mecanismos de aferição quanto ao pactuado, o período da distribuição e vigência do programa, além das metas e índices de produtividade aplicáveis. Diante da situação hipotética acima, do entendimento dominante do Tribunal Superior do Trabalho e da Lei que regula a participação dos trabalhadores nos lucros ou resultados da empresa, é correto afirmar que:",
+        "choices": [
             "A) o programa de PLR da empresa ABC Ltda. poderá contemplar metas individuais ou coletivas, além de metas referentes à saúde e à segurança do trabalho;",
             "B) em havendo paridade quanto ao número de representantes dos empregados e dos representantes da empresa ABC Ltda. na comissão de PLR, será facultativa a ciência à entidade sindical para que indique um representante seu para integrar a comissão paritária;",
             "C) em caso de impasse entre a empresa e a comissão paritária quanto à negociação da PLR, deverá o representante sindical deveria acionar o sindicato, por escrito, no prazo de dez dias, para o ajuizamento de dissídio coletivo, visando buscar a fixação das condições da PLR por meio do poder normativo da Justiça do Trabalho;",
@@ -6555,7 +7039,23 @@
         "id": ""
     },
     {
+        "question": "A assinatura do contrato de emprego, a entrega, a pedido do empregado recém-contratado, de formulário pendente de assinatura, contendo declaração de oposição do trabalhador ao desconto das contribuições assistencial e confederativa, não implica cerceamento do direito garantido constitucionalmente de livre associação sindical para fins lícitos:",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "NÃO implica cerceamento do direito garantido constitucionalmente de livre associação sindical para fins lícitos, despedida imotivada de empregado eleito dirigente sindical de entidade associativa que ainda não obteve a concessão do registro sindical do órgão estatal competente;",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A omissão da empregadora de enquadrar apenas os dirigentes sindicais recentemente eleitos, antes de sua posse efetiva, conforme novo plano de cargos e salários implementado pela empresa, não implica cerceamento do direito garantido constitucionalmente de livre associação sindical para fins lícitos:",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
@@ -6615,8 +7115,16 @@
             "A) o ordenamento jurídico pátrio consagra expressamente a possibilidade de seu cabimento para defesa de interesses que transcendem a esfera dos deveres atribuídos ao empregador;",
             "B) considerando o descompasso entre a titularidade coletiva do interesse tutelado e a responsabilidade individual do trabalhador, a declaração de abusividade da greve não permite necessariamente a punição do empregado partícipe;",
             "C) o empregador está autorizado a realizar a contratação de trabalho temporário, bem como a transferir seus empregados de um setor para outro, com vistas à substituição de trabalhadores em greve;",
-            "D) não é considerado abusivo o movimento paredista direcionado contra os poderes públicos e que reivindique condições não suscetíveis de negociação coletiva.",
-            "A) Convenção nº 87 da Organização Internacional do Trabalho trata da liberdade sindical e da proteção ao direito de sindicalização. O modelo sindical brasileiro diverge dos preceitos propostos pelo normativo internacional principalmente pela:",
+            "D) não é considerado abusivo o movimento paredista direcionado contra os poderes públicos e que reivindique condições não suscetíveis de negociação coletiva."
+        ],
+        "correctAwser": "B",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Convenção nº 87 da Organização Internacional do Trabalho trata da liberdade sindical e da proteção ao direito de sindicalização. O modelo sindical brasileiro diverge dos preceitos propostos pelo normativo internacional principalmente pela:",
+        "choices": [
             "A) liberdade plena de organização sindical em todos os níveis de representação profissional e econômica;",
             "B) proibição de filiação dos trabalhadores e dos empregadores a organizações internacionais de mesma natureza;",
             "C) proibição de sindicalização dos integrantes das forças armadas e da polícia;",
@@ -6724,8 +7232,16 @@
             "A) pode ser firmado pelos advogados de ambas as partes;",
             "B) só é cabível em caso de vício na decisão, uma vez que esta é de natureza discricionária;",
             "C) não dispensa as contrarrazões da parte recorrida, por imposição do contraditório;",
-            "D) não é cabível, já que a decisão em questão não é terminativa, e o processo deverá prosseguir até a sentença de mérito;",
-            "A) respeito dos princípios da isonomia e não discriminação nas relações de trabalho, considerando o texto da Constituição da República de 1988 e o entendimento do Supremo Tribunal Federal, é correto afirmar que:",
+            "D) não é cabível, já que a decisão em questão não é terminativa, e o processo deverá prosseguir até a sentença de mérito;"
+        ],
+        "correctAwser": "A",
+        "categoryId": "55eb9e9e-cd1b-4dfd-aac6-c394f0ff7a55",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos princípios da isonomia e não discriminação nas relações de trabalho, considerando o texto da Constituição da República de 1988 e o entendimento do Supremo Tribunal Federal, é correto afirmar que:",
+        "choices": [
             "A) é incompatível com o princípio da isonomia a fixação da remuneração do trabalho do preso em valores inferiores ao do salário mínimo previsto no Art. 7º, IV, da Constituição da República de 1988, pois o fato de estar preso não justifica a diferenciação dos trabalhadores livres;",
             "B) os prazos da licença adotante não podem ser inferiores aos prazos da licença gestante, o mesmo valendo para as respectivas prorrogações. Em relação à licença adotante, não é possível fixar prazos diversos em função da idade da criança adotada;",
             "C) lei estadual que fixa piso salarial regional e exclui de sua incidência os contratos de aprendizagem é incompatível com a Constituição da República de 1988, pois afronta o princípio da isonomia e o disposto no Art. 7º, inciso XXX, que proíbe a diferença de salários por motivo de idade;",

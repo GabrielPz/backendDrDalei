@@ -48,6 +48,14 @@
         "id": ""
     },
     {
+        "question": "A prescrição em matéria penal, não corre enquanto não resolvida, em outro processo, questão de que dependa o reconhecimento da existência do crime.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "DÉCIO e TÍCIO concorrem para o cometimento de crime sujeito à pena máxima privativa de liberdade de oito anos, em 01º de janeiro de 2015. Em 10 de setembro de 2023 foi apresentada denúncia contra DÉCIO, apenas, recebida pelo juiz em 10 de janeiro de 2024. Diante desse caso hipotético, a pretensão punitiva não está prescrita e o recebimento da denúncia interrompe o prazo prescricional contra DÉCIO e TÍCIO.",
         "choices": [],
         "correctAwser": "true",
@@ -128,16 +136,11 @@
         "id": ""
     },
     {
-        "question": "Segundo o Código Penal (Decreto-Lei n.º 2.848/1940), o funcionário público que exige tributo ou contribuição social que sabe ou deveria saber indevido, ou, quando devido, emprega na cobrança meio vexatório ou gravoso, que a lei não autoriza, incide no crime de",
-        "choices": [
-            "A) prevaricação.",
-            "B) violência arbitrária.",
-            "C) excesso de exação.",
-            "D) condescendência criminosa."
-        ],
-        "correctAwser": "A",
+        "question": "A Lei nº 14.133/2021 revogou os tipos penais previstos na Lei de Licitações, criando o Capítulo II-B, no Código Penal, que versa sobre os crimes em licitações e contratos administrativos. Acerca dos novos tipos penais, que versa sobre os crimes em licitações e contratos administrativos, é correto afirmar, que pagamento de fatura com preterição da ordem cronológica de sua exigibilidade constitui crime de pagamento irregular em contrato administrativo.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "MULTIPLE_CHOICE",
+        "type": "TRUE_FALSE",
         "id": ""
     },
     {
@@ -289,6 +292,14 @@
         "id": ""
     },
     {
+        "question": "A lei brasileira nunca é aplicável aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Réu condenado em 1ª instância pelos crimes de Assédio sexual e Rufianismo terá nome, CPF e tipo penal pelo qual foi condenado, incluído no Cadastro Nacional de Pessoas Condenadas por Crime de Estupro.",
         "choices": [],
         "correctAwser": "false",
@@ -353,6 +364,14 @@
         "id": ""
     },
     {
+        "question": "A regra da irretroatividade da lei penal não admite exceções.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No tocante à definição do tempo do crime, é aplicável a teoria da atividade.",
         "choices": [],
         "correctAwser": "false",
@@ -378,8 +397,15 @@
     },
     {
         "question": "Responde por estupro de vulnerável quem pratica as ações descritas no caput do art. 217-A do Código Penal, com alguém que, por enfermidade ou deficiência mental, não tem o necessário discernimento para a prática do ato, ou que, por qualquer outra causa, não pode oferecer resistência.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A diretriz segundo a qual ninguém pode ser punido criminalmente antes do trânsito em julgado da decisão condenatória, retrata:",
         "choices": [
-            "A) diretriz segundo a qual ninguém pode ser punido criminalmente antes do trânsito em julgado da decisão condenatória, retrata:",
             "A) o princípio da ampla defesa.",
             "B) o princípio do contraditório.",
             "C) o princípio da presunção de inocência.",
@@ -447,6 +473,14 @@
         "id": ""
     },
     {
+        "question": "A Lei que cria o Cadastro Nacional de Pessoas Condenadas por Crime de Estupro, passa a determinar a criação do Cadastro Nacional de Pedófilos e Predadores Sexuais, que permitirá a consulta pública do nome completo e do CPF das pessoas condenadas por esse crime.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O cadastro de que trata a Lei nº 14.069/2020, observa que: conterá, no mínimo: as características físicas e dados de identificação datiloscópica, a identificação do perfil genético, fotos e local de moradia e atividade laboral desenvolvida nos últimos 3 anos, em caso de concessão de livramento condicional.",
         "choices": [],
         "correctAwser": "true",
@@ -485,6 +519,14 @@
     },
     {
         "question": "O art. 2º, II, da Lei n. 8.137/1990, que tipifica a omissão no recolhimento de ICMS cobrado de terceiro, é aplicável ao imposto devido na substituição tributária, em que o responsável cobra o valor do contribuinte, mas não do imposto devido em nome próprio quando o contribuinte vende ao consumidor final, conforme entendimento dominante no TJSC, recentemente confirmado pela 3º Seção do STJ.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A especial finalidade da conduta (também denominada “dolo específico”) é um elemento subjetivo do tipo existente em alguns delitos materiais, mas não é compatível com os delitos formais.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -572,6 +614,14 @@
         "id": ""
     },
     {
+        "question": "A chamada “teoria da imputação objetiva” reúne um conjunto de critérios pelos quais se restringe o âmbito da relevância penal dos fatos abrangidos pela relação de causalidade, e que seriam imputáveis ao sujeito caso não fossem empregados esses critérios.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O crime de porte de arma de fogo (art. 14 da Lei n. 10.826/2003) é um crime de perigo concreto.",
         "choices": [],
         "correctAwser": "false",
@@ -612,6 +662,14 @@
         "id": ""
     },
     {
+        "question": "A lei penal em branco pode conter um elemento normativo cujo conteúdo deva ser complementado por outro instrumento regulamentar. Neste caso, se a norma complementar for uma lei excepcional que defina uma circunstância específica no contexto do qual o fato, se realizado, será típico, a revogação desta norma excepcional complementar por outra lei configurará “abolitio criminis”, nos termos do disposto no art. 2º do Código Penal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Nos delitos imprudentes (ou culposos), a aferição da concreção do risco na implementação do evento típico (ou resultado) é um dos critérios da “teoria da imputação objetiva”.",
         "choices": [],
         "correctAwser": "true",
@@ -629,6 +687,14 @@
     },
     {
         "question": "Se o objeto mediante o qual for praticado o crime de posse de arma de fogo for uma arma de fogo com numeração suprimida pelo sujeito, ocorrerá um concurso formal de delitos entre a posse e a supressão (Lei n. 10.826/2003).",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A configuração do crime de lavagem de dinheiro (art. 1º da Lei n. 9.613/1998) pressupõe a demonstração da autoria e materialidade da infração penal anterior.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -676,7 +742,31 @@
         "id": ""
     },
     {
+        "question": "A notitia criminis de cognição imediata ocorre quando a autoridade policial toma conhecimento do fato delituoso através da apresentação do indivíduo preso em flagrante delito, enquanto a denúncia anônima é considerada notitia criminis inqualificada.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A ação de prevenção penal é aquela ajuizada com a finalidade de se aplicar medida de segurança a acusado que, em virtude de doença mental ou de desenvolvimento mental incompleto ou retardado, era, ao tempo da ação ou omissão, absolutamente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Segundo o Código de Processo Penal, não obstante a sentença absolutória no juízo criminal, a ação civil poderá ser proposta quando não tiver sido, categoricamente, reconhecida a inexistência material do fato. Não impedirão igualmente a propositura da ação civil: o despacho de arquivamento do inquérito ou das peças de informação; a decisão que julgar extinta a punibilidade; e a sentença absolutória que decidir que o fato imputado não constitui crime.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A competência será determinada pela continência quando também duas ou mais pessoas forem acusadas pela mesma infração, tal como no concurso necessário de pessoas. Neste caso, trata-se de modalidade de continência por cumulação objetiva.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -708,15 +798,7 @@
         "id": ""
     },
     {
-        "question": "De acordo com o Código de Processo Penal, o juiz, de ofício, a requerimento do Ministério Público ou do ofendido, ou mediante representação da autoridade policial, poderá ordenar o sequestro, em qualquer fase do processo ou ainda antes de oferecida a denúncia ou queixa, autuando-se em apartado e admitindo-se embargos de terceiro.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O Código de Processo Penal, quanto ao incidente de falsidade, estabelece que qualquer que seja a decisão, não fará coisa julgada em prejuízo de ulterior processo penal ou civil. Da decisão que decidir o incidente de falsidade caberá recurso em sentido estrito.",
+        "question": "",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -749,6 +831,14 @@
     },
     {
         "question": "Prescreve o Código de Processo Penal, quanto ao reconhecimento de pessoa, que não terá aplicação na fase da instrução criminal ou em plenário de julgamento a disposição de que se houver razão para recear que a pessoa chamada para o reconhecimento, por efeito de intimidação ou outra influência, não diga a verdade em face da pessoa que deve ser reconhecida, a autoridade providenciará para que esta não veja aquela.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei n. 12.850/2013, quanto ao meio de obtenção da prova da colaboração premiada, dispõe que, em qualquer caso, a concessão do benefício levará em conta a personalidade do colaborador, a natureza, as circunstâncias, a gravidade e a repercussão social do fato criminoso e a eficácia da colaboração, deixando o acordo de colaboração premiada de ser sigiloso assim que oferecida a denúncia.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -788,15 +878,7 @@
         "id": ""
     },
     {
-        "question": "No processo e julgamento dos crimes contra a propriedade imaterial quando os crimes forem de ação privativa do ofendido, não será admitida queixa com fundamento em apreensão e em perícia, se decorrido o prazo de 15 (quinze) dias, após a homologação do laudo.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O Código de Processo Penal estabelece que a nulidade ocorrerá pela ausência da intervenção do Ministério Público em todos os termos da ação por ele intentada e nos da intentada pela parte ofendida, quando se tratar de crime de ação privada.",
+        "question": "",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -853,6 +935,14 @@
     },
     {
         "question": "Em todos os atos processuais, cíveis e criminais, a mulher em situação de violência doméstica e familiar deverá estar acompanhada de advogado, conforme Lei n. 11.340/2006.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A transferência de preso para estabelecimento prisional de segurança máxima é um dos atos processuais em que o juiz poderá decidir pela formação do colegiado previsto na Lei n. 12.694/2012.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -924,7 +1014,7 @@
         "id": ""
     },
     {
-        "question": "Ficam sujeitos à lei brasileira, embora cometidos no estrangeiro, os crimes contra a administração pública, por quem está a seu serviço.",
+        "question": "administração pública, por quem está a seu serviço.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -1004,6 +1094,14 @@
         "id": ""
     },
     {
+        "question": "A corrupção ativa, independe da ocorrência da corrupção passiva para a sua consumação, ato classificado como crime formal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Objeto de grandes discussões na seara política e jurídica, a Lei n. 13.869/2019, contra o abuso de autoridades, ampliou o alcance penal no que tange às práticas abusivas por parte do poder público, atingindo, para além dos integrantes do Poder Executivo, os integrantes do Legislativo, Judiciário, Ministério Público, Tribunais ou Conselhos de Contas. Dentre as inovações da referida lei, destaca-se que os crimes previstos no diploma legal podem ser dolosos ou culposos, mas, em qualquer caso, exigem a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal.",
         "choices": [],
         "correctAwser": "false",
@@ -1029,6 +1127,14 @@
     },
     {
         "question": "No que tange ao concurso de crimes, a continuidade delitiva entre roubo e extorsão é possível, assim como é possível a continuidade delitiva entre roubo e latrocínio, desde que tenha o elo de continuidade, pouco importando se protegem o mesmo bem jurídico tutelado.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A conivência ou participação negativa é atribuído quando o induzimento, instigação ou auxílio que tinha a obrigação de impedir o resultado, não a impediu.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -1085,13 +1191,28 @@
     },
     {
         "question": "Quando o Tribunal de Justiça, em julgamento de apelação criminal exclusiva da defesa, afasta uma circunstância judicial negativa do Art. 59 do Código Penal, reconhecida no édito condenatório de primeiro grau, deve reduzir proporcionalmente a pena-base.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime. A jurisprudência e a doutrina passaram a reconhecer, como regra, como critério ideal para individualização da reprimenda base o aumento:",
         "choices": [
-            "A) individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime. A jurisprudência e a doutrina passaram a reconhecer, como regra, como critério ideal para individualização da reprimenda base o aumento:",
             "A) na fração de 1/4 por cada circunstância;",
             "B) na fração de 1/6 por cada circunstância;",
             "C) na fração de 1/8 por cada circunstância;",
-            "D) no quantum determinado de seis meses;",
-            "A) prisão do agente em local conhecido por venda de drogas:",
+            "D) no quantum determinado de seis meses;"
+        ],
+        "correctAwser": "C",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A prisão do agente em local conhecido por venda de drogas:",
+        "choices": [
             "A) faz incidir causa de aumento de pena;",
             "B) faz incidir agravante genérica;",
             "C) faz incidir agravante específica;",
@@ -1160,8 +1281,15 @@
     },
     {
         "question": "Determinada investigação foi instaurada para apurar estelionato consistente em fraude, na obtenção de auxílio emergencial concedido pelo Governo Federal, por meio da Caixa Econômica Federal, em decorrência da pandemia da Covid-19. Jack declarou na investigação que realizou depósito em sua conta do “Comércio Remunerado”, no valor de R$ 600,00 e depois percebeu que aquela quantia foi transferida para Russel, sendo que não foi Jack quem realizou a operação financeira nem a autorizou. Russel assinalou que a aludida quantia foi realmente transferida para sua conta e foi declarada como pagamento de conserto de motocicleta, para conseguir a antecipação do auxílio emergencial. Disse que foi Fênix, proprietária de uma loja de manutenção de telefones celulares, quem lhe propôs a prática de tais condutas, e ainda ofereceu R$ 50,00 para cada antecipação passada em sua máquina, sendo que Jack praticou a conduta quatro vezes. O auxílio emergencial era disponibilizado pela União, por meio da Caixa Econômica Federal. A competência para o processo e julgamento do presente caso é da: Justiça Federal de 1º grau.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A intimação de réu solto assistido pela Defensoria Pública ou patrocinado por advogado dativo, quanto à sentença penal condenatória, deve ocorrer:",
         "choices": [
-            "A) intimação de réu solto assistido pela Defensoria Pública ou patrocinado por advogado dativo, quanto à sentença penal condenatória, deve ocorrer:",
             "A) por publicação no órgão da imprensa oficial;",
             "B) por meio eletrônico;",
             "C) pessoalmente;",
@@ -1227,8 +1355,15 @@
     },
     {
         "question": "À luz do princípio da obrigatoriedade da ação penal pública, o Ministério Público tem o poder-dever de oferecer a denúncia, quando reunidos os requisitos e condições que determinem autoria, coautoria ou participação e existência de uma infração penal. No que concerne ao aditamento da denúncia, é correto afirmar que: o recebimento do aditamento da denúncia, que traz modificação fática substancial, enseja a interrupção da prescrição.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A explicação do crime como fenômeno coletivo cuja origem pode ser encontrada nas mais variadas causas sociais, como a pobreza, a educação, a família, corresponde à perspectiva criminológica denominada",
         "choices": [
-            "A) explicação do crime como fenômeno coletivo cuja origem pode ser encontrada nas mais variadas causas sociais, como a pobreza, a educação, a família, corresponde à perspectiva criminológica denominada",
             "A) sociologia criminal.",
             "B) criminologia da escola positiva.",
             "C) criminologia socialista.",
@@ -1297,6 +1432,14 @@
     },
     {
         "question": "Acerca do delito de tráfico privilegiado, previsto na Lei n.º 11.343/2006, o condenado pela prática do crime, poderá alcançar a progressão de regime prisional depois de ter cumprido pelo menos um sexto da pena no regime anterior, se ostentar bom comportamento carcerário.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do crime de organização criminosa previsto na Lei n.º 12.850/2013, constitui circunstância elementar desse delito a finalidade de obtenção de vantagem de qualquer natureza mediante a prática de infrações penais cujas penas máximas sejam superiores a dois anos ou que sejam de caráter transnacional.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -1429,6 +1572,14 @@
         "id": ""
     },
     {
+        "question": "A respeito de questões prejudiciais e processos incidentes, o sequestro é medida cautelar de indisponibilidade de bens em que o exercício do contraditório poderá ser postergado para evitar a dissipação do patrimônio.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Adriana foi denunciada por ter oferecido vantagem econômica para que uma testemunha mentisse em depoimento colhido em ação civil. Um servidor da vara criminal solicitou grande quantia em dinheiro, alegando ser essa uma exigência do juiz para absolvê-la. O valor foi pago, entretanto houve condenação. O juiz não tinha conhecimento do suborno, Nesse contexto, Adriana não seria punida em relação ao depoimento falso ocorrido na ação civil se, antes da sentença penal, houvesse declarado a verdade dos fatos.",
         "choices": [],
         "correctAwser": "false",
@@ -1448,6 +1599,14 @@
         "question": "À luz das disposições legais de direito penal e da jurisprudência correlata, é correto afirmar, que admite-se a excludente de antijuridicidade do estrito cumprimento de dever legal nos crimes culposos.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A conduta do agente que, para não se incriminar, atribui a si a identidade de outrem, perante o delegado, é típica e configura o crime de falsa identidade.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -1486,6 +1645,14 @@
     },
     {
         "question": "Em relação ao sistema processual penal brasileiro, o afastamento do juiz da iniciativa probatória assegura a sua imparcialidade e fortalece a estrutura dialética do processo penal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Constituição Federal de 1988 adota, em regra, o modelo acusatório, caracterizado pela separação das funções de acusação, defesa e julgamento. A respeito da pronúncia e dos recursos, julgue os próximos itens.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -1549,6 +1716,14 @@
         "id": ""
     },
     {
+        "question": "A diversidade do modo de execução de crimes de roubo não afasta a possibilidade de reconhecimento da continuidade delitiva.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O reconhecimento da continuidade delitiva implica a obrigatoriedade de fixação da pena em patamar inferior ao que seria aplicável com base no cúmulo material.",
         "choices": [],
         "correctAwser": "false",
@@ -1597,6 +1772,22 @@
         "id": ""
     },
     {
+        "question": "A decisão proferida em processo penal que fixa alimentos provisórios em razão da prática de violência doméstica constitui título executivo judicial e autoriza a decretação de prisão civil.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei Maria da Penha (Lei nº 11.340/2006), é inaplicável ao ato de violência praticado pelo neto contra a avó, se neto e avó não coabitam.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Para que seja aplicado o sistema protetivo da Lei Maria da Penha, é necessária a demonstração específica da subjugação feminina.",
         "choices": [],
         "correctAwser": "false",
@@ -1614,6 +1805,14 @@
     },
     {
         "question": "No que diz respeito às organizações criminosas, o seu líder condenado pelo crime de integrar tal organização deverá iniciar o cumprimento da pena necessariamente em estabelecimento penal de segurança máxima.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A definição legal de organização criminosa promovida pela Lei n.º 12.850/2013 internaliza na legislação nacional a definição de grupo criminoso organizado constante da Convenção de Palermo.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -1662,6 +1861,14 @@
     },
     {
         "question": "Compete à justiça federal o pedido de habeas corpus preventivo para viabilizar, para fins medicinais, o cultivo, o uso, o porte e a produção artesanal da Cannabis, ainda quando não demonstrada a internacionalidade da conduta, por força do interesse da Agência Nacional de Vigilância Sanitária (ANVISA), à qual compete a concessão da respectiva autorização.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A semi-imputabilidade do agente afasta a natureza hedionda do crime de tráfico de drogas.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -1743,6 +1950,14 @@
     {
         "question": "O uso, pelo prefeito, de verbas oriundas do Fundo Nacional da Saúde, destinadas a determinado programa de saúde, para pagamento de dívidas da secretaria de saúde com instituto de previdência municipal configura o crime de desvio de verbas públicas, previsto como crime de responsabilidade, independentemente de haver prejuízo à administração pública.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A entrega da prestação de contas após o prazo legal é suficiente para configurar o crime de deixar de prestar contas da aplicação de recursos recebidos a qualquer título, tipificado como crime de responsabilidade, por configurar crime de mera conduta.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -1766,6 +1981,22 @@
     },
     {
         "question": "Para a caracterização do delito de associação criminosa inserido em contexto societário, é desnecessário que a denúncia contenha a descrição da predisposição comum de meios para a prática de uma série indeterminada de delitos e uma contínua vinculação entre os associados com essa finalidade.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autoria mediata, em caso de concurso de agentes, é incompatível com o crime próprio.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria do domínio do fato funciona como uma ratio para aferir a existência do nexo de causalidade entre o crime e o agente e serve de fundamento para considerar que houve participação no crime em razão da posição de gestor, diretor ou sócio administrador de empresa ou organização.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -1838,6 +2069,14 @@
     },
     {
         "question": "Segundo a doutrina majoritária, o sistema inquisitório é caracterizado pela presença de partes distintas (actum trium personarum), contrapondo-se acusação e defesa em igualdade de condições, sobrepondo-se a ambas um juiz equidistante e imparcial.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei processual penal brasileira veda a adoção das regras de hermenêutica jurídica ubi eadem legis ratio ibi eadem dispositio (onde há a mesma razão de ser, deve prevalecer a mesma razão de decidir) e ubi eadem ratio ibi idem jus (onde há o mesmo fundamento, há o mesmo direito).",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -1926,6 +2165,19 @@
     },
     {
         "question": "Conforme o CPP, a exceção cuja arguição, em regra, precederá às demais é a de",
+        "choices": [
+            "A) incompetência de juízo.",
+            "B) litispendência.",
+            "C) coisa julgada.",
+            "D) suspeição."
+        ],
+        "correctAwser": "D",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da relação jurídica processual e da prova, conquanto esteja incorporada ao direito processual penal brasileiro mediante disposições doutrinárias e jurisprudenciais, a aplicação da teoria dos frutos da árvore envenenada (fruits of the poisonous tree) carece de previsão legal no ordenamento jurídico pátrio.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -2069,7 +2321,7 @@
         "id": ""
     },
     {
-        "question": "As omissões da denúncia ou da queixa, da representação, ou, nos processos das contravenções penais, da portaria ou do auto de prisão em flagrante poderão ser supridas a todo tempo, antes da sentença final. Assinale a opção correta.",
+        "question": "A incompetência do juízo anula somente os atos decisórios, devendo o processo, quando for declarada a nulidade, ser remetido ao juiz competente.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -2077,16 +2329,19 @@
         "id": ""
     },
     {
-        "question": "O efeito regressivo, iterativo ou diferido está presente",
-        "choices": [
-            "A) na apelação.",
-            "B) no recurso especial.",
-            "C) no recurso extraordinário.",
-            "D) no recurso em sentido estrito."
-        ],
-        "correctAwser": "D",
+        "question": "A nulidade por ilegitimidade do representante da parte poderá ser a todo tempo sanada, mediante ratificação dos atos processuais.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "MULTIPLE_CHOICE",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "As omissões da denúncia ou da queixa, da representação, ou, nos processos das contravenções penais, da portaria ou do auto de prisão em flagrante poderão ser supridas a todo tempo, antes da sentença final. Assinale a opção correta.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
         "id": ""
     },
     {
@@ -2140,6 +2395,14 @@
     {
         "question": "Se a autoridade judicial entender que há indícios da prática de tortura, deverá ser determinado o registro das informações, adotando-se as providências cabíveis para a investigação da denúncia e preservação da segurança física e psicológica da vítima, que será encaminhada para atendimento médico e psicossocial especializado.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A audiência de custódia será realizada na presença do Ministério Público, da Defensoria Pública, caso a pessoa detida não possua defensor constituído no momento da lavratura do auto de prisão em flagrante, bem como dos agentes policiais responsáveis pela prisão ou pela investigação.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -2179,6 +2442,14 @@
     },
     {
         "question": "O STJ, entende que o princípio da consunção incide quando for um dos crimes meio necessário ou usual para a preparação, execução ou mero exaurimento do delito final visado pelo agente, desde que não ofendidos bens jurídicos distintos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A causa de diminuição do Art. 16 do Código Penal, referente ao arrependimento posterior, somente tem aplicação se houver a restituição da coisa antes do recebimento da denúncia, não possibilitada sua reparação, variando o índice de redução da pena em função da maior ou menor celeridade no ressarcimento do prejuízo à vítima.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -2324,7 +2595,23 @@
     {
         "question": "Acerca do delito de apropriação indébita previdenciária o termo “descontado” se refere aos tributos diretos quando há responsabilidade tributária por substituição, enquanto o termo “cobrado” se refere às relações tributárias havidas com tributos indiretos.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A medida assecuratória de indisponibilidade de bens prevista no Art. 4º, §4º, da Lei nº 9.613/1998 permite a constrição de quaisquer bens, direitos ou valores para reparação do dano decorrente do crime ou para pagamento apenas de pena de multa.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A medida assecuratória de indisponibilidade de bens prevista no Art. 4º, §4º, da Lei nº 9.613/1998 permite a constrição de quaisquer bens, direitos ou valores para reparação do dano decorrente do crime ou para pagamento de prestação pecuniária, pena de multa e custas processuais.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2402,6 +2689,14 @@
         "id": ""
     },
     {
+        "question": "A omissão estatal na promoção de atividades laborativas permite a contagem de tempo ficta para remição.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Tem direito à remição o reeducando que demonstra que a vaga de trabalho ofertada não pôde ser desempenhada.",
         "choices": [],
         "correctAwser": "false",
@@ -2426,6 +2721,22 @@
         "id": ""
     },
     {
+        "question": "A 7ª Promotoria da Comarca de Luziânia (GO) recebeu notícia anônima de que a pessoa jurídica Corumbá Park teria instalado um empreendimento do setor de turismo e lazer em área de preservação permanente (APP) do lago Corumbá, afetando a vegetação da região. Nessa situação, caso o promotor de justiça em exercício no órgão instaure procedimento preparatório para identificação dos investigados ou delimitação do objeto, será indispensável a edição de nova portaria para a sua conversão em inquérito civil.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Promotoria de Justiça responsável apurou que a Prefeitura Municipal de Cristianópolis (GO) teria implementado, durante a pandemia de Covid-19, programa de distribuição de cestas básicas ou kits de gêneros alimentícios durante o período de suspensão das atividades escolares, durante o qual não houve o oferecimento de atividade pedagógica a distância em substituição ao ensino presencial para o cômputo do ano letivo. Diante dessa situação, é correto afirmar que o programa não poderia ser financiado com verbas oriundas do mínimo constitucional de aplicação desenvolvimento do ensino.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Em relação aos crimes contra a pessoa e contra a fé pública, segundo o Superior Tribunal de Justiça, não caracteriza bis in idem, o reconhecimento das qualificadoras de motivo torpe e feminicídio no homicídio praticado contra mulher em situação de violência doméstica e familiar.",
         "choices": [],
         "correctAwser": "true",
@@ -2435,6 +2746,30 @@
     },
     {
         "question": "Segundo o Supremo Tribunal Federal, não é imprescritível o crime de injúria racial, previsto no art. 140, § 3.º, do Código Penal.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A retratação da calúnia feita antes da sentença acarreta a extinção da punibilidade do agente, independentemente de aceitação do ofendido.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A instigação à prática da automutilação ou a prestação de auxílio material para que a vítima o faça configura o crime de lesão corporal, que pode variar conforme a gravidade da lesão.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A conduta de atribuir-se falsa identidade perante autoridade policial é atípica quando ocorre em evidente exercício de autodefesa.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -2475,6 +2810,14 @@
     },
     {
         "question": "O delegado de polícia pode requisitar, sem necessidade de autorização judicial, dados e informações cadastrais de suspeito da prática de crime de extorsão mediante sequestro.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A quebra na cadeia de custódia da prova resulta, necessariamente, em nulidade absoluta, tornando inadmissível a prova produzida.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -2540,6 +2883,22 @@
     {
         "question": "No que se refere à legislação processual e à jurisprudência pátrias, o fato de o inquérito policial ser instaurado por promotor de justiça não impede que o delegado dê prosseguimento ao procedimento e seja eventualmente apontado como autoridade coatora na hipótese de impetração de habeas corpus.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A intimação do militar será feita por intermédio do chefe do respectivo serviço.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito das fontes e das classificações das constituições, do poder constituinte e do controle de constitucionalidade, configurado o concurso formal impróprio ou o crime continuado, adota-se o sistema da exasperação da pena.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -2547,6 +2906,14 @@
     },
     {
         "question": "Caracteriza erro de proibição direto o fato de o agente supor ser lícita uma conduta que é proibida no ordenamento jurídico; diferentemente do delito putativo, que é caracterizado pelo fato de o agente praticar uma conduta que acredita ser proibida, mas que, na verdade, é um indiferente penal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A liberação do preso internado em hospital de custódia será sempre condicional, devendo ser restabelecida a situação anterior se o agente, antes do decurso de um ano, praticar fato indicativo de persistência de sua periculosidade.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -2634,7 +3001,31 @@
         "id": ""
     },
     {
+        "question": "A respeito dos Crimes contra a Administração da Justiça, previstos no Código Penal, o crime de coação no curso do processo será qualificado se praticado em processo que envolva crime contra a dignidade sexual.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A imputação de prática de contravenção penal que sabe ser inverídica configura o crime de denunciação caluniosa.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O crime de fraude processual será qualificado se a inovação tiver como objetivo produzir efeito em processo penal.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A retração ou declaração da verdade pelo agente, antes de proferida a sentença no processo em que se deu o falso testemunho, é causa de diminuição de pena do crime de falso testemunho e falsa perícia.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -2762,7 +3153,23 @@
         "id": ""
     },
     {
+        "question": "A citação por edital dar-se-á quando o réu não é localizado nos endereços tidos como os de sua residência ou domicílio, estando, assim, em local desconhecido; ou quando há indícios de que o réu oculta-se do Oficial de Justiça.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Não intimado o réu, por não ter sido localizado no endereço por ele informado e constante dos autos, em razão de ter se mudado e deixado de informar o endereço atual, o processo prosseguirá sem sua participação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A citação por mandado, por Oficial de Justiça, dar-se preferencialmente em dias úteis, no horário das 06 às 17h e, por expressa vedação legal, não se realizará aos Domingos.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -2779,6 +3186,14 @@
     },
     {
         "question": "Maria foi denunciada pela prática de crime de homicídio doloso. A denúncia foi recebida pelo Juiz da Vara do Tribunal do Júri, sendo apresentada por Maria resposta à acusação, seguindo-se a instrução processual com a oitiva das testemunhas de acusação e defesa. Encerrada a instrução, apresentadas as alegações finais, o processo encontra-se com o Juiz da Vara do Tribunal do Júri, para sentença. Em vista do caso hipotético, se a decisão do Juiz for pela impronúncia de Maria, ainda que preclusa, enquanto não extinta a punibilidade, surgindo prova nova, poderá ser formulada nova denúncia contra ela.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do processo de restauração de autos extraviados ou destruídos, previsto no Código de Processo Penal, mesmo pendente decisão que julgue restaurados os autos, a sentença condenatória em execução continuará a produzir efeito, se houver guia arquivada no estabelecimento prisional onde o réu cumpre pena ou, registro que torne inequívoca a sua existência.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -2818,9 +3233,33 @@
         "id": ""
     },
     {
+        "question": "A respeito do tráfico ilícito e uso indevido de substâncias entorpecentes, do crime organizado, dos crimes de tortura e dos crimes hediondos, a resposta do dependente de drogas aos recursos extra-hospitalares é irrelevante em eventual indicação de internação.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Equipara-se a crime hediondo o tráfico ilícito de drogas na forma privilegiada.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A infiltração de agentes de polícia em tarefas de investigação relacionadas aos crimes de organização criminosa demanda autorização judicial.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A caracterização da conduta de submeter pessoa presa a sofrimento mental, por intermédio da prática de ato não previsto em lei, como crime de tortura, dispensa, para seu aperfeiçoamento, o especial fim de agir por parte do agente.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -2906,7 +3345,23 @@
         "id": ""
     },
     {
+        "question": "A queimadura na pele produzida pela boca do cano de uma arma de fogo caracteriza o sinal de Werkgaertner.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que concerne à cronotanatognose, a presença de dípteros da espécie mosca doméstica, muscina stabulans e calliphora vomitoria, em um corpo encontrado em um matagal, indica tempo de morte estimado em três dias.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A presença de cristais no sangue putrefeito, conhecidos como cristais de Westenhoffer-Rocha-Valverde, é constatada 24 horas depois da morte.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -2947,6 +3402,14 @@
     },
     {
         "question": "Caio e Múcio combinam de furtar a residência de Cícero, amigo em comum de ambos, já que sabem que ele fará uma viagem longa para o exterior. Passados dois dias da viagem de Cícero, Caio e Múcio arrombam a fechadura e ingressam na casa. Logo que ingressam no quarto de Cícero, onde tinham ciência da existência de um cofre, são surpreendidos com a presença de uma mulher, dormindo, na cama. Caio, de imediato, desiste da ação e sai do imóvel, sem nada levar, ficando na esquina da casa, aguardando Múcio sair. Múcio, contudo, embora não subtraia nada, aproveitando-se que a mulher dormia, introduz o pênis em sua boca que, ao acordar, é forçada a praticar sexo oral, sob ameaça de arma de fogo. Diante do caso hipotético e, tendo em vista as regras do concurso de agente, Caio e Múcio responderão pelo crime de furto tentado, qualificado por destruição ou rompimento de obstáculos à subtração da coisa e pelo concurso de agentes; e também pelo crime de estupro.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do crime de perseguição, previsto no art. 147-A, do Código Penal, é correto dizer que é de ação pública incondicionada.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -3100,6 +3563,22 @@
     {
         "question": "Rui foi acusado da prática de estelionato (art. 171, caput, CP, pena de 1 a 5 anos), por fatos ocorridos, em tese, em 2017. O inquérito durou seis anos, vindo a ser denunciado, pelo Ministério Público, apenas em setembro de 2023. Uma vez proposta a ação penal, o Ministério Público se recusou a oferecer Acordo de Não Persecução Penal, alegando que o investigado não confessou os fatos. O juiz, contudo, entendendo que seria aplicável a alteração legislativa que prevê a necessidade de representação ao crime de estelionato (ocorrida no ano de 2019) manda intimar a vítima, a fim de que se manifeste para o prosseguimento do feito. A respeito do caso descrito, o acordo de não persecução penal, nos termos da lei, exige a confissão do crime.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A representação é ato formal e essencialmente solene, não sendo cabível a sua dispensa ou mesmo substituição por ato mais informal, ainda que inconteste o desejo da vítima em ver o sujeito processado e punido.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da restituição de coisas apreendidas, em conformidade com os art. 118 a 124, do Código de Processo Penal, poderá ser ordenada apenas pelo juiz, desde que não haja dúvida quanto ao direito do reclamante.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -3164,6 +3643,14 @@
     {
         "question": "Em qualquer modalidade de interrogatório, o juiz garantirá ao réu direito de entrevista prévia e reservada com o seu defensor.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A oitiva do ofendido é sempre facultativa e, se intimado para tal fim e deixar de comparecer, não poderá ser conduzido coercitivamente.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -3171,6 +3658,22 @@
     },
     {
         "question": "Sobre a matéria de prisão cautelar e medidas diversas da prisão, a audiência de custódia é ato que deve ocorrer apenas em casos de prisão em flagrante delito, considerando que se trata de prisão pré-cautelar.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A reincidência, por si só, é circunstância que autoriza a decretação de prisão preventiva.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prisão preventiva pode ser decretada nos crimes dolosos e culposos, apenados com pena máxima superior a 4 anos.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -3210,6 +3713,22 @@
         "id": ""
     },
     {
+        "question": "A pena privativa de liberdade de prisão simples pode ser cumprida inicialmente em regime aberto, semiaberto ou fechado.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei no 7.716/89 (define os crimes resultantes de preconceito de raça ou cor) prevê, expressamente, em seu art. 16, a possibilidade do servidor público condenado perder o cargo ou função pública.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Para constatação do crime de conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência são previstos expressamente, além de outros meios admitidos em direito, as seguintes provas, nos termos do § 2o do art. 306 da Lei no 9.503/97 “teste de alcoolemia ou toxicológico, exame clínico, perícia, vídeo e prova testemunhal”.",
         "choices": [],
         "correctAwser": "true",
@@ -3234,6 +3753,14 @@
         "id": ""
     },
     {
+        "question": "A mulher em situação de violência doméstica e familiar tem prioridade para matricular seus dependentes em instituição de educação básica mais próxima de seu domicílio.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O crime de descumprimento de medidas protetivas de urgência é inafiançável.",
         "choices": [],
         "correctAwser": "false",
@@ -3243,6 +3770,14 @@
     },
     {
         "question": "É direito da mulher em situação de violência doméstica e familiar o atendimento policial e pericial especializado e prestado por servidores exclusivamente do sexo feminino.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei de Proteção a Vítimas e Testemunhas dispõe que os condenados que estejam cumprindo pena e os indiciados ou acusados sob prisão cautelar em qualquer de suas modalidades podem ser beneficiados pelo programa de proteção à testemunha.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -3274,6 +3809,22 @@
         "id": ""
     },
     {
+        "question": "A Lei no 13.869/2019 (Lei de Abuso de Autoridade) estabelece que é crime de violência institucional submeter a vítima de infração penal ou a testemunha de crimes violentos a procedimentos desnecessários, repetitivos ou invasivos, que a leve a reviver, sem estrita necessidade, a situação de violência ou outras situações potencialmente geradoras de sofrimento ou estigmatização.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei de Abuso de Autoridade (13.869/2019), prevê pena aplicada em dobro, se o agente público intimidar a vítima de crimes violentos, gerando indevida revitimização.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Com relação aos crimes contra a administração pública, a causa de aumento de pena incidente sobre agente de crime contra a administração pública que seja ocupante de cargo em comissão ou de função de direção ou assessoramento de órgão da administração direta é aplicável também ao chefe do Poder Executivo, detentor de mandato eletivo.",
         "choices": [],
         "correctAwser": "false",
@@ -3291,6 +3842,14 @@
     },
     {
         "question": "Servidor público que, violando dever funcional, facilite a prática de contrabando responderá como partícipe pela prática desse crime.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A oposição manifestada pelo indivíduo, mediante resistência passiva, sem o uso da violência, contra ordem emanada por autoridades policiais que pretendessem levá-lo à delegacia, sem que houvesse flagrante, é suficiente para caracterizar o delito de resistência.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -3364,6 +3923,14 @@
     {
         "question": "Não cabe ação penal privada subsidiária da pública se o Ministério Público, em vez de oferecer denúncia, promover o arquivamento do inquérito policial dentro do prazo legal.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos crimes previstos nos artigos 293 a 305 do Código Penal, a falsificação de livros mercantis caracteriza o crime de falsificação de documento particular (art. 298 do CP).",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -3404,7 +3971,23 @@
     {
         "question": "O crime de fraude em certames de interesse público prevê a figura qualificada, se dele resulta dano à administração pública.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A conduta de ceder o documento de identidade a terceiro, para que dele se utilize, é penalmente atípica, sendo crime apenas o uso, como próprio, de documento alheio.",
+        "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos crimes praticados por funcionários públicos contra a administração pública, ao empregar verba própria da educação, destinada por lei, na saúde, em tese, o autor incorre no crime de emprego irregular de verba pública (art. 315 do CPB)",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3460,6 +4043,14 @@
     {
         "question": "Acerca dos crimes cometidos por particular contra a Administração Pública, não há previsão de modalidade culposa.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos crimes contra a administração da justiça (arts. 339 a 347 do CP), a autoacusação para acobertar ascendente ou descendente é atípica.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -3498,6 +4089,14 @@
         "id": ""
     },
     {
+        "question": "A respeito do crime de exploração de prestígio (art. 357 do CP), é correto afirmar que prevê causa de aumento se o agente alega ou insinua que o dinheiro é também destinado a funcionário público estrangeiro.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O crime de exploração de prestígio, previsto no art. 357 do CPB, prevê modalidade culposa.",
         "choices": [],
         "correctAwser": "false",
@@ -3507,6 +4106,14 @@
     },
     {
         "question": "O crime previsto no art. 357 do Código Penal (exploração de prestígio), se trata de crime comum, não se exigindo qualquer qualidade especial do autor.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito das causas de impedimento e suspeição do juiz, de acordo com o Código de Processo Penal, nos juízos coletivos, não poderão servir no mesmo processo os juízes que forem entre si parentes, consanguíneos ou afins, em linha reta ou colateral, até o quarto grau.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -3523,6 +4130,22 @@
     },
     {
         "question": "O juiz será impedido se for credor ou devedor de qualquer das partes.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A suspeição poderá ser reconhecida ou declarada ainda que a parte injurie, de propósito, o juiz.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do acusado e do defensor, a constituição de defensor dependerá de instrumento de mandato, ainda que a nomeação se der por ocasião do interrogatório.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -3572,6 +4195,14 @@
     {
         "question": "Acerca da citação do acusado, completada a citação por hora certa, não comparecendo o réu, ser-lhe-á nomeado defensor dativo.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A citação do réu preso far-se-á na pessoa do Diretor do estabelecimento prisional.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -3579,6 +4210,14 @@
     },
     {
         "question": "Segundo o Código de Processo Penal, a respeito do processo comum, é correto dizer que aceita a denúncia ou a queixa, o Juiz não poderá absolver sumariamente o réu, após a apresentação da resposta à acusação.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A parte, no procedimento ordinário, não poderá desistir de testemunha, anteriormente arrolada.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -3658,6 +4297,14 @@
         "id": ""
     },
     {
+        "question": "A revisão criminal só poderá ser requerida no prazo de até 02 (dois) anos da sentença condenatória, transitada em julgado.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Interposta a Apelação somente pelo acusado, não pode o Tribunal reinquirir testemunhas ou determinar diligências.",
         "choices": [],
         "correctAwser": "false",
@@ -3677,6 +4324,14 @@
         "question": "Na apelação e no recurso em sentido estrito, há previsão de juízo de retratação.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da Lei no 9.099/95 reunidos os processos, por força de conexão ou continência, perante o juízo comum ou tribunal do júri, observar-se-ão os institutos da transação penal e da composição dos danos civis.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -3746,6 +4401,14 @@
         "id": ""
     },
     {
+        "question": "A Lei Anticorrupção (Lei 12.846/2013), em seu art. 5º, perora, que constituem atos lesivos à administração pública, nacional ou estrangeira, para fins desta lei, todos aqueles praticados pelas pessoas jurídicas mencionadas no parágrafo único do art. 1º, que atentem contra o patrimônio público nacional ou estrangeiro, contra princípios da administração pública ou contra os compromissos internacionais assumidos pelo Brasil.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca do homicídio decorrente de acidente automobilístico (dolo eventual ou culpa consciente), de acordo com entendimento do Superior Tribunal de Justiça - STJ, a tentativa de fuga do local do acidente após o acidente é posterior aos fatos, e não permite concluir que o réu agiu com dolo eventual.",
         "choices": [],
         "correctAwser": "true",
@@ -3755,6 +4418,14 @@
     },
     {
         "question": "Sobre os crimes contra a Administração da Justiça, previstos no Código Penal, dar causa a ação de improbidade administrativa, imputando a alguém ato de improbidade de que sabe inocente, valendo-se de nome suposto, em tese, caracteriza o crime de denunciação caluniosa.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do impedimento e da suspeição do Juiz, é correto afirmar que mesmo dissolvido o casamento, ainda que sem filhos em comum, o Juiz não poderá figurar em processos em que são partes os ex-sogros e ex-cunhados.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -3778,6 +4449,14 @@
         "id": ""
     },
     {
+        "question": "A respeito da citação e intimação do acusado, nos termos do Código de Processo Penal, estando o acusado no estrangeiro, em lugar conhecido e sendo citado por carta rogatória, o curso do prazo prescricional restará suspenso, até o efetivo cumprimento.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Citado por hora certa, o não comparecimento do réu implicará a decretação da sua prisão, de forma preventiva, restando suspenso o processo e o prazo prescricional.",
         "choices": [],
         "correctAwser": "false",
@@ -3796,6 +4475,22 @@
     {
         "question": "São causas de rejeição da denúncia e absolvição sumária, respectivamente, previstas nos artigos 395 e 397, do Código de Processo penal, inépcia e a prescrição.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos recursos e das ações constitucionais, previstos no Código de Processo Penal, da decisão de pronúncia ou impronúncia do réu, nos processos da competência do tribunal de júri, caberá apelação.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A interposição de recursos será sempre voluntária, inexistindo hipótese de interposição de recurso de ofício pelo juiz.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -3803,6 +4498,30 @@
     },
     {
         "question": "Das decisões proferidas pelos Tribunais, quando não unânimes e favoráveis ao réu, caberão embargos infringentes, a serem interpostos pelo órgão de acusação, no prazo de 10 dias.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A revisão criminal tem por objeto tanto inocentar o condenado quanto diminuir-lhe a pena, na hipótese de surgimento de circunstâncias que autorizem ou determinem diminuição especial da pena.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A legitimidade para impetrar Habeas Corpus é privativa dos operadores do Direito.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos procedimentos ordinário e sumário, de acordo com o texto legal previsto no Código de Processo Penal, em ambos os procedimentos, as alegações finais serão orais, apresentadas em audiência, admitindo-se memoriais por escrito, no prazo de 03 dias, em caso de complexidade do feito.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -3842,6 +4561,14 @@
         "id": ""
     },
     {
+        "question": "A respeito do procedimento relativo ao Tribunal do Júri, oferecida a denúncia por crime de competência do Tribunal do Júri, o Juiz Singular pode, desde logo, rejeitá-la, se presentes as hipóteses previstas no artigo 395, do Código de Processo Penal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O desaforamento do julgamento para outra Comarca da mesma região poderá ser feito apenas a requeri mento do acusado.",
         "choices": [],
         "correctAwser": "false",
@@ -3858,7 +4585,23 @@
         "id": ""
     },
     {
+        "question": "A respeito da Lei no 9.099/95, a transação penal, nas ações penais públicas condicionadas à representação, oferecida pelo Ministério Público ao autor da infração e por ele aceita, não será homologada pelo Juiz se não contar com a anuência da vítima.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Na eventual reunião de processos, perante o juízo comum, decorrentes da aplicação de regra de conexão e continência, às infrações de menor potencial ofensivo aplicar-se-ão os institutos da transação penal e composição dos danos civis.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A suspensão condicional do processo, prevista no artigo 89 da Lei, aplica-se aos crimes cuja pena mínima não exceda a 2 (dois) anos.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -3931,6 +4674,14 @@
     },
     {
         "question": "De acordo com a jurisprudência do Superior Tribunal de Justiça, a inexistência de casa de albergado na localidade da execução da pena não gera o reconhecimento de direito ao benefício da prisão domiciliar quando o apenado estiver cumprindo a reprimenda em local compatível com as regras do regime aberto.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A jurisprudência do Supremo Tribunal Federal consolidou entendimento segundo o qual a hediondez ou a gravidade abstrata do delito não obriga, por si só, o regime prisional mais gravoso, pois o juízo, em atenção aos princípios constitucionais da individualização da pena e da obrigatoriedade de fundamentação das decisões judiciais, deve motivar o regime imposto, observando a singularidade do caso concreto.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -4083,7 +4834,7 @@
         "id": ""
     },
     {
-        "question": "Assinale a alternativa correta. A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1o do art. 110 do Código Penal, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se:",
+        "question": "Assinale a alternativa correta. A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1o do art. 110 do Código Penal, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se: \n A) em vinte anos, se o máximo da pena é superior a dez;\n B) em dezesseis anos, se o máximo da pena é superior a oito anos e não excede a dez;\n C) em doze anos, se o máximo da pena é superior a quatro anos e não excede a oito; (Opção Correta)\n D) em oito anos, se o máximo da pena é superior a dois anos e não excede a seis.",
         "choices": [
             "A) em vinte anos, se o máximo da pena é superior a dez;",
             "B) em dezesseis anos, se o máximo da pena é superior a oito anos e não excede a dez;",
@@ -4099,6 +4850,14 @@
         "question": "Extingue-se a punibilidade, entre outros:  I - pela irretroatividade de lei que não mais considera o fato como criminoso; e II - pela prescrição, decadência ou perempção;",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A reabilitação poderá ser requerida, decorridos 2 (dois) anos do dia em que for extinta, de qualquer modo, a pena ou terminar sua execução, computando-se o período de prova da suspensão e o do livramento condicional, se não sobrevier revogação, desde que o condenado, entre outros, tenha ressarcido o dano causado pelo crime ou demonstre a absoluta impossibilidade de o fazer, até o dia do pedido, ou exiba documento que comprove a renúncia da vítima ou novação da dívida.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4200,6 +4959,14 @@
         "id": ""
     },
     {
+        "question": "A lei penal brasileira é aplicável aos crimes cometidos a bordo de embarcações e aeronaves estrangeiras de propriedade privada que estejam localizadas no mar territorial ou sobrevoando o espaço aéreo brasileiro, sendo também consideradas como extensão do território nacional as embarcações e aeronaves brasileiras, mercantes ou de propriedade privada, localizadas em mar territorial ou no espaço aéreo de outro país, desde que estejam a serviço do governo brasileiro.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Segundo dispõe o princípio da consunção, quando a concretização da prática de um crime depende direta e necessariamente da prática de uma conduta delitiva antecedente, o juiz, no momento da sentença, deve afastar o reconhecimento do concurso de infrações, aplicando ao réu apenas a pena do crime mais grave.",
         "choices": [],
         "correctAwser": "false",
@@ -4217,6 +4984,14 @@
     },
     {
         "question": "O erro quanto à pessoa e o erro na execução do crime fazem com que o agente responda pelos resultados típicos alcançados, não sendo levadas em consideração as condições e características das vítimas que efetivamente pretendia atingir.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A legítima defesa putativa própria caracteriza-se por uma intepretação equivocada do agente em relação às circunstâncias reais de uma determinada situação fática, fazendo-o acreditar que está sofrendo (ou na iminência de sofrer) uma agressão injusta, e seu reconhecimento tem como consequência legal o afastamento da ilicitude da conduta, ainda que tal equívoco interpretativo decorra de culpa do próprio agente.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -4394,6 +5169,14 @@
     {
         "question": "Na fase preliminar do processo penal, o contraditório, na forma de poder participar, requerer, ser ouvido e informado, é inafastável, embora o cerceamento do contraditório no inquérito não produza os mesmos efeitos dos verificados na fase judicial. Inafastável, também, é o direito ao acesso, pelo defensor do investigado, aos elementos de investigação documentados, salvo o sigilo constitucional e legal. Sua obstacularização poderá ser remediada por meio de reclamação ao Supremo Tribunal Federal ou por mandado de segurança.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A renúncia do réu ao direito de apelação, manifestada ainda que sem a assistência de seu defensor, é causa de inadmissibilidade do recurso de apelação interposto, porque o direito constitucional de liberdade e de acesso ao duplo grau de jurisdição é pessoal e indelegável.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -4458,6 +5241,14 @@
     {
         "question": "O princípio da obrigatoriedade da ação penal pública incondicionada estabelece que ao Ministério Público é vedado qualquer juízo discricionário quanto à pertinência ou conveniência da iniciativa penal, sendo, todavia, o instituto da delação premiada uma hipótese de exceção ao referido princípio no ordenamento jurídico brasileiro.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A interposição de um recurso incabível em lugar daquele legalmente previsto para impugnar determinada decisão, ainda que protocolizado tempestiva mente, segundo a atual jurisprudência dominante do Superior Tribunal de Justiça, tem como consequência prática o não conhecimento da irresignação da parte em decorrência do princípio da unirrecorribilidade.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -4474,6 +5265,14 @@
     {
         "question": "O princípio do favor rei se caracteriza, principalmente, pela prevalência dos valores da justiça e da liberdade sobre o poder de punir do Estado, garantindo, no curso do processo penal, certos direitos, exclusivamente ao réu.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autoridade policial somente poderá se manifestar sobre a decretação de fiança nos crimes cuja pena máxima for igual ou inferior a 2 (dois) anos. Nos demais casos, a competência para sua concessão será exclusiva do juiz.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -4483,6 +5282,14 @@
         "question": "Segundo a jurisprudência dominante no Superior Tribunal de Justiça, as medidas cautelares dispostas no artigo 319 do Código de Processo Penal não podem ser aplicadas de forma cumulativa.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A partir da regra da lei penal no tempo, qualquer elemento contido no preceito primário ou secundário de uma norma penal incriminadora (elementares de um crime ou pena), deve obedecer a ideia de anterioridade ou legalidade prévia, sem possibilidade, como regra, de aplicação retroativa.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -4574,8 +5381,15 @@
     },
     {
         "question": "Considerando as recentes mudanças do Código Penal, é correto afirmar, que o crime de feminicídio, tipificado no art. 121-A do referido diploma legal, quando praticado em contexto de violência doméstica, e discriminação contra a mulher, terá uma pena de 20 à 40 anos de reclusão, e independentemente do tempo de cumprimento, pode chegar à até 60 anos, quando praticado em decorrência de descumprimento de medida protetiva, ou quando praticado na presença dos pais ou na presença dos filhos da vítima.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A explicação do crime como fenômeno coletivo cuja origem pode ser encontrada nas mais variadas causas sociais, como a pobreza, a educação, a família e o ambiente moral, corresponde à perspectiva criminológica denominada",
         "choices": [
-            "A) explicação do crime como fenômeno coletivo cuja origem pode ser encontrada nas mais variadas causas sociais, como a pobreza, a educação, a família e o ambiente moral, corresponde à perspectiva criminológica denominada",
             "A) sociologia criminal.",
             "B) criminologia da escola positiva.",
             "C) criminologia socialista.",
@@ -4629,6 +5443,14 @@
     {
         "question": "À luz da jurisprudência do STJ a respeito das circunstâncias judiciais e legais que devem ser consideradas quando da aplicação da pena, a confissão qualificada, na qual o réu alega em seu favor causa descriminante ou exculpante, não afasta a incidência da atenuante de confissão espontânea.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A confissão espontânea em delegacia de polícia pode servir como circunstância atenuante, desde que o réu não se retrate sobre essa declaração em juízo.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -4636,6 +5458,22 @@
     },
     {
         "question": "Uma condenação transitada em julgado de fato posterior ao narrado na denúncia, embora não sirva para fins de reincidência, pode servir para valorar negativamente a personalidade e a conduta social do agente.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A reincidência penal pode ser utilizada simultaneamente como circunstância agravante e como circunstância judicial.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A múltipla reincidência não afasta a necessidade de integral compensação entre a atenuante da confissão espontânea e a agravante da reincidência, haja vista a igual preponderância entre as referidas circunstâncias legais.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -4675,6 +5513,14 @@
         "id": ""
     },
     {
+        "question": "A prescrição da pena de multa ocorrerá em dois anos, quando for a única pena cominada, ou no mesmo prazo de prescrição da pena privativa de liberdade, se tiver sido cominada alternativamente.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Na hipótese de evasão do condenado, a prescrição da pretensão executória é regulada pelo total da pena privativa de liberdade imposta.",
         "choices": [],
         "correctAwser": "false",
@@ -4684,6 +5530,14 @@
     },
     {
         "question": "Com relação aos crimes contra o patrimônio, com base no entendimento jurisprudencial a existência de sistema de vigilância por monitoramento, por impossibilitar a consumação do delito de furto, é suficiente para tornar impossível a configuração desse tipo de crime.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A presença de circunstância qualificadora de natureza objetiva ou subjetiva no delito de furto não afasta a possibilidade de reconhecimento do privilégio, se estiverem presentes a primariedade do agente e o pequeno valor da res furtiva.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -4732,6 +5586,14 @@
     },
     {
         "question": "O livramento condicional somente será concedido aos condenados pelo crime de tráfico privilegiado, que tenham cumprido mais de dois terços da pena, exceto aqueles reincidentes específicos em crimes hediondos ou equiparados.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito do crime de organização criminosa previsto na Lei n.º 12.850/2013, para que se configure, tem de se comprovar a ocorrência de associação estável e permanente de três ou mais pessoas para a prática criminosa.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -4812,6 +5674,22 @@
     },
     {
         "question": "Acerca da ação penal, no caso de crime praticado contra a honra de servidor público no exercício de suas funções, a vítima tem legitimação concorrente com o MP para ajuizar ação penal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A presença do defensor técnico é dispensável por ocasião da formalização do auto de prisão em flagrante, desde que a autoridade policial informe ao preso os seus direitos constitucionalmente garantidos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A decretação de prisão preventiva fundada na garantia da ordem pública dispensa a prévia análise do cabimento das medidas cautelares diversas da prisão previstas no CPP.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -4899,6 +5777,38 @@
         "id": ""
     },
     {
+        "question": "A nulidade do julgamento de processo em órgão colegiado do qual tenha participado magistrado impedido dependerá da possibilidade de mudança no resultado do julgamento, com a subtração do voto desse magistrado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A identificação de causa de suspeição de promotor de justiça implicará nulidade absoluta, razão pela qual a sua consequente alegação não é passível de preclusão.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A denúncia apresentada com ofensa ao princípio do promotor natural será nula e não poderá ser ratificada.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A formulação de perguntas pelo juiz com a inversão do rito previsto no art. 212 do CPP é causa de nulidade que independe da demonstração de prejuízo.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca dos procedimentos relativos aos processos de competência do tribunal do júri, em decorrência do princípio do in dubio pro societate, o testemunho por ouvir dizer produzido na fase inquisitorial é suficiente para a decisão de pronúncia.",
         "choices": [],
         "correctAwser": "false",
@@ -4971,6 +5881,14 @@
         "id": ""
     },
     {
+        "question": "A respeito de questões prejudiciais e processos incidentes, subsistindo questão prejudicial sobre o estado civil do réu, o juiz criminal deverá continuar o trâmite processual e decidir a questão como preliminar de mérito por ocasião da prolação da sentença.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "As causas de suspeição do juiz serão arguidas em exceção própria, por petição assinada por advogado, independentemente de esse poder especial constar na procuração.",
         "choices": [],
         "correctAwser": "false",
@@ -4996,6 +5914,22 @@
     },
     {
         "question": "O exame médico-legal realizado no incidente de insanidade mental é prova constituída em favor da defesa, podendo o juiz, de ofício, determinar a sua realização compulsória quando o réu recusar submeter-se a ele.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos crimes contra a criança e o adolescente, suponha que Marcos, maior imputável, subtraia, em coautoria com o adolescente Ricardo, menor com várias condenações por atos infracionais anteriores, o celular de uma mulher, mediante grave ameaça com emprego de arma de fogo. Nessa hipótese, Marcos responderá somente pelo crime de roubo duplamente circunstanciado.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A mera exibição, em fotografia ou vídeo, dos órgãos genitais de uma criança ou adolescente para fins primordialmente sexuais é insuficiente para a configuração dos crimes que, previstos no ECA, estejam relacionados a imagens de pornografia infantil.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -5148,6 +6082,14 @@
     },
     {
         "question": "Em relação à segunda fase da dosimetria da pena, com base nos dispositivos legais pertinentes e à jurisprudência dominante dos tribunais superiores, consoante expressa previsão legal, a embriaguez culposa é circunstância atenuante apta a reduzir a reprimenda nessa fase.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prática de delito sob a influência de multidão em tumulto constitui atenuante da pena, desde que o incidente não tenha sido provocado pelo próprio agente.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -5331,6 +6273,22 @@
         "id": ""
     },
     {
+        "question": "A suspensão condicional da pena é instituto aplicável somente ao condenado por crime que não tenha sido praticado com violência ou grave ameaça à pessoa.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A pena de detenção deverá ser cumprida em regime semiaberto ou aberto, salvo necessidade de transferência ao regime fechado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Com base em termo circunstanciado relativo à descrição dos crimes de resistência, desobediência e desacato, o promotor de justiça ofereceu denúncia apenas em relação ao crime de desacato, junto a uma das varas do juizado especial criminal de Brasília, e promoveu o arquivamento em relação aos demais crimes. Ao receber a denúncia, o juiz proferiu decisão pautada no declínio da competência para uma das varas criminais comuns de Brasília, tendo o juízo, ao receber os autos, suscitado conflito negativo de competência. Em face dessa situação hipotética, dada a tipificação apresentada na peça acusatória, a competência será do juízo suscitado.",
         "choices": [],
         "correctAwser": "true",
@@ -5426,7 +6384,7 @@
             "C) decisão interlocutória mista não terminativa.",
             "D) decisão definitiva em sentido amplo."
         ],
-        "correctAwser": "D",
+        "correctAwser": "C",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "MULTIPLE_CHOICE",
         "id": ""
@@ -5475,6 +6433,27 @@
     },
     {
         "question": "Determinado funcionário público exigiu de cidadão a quem deveria atender no exercício de sua função, o pagamento de um benefício financeiro para si como condição para emissão de certidão à qual o cidadão tinha direito e que o referido funcionário público tem obrigação de emitir, em virtude de suas atribuições funcionais. O referido funcionário praticou o crime de:",
+        "choices": [
+            "A) Excesso de Exação",
+            "B) Concussão",
+            "C) Corrupção passiva",
+            "D) Corrupção ativa"
+        ],
+        "correctAwser": "B",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A polícia judiciária será exercida pelas autoridades policiais no território de suas respectivas circunscrições e terá por fim a apuração das infrações penais e da sua autoria.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A competência definida no território de suas respectivas circunscrições para a polícia judiciária excluirá a de autoridades administrativas, a quem por lei seja cometida a mesma função.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -5646,6 +6625,14 @@
         "id": ""
     },
     {
+        "question": "A Constituição Federal estabelece no art. 5º, inc. XXXVIII, \"d\", que o Tribunal do Júri possui competência para o julgamento dos crimes dolosos contra a vida. Assim, levando em consideração a competência do Tribunal do Júri, não compete ao Tribunal do Júri o julgamento de civil que comete crime de homicídio doloso contra militar das Forças Armadas em serviço, em lugar sujeito à administração militar.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "De acordo com entendimento jurisprudencial consolidado no Supremo Tribunal Federal, a competência constitucional do Tribunal do Júri não prevalece sobre o foro por prerrogativa de função estabelecido exclusivamente pela constituição estadual, dado o respeito a autonomia normativa dos estados no modelo federativo.",
         "choices": [],
         "correctAwser": "false",
@@ -5766,9 +6753,25 @@
         "id": ""
     },
     {
+        "question": "A respeito da jurisdição e da ação, para postular em juízo é necessário ter interesse e legitimidade, entretanto, o interesse do autor não pode limitar-se à declaração da autenticidade ou da falsidade de documento.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que se refere à interpretação da lei penal, a interpretação judicial desta se manifesta na edição de súmulas vinculantes editadas pelos tribunais.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A interpretação extensiva é admitida em direito penal para estender o sentido e o alcance da norma até que se atinja sua real acepção.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -5831,6 +6834,19 @@
     },
     {
         "question": "“Apropriar-se o funcionário público de dinheiro, valor ou qualquer bem móvel, público ou particular, de que tem a posse em razão do cargo, ou desviá-lo, em proveito próprio ou alheio”. A conduta acima descrita refere –se ao crime de:",
+        "choices": [
+            "A) peculato.",
+            "B) concussão.",
+            "C) corrupção ativa.",
+            "D) corrupção passiva."
+        ],
+        "correctAwser": "A",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A mera simulação da participação de criança ou adolescente em cena pornográfica por meio da adulteração de fotografia é uma conduta atípica, haja vista a ausência de perigo concreto ao bem jurídico que poderia ser tutelado.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -5998,7 +7014,7 @@
         "id": ""
     },
     {
-        "question": "100 A lei processual penal não oferece restrições à citação pessoal do réu durante a realização de cultos religiosos ou fúnebres.",
+        "question": "A lei processual penal não oferece restrições à citação pessoal do réu durante a realização de cultos religiosos ou fúnebres.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -6009,6 +7025,22 @@
         "question": "Em regra, a nulidade absoluta de sentença poderá ser arguida a qualquer tempo, ressalvada a hipótese da sentença absolutória, que, uma vez transitada em julgado, não mais comportará a referida arguição.",
         "choices": [],
         "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A falta de intimação do recorrido para apresentar resposta a recurso interposto é hipótese de nulidade absoluta, mesmo que, a despeito de não ter sido intimado, ele apresente as contrarrazões ao recurso aviado.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A juntada tardia aos autos — após o interrogatório do réu — de transcrições integrais de interceptações telefônicas autorizadas judicialmente constitui causa de nulidade absoluta dos autos.",
+        "choices": [],
+        "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -6257,8 +7289,16 @@
             "A) proibição direta, que isenta o agente de pena.",
             "B) tipo essencial, que isenta o agente de pena.",
             "C) tipo acidental, que reduz a pena do agente em até 2/3.",
-            "D) proibição indireto, que reduz a pena do agente em até 2/3.",
-            "A) modalidade de recurso cabível para impugnar o ato judicial que recusar a homologação à proposta de acordo de não persecução penal é:",
+            "D) proibição indireto, que reduz a pena do agente em até 2/3."
+        ],
+        "correctAwser": "A",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A modalidade de recurso cabível para impugnar o ato judicial que recusar a homologação à proposta de acordo de não persecução penal é:",
+        "choices": [
             "A) a carta testemunhável.",
             "B) o agravo de instrumento.",
             "C) a apelação.",
@@ -6422,6 +7462,14 @@
     },
     {
         "question": "Nas excludentes de antijuridicidade há limites impostos pela própria lei para que o fato tipificado seja justificado. Sobre o tema do excesso na causa de justificação, é correto afirmar que a exculpação do excesso na causa de justificação pode ter três sistemas de aplicação: erro de cálculo, quase justificação e estados psíquicos excepcionais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei dispensa tratamento cauteloso à embriaguez do agente, que inclui não apenas o uso de álcool, mas também de qualquer outra droga, lícita ou ilícita, que possa provocar alterações de ordem psíquica.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -6658,6 +7706,14 @@
         "id": ""
     },
     {
+        "question": "A revisão criminal tradicionalmente é tratada pela doutrina como ação autônoma que tem como objetivo questionar decisão penal condenatória após o trânsito em julgado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O Código de Processo Penal prevê que a revisão criminal, ação autônoma que é,  será admissível uma única vez pelo condenado, independentemente de novas provas.",
         "choices": [],
         "correctAwser": "false",
@@ -6752,6 +7808,14 @@
     },
     {
         "question": "O Supremo Tribunal Federal, pacificou entendimento de que é possível a retroatividade do acordo de não persecução penal – ANPP para casos denunciados antes da entrada em vigor da Lei nº 13.964/2019, também conhecida como pacote anticrime.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A simples mudança de interpretação jurisprudencial para melhor pelo Superior Tribunal de Justiça, não implica retroatividade para fatos transitados em julgado, salvo se houver alguma modulação de efeitos em controle de constitucionalidade. A jurisprudência, portanto, não deve ser interpretada como a lei penal melhor.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -6878,6 +7942,14 @@
     {
         "question": "O acordo de Não Persecução Penal, segundo entendimento do STF, não é um direito subjetivo da vítima, e portanto, não podendo esta recusá-lo.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A vítima não poderá recorrer da promoção de arquivamento de investigação penal realizada pelo Ministério Público e homologada pelo juiz.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -6909,6 +7981,14 @@
     },
     {
         "question": "O erro de tipo escusável, isenta de pena, enquanto que o inexcusável, responde por culpa, uma culpa imprópria por assimilação ou equiparação.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A legítima defesa real possui solução no art. 25 do código penal.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -6972,9 +8052,40 @@
         "id": ""
     },
     {
+        "question": "A lei melhor é aplicada pelo juiz da execução.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A reincidência interfere na prescrição da pretensão executória PPE.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A reincidência não interfere na prescrição punitiva.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O supremo Tribunal Federal, fazendo releitura do art. 112 do CP, para dizer que a pretensão da prescrição executória, inicia a contagem com o transito em julgado, para ambas as partes.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A terceira via no Direito Penal corresponde à:",
         "choices": [
-            "A) terceira via no Direito Penal corresponde à:",
             "A) Pena privativa de liberdade e penas restritivas de direito;",
             "B) Diminuição ou exclusão da pena privativa como resultado da reparação de danos à vítima;",
             "C) Medida de segurança e penas restritivas de direito;",
@@ -7002,7 +8113,23 @@
         "id": ""
     },
     {
+        "question": "A diversidade do modo de execução de crimes de roubo não afasta a possibilidade de reconhecimento da continuidade delitiva.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O reconhecimento da continuidade delitiva implica a obrigatoriedade de fixação da pena em patamar inferior ao que seria aplicável com base no cúmulo material.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos crimes cibernéticos, o crime de invasão de dispositivo informático é submetido a ação penal pública incondicionada, salvo se cometido contra o presidente da República ou chefe de governo estrangeiro, hipótese em que se exige requisição do ministro da justiça.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -7090,6 +8217,14 @@
         "id": ""
     },
     {
+        "question": "A definição legal de organização criminosa promovida pela Lei n.º 12.850/2013 internaliza na legislação nacional a definição de grupo criminoso organizado constante da Convenção de Palermo.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O concurso de funcionário público é qualificadora do crime de integrar organização criminosa.",
         "choices": [],
         "correctAwser": "false",
@@ -7138,6 +8273,22 @@
         "id": ""
     },
     {
+        "question": "A semi-imputabilidade do agente afasta a natureza hedionda do crime de tráfico de drogas.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A reincidência genérica autoriza a duplicação do prazo máximo da prestação de serviços à comunidade ou da medida educativa de comparecimento a programa ou curso educativo impostas ao condenado pelo crime de porte de drogas para consumo pessoal.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "No que concerne ao princípio da legalidade em matéria penal, o princípio da legalidade, em sua faceta política, cumpre uma função constitutiva em relação às penas ilegais e uma função de garantia em relação às penas legais.",
         "choices": [],
         "correctAwser": "false",
@@ -7154,7 +8305,39 @@
         "id": ""
     },
     {
+        "question": "A aplicação da pena não observa o princípio da legalidade, mas o da discricionariedade judicial.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A norma penal em branco invertida é admissível, desde que homogênea.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Não há normas penais em branco no Código Penal, estando elas presentes apenas na legislação penal extravagante.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A saída temporária é cabível ao apenado em regime semiaberto, mas não ao apenado em prisão domiciliar substitutiva do regime semiaberto por falta de estabelecimento adequado, em razão da manifesta incompatibilidade.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -7170,9 +8353,25 @@
         "id": ""
     },
     {
+        "question": "A manutenção do monitoramento eletrônico ao apenado beneficiado com prisão domiciliar substitutiva do regime aberto implica constrangimento ilegal, dada a ausência de permissivo em lei.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Verificado déficit de vagas obstativo da progressão ao regime semiaberto, o juízo da execução penal deve promover a imediata inclusão do preso no programa especial de monitoramento, vedada a priorização dos apenados inseridos há mais tempo no regime de pena intermediário ou mais próximos da obtenção do regime aberto.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A súmula vinculante 56 do STF, destina-se exclusivamente aos casos de cumprimento de pena, ou seja, aplica-se tão somente ao preso definitivo ou àquele em execução provisória da condenação, não se estendendo ao preso provisório.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -7187,6 +8386,30 @@
     },
     {
         "question": "No que tange ao concurso de agentes, para a caracterização do delito de associação criminosa inserido em contexto societário, é desnecessário que a denúncia contenha a descrição da predisposição comum de meios para a prática de uma série indeterminada de delitos e uma contínua vinculação entre os associados com essa finalidade.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autoria mediata é incompatível com o crime culposo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A autoria mediata é incompatível com o crime próprio.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria do domínio do fato funciona como uma ratio para aferir a existência do nexo de causalidade entre o crime e o agente e serve de fundamento para considerar que houve participação no crime em razão da posição de gestor, diretor ou sócio administrador de empresa ou organização.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -7210,6 +8433,14 @@
         "id": ""
     },
     {
+        "question": "A prescrição da pretensão executória, no que pressupõe quadro a revelar a possibilidade de execução da pena, tem como marco inicial o trânsito em julgado da condenação apenas para a defesa.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Havendo dúvida resultante da omissão cartorária em certificar a data de recebimento da sentença, não se pode presumir a data de publicação com o lançamento de movimentação dos autos na Internet, para fins de interrupção do prazo prescricional.",
         "choices": [],
         "correctAwser": "true",
@@ -7219,8 +8450,15 @@
     },
     {
         "question": "No que tange à prescrição em matéria penal, o cumprimento de pena imposta em outro processo não impede o curso da prescrição executória.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da ação penal, assinale a opção correta.",
         "choices": [
-            "A) respeito da ação penal, assinale a opção correta.",
             "A) A representação é irretratável somente depois de recebida a denúncia.",
             "B) A renúncia meramente tácita não impede o exercício do direito de queixa.",
             "C) É inadmissível o perdão após o recebimento da denúncia.",
@@ -7329,6 +8567,19 @@
     },
     {
         "question": "Conforme disposto no Código de Processo Penal, a exceção cuja arguição, em regra, precederá às demais é a de",
+        "choices": [
+            "A) incompetência de juízo.",
+            "B) litispendência.",
+            "C) coisa julgada.",
+            "D) suspeição."
+        ],
+        "correctAwser": "D",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da relação jurídica processual e da prova, conquanto esteja incorporada ao direito processual penal brasileiro mediante disposições doutrinárias e jurisprudenciais, a aplicação da teoria dos frutos da árvore envenenada (fruits of the poisonous tree), carece de previsão legal no ordenamento jurídico pátrio.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -7472,6 +8723,22 @@
         "id": ""
     },
     {
+        "question": "A incompetência do juízo anula somente os atos decisórios, devendo o processo, quando for declarada a nulidade, ser remetido ao juiz competente.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A nulidade por ilegitimidade do representante da parte poderá ser a todo tempo sanada, mediante ratificação dos atos processuais.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "As omissões da denúncia ou da queixa, da representação, ou, nos processos das contravenções penais, da portaria ou do auto de prisão em flagrante poderão ser supridas a todo tempo, antes da sentença final.",
         "choices": [],
         "correctAwser": "true",
@@ -7515,6 +8782,14 @@
     },
     {
         "question": "No que tange à audiência de custódia, se a autoridade judicial entender que há indícios da prática de tortura, deverá ser determinado o registro das informações, adotando-se as providências cabíveis para a investigação da denúncia e preservação da segurança física e psicológica da vítima, que será encaminhada para atendimento médico e psicossocial especializado.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A audiência de custódia será realizada na presença do Ministério Público, da Defensoria Pública, caso a pessoa detida não possua defensor constituído no momento da lavratura do auto de prisão em flagrante, bem como dos agentes policiais responsáveis pela prisão ou pela investigação.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -7562,6 +8837,14 @@
         "id": ""
     },
     {
+        "question": "A respeito da teoria do domínio do fato, na coautoria verifica-se o denominado “domínio funcional”, em que há a divisão de tarefas entre os agentes, sem que haja necessidade de que todos executem diretamente todas as elementares do tipo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Acerca da teoria do domínio do fato, a realização pessoal e responsável de todos os elementos do tipo fundamenta a autoria imediata, por “domínio da ação”.",
         "choices": [],
         "correctAwser": "true",
@@ -7572,6 +8855,14 @@
     {
         "question": "No que concerne à teoria do domínio do fato, o “domínio da vontade”, pelo erro, configura uma das hipóteses de autoria mediata.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria do domínio do fato se aplica aos crimes dolosos e culposos, indistintamente, o que decorre do “conceito unitário” de autor, ao qual a teoria se vincula.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -7579,6 +8870,14 @@
     },
     {
         "question": "Acerca dos crimes contra a pessoa, é correto afirmar que o infanticídio admite modalidade culposa.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A circunstância de o homicídio ser praticado por milícia configura uma qualificadora do crime.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -7635,6 +8934,14 @@
     },
     {
         "question": "Sobre a Lei de Abuso de Autoridade (Lei 13.869/19), é correto afirmar que para fins de decretação da perda do cargo, mandato ou função, exige a reincidência específica em delito de abuso de autoridade, mas não se refere ao quantum da pena.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A perda do cargo, mandato ou função é um efeito automático da sentença condenatória, não dependendo de decretação expressa.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -7723,8 +9030,21 @@
     },
     {
         "question": "Nos crimes contra a honra, é CORRETO afirmar:",
-        "choices": [],
+        "choices": [
+            "A) Somente se admite o pedido de explicações nos crimes de calúnia e difamação.",
+            "B) A retratação é admitida na calúnia, na difamação e na injúria.",
+            "C) As excludentes especiais são admitidas na difamação e na injúria.",
+            "D) Nas excludentes especiais, quem dá publicidade aos fatos responderá pela ofensa em qualquer hipótese."
+        ],
         "correctAwser": "C",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito das características das escolas criminológicas clássicas e positivistas, é correto afirmar que a metodologia da escola clássica é a lógico-abstrata e a da escola positivista é a empírica-experimental.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -7771,6 +9091,14 @@
     },
     {
         "question": "O Superior Tribunal de Justiça, acompanhando posicionamento consolidado no Supremo Tribunal Federal, firmou o entendimento de que eventual irregularidade na informação acerca do direito de permanecer em silêncio é causa de nulidade relativa, cujo reconhecimento depende da comprovação do prejuízo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A testemunha compromissada, enquanto ouvida formalmente nessa condição, não pode deixar de responder a pergunta da autoridade invocando a garantia contra a autoincriminação, embora suas declarações, neste caso, não tenham valor probatório de confissão.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -7954,6 +9282,14 @@
         "id": ""
     },
     {
+        "question": "A decisão absolutória sumária, nos diferentes ritos procedimentais e qualquer que seja seu fundamento, enseja o recurso de apelação.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Ante rejeição de denúncia ou queixa ofertada, o recurso cabível, qualquer que seja o rito procedimental, é o recurso em sentido estrito.",
         "choices": [],
         "correctAwser": "false",
@@ -8035,6 +9371,14 @@
     },
     {
         "question": "Acerca do princípio da consumação, entende o Superior Tribunal de Justiça pela sua incidência quando for um dos crimes meio necessário ou usual para a preparação, execução ou mero exaurimento do delito final visado pelo agente, desde que não ofendidos bens jurídicos distintos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A causa de diminuição do Art. 16 do Código Penal, referente ao arrependimento posterior, somente tem aplicação se houver a integral reparação do dano ou a restituição da coisa antes do recebimento da denúncia, variando o índice de redução da pena em função da maior ou menor celeridade no ressarcimento do prejuízo à vítima.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -8221,10 +9565,18 @@
     },
     {
         "question": "Segundo orientação do Superior Tribunal de Justiça, o “poder geral de cautela” não pode ser aplicado ao processo penal, havendo restrição a ele no que diz respeito às cautelares pessoais que, de alguma forma, restrinjam o direito de ir e vir da pessoa.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A jurisprudência do Supremo Tribunal Federal é no sentido de que a razoável duração do processo deve ser aferida à luz das particularidades do caso concreto, levando-se em consideração o número de réus, a quantidade de testemunhas a serem inquiridas, a necessidade de expedição de cartas precatórias, a natureza e a complexidade dos delitos imputados, assim como a atuação das partes. A Corte Suprema admite, ainda, como fator legitimador da duração razoável do processo:",
         "choices": [
-            "A) jurisprudência do Supremo Tribunal Federal é no sentido de que a razoável duração do processo deve ser aferida à luz das particularidades do caso concreto, levando-se em consideração o número de réus, a quantidade de testemunhas a serem inquiridas, a necessidade de expedição de cartas precatórias, a natureza e a complexidade dos delitos imputados, assim como a atuação das partes. A Corte Suprema admite, ainda, como fator legitimador da duração razoável do processo:",
             "A) a existência de sentença condenatória com imposição de acentuada reprimenda;",
-            "B) a contagem aritmética dos prazos legais em confronto com o desenvolvimento do processo; C) o excesso de trabalho a cargo do órgão do Poder Judiciário responsável pelo julgamento;",
+            "B) a contagem aritmética dos prazos legais em confronto com o desenvolvimento do processo;", 
+            "C) o excesso de trabalho a cargo do órgão do Poder Judiciário responsável pelo julgamento;",
             "D) a limitação estrutural do órgão do Poder Judiciário responsável pelo julgamento;"
         ],
         "correctAwser": "A",
@@ -8323,8 +9675,15 @@
     },
     {
         "question": "Quanto ao delito de apropriação indébita previdenciária, é correto afirmar que o termo “descontado” se refere aos tributos diretos quando há responsabilidade tributária por substituição, enquanto o termo “cobrado” se refere às relações tributárias havidas com tributos indiretos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A medida assecuratória de indisponibilidade de bens prevista no Art. 4º, §4º, da Lei nº 9.613/1998 permite a constrição de:",
         "choices": [
-            "A) medida assecuratória de indisponibilidade de bens prevista no Art. 4º, §4º, da Lei nº 9.613/1998 permite a constrição de:",
             "A) bens, direitos ou valores oriundos da prática criminosa apenas para reparação do dano decorrente do crime;",
             "B) quaisquer bens, direitos ou valores para reparação do dano decorrente do crime ou para pagamento apenas de pena de multa;",
             "C) bens, direitos ou valores oriundos da prática criminosa apenas para pagamento de prestação pecuniária, pena de multa e custas processuais;",
@@ -8433,9 +9792,49 @@
         "id": ""
     },
     {
+        "question": "A individualização da pena é um princípio de direito material implícito atento à individualidade objetiva do delito e condição subjetiva de cada delinquente.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A reação defensiva na legítima defesa não exige que o fato seja previsto como crime, mas deve ser no mínimo um ato ilícito em sentido amplo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A ilicitude penal projeta-se para o todo do direito e, assim, não se restringe ao campo do direito penal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Os conceitos de ilicitude e injusto não se distinguem uma vez que ambos não dispensam contrariedade ao ordenamento jurídico.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A capacidade penal e a imputabilidade são pressupostos ou requisitos fundamentais do juízo de culpabilidade, mas não se distinguem.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A noção de capacidade penal é absoluta e se refere à própria posição da pessoa perante o ordenamento jurídico-penal e, aplicável a qualquer relação hipotética que possa existir.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -8505,6 +9904,22 @@
         "id": ""
     },
     {
+        "question": "A despenalização informal pode resultar de ato administrativo, enquanto a despenalização formal pode decorrer da substituição da pena criminal por uma sanção de outra ordem jurídica.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria do domínio do fato revela um conceito indeterminado ou fixo e admite como elementos o método descritivo e a integração do regulativo.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Os crimes de mão própria não admitem coautoria e nem autoria mediata, uma vez que o seu conteúdo de injusto reside precisamente na pessoal e indeclinável realização da atividade proibida.",
         "choices": [],
         "correctAwser": "true",
@@ -8529,7 +9944,23 @@
         "id": ""
     },
     {
+        "question": "A assertiva de que ninguém pode ser punido pelo que pensa ou pelo modo de viver reflete o princípio da exteriorização do fato em direito penal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Na hipótese de estupro de pessoa maior de idade e que não seja vulnerável, mas com violência de que resulte lesão corporal grave, haverá litisconsórcio facultativo entre o Ministério Público e o ofendido.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A derrogação é a revogação total da lei por enunciação expressa ou tácita da nova lei ao regular o mesmo fato.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -8555,6 +9986,54 @@
     {
         "question": "O princípio da intervenção mínima se vincula mais ao legislador objetivando reduzir o número das normas incriminadoras, enquanto o princípio da insignificância se dirige ao Juiz do caso concreto quando o dano ou perigo de dano são irrisórios.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A conciliação e a transação instituídos pela Constituição Federal vigente caracterizam hipóteses de desjudiciarização de infrações penais de menor potencial lesivo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Política Criminal é a sabedoria legislativa do Estado na luta contra as infrações penais tendo em conta a transformação da realidade social e humana.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A atipicidade conglobante aflora em função de permissões que a ordem jurídica regularmente estabelece.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A tipicidade penal como elemento essencial do delito não se satisfaz com a tipicidade legal, ou seja, a simples adequação da conduta a uma norma incriminadora.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A tipicidade penal exige a adequação da conduta a uma norma incriminadora, bem assim, a violação de um imperativo de comando ou de proibição. Esse contexto resulta na denominada tipicidade conglobante.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria puramente normativa satisfaz as exigências jurídicas e éticas para justificar a omissão penalmente relevante.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -8579,6 +10058,14 @@
     {
         "question": "O indulto parcial também conhecido como comutação de pena não representa a extinção da punibilidade, e serve apenas para a diminuição da pena a ser cumprida.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A anistia concedida antes ou depois da condenação extingue todos os efeitos penais, à exceção da reincidência, mas subsiste a obrigação de indenizar.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -8602,6 +10089,14 @@
     },
     {
         "question": "Na configuração dos crimes de resultado basta o desvalor do ato para a ofensa ao bem jurídico.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A medida de segurança, a exemplo da pena, tem o caráter retributivo e sua finalidade principal é promover a recuperação do doente ou perturbado mental.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -8642,6 +10137,22 @@
     },
     {
         "question": "As leis penais em branco são identificadas pelo sentido genérico do preceito que deve ser completado por outra disposição normativa e não se distinguem das leis penais incompletas ou imperfeitas.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A função político-criminal e a função interpretativa ou dogmática representam funções básicas do princípio da ofensividade no direito penal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A pena de detenção trata-se de sanção privativa de liberdade e que só admite o cumprimento em regime semiaberto ou aberto, e se distingue da pena de reclusão ante a maior gravidade do crime.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -8809,6 +10320,22 @@
         "id": ""
     },
     {
+        "question": "A substituição da prisão preventiva pela prisão domiciliar de quem é pai está condicionada, nos termos da Lei, a ser ele o único responsável pelos cuidados de filho de até 12 anos de idade incompletos, e, no caso da mulher, o único requisito é que seja mãe de filhos da mesma idade, até 12 (doze) anos incompletos, ainda que não seja ela a única responsável pelos cuidados dos filhos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei prevê, expressamente, a possibilidade de substituição da prisão preventiva pela prisão domiciliar quando a medida for imprescindível para os cuidados especiais de pessoas menores de 06 (seis) anos ou com deficiência. Nesse caso, exige-se relação de parentesco de primeiro grau entre o acusado ou indiciado e a criança ou deficiente, além da relação de dependência imediata e direta.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O juiz, ao fundamentar a sentença de pronúncia, limitar-se-á à indicação da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, devendo declarar o dispositivo legal em que julgar incurso o acusado e especificar as circunstâncias qualificadoras, as causas de aumento de pena e, se for o caso, as causas de sua diminuição.",
         "choices": [],
         "correctAwser": "false",
@@ -8909,7 +10436,28 @@
     {
         "question": "Na apuração das infrações de menor potencial ofensivo, não se admitirá nenhuma espécie de citação ficta.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos recursos no processo penal, assinale a propositura correta:",
+        "choices": [
+            "A) Apesar do princípio da complementariedade, não é permitido ao recorrente complementar a fundamentação de seu recurso quando houver complementação da decisão recorrida.",
+            "B) Cabe recurso de embargos infringentes quando, em segundo grau, a decisão desfavorável ao réu, por maioria, reformar a de primeiro grau que lhe era favorável.",
+            "C) Cabe recurso em sentido estrito das decisões definitivas de absolvição proferidas pelo juiz singular.",
+            "D) No procedimento sumaríssimo, regido pela Lei n.º 9.099, de 26 de setembro de 1995, é de 05 (cinco) dias o prazo para a interposição de embargos de declaração contra a sentença."
+        ],
         "correctAwser": "D",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A participação de membro do Ministério Público na fase investigatória criminal não acarreta o seu impedimento ou suspeição para o oferecimento da denúncia.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -8981,6 +10529,14 @@
     {
         "question": "No que concerne aos crimes praticados na direção de veículo automotor, aplica-se à lesão corporal culposa, a transação penal, exceto se o agente estiver sob a influência de álcool ou outra substância psicoativa que determine dependência.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A remoção do veículo por seu condutor imediatamente após a ocorrência de acidente automobilístico configura o crime de fraude processual.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -9013,8 +10569,16 @@
             "A) As penas restritivas de direito e a pena de multa prescrevem em dois anos quando cominadas isolada ou cumulativamente.",
             "B) Após a sentença condenatória transitar em julgado, a prescrição não corre enquanto o condenado estiver preso por outro motivo.",
             "C) O oferecimento da denúncia interrompe a prescrição; nos casos de crimes conexos que sejam objeto de um mesmo processo, a interrupção incidirá considerando-se a pena de cada crime isoladamente.",
-            "D) Nos casos de crimes conexos, a extinção da punibilidade de um crime impede, em relação ao(s) outro(s), a agravação da pena resultante da conexão.",
-            "A) respeito de crimes contra a dignidade sexual, assinale a opção correta.",
+            "D) Nos casos de crimes conexos, a extinção da punibilidade de um crime impede, em relação ao(s) outro(s), a agravação da pena resultante da conexão."
+        ],
+        "correctAwser": "B",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito de crimes contra a dignidade sexual, assinale a opção correta.",
+        "choices": [
             "A) Para a configuração do crime de estupro de vulnerável, é relevante, na avaliação da atipicidade da conduta, averiguar a existência de relacionamento amoroso entre a vítima e o agente.",
             "B) O STJ pacificou o entendimento de que, com o advento do Estatuto da Pessoa com Deficiência, eventual consentimento da vítima afasta a tipicidade do estupro de vulnerável.",
             "C) Em regra, o crime de importunação sexual pode ter como agente passivo pessoa vulnerável, dados a especificidade da conduta e seu caráter de crime não subsidiário.",
@@ -9192,6 +10756,22 @@
     {
         "question": "Sobre o crime de falso testemunho é crime de natureza formal, consumando-se no momento da afirmação falsa a respeito de fato jurídico relevante para o julgamento.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A retratação, até o trânsito em julgado da sentença, extingue a punibilidade do crime de falso testemunho.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A tentativa no crime de falso testemunho ocorre quando o Juiz percebe, durante a elaboração da sentença, que a testemunha ouvida em audiência faltou com a verdade e, em razão disso, desconsidera suas afirmações.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -9348,16 +10928,8 @@
     {
         "question": "Prevista no Código Penal e em legislações extravagantes, a multa é modalidade de pena que pode ser aplicada em conjunto com a pena privativa de liberdade ou isoladamente. Acerca da disciplina contida no CP sobre a pena de multa, assinale a opção correta.",
         "choices": [
-            "A) O valor do dia-multa é arbitrado com base no salário mínimo mensal vigente ao tempo da condenação do réu e deve ser atualizado, quando da execução, pelos índices de correção monetária aplicáveis."
-        ],
-        "correctAwser": "A",
-        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "MULTIPLE_CHOICE",
-        "id": ""
-    },
-    {
-        "question": "B0 Ao fixar a pena de multa, o juiz deve atender principalmente ao grau de reprovabilidade do delito e desconsiderar a situação econômica para não apenar diferentemente réus condenados pelo mesmo crime.",
-        "choices": [
+            "A) O valor do dia-multa é arbitrado com base no salário mínimo mensal vigente ao tempo da condenação do réu e deve ser atualizado, quando da execução, pelos índices de correção monetária aplicáveis.",
+            "B) Ao fixar a pena de multa, o juiz deve atender principalmente ao grau de reprovabilidade do delito e desconsiderar a situação econômica para não apenar diferentemente réus condenados pelo mesmo crime.",
             "C) As hipóteses de interrupção e suspensão da prescrição de penas de multa são as mesmas previstas para as penas privativas de liberdade, tanto antes quanto após o trânsito em julgado da condenação.",
             "D) Se houver concurso formal ou material de crimes punidos com pena de multa, ao condenado devem ser aplicadas distinta e integralmente as multas referentes a cada um dos delitos."
         ],
@@ -9376,6 +10948,19 @@
     },
     {
         "question": "Segundo o Código Penal, é efeito da condenação criminal transitada em julgado a",
+        "choices": [
+            "A) perda de cargo público, que se dá de forma automática e independente de motivação por parte do juiz se houver sido aplicada pena privativa de liberdade igual ou superior a um ano, nos crimes praticados com abuso de poder.",
+            "B) perda, em favor da União, do produto do crime ou de qualquer bem ou valor que constitua vantagem alcançada pelo agente com a prática do fato criminoso, ainda que isso traga prejuízo à vítima, que deve ajuizar ação de perdas e danos contra o condenado se desejar indenização.",
+            "C) perda automática da permissão para dirigir ou da carteira de habilitação quando o condenado tiver usado um veículo como meio para a prática de crime doloso, culposo ou contravenção penal.",
+            "D) incapacidade para o exercício do pátrio poder no caso de crime doloso apenado com reclusão e cometido contra filho, desde que motivadamente declarada na sentença."
+        ],
+        "correctAwser": "D",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A obrigatoriedade de indenizar a vítima pelos danos causados pelo crime, desde que a vítima tenha se habilitado como assistente de acusação e formulado prova e pedido expresso acerca do reconhecimento do dano causado, é efeito da condenação criminal transitada em julgado.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -9431,8 +11016,15 @@
     },
     {
         "question": "O direito brasileiro proíbe a aplicação de pena privativa de liberdade a agentes semi-imputáveis e restringe a punição a essas pessoas a medidas de segurança de tratamento ambulatorial.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito de princípios que norteiam o ordenamento jurídico brasileiro em matéria processual penal e acerca da fase investigativa da persecução penal, assinale a opção correta.",
         "choices": [
-            "A) respeito de princípios que norteiam o ordenamento jurídico brasileiro em matéria processual penal e acerca da fase investigativa da persecução penal, assinale a opção correta.",
             "A) Quando discordar de pedido de arquivamento feito pelo MPF, o juiz federal singular deverá remeter os autos ao procurador-geral da República, de acordo com o CPP.",
             "B) Se houver delação anônima em crime de ação penal privada, poderá a autoridade policial iniciar o inquérito sem a prévia autorização da vítima, visando resguardar a materialidade do crime.",
             "C) Caso conclua pela atipicidade da conduta investigada, a autoridade policial poderá determinar o arquivamento do inquérito.",
@@ -9474,6 +11066,19 @@
     },
     {
         "question": "Em relação à prova testemunhal, assinale a opção correta.",
+        "choices": [
+            "A) Nos termos do CPP, para que um militar seja inquirido em juízo, deve ser feita uma requisição diretamente à autoridade que lhe seja hierarquicamente superior.",
+            "B) Quando não for possível obter ou integrar a prova do fato e de suas circunstâncias por outros meios, o ascendente ou descendente do réu não poderá ser eximido de depor sob compromisso.",
+            "C) Caso um deputado federal venha a ser réu em uma ação penal, sua inquirição deverá se dar em local, dia e hora que previamente ele ajustar com a autoridade judicial.",
+            "D) Para a produção de prova testemunhal em outro juízo, deve a parte requerer a expedição de carta rogatória ou precatória ao juiz, demonstrando, em ambos os casos, a imprescindibilidade da prova testemunhal na motivação do requerimento."
+        ],
+        "correctAwser": "A",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A legislação brasileira é silente no que se refere à realização de oitiva de testemunha por videoconferência, uma vez que os legisladores reconhecem a dificuldade que muitos municípios teriam em providenciar o equipamento necessário.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -9558,8 +11163,15 @@
     },
     {
         "question": "Será válida a decisão que autorizar a produção antecipada de provas fundamentada no mero decurso do tempo, quando estiverem suspensos o processo penal e a prescrição diante da ausência de citação pessoal do réu",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A interceptação das comunicações telefônicas poderá ser determinada pelo juiz a requerimento",
         "choices": [
-            "A) interceptação das comunicações telefônicas poderá ser determinada pelo juiz a requerimento",
             "A) do assistente de acusação, durante a investigação criminal.",
             "B) do ministro da Fazenda, quando da investigação de crimes contra a ordem tributária.",
             "C) da autoridade policial, durante a investigação criminal.",
@@ -9624,9 +11236,25 @@
         "id": ""
     },
     {
+        "question": "A infração bagatelar própria está ligada ao desvalor do resultado e(ou) da conduta, e é causa de exclusão da tipicidade material do fato;",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "O princípio da ofensividade ou lesividade não se presta à atividade de controle jurisdicional abstrata da norma incriminadora ou à função político-criminal da atividade legiferante.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A infração de bagatela imprópria exige o desvalor ínfimo da culpabilidade em concurso necessário com requisitos post factum que levam à desnecessidade da pena no caso concreto.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -10076,16 +11704,8 @@
         "question": "Com base nos itens referidos abaixo, analise as alternativas a seguir e marque a única correta: a) Sobre a prisão, de acordo com a interpretação do Supremo Tribunal Federal. e b) Acerca da inviolabilidade de domicílio, forma de ingresso não vedada pela atual Constituição brasileira.",
         "choices": [
             "A) 1: Ninguém será preso em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente; 2: somente de dia, em caso de desastre.",
-            "B) 1: O preso tem o expresso direito fundamental de mentir, podendo quebrar a cadeia, sem que isso signifique ilícito, porque está lutando pela liberdade; 2: dia e noite, com autorização judicial."
-        ],
-        "correctAwser": "A",
-        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "MULTIPLE_CHOICE",
-        "id": ""
-    },
-    {
-        "question": "C)) 1: As únicas duas prisões civis por dívida que se mantêm no Brasil são a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel; 2: a qualquer hora, com fundamentada autorização judicial.",
-        "choices": [
+            "B) 1: O preso tem o expresso direito fundamental de mentir, podendo quebrar a cadeia, sem que isso signifique ilícito, porque está lutando pela liberdade; 2: dia e noite, com autorização judicial.",
+            "C) 1: As únicas duas prisões civis por dívida que se mantêm no Brasil são a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel; 2: a qualquer hora, com fundamentada autorização judicial.",
             "D) 1: A única prisão civil por dívida que restou no Brasil, em face da adesão do Brasil ao Pacto de São José da Costa Rica, é a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia, tendo sido banida a do depositário infiel; 2: dia e noite, em caso de flagrante delito."
         ],
         "correctAwser": "D",
@@ -10121,8 +11741,37 @@
     },
     {
         "question": "“Anton” vivia pelas ruas da capital, sem moradia. Usuário de crack, já havia sido preso, processado e condenado várias vezes por crimes contra o patrimônio – furtos e roubos perpetrados mediante grave ameaça, segundo consta das respectivas denúncias e sentenças. Em alguns dos processos ainda não há trânsito em julgado e a Defensoria Pública tenta, no Superior Tribunal de Justiça, o reconheci mento da atipicidade material pela incidência do princípio da insignificância; noutros, a desclassificação de roubo para furto, em virtude da descaracterização da “gravidade” da ameaça. Em favor de “Anton” milita, ainda, a constatação de que nunca praticou crime com emprego de violência. Agora, “Anton” está sendo processado por novo furto, em liberdade após sua prisão provisória ter sido mantida por tempo excessivo durante a investigação. Consta do auto do flagrante que, no momento da prisão, a polícia chegou e praticamente resgatou “Anton” da ação de populares, que, revoltados com a alegada subtração do celular de uma adolescente, espancaram-no com socos e chutes aplicados por todo o corpo (o que de fato ficou constatado por laudo pericial requisitado pelo juízo da custódia), amarraram-no num poste e tatuaram em sua testa, de forma improvisada: “perdeu, mané”. Consta, também, seu relato de que, não fosse a chegada dos policiais, talvez tivesse morrido, tamanha era a fúria das pessoas que o castigaram pelo furto. Com a chegada da polícia, os responsáveis pelas agressões correram e ninguém foi identificado. Sobre a autoria do crime ou sobre a ocorrência da subtração, “Anton” se limita a dizer que “não se lembra de nada, porque apanhou muito, mas que está arrependido”. O celular supostamente subtraído, afinal, em meio à confusão, não foi localizado. O processo se encontra na fase das alegações finais e o Promotor de Justiça requereu a condenação de “Anton” por furto, aplicando-se a pena mínima, reduzida de 1/3 pela não consumação do crime. Em relação ao caso descrito, considerando a evolução teórica da “culpabilidade” no sistema funcional-teleológico de compreensão do delito, as regras legais expressas do Código Penal brasileiro, não obstante a resistência do Superior Tribunal de Justiça em admiti-la para a hipótese, seria viável desenvolver, em benefício de “Anton”, a tese defensiva de incidência do seguinte instituto:",
+        "choices": [
+            "A) Circunstância atenuante supralegal (“inominada”).",
+            "B) Atipicidade material pela coculpabilidade.",
+            "C) Medida de segurança pela actio libera in causa.",
+            "D) Isenção de pena por arrependimento posterior."
+        ],
+        "correctAwser": "A",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A Lei nº 13.964/2019, denominada “pacote anti-crime”, inovou o sistema processual penal brasileiro. Algumas Defensorias Públicas, registraram “apoio à implementação do juiz das garantias”, sob discussão no STF, por considerar a sua criação “uma iniciativa fundamental para aprimorar o funcionamento da Justiça penal no país.” Nesse contexto, considerando a entrada em vigor da referida lei, é correto afirmar que incluem-se na competência legal do Juiz de Garantias, julgar o habeas corpus impetrado durante a investigação, bem como determinar, de ofício, o trancamento do inquérito policial.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei nº 13.964/2019, denominada “pacote anti-crime”, inovou o sistema processual penal brasileiro. Algumas Defensorias Públicas, registraram “apoio à implementação do juiz das garantias”, sob discussão no STF, por considerar a sua criação “uma iniciativa fundamental para aprimorar o funcionamento da Justiça penal no país.” Nesse contexto, considerando a entrada em vigor da referida lei, é correto afirmar que incluem-se na competência legal do Juiz de Garantias, decidir sobre a homologação de acordo de não persecução penal celebrado durante a investigação ou decorrente de decisão desclassificatória.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei nº 13.964/2019, denominada “pacote anti-crime”, inovou o sistema processual penal brasileiro. Algumas Defensorias Públicas, registraram “apoio à implementação do juiz das garantias”, sob discussão no STF, por considerar a sua criação “uma iniciativa fundamental para aprimorar o funcionamento da Justiça penal no país.” Nesse contexto, considerando a entrada em vigor da referida lei, é correto afirmar que incluem-se na competência legal do Juiz de Garantias, ser informado sobre a instauração de inquérito policial ou de qualquer outro procedimento de investigação criminal, ainda que não presidida por autoridade policial.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -10137,6 +11786,14 @@
     },
     {
         "question": "O Art. 32 do Código de Processo Penal dispõe: “Nos crimes de ação privada, o juiz, a requerimento da parte que comprovar a sua pobreza, nomeará advogado para promover a ação penal”. Considerando o perfil constitucional da Defensoria Pública e as normas processuais sobre a ação penal de iniciativa privada, se o Ministério Público não intentar a ação penal pública no prazo legal, a vítima pode ajuizar ação penal privada mediante assistência jurídica da Defensoria Pública, preservando-se ao titular constitucional da ação penal pública, entretanto, as possibilidades de aditamento, repúdio ou substituição da queixa por denúncia.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Lei nº 11.340/2006, conhecida como Lei Maria da Penha, “cria mecanismos para coibir e prevenir a violência doméstica e familiar contra a mulher”, nos termos da Constituição e diplomas internacionais ratificados pelo Brasil; e “dispõe sobre a criação dos Juizados de Violência Doméstica e Familiar contra a Mulher; e estabelece medidas de assistência e proteção às mulheres em situação de violência doméstica e familiar.” Considerando a disciplina legal especial das medidas protetivas em favor das mulheres vítimas de violência doméstica e familiar, no confronto com as regras gerais das medidas cautelares do processo penal, é correto afirmar que as medidas protetivas poderão ser concedidas pelo juiz de ofício e imediatamente, ouvindo-se previamente o Ministério Público, sob pena de nulidade, quando não for possível, nos casos de urgência, a audiência da parte contrária.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -10169,6 +11826,14 @@
     },
     {
         "question": "Acerca da Lei nº 11.343/2006, é correto afirmar que ao defensor público compete acompanhar a incineração das drogas apreendidas, sem a ocorrência de prisão em flagrante, executada pelo delegado de polícia, na presença do Ministério Público e do Juiz de Direito com competência para o julgamento dos crimes previstos na “Lei de Drogas”, devendo opor-se à destruição caso não confeccionado o laudo pericial definitivo.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A “fundada suspeita” que autoriza busca pessoal para apreensão de droga ilícita é definida no exercício regular do poder de polícia administrativa (presunção de legitimidade dos atos administrativos), sendo que, havendo a efetiva apreensão da droga em poder da pessoa revistada, todas as provas daí decorrentes ficam automaticamente convalidadas, sem espaço para valoração judicial da prova ou de sua legitimidade.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -10297,6 +11962,14 @@
         "id": ""
     },
     {
+        "question": "A revogação ou modificação das medidas protetivas de urgência, demandam comprovação concreta da mudança nas circunstâncias que ensejaram a sua concessão, não sendo possível a extinção automática baseada na presunção temporal, nem mesmo em eventual extinção da punibilidade, devendo sua revogação, necessariamente, ser antecedida da oitiva da pessoa beneficiária.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Sessando os motivos que ensejaram a sua concessão, a medida protetiva de urgência de que trata a Lei Maria da Penha, deverá ser automaticamente revogada.",
         "choices": [],
         "correctAwser": "false",
@@ -10323,6 +11996,14 @@
     {
         "question": "As medidas protetivas de urgência previstas na Lei Maria da Penha, vigorarão enquanto persistir o risco à integridade física, psicológica, sexual, patrimonial ou moral da ofendida ou de seus dependentes.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A medida protetiva de urgência com previsão expressa na Lei Maria da Penha (Lei nº 11.340/2006), será revogada imediatamente após a extinção da punibilidade do agressor.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -10330,6 +12011,14 @@
     },
     {
         "question": "As decisões acerca das jurisprudências do STJ, veiculadas nos informativos daquele tribunal, são por unanimidade e não por maioria.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A decisão de turma, no Supremo Tribunal Federal - STF e no Superior Tribunal de Justiça – STJ, será tomada pelo voto da maioria simples de seus membros.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -10354,8 +12043,21 @@
     },
     {
         "question": "Eliezer, caminhoneiro, chegou de viagem e por motivos não conhecidos por Edileuza (sua esposa), a agrediu na frente dos filhos menores de 5 e 8 anos. Em razão das agressões, Eliezer foi condenado e passou a cumprir a pena na mesma cidade onde residia antes da prisão. Revoltado com a condenação, Eliezer conseguiu ligar de dentro da penitenciária para Edileuza ameaçando-a. Os fatos chegaram ao conhecimento do juiz das execuções. Nesse contexto, e com base na Lei 14.994/2024, é correto afirmar que Eliezer, poderá:",
-        "choices": [],
+        "choices": [
+            "A) Ter a pena aumentada de 1/3 em razão das ameaças;",
+            "B) Ser posto no castigo, durante 30 dias, em razão das ameaças;",
+            "C) Ser transferido para estabelecimento penal distante do local de residência da vítima, ainda que em outro estado da federação;",
+            "D) Não sofrerá consequências em razão das ameaças, afinal de contas, o crime de ameaça é de ação penal pública condicionada à representação da vítima, e esta não manifestou formalmente o interesse em prosseguir com a ação contra Eliezer."
+        ],
         "correctAwser": "C",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A fixação da competência da Justiça Federal para julgamento do crime de racismo mediante divulgação de conteúdo em rede social exige a demonstração da natureza aberta do perfil que realizou a postagem, a fim de possibilitar a verificação da potencialidade de atingimento de pessoas para além do território nacional.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -10459,7 +12161,7 @@
         "id": ""
     },
     {
-        "question": "A Lei nº 8.069/1990 — ECA prevê medidas aplicáveis às entidades de atendimento que descumprirem obrigação de aplicação e prestação de contas. Frente ao exposto, assinalar a alternativa CORRETA:",
+        "question": "38) A Lei nº 8.069/1990 — ECA prevê medidas aplicáveis às entidades de atendimento que descumprirem obrigação de aplicação e prestação de contas. \nFrente ao exposto, assinalar a alternativa CORRETA:",
         "choices": [
             "A) As entidades governamentais e não governamentais serão fiscalizadas pelo judiciário, pelo Ministério Público e pelos Conselhos Tutelares.",
             "B) Os planos de aplicação de contas serão apresentados via balanço patrimonial e SPED ao Município, conforme a origem das adoções orçamentárias.",
@@ -10521,62 +12223,6 @@
         "correctAwser": "A",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "MULTIPLE_CHOICE",
-        "id": ""
-    },
-    {
-        "question": "De acordo com o Código Penal, é INCORRETO afirmar que considera-se em estrito cumprimento de dever legal o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém durante a prática de crimes.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O erro quanto à pessoa contra a qual o crime é praticado não isenta de pena o criminoso.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "É correto afirmar que o erro sobre a ilicitude do fato, se inevitável, isenta de pena, enquanto que, o erro sobre elemento constitutivo do tipo legal de crime, exclui o dolo.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "No tema “crimes contra a Administração Pública”, é INCORRETO afirmar que considera-se funcionário público, para os efeitos penais, quem, embora transitoriamente ou sem remuneração, exerce cargo, emprego ou função pública.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "Dar às verbas ou rendas públicas aplicação diversa da estabelecida em lei é crime contra a Administração Pública.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "É correto afirmar que na corrupção passiva, o sujeito ativo pode ser qualquer pessoa, independentemente de condição ou qualidade especial.",
-        "choices": [],
-        "correctAwser": "false",
-        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "TRUE_FALSE",
-        "id": ""
-    },
-    {
-        "question": "O peculato é crime material e próprio, admitindo-se sua forma culposa.",
-        "choices": [],
-        "correctAwser": "true",
-        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
-        "type": "TRUE_FALSE",
         "id": ""
     },
     {
@@ -10693,6 +12339,22 @@
         "id": ""
     },
     {
+        "question": "A despenalização informal pode resultar de ato administrativo, enquanto a despenalização formal pode decorrer da substituição da pena criminal por uma sanção de outra ordem jurídica.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria do domínio do fato revela um conceito indeterminado ou fixo e admite como elementos o método descritivo e a integração do regulativo.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Os crimes de mão própria não admitem coautoria e nem autoria mediata, uma vez que o seu conteúdo de injusto reside precisamente na pessoal e indeclinável realização da atividade proibida.",
         "choices": [],
         "correctAwser": "true",
@@ -10709,7 +12371,39 @@
         "id": ""
     },
     {
+        "question": "A mera incerteza atinente à possibilidade de degradação ambiental ocasionada por um empreendimento ou nova tecnologia, deve ser interpretada em favor do meio ambiente em homenagem ao princípio da precaução, cujos contornos foram definidos na Conferência da Terra (ECO 92).",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A assertiva de que ninguém pode ser punido pelo que pensa ou pelo modo de viver reflete o princípio da exteriorização do fato em direito penal.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Na hipótese de estupro de pessoa maior de idade e que não seja vulnerável, mas com violência de que resulte lesão corporal grave, haverá litisconsórcio facultativo entre o Ministério Público e o ofendido.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A derrogação é a revogação total da lei por enunciação expressa ou tácita da nova lei ao regular o mesmo fato.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A caracterização do delito de falsidade ideológica se contenta com a potencialidade de dano e imitação da verdade.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -10735,6 +12429,54 @@
     {
         "question": "O princípio da intervenção mínima se vincula mais ao legislador objetivando reduzir o número das normas incriminadoras, enquanto o princípio da insignificância se dirige ao Juiz do caso concreto quando o dano ou perigo de dano são irrisórios.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A conciliação e a transação instituídos pela Constituição Federal vigente caracterizam hipóteses de desjudiciarização de infrações penais de menor potencial lesivo.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A Política Criminal é a sabedoria legislativa do Estado na luta contra as infrações penais tendo em conta a transformação da realidade social e humana.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A atipicidade conglobante aflora em função de permissões que a ordem jurídica regularmente estabelece.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A tipicidade penal como elemento essencial do delito não se satisfaz com a tipicidade legal, ou seja, a simples adequação da conduta a uma norma incriminadora.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A tipicidade penal exige a adequação da conduta a uma norma incriminadora, bem assim, a violação de um imperativo de comando ou de proibição. Esse contexto resulta na denominada tipicidade conglobante.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A teoria puramente normativa satisfaz as exigências jurídicas e éticas para justificar a omissão penalmente relevante.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -10759,6 +12501,14 @@
     {
         "question": "O indulto parcial também conhecido como comutação de pena não representa a extinção da punibilidade, e serve apenas para a diminuição da pena a ser cumprida.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A anistia concedida antes ou depois da condenação extingue todos os efeitos penais, à exceção da reincidência, mas subsiste a obrigação de indenizar.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -10782,6 +12532,14 @@
     },
     {
         "question": "Na configuração dos crimes de resultado basta o desvalor do ato para a ofensa ao bem jurídico.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A medida de segurança, a exemplo da pena, tem o caráter retributivo e sua finalidade principal é promover a recuperação do doente ou perturbado mental.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -10940,6 +12698,22 @@
         "id": ""
     },
     {
+        "question": "A substituição da prisão preventiva pela prisão domiciliar de quem é pai está condicionada, nos termos da Lei, a ser ele o único responsável pelos cuidados de filho de até 12 anos de idade incompletos, e, no caso da mulher, o único requisito é que seja mãe de filhos da mesma idade, até 12 (doze) anos incompletos, ainda que não seja ela a única responsável pelos cuidados dos filhos.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A lei prevê, expressamente, a possibilidade de substituição da prisão preventiva pela prisão domiciliar quando a medida for imprescindível para os cuidados especiais de pessoas menores de 06 (seis) anos ou com deficiência. Nesse caso, exige-se relação de parentesco de primeiro grau entre o acusado ou indiciado e a criança ou deficiente, além da relação de dependência imediata e direta.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Há hipótese legal, no ordenamento legislativo pátrio, de substituição de prisão preventiva pela prisão domiciliar para gestante a partir do 7º (sétimo) mês de gestação ou em caso de gravidez conturbada.",
         "choices": [],
         "correctAwser": "false",
@@ -10970,8 +12744,21 @@
     },
     {
         "question": "Trata-se de espécie de nulidade relativa, no âmbito do processo penal:",
-        "choices": [],
+        "choices": [
+            "A) Infringência à regra referente à fixação da competência pela prevenção.",
+            "B) Ausência da forma legal dos atos processuais.",
+            "C) A não intimação das testemunhas arroladas para serem ouvidas em plenário do Tribunal do Júri.",
+            "D) Todas as assertivas acima estão corretas"
+        ],
         "correctAwser": "D",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A ausência da forma legal dos atos processuais é espécie de nulidade relativa no âmbito do processo penal.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -11044,8 +12831,15 @@
     },
     {
         "question": "Na apuração das infrações de menor potencial ofensivo, não se admitirá nenhuma espécie de citação ficta.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito dos recursos no processo penal, assinale a propositura correta:",
         "choices": [
-            "A) respeito dos recursos no processo penal, assinale a propositura correta:",
             "A) Apesar do princípio da complementariedade, não é permitido ao recorrente complementar a fundamentação de seu recurso quando houver complementação da decisão recorrida.",
             "B) Cabe recurso de embargos infringentes quando, em segundo grau, a decisão desfavorável ao réu, por maioria, reformar a de primeiro grau que lhe era favorável.",
             "C) Cabe recurso em sentido estrito das decisões definitivas de absolvição proferidas pelo juiz singular.",
@@ -11060,6 +12854,14 @@
         "question": "No que tange aos recursos no processo penal, no caso de morte do ofendido, o cônjuge somente poderá interpor recurso de apelação da sentença que absolveu o réu, na ausência de recurso por parte do Ministério Público, se previamente tiver se habilitado como assistente de acusação.",
         "choices": [],
         "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A participação de membro do Ministério Público na fase investigatória criminal não acarreta o seu impedimento ou suspeição para o oferecimento da denúncia.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -11081,7 +12883,23 @@
         "id": ""
     },
     {
+        "question": "A majorante do tráfico transnacional de drogas configura-se com a efetiva transposição de fronteiras entre dois ou mais países.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Para a incidência da majorante da interestadualidade, é desnecessária a efetiva transposição de fronteiras entre estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual de drogas.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A prática de crime mediante grave ameaça contra a mulher no ambiente doméstico impede a substituição da pena privativa de liberdade por restritiva de direitos, independentemente da condição de primariedade do réu.",
         "choices": [],
         "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -11106,6 +12924,14 @@
     },
     {
         "question": "Aplica-se à lesão corporal culposa a transação penal, exceto se o agente estiver sob a influência de álcool ou outra substância psicoativa que determine dependência.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A remoção do veículo por seu condutor imediatamente após a ocorrência de acidente automobilístico configura o crime de fraude processual.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -11148,8 +12974,15 @@
     },
     {
         "question": "Nos casos de crimes conexos, a extinção da punibilidade de um crime impede, em relação ao(s) outro(s), a agravação da pena resultante da conexão.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito de crimes contra a dignidade sexual, assinale a opção correta.",
         "choices": [
-            "A) respeito de crimes contra a dignidade sexual, assinale a opção correta.",
             "A) Para a configuração do crime de estupro de vulnerável, é relevante, na avaliação da atipicidade da conduta, averiguar a existência de relacionamento amoroso entre a vítima e o agente.",
             "B) O STJ pacificou o entendimento de que, com o advento do Estatuto da Pessoa com Deficiência, eventual consentimento da vítima afasta a tipicidade do estupro de vulnerável.",
             "C) Em regra, o crime de importunação sexual pode ter como agente passivo pessoa vulnerável, dados a especificidade da conduta e seu caráter de crime não subsidiário.",
@@ -11340,8 +13173,21 @@
     },
     {
         "question": "De acordo com o ECA, considera-se uma forma de tratamento cruel ou degradante",
-        "choices": [],
+        "choices": [
+            "A) a lesão.",
+            "B) a humilhação.",
+            "C) o sofrimento físico.",
+            "D) o castigo."
+        ],
         "correctAwser": "B",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da colocação de criança ou adolescente em família substituta, pode ser padrinho ou madrinha pessoa maior de dezoito anos não inscrita nos cadastros de adoção, desde que cumpra os requisitos do programa de apadrinhamento de que faz parte.",
+        "choices": [],
+        "correctAwser": "true",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
         "id": ""
@@ -11501,13 +13347,26 @@
             "C) Os conceitos de ilicitude e injusto não se distinguem uma vez que ambos não dispensam contrariedade ao ordenamento jurídico.",
             "D) As alternativas “a”e “b” estão corretas."
         ],
-        "correctAwser": "A",
+        "correctAwser": "",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "MULTIPLE_CHOICE",
         "id": ""
     },
     {
         "question": "De acordo com as disposições do Código de Processo Penal (Decreto-Lei nº 3.689/1941) e suas alterações, assinale a alternativa correta.",
+        "choices": [
+            "A) A revisão criminal deverá ser requerida antes da extinção da pena",
+            "B) Não será admissível a reiteração do pedido de revisão criminal, mesmo que fundado em novas provas",
+            "C) A revisão criminal será admitida quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos",
+            "D) A revisão criminal deverá ser requerida apenas por procurador legalmente habilitado."
+        ],
+        "correctAwser": "C",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "MULTIPLE_CHOICE",
+        "id": ""
+    },
+    {
+        "question": "A remarcação do chassi com o mesmo número original do veículo caracteriza crime contra a fé pública e infração administrativa de trânsito.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -11531,6 +13390,14 @@
         "id": ""
     },
     {
+        "question": "A adulteração grosseira do chassi do veículo não caracteriza crime impossível.",
+        "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
         "question": "Durante uma abordagem em via pública, tendo suspeitado do comportamento de determinado condutor e constatado rasura na carteira nacional de habilitação (CNH) por ele apresentada, o policial rodoviário, após efetuar busca no veículo e apreender mercadoria proibida, deu-lhe voz de prisão, em razão da prática de crime de ação penal pública. Nessa situação, a busca e a apreensão no veículo foram ilícitas, já que o policial as realizou sem autorização judicial.",
         "choices": [],
         "correctAwser": "false",
@@ -11541,6 +13408,14 @@
     {
         "question": "Policial aborda motorista, faz busca no veículo, e tendo encontrado mercadoria proibida dá voz de prisão ao motorista. Essa situação caracteriza flagrante próprio e, em até vinte e quatro horas após a realização da prisão, deverá ser entregue a nota de culpa ao preso.",
         "choices": [],
+        "correctAwser": "true",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A identificação criminal do condutor preso em abordagem policial, não poderá ser feita, uma vez que ele foi identificado civilmente pela CNH.",
+        "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
         "type": "TRUE_FALSE",
@@ -11548,6 +13423,14 @@
     },
     {
         "question": "O policial que prende em flagrante motorista de veículo que levava consigo mercadoria proibida, poderá ser arrolado como testemunha, caso em que seu depoimento terá valor probatório superior ao do interrogatório do condutor.",
+        "choices": [],
+        "correctAwser": "false",
+        "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
+        "type": "TRUE_FALSE",
+        "id": ""
+    },
+    {
+        "question": "A respeito da identificação criminal, do crime de tortura, do abuso de direito, da prevenção do uso indevido de drogas, da comercialização de armas de fogo e dos crimes hediondos, caso três pessoas associadas, com divisão de tarefas, subtraiam substância explosiva, estará configurado crime hediondo.",
         "choices": [],
         "correctAwser": "false",
         "categoryId": "29b726c5-717d-42fc-8162-b981b2940f38",
@@ -11644,7 +13527,6 @@
         "type": "MULTIPLE_CHOICE",
         "id": ""
     },
-  
     {
         "question": "Lúcio funcionário público, negligentemente, esquece a janela da secretaria onde trabalha aberta. Mauro, seu colega de trabalho, aproveita-se para subtrair equipamentos da referida secretaria. Assim, pode-se concluir que:",
         "choices": [
