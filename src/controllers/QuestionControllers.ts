@@ -40,7 +40,6 @@ export const questionController = {
       quantity?: string;
       categoryId?: string;
     };
-    
     const questions = await questionService.getAllQuestions(
       Number(quantity),
       categoryId

@@ -57,12 +57,11 @@ app.setValidatorCompiler(validatorCompiler);
 app.setSerializerCompiler(serializerCompiler);
 
 async function checkAndSeed() {
-  // const userCount = await prisma.user.count();
+  const userCount = await prisma.user.count();
   // if (userCount === 0) {
   //   console.log("Seeding database...");
   //   await import("./seed");
   // }
-  // await import("./seed");
 }
 
 app.setErrorHandler(errorHandler);
