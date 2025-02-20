@@ -30,73 +30,68 @@ async function main() {
   const tribData = JSON.parse(fs.readFileSync(tribPath, "utf-8"));
   const admData = JSON.parse(fs.readFileSync(admPath, "utf-8"));
 
-  // Inserção das categorias
-  // for (const category of categoriesData) {
-  //   await prisma.category.upsert({
-  //     where: { id: category.id },
-  //     update: {},
-  //     create: category,
-  //   });
-  // }
+  for (const category of categoriesData) {
+    await prisma.category.upsert({
+      where: { id: category.id },
+      update: {},
+      create: category,
+    });
+  }
 
-  // Inserção das questões
-  // for (const question of penalData) {
-  //   await prisma.questions.upsert({
-  //     where: { id: question.id },
-  //     update: {},
-  //     create: {
-  //       correctAwser: question.correctAwser,
-  //       question: question.question,
-  //       categoryId: question.categoryId,
-  //       choices: question.choices,
-  //       type: question.type,
-  //     },
-  //   });
-  // }
-  // for (const question of civildata) {
-  //   await prisma.questions.upsert({
-  //     where: { id: question.id },
-  //     update: {},
-  //     create: {
-  //       correctAwser: question.correctAwser,
-  //       question: question.question,
-  //       categoryId: question.categoryId,
-  //       choices: question.choices,
-  //       type: question.type,
-  //     },
-  //   });
-  // }
+  for (const question of penalData) {
+    await prisma.questions.upsert({
+      where: { id: question.id },
+      update: {},
+      create: {
+        correctAwser: question.correctAwser,
+        question: question.question,
+        categoryId: question.categoryId,
+        choices: question.choices,
+        type: question.type,
+      },
+    });
+  }
+  for (const question of civildata) {
+    await prisma.questions.upsert({
+      where: { id: question.id },
+      update: {},
+      create: {
+        correctAwser: question.correctAwser,
+        question: question.question,
+        categoryId: question.categoryId,
+        choices: question.choices,
+        type: question.type,
+      },
+    });
+  }
 
-  // await prisma.questions.deleteMany({
-  //   where: { categoryId:  "2b46ac61-4bb8-48b1-a9ce-0f081bfedfe3"},
-  // });
 
-  // for (const question of constdata) {
-  //   await prisma.questions.upsert({
-  //     where: { id: question.id },
-  //     update: {},
-  //     create: {
-  //       correctAwser: question.correctAwser,
-  //       question: question.question,
-  //       categoryId: question.categoryId,
-  //       choices: question.choices,
-  //       type: question.type,
-  //     },
-  //   });
-  // }
-  // for (const question of constdata) {
-  //   await prisma.questions.upsert({
-  //     where: { id: question.id },
-  //     update: {},
-  //     create: {
-  //       correctAwser: question.correctAwser,
-  //       question: question.question,
-  //       categoryId: question.categoryId,
-  //       choices: question.choices,
-  //       type: question.type,
-  //     },
-  //   });
-  // }
+  for (const question of constdata) {
+    await prisma.questions.upsert({
+      where: { id: question.id },
+      update: {},
+      create: {
+        correctAwser: question.correctAwser,
+        question: question.question,
+        categoryId: question.categoryId,
+        choices: question.choices,
+        type: question.type,
+      },
+    });
+  }
+  for (const question of constdata) {
+    await prisma.questions.upsert({
+      where: { id: question.id },
+      update: {},
+      create: {
+        correctAwser: question.correctAwser,
+        question: question.question,
+        categoryId: question.categoryId,
+        choices: question.choices,
+        type: question.type,
+      },
+    });
+  }
   for (const question of trabData) {
     await prisma.questions.upsert({
       where: { id: question.id },

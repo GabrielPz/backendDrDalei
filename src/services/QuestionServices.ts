@@ -66,6 +66,14 @@ export const questionService = {
     });
   },
 
+  async deleteQuestionsWithEmptyCorrectAnswer(): Promise<{ count: number }> {
+    return prisma.questions.deleteMany({
+      where: {
+        question: "",
+      },
+    });
+  },
+
   async deleteQuestion(id: string): Promise<Questions> {
     return prisma.questions.delete({
       where: { id },

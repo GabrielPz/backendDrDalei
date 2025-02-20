@@ -35,7 +35,6 @@ export async function movieRoutes(app: FastifyInstance) {
         response: {
           200: questionSchema.extend({
             id: z.string().uuid(),
-            rentedByCurrentUser: z.boolean(),
           }),
           404: z.object({ message: z.string() }),
         },
